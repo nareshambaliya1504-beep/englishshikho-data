@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Ask",
+    "v2": "Asked",
+    "v3": "Asked",
+    "gujarati": "પૂછવું"
+  },
+  {
+    "v1": "Accept",
+    "v2": "Accepted",
+    "v3": "Accepted",
+    "gujarati": "સ્વીકારવું"
+  },
+  {
+    "v1": "Add",
+    "v2": "Added",
+    "v3": "Added",
+    "gujarati": "ઉમેરવું"
+  },
+  {
+    "v1": "Answer",
+    "v2": "Answered",
+    "v3": "Answered",
+    "gujarati": "જવાબ આપવો"
+  },
+  {
+    "v1": "Arrive",
+    "v2": "Arrived",
+    "v3": "Arrived",
+    "gujarati": "પહોંચવું"
+  }
+]
