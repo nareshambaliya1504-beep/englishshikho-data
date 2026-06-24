@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Question",
+    "v2": "Questioned",
+    "v3": "Questioned",
+    "gujarati": "પ્રશ્ન પૂછવો"
+  },
+  {
+    "v1": "Quit",
+    "v2": "Quit",
+    "v3": "Quit",
+    "gujarati": "છોડી દેવું"
+  },
+  {
+    "v1": "Quote",
+    "v2": "Quoted",
+    "v3": "Quoted",
+    "gujarati": "ઉદ્ધરણ આપવું"
+  },
+  {
+    "v1": "Queue",
+    "v2": "Queued",
+    "v3": "Queued",
+    "gujarati": "લાઈનમાં ઊભા રહેવું"
+  },
+  {
+    "v1": "Qualify",
+    "v2": "Qualified",
+    "v3": "Qualified",
+    "gujarati": "લાયક ઠરવું"
+  }
+]

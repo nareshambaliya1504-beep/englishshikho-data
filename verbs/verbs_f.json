@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Find",
+    "v2": "Found",
+    "v3": "Found",
+    "gujarati": "શોધવું"
+  },
+  {
+    "v1": "Fly",
+    "v2": "Flew",
+    "v3": "Flown",
+    "gujarati": "ઉડવું"
+  },
+  {
+    "v1": "Forget",
+    "v2": "Forgot",
+    "v3": "Forgotten",
+    "gujarati": "ભૂલી જવું"
+  },
+  {
+    "v1": "Fight",
+    "v2": "Fought",
+    "v3": "Fought",
+    "gujarati": "લડવું"
+  },
+  {
+    "v1": "Feel",
+    "v2": "Felt",
+    "v3": "Felt",
+    "gujarati": "અનુભવવું"
+  }
+]

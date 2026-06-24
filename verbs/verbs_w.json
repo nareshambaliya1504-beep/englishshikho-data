@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Walk",
+    "v2": "Walked",
+    "v3": "Walked",
+    "gujarati": "ચાલવું"
+  },
+  {
+    "v1": "Write",
+    "v2": "Wrote",
+    "v3": "Written",
+    "gujarati": "લખવું"
+  },
+  {
+    "v1": "Win",
+    "v2": "Won",
+    "v3": "Won",
+    "gujarati": "જીતવું"
+  },
+  {
+    "v1": "Wait",
+    "v2": "Waited",
+    "v3": "Waited",
+    "gujarati": "રાહ જોવી"
+  },
+  {
+    "v1": "Wash",
+    "v2": "Washed",
+    "v3": "Washed",
+    "gujarati": "ધોવું"
+  }
+]

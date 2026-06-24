@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "See",
+    "v2": "Saw",
+    "v3": "Seen",
+    "gujarati": "જોવું"
+  },
+  {
+    "v1": "Speak",
+    "v2": "Spoke",
+    "v3": "Spoken",
+    "gujarati": "બોલવું"
+  },
+  {
+    "v1": "Sleep",
+    "v2": "Slept",
+    "v3": "Slept",
+    "gujarati": "ઊંઘવું"
+  },
+  {
+    "v1": "Sit",
+    "v2": "Sat",
+    "v3": "Sat",
+    "gujarati": "બેસવું"
+  },
+  {
+    "v1": "Swim",
+    "v2": "Swam",
+    "v3": "Swum",
+    "gujarati": "તરવું"
+  }
+]

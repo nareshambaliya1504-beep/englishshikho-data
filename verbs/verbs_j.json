@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Join",
+    "v2": "Joined",
+    "v3": "Joined",
+    "gujarati": "જોડાવું"
+  },
+  {
+    "v1": "Jump",
+    "v2": "Jumped",
+    "v3": "Jumped",
+    "gujarati": "કૂદવું"
+  },
+  {
+    "v1": "Joke",
+    "v2": "Joked",
+    "v3": "Joked",
+    "gujarati": "મજાક કરવી"
+  },
+  {
+    "v1": "Judge",
+    "v2": "Judged",
+    "v3": "Judged",
+    "gujarati": "નિર્ણય કરવો"
+  },
+  {
+    "v1": "Jog",
+    "v2": "Jogged",
+    "v3": "Jogged",
+    "gujarati": "ધીમે દોડવું"
+  }
+]

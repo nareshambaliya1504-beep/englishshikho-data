@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Take",
+    "v2": "Took",
+    "v3": "Taken",
+    "gujarati": "લેવું"
+  },
+  {
+    "v1": "Talk",
+    "v2": "Talked",
+    "v3": "Talked",
+    "gujarati": "વાત કરવી"
+  },
+  {
+    "v1": "Teach",
+    "v2": "Taught",
+    "v3": "Taught",
+    "gujarati": "શીખવવું"
+  },
+  {
+    "v1": "Think",
+    "v2": "Thought",
+    "v3": "Thought",
+    "gujarati": "વિચારવું"
+  },
+  {
+    "v1": "Try",
+    "v2": "Tried",
+    "v3": "Tried",
+    "gujarati": "પ્રયત્ન કરવો"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Understand",
+    "v2": "Understood",
+    "v3": "Understood",
+    "gujarati": "સમજવું"
+  },
+  {
+    "v1": "Use",
+    "v2": "Used",
+    "v3": "Used",
+    "gujarati": "ઉપયોગ કરવો"
+  },
+  {
+    "v1": "Unite",
+    "v2": "United",
+    "v3": "United",
+    "gujarati": "એક કરવું"
+  },
+  {
+    "v1": "Update",
+    "v2": "Updated",
+    "v3": "Updated",
+    "gujarati": "અપડેટ કરવું"
+  },
+  {
+    "v1": "Undo",
+    "v2": "Undid",
+    "v3": "Undone",
+    "gujarati": "રદ કરવું"
+  }
+]

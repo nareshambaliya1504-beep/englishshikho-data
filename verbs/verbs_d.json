@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Do",
+    "v2": "Did",
+    "v3": "Done",
+    "gujarati": "કરવું"
+  },
+  {
+    "v1": "Drink",
+    "v2": "Drank",
+    "v3": "Drunk",
+    "gujarati": "પીવું"
+  },
+  {
+    "v1": "Drive",
+    "v2": "Drove",
+    "v3": "Driven",
+    "gujarati": "હંકારવું"
+  },
+  {
+    "v1": "Dance",
+    "v2": "Danced",
+    "v3": "Danced",
+    "gujarati": "નૃત્ય કરવું"
+  },
+  {
+    "v1": "Draw",
+    "v2": "Drew",
+    "v3": "Drawn",
+    "gujarati": "ચિત્ર દોરવું"
+  }
+]

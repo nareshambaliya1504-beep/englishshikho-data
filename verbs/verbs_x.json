@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "X-ray",
+    "v2": "X-rayed",
+    "v3": "X-rayed",
+    "gujarati": "એક્સ-રે કરવું"
+  },
+  {
+    "v1": "Xerox",
+    "v2": "Xeroxed",
+    "v3": "Xeroxed",
+    "gujarati": "ઝેરોક્સ કરવું"
+  },
+  {
+    "v1": "X-out",
+    "v2": "X-ed out",
+    "v3": "X-ed out",
+    "gujarati": "કાઢી નાખવું"
+  },
+  {
+    "v1": "Xeriscape",
+    "v2": "Xeriscaped",
+    "v3": "Xeriscaped",
+    "gujarati": "ઓછા પાણીથી બગીચો બનાવવો"
+  },
+  {
+    "v1": "X-ray Scan",
+    "v2": "X-rayed",
+    "v3": "X-rayed",
+    "gujarati": "એક્સ-રે સ્કેન કરવું"
+  }
+]

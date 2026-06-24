@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Call",
+    "v2": "Called",
+    "v3": "Called",
+    "gujarati": "બુલાવવું"
+  },
+  {
+    "v1": "Come",
+    "v2": "Came",
+    "v3": "Come",
+    "gujarati": "આવવું"
+  },
+  {
+    "v1": "Catch",
+    "v2": "Caught",
+    "v3": "Caught",
+    "gujarati": "પકડવું"
+  },
+  {
+    "v1": "Cook",
+    "v2": "Cooked",
+    "v3": "Cooked",
+    "gujarati": "રસોઈ કરવી"
+  },
+  {
+    "v1": "Choose",
+    "v2": "Chose",
+    "v3": "Chosen",
+    "gujarati": "પસંદ કરવું"
+  }
+]

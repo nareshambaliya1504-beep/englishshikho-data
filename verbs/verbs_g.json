@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Go",
+    "v2": "Went",
+    "v3": "Gone",
+    "gujarati": "જવું"
+  },
+  {
+    "v1": "Give",
+    "v2": "Gave",
+    "v3": "Given",
+    "gujarati": "આપવું"
+  },
+  {
+    "v1": "Get",
+    "v2": "Got",
+    "v3": "Got",
+    "gujarati": "મેળવવું"
+  },
+  {
+    "v1": "Grow",
+    "v2": "Grew",
+    "v3": "Grown",
+    "gujarati": "વધવું"
+  },
+  {
+    "v1": "Guess",
+    "v2": "Guessed",
+    "v3": "Guessed",
+    "gujarati": "અંદાજ લગાવવો"
+  }
+]

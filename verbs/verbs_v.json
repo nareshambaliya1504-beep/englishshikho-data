@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Visit",
+    "v2": "Visited",
+    "v3": "Visited",
+    "gujarati": "મુલાકાત લેવી"
+  },
+  {
+    "v1": "Vote",
+    "v2": "Voted",
+    "v3": "Voted",
+    "gujarati": "મત આપવો"
+  },
+  {
+    "v1": "Value",
+    "v2": "Valued",
+    "v3": "Valued",
+    "gujarati": "મૂલ્ય આપવું"
+  },
+  {
+    "v1": "Verify",
+    "v2": "Verified",
+    "v3": "Verified",
+    "gujarati": "ચકાસવું"
+  },
+  {
+    "v1": "Vary",
+    "v2": "Varied",
+    "v3": "Varied",
+    "gujarati": "બદલાવવું"
+  }
+]

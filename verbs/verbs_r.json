@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Run",
+    "v2": "Ran",
+    "v3": "Run",
+    "gujarati": "દોડવું"
+  },
+  {
+    "v1": "Read",
+    "v2": "Read",
+    "v3": "Read",
+    "gujarati": "વાંચવું"
+  },
+  {
+    "v1": "Ride",
+    "v2": "Rode",
+    "v3": "Ridden",
+    "gujarati": "સવારી કરવી"
+  },
+  {
+    "v1": "Remember",
+    "v2": "Remembered",
+    "v3": "Remembered",
+    "gujarati": "યાદ રાખવું"
+  },
+  {
+    "v1": "Return",
+    "v2": "Returned",
+    "v3": "Returned",
+    "gujarati": "પરત આવવું"
+  }
+]

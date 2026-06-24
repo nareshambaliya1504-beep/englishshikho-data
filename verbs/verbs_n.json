@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Need",
+    "v2": "Needed",
+    "v3": "Needed",
+    "gujarati": "જરૂર હોવી"
+  },
+  {
+    "v1": "Notice",
+    "v2": "Noticed",
+    "v3": "Noticed",
+    "gujarati": "નોંધ લેવી"
+  },
+  {
+    "v1": "Name",
+    "v2": "Named",
+    "v3": "Named",
+    "gujarati": "નામ આપવું"
+  },
+  {
+    "v1": "Nod",
+    "v2": "Nodded",
+    "v3": "Nodded",
+    "gujarati": "માથું હલાવવું"
+  },
+  {
+    "v1": "Neglect",
+    "v2": "Neglected",
+    "v3": "Neglected",
+    "gujarati": "ઉપેક્ષા કરવી"
+  }
+]

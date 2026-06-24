@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Eat",
+    "v2": "Ate",
+    "v3": "Eaten",
+    "gujarati": "ખાવું"
+  },
+  {
+    "v1": "Enjoy",
+    "v2": "Enjoyed",
+    "v3": "Enjoyed",
+    "gujarati": "આનંદ લેવો"
+  },
+  {
+    "v1": "Enter",
+    "v2": "Entered",
+    "v3": "Entered",
+    "gujarati": "પ્રવેશ કરવો"
+  },
+  {
+    "v1": "Explain",
+    "v2": "Explained",
+    "v3": "Explained",
+    "gujarati": "સમજાવવું"
+  },
+  {
+    "v1": "End",
+    "v2": "Ended",
+    "v3": "Ended",
+    "gujarati": "સમાપ્ત કરવું"
+  }
+]

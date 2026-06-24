@@ -1,0 +1,32 @@
+[
+  {
+    "v1": "Play",
+    "v2": "Played",
+    "v3": "Played",
+    "gujarati": "રમવું"
+  },
+  {
+    "v1": "Put",
+    "v2": "Put",
+    "v3": "Put",
+    "gujarati": "મૂકવું"
+  },
+  {
+    "v1": "Pay",
+    "v2": "Paid",
+    "v3": "Paid",
+    "gujarati": "ચૂકવણી કરવી"
+  },
+  {
+    "v1": "Push",
+    "v2": "Pushed",
+    "v3": "Pushed",
+    "gujarati": "ધક્કો મારવો"
+  },
+  {
+    "v1": "Pull",
+    "v2": "Pulled",
+    "v3": "Pulled",
+    "gujarati": "ખેંચવું"
+  }
+]
