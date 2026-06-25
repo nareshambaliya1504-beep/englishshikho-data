@@ -1,62 +1,802 @@
 [
   {
-    "english": "What are you doing?",
-    "gujarati": "તમે શું કરી રહ્યા છો?"
+    "english": "How are you",
+    "gujarati": "તમે કેમ છો"
   },
   {
-    "english": "I am studying.",
-    "gujarati": "હું અભ્યાસ કરી રહ્યો છું."
+    "english": "I am fine",
+    "gujarati": "હું મજામાં છું"
   },
   {
-    "english": "Where are you going?",
-    "gujarati": "તમે ક્યાં જઈ રહ્યા છો?"
+    "english": "What is your name",
+    "gujarati": "તમારું નામ શું છે"
   },
   {
-    "english": "I am going home.",
-    "gujarati": "હું ઘરે જઈ રહ્યો છું."
+    "english": "My name is Rahul",
+    "gujarati": "મારું નામ રાહુલ છે"
   },
   {
-    "english": "What happened?",
-    "gujarati": "શું થયું?"
+    "english": "Nice to meet you",
+    "gujarati": "તમને મળીને આનંદ થયો"
   },
   {
-    "english": "Nothing happened.",
-    "gujarati": "કંઈ થયું નથી."
+    "english": "Where do you live",
+    "gujarati": "તમે ક્યાં રહો છો"
   },
   {
-    "english": "I don't know.",
-    "gujarati": "મને ખબર નથી."
+    "english": "I live in Rajkot",
+    "gujarati": "હું રાજકોટમાં રહું છું"
   },
   {
-    "english": "Please help me.",
-    "gujarati": "કૃપા કરીને મારી મદદ કરો."
+    "english": "What are you doing",
+    "gujarati": "તમે શું કરી રહ્યા છો"
   },
   {
-    "english": "I understand.",
-    "gujarati": "હું સમજી ગયો."
+    "english": "I am reading a book",
+    "gujarati": "હું પુસ્તક વાંચી રહ્યો છું"
   },
   {
-    "english": "That's great.",
-    "gujarati": "એ ખૂબ સરસ છે."
+    "english": "Are you busy",
+    "gujarati": "શું તમે વ્યસ્ત છો"
   },
   {
-    "english": "Don't worry.",
-    "gujarati": "ચિંતા ન કરો."
+    "english": "I am a little busy",
+    "gujarati": "હું થોડો વ્યસ્ત છું"
   },
   {
-    "english": "Take care.",
-    "gujarati": "ધ્યાન રાખજો."
+    "english": "Can you help me",
+    "gujarati": "શું તમે મારી મદદ કરી શકો છો"
   },
   {
-    "english": "Come here.",
-    "gujarati": "અહીં આવો."
+    "english": "Of course I can help",
+    "gujarati": "અવશ્ય હું મદદ કરી શકું છું"
   },
   {
-    "english": "Go there.",
-    "gujarati": "ત્યાં જાઓ."
+    "english": "Please sit here",
+    "gujarati": "કૃપા કરીને અહીં બેસો"
   },
   {
-    "english": "I am ready.",
-    "gujarati": "હું તૈયાર છું."
+    "english": "Let's go together",
+    "gujarati": "ચાલો સાથે જઈએ"
+  },
+  {
+    "english": "Where are we going",
+    "gujarati": "આપણે ક્યાં જઈ રહ્યા છીએ"
+  },
+  {
+    "english": "We are going to the market",
+    "gujarati": "આપણે બજારમાં જઈ રહ્યા છીએ"
+  },
+  {
+    "english": "Do you have time",
+    "gujarati": "શું તમારી પાસે સમય છે"
+  },
+  {
+    "english": "I have some time",
+    "gujarati": "મારી પાસે થોડો સમય છે"
+  },
+  {
+    "english": "Please wait here",
+    "gujarati": "કૃપા કરીને અહીં રાહ જુઓ"
+  },
+  {
+    "english": "I will be back soon",
+    "gujarati": "હું જલ્દી પાછો આવીશ"
+  },
+  {
+    "english": "What do you want",
+    "gujarati": "તમારે શું જોઈએ છે"
+  },
+  {
+    "english": "I want some water",
+    "gujarati": "મને થોડું પાણી જોઈએ છે"
+  },
+  {
+    "english": "Are you hungry",
+    "gujarati": "શું તમને ભૂખ લાગી છે"
+  },
+  {
+    "english": "Yes I am hungry",
+    "gujarati": "હા મને ભૂખ લાગી છે"
+  },
+  {
+    "english": "Let's have lunch",
+    "gujarati": "ચાલો બપોરનું ભોજન કરીએ"
+  },
+  {
+    "english": "The food is delicious",
+    "gujarati": "ભોજન ખૂબ સ્વાદિષ્ટ છે"
+  },
+  {
+    "english": "Would you like some tea",
+    "gujarati": "શું તમને થોડી ચા જોઈએ"
+  },
+  {
+    "english": "No thank you",
+    "gujarati": "ના આભાર"
+  },
+  {
+    "english": "You are welcome",
+    "gujarati": "તમારું સ્વાગત છે"
+  },
+  {
+    "english": "How was your day",
+    "gujarati": "તમારો દિવસ કેવો રહ્યો"
+  },
+  {
+    "english": "My day was great",
+    "gujarati": "મારો દિવસ ખૂબ સારો રહ્યો"
+  },
+  {
+    "english": "Did you sleep well",
+    "gujarati": "શું તમને સારી ઊંઘ આવી"
+  },
+  {
+    "english": "Yes I slept well",
+    "gujarati": "હા મને સારી ઊંઘ આવી"
+  },
+  {
+    "english": "What time is it",
+    "gujarati": "કેટલા વાગ્યા છે"
+  },
+  {
+    "english": "It is almost noon",
+    "gujarati": "લગભગ બપોર થઈ છે"
+  },
+  {
+    "english": "Let's start now",
+    "gujarati": "ચાલો હવે શરૂ કરીએ"
+  },
+  {
+    "english": "Don't be late",
+    "gujarati": "મોડા ન પડતા"
+  },
+  {
+    "english": "I will call you later",
+    "gujarati": "હું તમને પછી ફોન કરીશ"
+  },
+  {
+    "english": "Please answer the phone",
+    "gujarati": "કૃપા કરીને ફોન ઉપાડો"
+  },
+  {
+    "english": "I missed your call",
+    "gujarati": "તમારો ફોન હું ઉપાડી શક્યો નથી"
+  },
+  {
+    "english": "Can we talk now",
+    "gujarati": "શું આપણે હવે વાત કરી શકીએ"
+  },
+  {
+    "english": "I am listening",
+    "gujarati": "હું સાંભળી રહ્યો છું"
+  },
+  {
+    "english": "Tell me the truth",
+    "gujarati": "મને સાચું કહો"
+  },
+  {
+    "english": "I believe you",
+    "gujarati": "હું તમારા પર વિશ્વાસ રાખું છું"
+  },
+  {
+    "english": "Everything is okay",
+    "gujarati": "બધું બરાબર છે"
+  },
+  {
+    "english": "Don't lose hope",
+    "gujarati": "આશા ન છોડો"
+  },
+  {
+    "english": "Keep smiling",
+    "gujarati": "હસતા રહો"
+  },
+  {
+    "english": "See you tomorrow",
+    "gujarati": "કાલે મળીશું"
+  },
+  {
+    "english": "Have a nice day",
+    "gujarati": "તમારો દિવસ શુભ રહે"
+  },
+  {
+    "english": "Are you at home",
+    "gujarati": "શું તમે ઘરે છો"
+  },
+  {
+    "english": "I am on my way",
+    "gujarati": "હું રસ્તામાં છું"
+  },
+  {
+    "english": "Please come inside",
+    "gujarati": "કૃપા કરીને અંદર આવો"
+  },
+  {
+    "english": "The door is open",
+    "gujarati": "દરવાજો ખુલ્લો છે"
+  },
+  {
+    "english": "The door is locked",
+    "gujarati": "દરવાજો બંધ છે"
+  },
+  {
+    "english": "Switch on the light",
+    "gujarati": "લાઇટ ચાલુ કરો"
+  },
+  {
+    "english": "Switch off the light",
+    "gujarati": "લાઇટ બંધ કરો"
+  },
+  {
+    "english": "Turn on the fan",
+    "gujarati": "પંખો ચાલુ કરો"
+  },
+  {
+    "english": "Turn off the fan",
+    "gujarati": "પંખો બંધ કરો"
+  },
+  {
+    "english": "The weather is nice",
+    "gujarati": "હવામાન સારું છે"
+  },
+  {
+    "english": "It is very hot today",
+    "gujarati": "આજે ખૂબ ગરમી છે"
+  },
+  {
+    "english": "It is very cold today",
+    "gujarati": "આજે ખૂબ ઠંડી છે"
+  },
+  {
+    "english": "It looks like rain",
+    "gujarati": "વરસાદ આવશે એવું લાગે છે"
+  },
+  {
+    "english": "Take an umbrella",
+    "gujarati": "છત્રી લઈ જાઓ"
+  },
+  {
+    "english": "Wear your shoes",
+    "gujarati": "તમારા જૂતા પહેરો"
+  },
+  {
+    "english": "Wash your hands",
+    "gujarati": "તમારા હાથ ધોઈ લો"
+  },
+  {
+    "english": "Brush your teeth",
+    "gujarati": "તમારા દાંત સાફ કરો"
+  },
+  {
+    "english": "Get ready quickly",
+    "gujarati": "જલ્દી તૈયાર થઈ જાઓ"
+  },
+  {
+    "english": "Breakfast is ready",
+    "gujarati": "નાસ્તો તૈયાર છે"
+  },
+  {
+    "english": "Eat slowly",
+    "gujarati": "ધીમે ધીમે જમો"
+  },
+  {
+    "english": "Drink some water",
+    "gujarati": "થોડું પાણી પી લો"
+  },
+  {
+    "english": "Finish your meal",
+    "gujarati": "તમારું જમવાનું પૂરું કરો"
+  },
+  {
+    "english": "Let's leave now",
+    "gujarati": "ચાલો હવે નીકળીએ"
+  },
+  {
+    "english": "Drive carefully",
+    "gujarati": "સાવધાનીથી વાહન ચલાવો"
+  },
+  {
+    "english": "The road is busy",
+    "gujarati": "રસ્તા પર ઘણી ભીડ છે"
+  },
+  {
+    "english": "We are getting late",
+    "gujarati": "આપણે મોડા થઈ રહ્યા છીએ"
+  },
+  {
+    "english": "There is no hurry",
+    "gujarati": "કોઈ ઉતાવળ નથી"
+  },
+  {
+    "english": "Please be patient",
+    "gujarati": "કૃપા કરીને ધીરજ રાખો"
+  },
+  {
+    "english": "I will think about it",
+    "gujarati": "હું તેના વિશે વિચારીશ"
+  },
+  {
+    "english": "That is a good idea",
+    "gujarati": "એ સારો વિચાર છે"
+  },
+  {
+    "english": "I agree with you",
+    "gujarati": "હું તમારી સાથે સંમત છું"
+  },
+  {
+    "english": "I don't agree",
+    "gujarati": "હું સંમત નથી"
+  },
+  {
+    "english": "Please explain again",
+    "gujarati": "કૃપા કરીને ફરી સમજાવો"
+  },
+  {
+    "english": "I didn't understand",
+    "gujarati": "મને સમજાયું નથી"
+  },
+  {
+    "english": "Can you repeat that",
+    "gujarati": "શું તમે ફરી કહી શકો"
+  },
+  {
+    "english": "Speak a little slower",
+    "gujarati": "જરા ધીમે બોલો"
+  },
+  {
+    "english": "I am learning English",
+    "gujarati": "હું અંગ્રેજી શીખી રહ્યો છું"
+  },
+  {
+    "english": "Your English is good",
+    "gujarati": "તમારું અંગ્રેજી સારું છે"
+  },
+  {
+    "english": "Practice every day",
+    "gujarati": "દરરોજ અભ્યાસ કરો"
+  },
+  {
+    "english": "Never stop learning",
+    "gujarati": "શીખવાનું ક્યારેય બંધ ન કરો"
+  },
+  {
+    "english": "I feel better now",
+    "gujarati": "હવે મને સારું લાગે છે"
+  },
+  {
+    "english": "Everything will be fine",
+    "gujarati": "બધું સારું થઈ જશે"
+  },
+  {
+    "english": "Don't forget this",
+    "gujarati": "આ ભૂલતા નહીં"
+  },
+  {
+    "english": "Remember my words",
+    "gujarati": "મારી વાત યાદ રાખજો"
+  },
+  {
+    "english": "Keep your promise",
+    "gujarati": "તમારું વચન પાળો"
+  },
+  {
+    "english": "I am proud of you",
+    "gujarati": "મને તમારા પર ગર્વ છે"
+  },
+  {
+    "english": "You did a great job",
+    "gujarati": "તમે ખૂબ સારું કામ કર્યું"
+  },
+  {
+    "english": "See you soon",
+    "gujarati": "જલ્દી મળીશું"
+  },
+  {
+    "english": "Have a safe journey",
+    "gujarati": "તમારી મુસાફરી સુરક્ષિત રહે"
+  },
+  {
+    "english": "Take care of yourself",
+    "gujarati": "તમારી કાળજી રાખજો"
+  },
+  {
+    "english": "Where have you been",
+    "gujarati": "તમે ક્યાં હતા"
+  },
+  {
+    "english": "I was waiting for you",
+    "gujarati": "હું તમારી રાહ જોઈ રહ્યો હતો"
+  },
+  {
+    "english": "Why are you late",
+    "gujarati": "તમે મોડા કેમ પડ્યા"
+  },
+  {
+    "english": "I got stuck in traffic",
+    "gujarati": "હું ટ્રાફિકમાં ફસાઈ ગયો હતો"
+  },
+  {
+    "english": "Did you call me",
+    "gujarati": "શું તમે મને ફોન કર્યો હતો"
+  },
+  {
+    "english": "My phone was silent",
+    "gujarati": "મારો ફોન સાઇલેન્ટ પર હતો"
+  },
+  {
+    "english": "I couldn't answer",
+    "gujarati": "હું જવાબ આપી શક્યો નહીં"
+  },
+  {
+    "english": "Can I call you now",
+    "gujarati": "શું હું તમને હવે ફોન કરી શકું"
+  },
+  {
+    "english": "Please call me later",
+    "gujarati": "કૃપા કરીને મને પછી ફોન કરજો"
+  },
+  {
+    "english": "I am almost there",
+    "gujarati": "હું લગભગ પહોંચી ગયો છું"
+  },
+  {
+    "english": "I just arrived",
+    "gujarati": "હું હમણાં જ પહોંચ્યો છું"
+  },
+  {
+    "english": "Where should we meet",
+    "gujarati": "આપણે ક્યાં મળવું જોઈએ"
+  },
+  {
+    "english": "Meet me outside",
+    "gujarati": "મને બહાર મળો"
+  },
+  {
+    "english": "I will wait here",
+    "gujarati": "હું અહીં રાહ જોઈશ"
+  },
+  {
+    "english": "Let's talk outside",
+    "gujarati": "ચાલો બહાર વાત કરીએ"
+  },
+  {
+    "english": "What do you think",
+    "gujarati": "તમને શું લાગે છે"
+  },
+  {
+    "english": "I think you are right",
+    "gujarati": "મને લાગે છે તમે સાચા છો"
+  },
+  {
+    "english": "That sounds good",
+    "gujarati": "એ સારું લાગે છે"
+  },
+  {
+    "english": "I don't think so",
+    "gujarati": "મને એવું લાગતું નથી"
+  },
+  {
+    "english": "Maybe you are right",
+    "gujarati": "કદાચ તમે સાચા છો"
+  },
+  {
+    "english": "I have an idea",
+    "gujarati": "મારી પાસે એક વિચાર છે"
+  },
+  {
+    "english": "Let's try again",
+    "gujarati": "ચાલો ફરી પ્રયત્ન કરીએ"
+  },
+  {
+    "english": "Don't make excuses",
+    "gujarati": "બહાના ન બનાવો"
+  },
+  {
+    "english": "Tell me everything",
+    "gujarati": "મને બધું કહો"
+  },
+  {
+    "english": "I have a question",
+    "gujarati": "મારે એક પ્રશ્ન છે"
+  },
+  {
+    "english": "Ask me anything",
+    "gujarati": "મને કંઈપણ પૂછો"
+  },
+  {
+    "english": "I need your advice",
+    "gujarati": "મને તમારી સલાહ જોઈએ છે"
+  },
+  {
+    "english": "Thank you for your advice",
+    "gujarati": "તમારી સલાહ માટે આભાર"
+  },
+  {
+    "english": "You made my day",
+    "gujarati": "તમે મારો દિવસ ખુશ કરી દીધો"
+  },
+  {
+    "english": "I appreciate your help",
+    "gujarati": "હું તમારી મદદની કદર કરું છું"
+  },
+  {
+    "english": "Please forgive me",
+    "gujarati": "કૃપા કરીને મને માફ કરો"
+  },
+  {
+    "english": "It was my mistake",
+    "gujarati": "આ મારી ભૂલ હતી"
+  },
+  {
+    "english": "Everyone makes mistakes",
+    "gujarati": "દરેક વ્યક્તિ ભૂલ કરે છે"
+  },
+  {
+    "english": "Don't be afraid",
+    "gujarati": "ડરશો નહીં"
+  },
+  {
+    "english": "Believe in yourself",
+    "gujarati": "તમારા પર વિશ્વાસ રાખો"
+  },
+  {
+    "english": "You can do it",
+    "gujarati": "તમે કરી શકો છો"
+  },
+  {
+    "english": "Never lose confidence",
+    "gujarati": "આત્મવિશ્વાસ ક્યારેય ન ગુમાવો"
+  },
+  {
+    "english": "Keep moving forward",
+    "gujarati": "આગળ વધતા રહો"
+  },
+  {
+    "english": "Today is your day",
+    "gujarati": "આજે તમારો દિવસ છે"
+  },
+  {
+    "english": "Enjoy your day",
+    "gujarati": "તમારા દિવસનો આનંદ લો"
+  },
+  {
+    "english": "Have some rest",
+    "gujarati": "થોડો આરામ કરો"
+  },
+  {
+    "english": "You look tired",
+    "gujarati": "તમે થાકેલા લાગો છો"
+  },
+  {
+    "english": "Get well soon",
+    "gujarati": "જલ્દી સાજા થઈ જાઓ"
+  },
+  {
+    "english": "I am feeling better",
+    "gujarati": "હવે મને સારું લાગે છે"
+  },
+  {
+    "english": "Let's meet again",
+    "gujarati": "ચાલો ફરી મળીએ"
+  },
+  {
+    "english": "See you next time",
+    "gujarati": "આવતી વખતે મળીશું"
+  },
+  {
+    "english": "Have a wonderful evening",
+    "gujarati": "તમારી સાંજ સુંદર રહે"
+  },
+  {
+    "english": "Sleep well tonight",
+    "gujarati": "આજે રાત્રે સારી ઊંઘ કરજો"
+  },
+  {
+    "english": "Sweet dreams",
+    "gujarati": "મીઠા સપના આવો"
+  },
+  {
+    "english": "Goodbye for now",
+    "gujarati": "હમણાં માટે આવજો"
+  },
+  {
+    "english": "Are you feeling better today",
+    "gujarati": "શું આજે તમને સારું લાગે છે"
+  },
+  {
+    "english": "I am feeling much better",
+    "gujarati": "હવે મને ઘણું સારું લાગે છે"
+  },
+  {
+    "english": "What are your plans",
+    "gujarati": "તમારી શું યોજના છે"
+  },
+  {
+    "english": "I have no plans today",
+    "gujarati": "આજે મારી કોઈ યોજના નથી"
+  },
+  {
+    "english": "Let's make a plan",
+    "gujarati": "ચાલો એક યોજના બનાવીએ"
+  },
+  {
+    "english": "That sounds interesting",
+    "gujarati": "એ રસપ્રદ લાગે છે"
+  },
+  {
+    "english": "I am excited",
+    "gujarati": "હું ઉત્સાહિત છું"
+  },
+  {
+    "english": "I am a little nervous",
+    "gujarati": "હું થોડો ગભરાયેલો છું"
+  },
+  {
+    "english": "Everything is under control",
+    "gujarati": "બધું નિયંત્રણમાં છે"
+  },
+  {
+    "english": "Don't be so serious",
+    "gujarati": "આટલા ગંભીર ન બનો"
+  },
+  {
+    "english": "Let's have some fun",
+    "gujarati": "ચાલો થોડી મજા કરીએ"
+  },
+  {
+    "english": "That made me laugh",
+    "gujarati": "એ સાંભળીને મને હાસ્ય આવ્યું"
+  },
+  {
+    "english": "You are very funny",
+    "gujarati": "તમે ખૂબ રમુજી છો"
+  },
+  {
+    "english": "I like your idea",
+    "gujarati": "મને તમારો વિચાર ગમ્યો"
+  },
+  {
+    "english": "I don't like this",
+    "gujarati": "મને આ પસંદ નથી"
+  },
+  {
+    "english": "Can we change the topic",
+    "gujarati": "શું આપણે વિષય બદલી શકીએ"
+  },
+  {
+    "english": "Let's talk about something else",
+    "gujarati": "ચાલો બીજી કોઈ વાત કરીએ"
+  },
+  {
+    "english": "What do you mean",
+    "gujarati": "તમારો અર્થ શું છે"
+  },
+  {
+    "english": "I didn't mean that",
+    "gujarati": "મારો એવો અર્થ નહોતો"
+  },
+  {
+    "english": "Please don't misunderstand me",
+    "gujarati": "કૃપા કરીને મને ખોટું ન સમજતા"
+  },
+  {
+    "english": "I completely understand",
+    "gujarati": "હું સંપૂર્ણ રીતે સમજું છું"
+  },
+  {
+    "english": "I have some work",
+    "gujarati": "મારે થોડું કામ છે"
+  },
+  {
+    "english": "I will finish it soon",
+    "gujarati": "હું તેને જલ્દી પૂરું કરીશ"
+  },
+  {
+    "english": "Can you wait for me",
+    "gujarati": "શું તમે મારી રાહ જોઈ શકો"
+  },
+  {
+    "english": "I won't be long",
+    "gujarati": "મને વધારે સમય નહીં લાગે"
+  },
+  {
+    "english": "Let's leave early",
+    "gujarati": "ચાલો વહેલા નીકળીએ"
+  },
+  {
+    "english": "We have enough time",
+    "gujarati": "આપણી પાસે પૂરતો સમય છે"
+  },
+  {
+    "english": "Time goes so fast",
+    "gujarati": "સમય ખૂબ ઝડપથી પસાર થાય છે"
+  },
+  {
+    "english": "Today was a busy day",
+    "gujarati": "આજનો દિવસ ખૂબ વ્યસ્ત રહ્યો"
+  },
+  {
+    "english": "Tomorrow will be better",
+    "gujarati": "આવતીકાલ વધુ સારી રહેશે"
+  },
+  {
+    "english": "I hope so",
+    "gujarati": "મને એવી આશા છે"
+  },
+  {
+    "english": "That is exactly right",
+    "gujarati": "એ એકદમ સાચું છે"
+  },
+  {
+    "english": "I don't remember",
+    "gujarati": "મને યાદ નથી"
+  },
+  {
+    "english": "Now I remember",
+    "gujarati": "હવે મને યાદ આવ્યું"
+  },
+  {
+    "english": "Please remind me later",
+    "gujarati": "કૃપા કરીને મને પછી યાદ કરાવજો"
+  },
+  {
+    "english": "I forgot about it",
+    "gujarati": "હું તેના વિશે ભૂલી ગયો હતો"
+  },
+  {
+    "english": "That is not possible",
+    "gujarati": "એ શક્ય નથી"
+  },
+  {
+    "english": "Everything is possible",
+    "gujarati": "બધું શક્ય છે"
+  },
+  {
+    "english": "Don't give up easily",
+    "gujarati": "આસાનીથી હાર ન માનતા"
+  },
+  {
+    "english": "Keep doing your best",
+    "gujarati": "તમારો શ્રેષ્ઠ પ્રયાસ કરતા રહો"
+  },
+  {
+    "english": "You will succeed",
+    "gujarati": "તમે સફળ થશો"
+  },
+  {
+    "english": "Success takes time",
+    "gujarati": "સફળતા માટે સમય લાગે છે"
+  },
+  {
+    "english": "Learn from your mistakes",
+    "gujarati": "તમારી ભૂલોમાંથી શીખો"
+  },
+  {
+    "english": "Every day is a new beginning",
+    "gujarati": "દરેક દિવસ નવી શરૂઆત છે"
+  },
+  {
+    "english": "Never stop believing",
+    "gujarati": "વિશ્વાસ રાખવાનું ક્યારેય બંધ ન કરો"
+  },
+  {
+    "english": "I wish you success",
+    "gujarati": "હું તમને સફળતાની શુભેચ્છા આપું છું"
+  },
+  {
+    "english": "Take your time",
+    "gujarati": "આરામથી કરો"
+  },
+  {
+    "english": "See you around",
+    "gujarati": "ફરી મળીશું"
+  },
+  {
+    "english": "Have a pleasant day",
+    "gujarati": "તમારો દિવસ આનંદમય રહે"
+  },
+  {
+    "english": "Stay happy always",
+    "gujarati": "હંમેશા ખુશ રહો"
   }
-]
+  ]
