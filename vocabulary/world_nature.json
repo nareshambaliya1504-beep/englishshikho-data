@@ -4,19 +4,399 @@
     "gujarati": "પૃથ્વી"
   },
   {
+    "english": "World",
+    "gujarati": "વિશ્વ"
+  },
+  {
+    "english": "Nature",
+    "gujarati": "પ્રકૃતિ"
+  },
+  {
     "english": "Mountain",
     "gujarati": "પર્વત"
+  },
+  {
+    "english": "Hill",
+    "gujarati": "ટેકરી"
+  },
+  {
+    "english": "Valley",
+    "gujarati": "ખીણ"
   },
   {
     "english": "River",
     "gujarati": "નદી"
   },
   {
+    "english": "Lake",
+    "gujarati": "તળાવ"
+  },
+  {
+    "english": "Pond",
+    "gujarati": "તળાવડી"
+  },
+  {
     "english": "Ocean",
     "gujarati": "મહાસાગર"
   },
   {
+    "english": "Sea",
+    "gujarati": "સમુદ્ર"
+  },
+  {
+    "english": "Waterfall",
+    "gujarati": "ધોધ"
+  },
+  {
+    "english": "Island",
+    "gujarati": "ટાપુ"
+  },
+  {
+    "english": "Beach",
+    "gujarati": "દરિયાકિનારો"
+  },
+  {
+    "english": "Coast",
+    "gujarati": "દરિયાકાંઠો"
+  },
+  {
     "english": "Forest",
     "gujarati": "જંગલ"
+  },
+  {
+    "english": "Jungle",
+    "gujarati": "ગાઢ જંગલ"
+  },
+  {
+    "english": "Tree",
+    "gujarati": "વૃક્ષ"
+  },
+  {
+    "english": "Plant",
+    "gujarati": "છોડ"
+  },
+  {
+    "english": "Grass",
+    "gujarati": "ઘાસ"
+  },
+  {
+    "english": "Leaf",
+    "gujarati": "પાંદડું"
+  },
+  {
+    "english": "Flower",
+    "gujarati": "ફૂલ"
+  },
+  {
+    "english": "Seed",
+    "gujarati": "બીજ"
+  },
+  {
+    "english": "Root",
+    "gujarati": "મૂળ"
+  },
+  {
+    "english": "Branch",
+    "gujarati": "ડાળી"
+  },
+  {
+    "english": "Wood",
+    "gujarati": "લાકડું"
+  },
+  {
+    "english": "Stone",
+    "gujarati": "પથ્થર"
+  },
+  {
+    "english": "Rock",
+    "gujarati": "ખડક"
+  },
+  {
+    "english": "Sand",
+    "gujarati": "રેતી"
+  },
+  {
+    "english": "Soil",
+    "gujarati": "માટી"
+  },
+  {
+    "english": "Mud",
+    "gujarati": "કીચડ"
+  },
+  {
+    "english": "Dust",
+    "gujarati": "ધૂળ"
+  },
+  {
+    "english": "Sky",
+    "gujarati": "આકાશ"
+  },
+  {
+    "english": "Cloud",
+    "gujarati": "વાદળ"
+  },
+  {
+    "english": "Sun",
+    "gujarati": "સૂર્ય"
+  },
+  {
+    "english": "Moon",
+    "gujarati": "ચંદ્ર"
+  },
+  {
+    "english": "Star",
+    "gujarati": "તારો"
+  },
+  {
+    "english": "Rainbow",
+    "gujarati": "મેઘધનુષ"
+  },
+  {
+    "english": "Rain",
+    "gujarati": "વરસાદ"
+  },
+  {
+    "english": "Snow",
+    "gujarati": "બરફ"
+  },
+  {
+    "english": "Ice",
+    "gujarati": "બરફ"
+  },
+  {
+    "english": "Wind",
+    "gujarati": "પવન"
+  },
+  {
+    "english": "Storm",
+    "gujarati": "તોફાન"
+  },
+  {
+    "english": "Lightning",
+    "gujarati": "વીજળી"
+  },
+  {
+    "english": "Thunder",
+    "gujarati": "ગર્જના"
+  },
+  {
+    "english": "Climate",
+    "gujarati": "આબોહવા"
+  },
+  {
+    "english": "Weather",
+    "gujarati": "હવામાન"
+  },
+  {
+    "english": "Season",
+    "gujarati": "ઋતુ"
+  },
+  {
+    "english": "Environment",
+    "gujarati": "પર્યાવરણ"
+  },
+  {
+    "english": "Landscape",
+    "gujarati": "પ્રાકૃતિક દૃશ્ય"
+  },
+  {
+    "english": "Desert",
+    "gujarati": "રણ"
+  },
+  {
+    "english": "Volcano",
+    "gujarati": "જ્વાળામુખી"
+  },
+  {
+    "english": "Glacier",
+    "gujarati": "હિમનદી"
+  },
+  {
+    "english": "Cave",
+    "gujarati": "ગુફા"
+  },
+  {
+    "english": "Cliff",
+    "gujarati": "ખડકની ધાર"
+  },
+  {
+    "english": "Canyon",
+    "gujarati": "ખીણ"
+  },
+  {
+    "english": "Stream",
+    "gujarati": "ઝરણું"
+  },
+  {
+    "english": "Spring",
+    "gujarati": "ઝરો"
+  },
+  {
+    "english": "Meadow",
+    "gujarati": "ઘાસનું મેદાન"
+  },
+  {
+    "english": "Plain",
+    "gujarati": "મેદાન"
+  },
+  {
+    "english": "Plateau",
+    "gujarati": "ઉચ્ચપ્રદેશ"
+  },
+  {
+    "english": "Peak",
+    "gujarati": "શિખર"
+  },
+  {
+    "english": "Slope",
+    "gujarati": "ઢાળ"
+  },
+  {
+    "english": "Shore",
+    "gujarati": "કિનારો"
+  },
+  {
+    "english": "Harbor",
+    "gujarati": "બંદર"
+  },
+  {
+    "english": "Bay",
+    "gujarati": "ખાડી"
+  },
+  {
+    "english": "Gulf",
+    "gujarati": "અખાત"
+  },
+  {
+    "english": "Lagoon",
+    "gujarati": "ખારું સરોવર"
+  },
+  {
+    "english": "Reef",
+    "gujarati": "પ્રવાલ ખડક"
+  },
+  {
+    "english": "Coral",
+    "gujarati": "પ્રવાલ"
+  },
+  {
+    "english": "Mineral",
+    "gujarati": "ખનિજ"
+  },
+  {
+    "english": "Crystal",
+    "gujarati": "સ્ફટિક"
+  },
+  {
+    "english": "Pebble",
+    "gujarati": "નાનો કાંકરો"
+  },
+  {
+    "english": "Boulder",
+    "gujarati": "મોટો પથ્થર"
+  },
+  {
+    "english": "Moss",
+    "gujarati": "શેવાળ"
+  },
+  {
+    "english": "Fern",
+    "gujarati": "ફર્ન છોડ"
+  },
+  {
+    "english": "Bamboo",
+    "gujarati": "વાંસ"
+  },
+  {
+    "english": "Palm",
+    "gujarati": "તાડનું વૃક્ષ"
+  },
+  {
+    "english": "Coconut",
+    "gujarati": "નાળિયેર"
+  },
+  {
+    "english": "Bush",
+    "gujarati": "ઝાડી"
+  },
+  {
+    "english": "Shrub",
+    "gujarati": "નાની ઝાડી"
+  },
+  {
+    "english": "Vine",
+    "gujarati": "વેલ"
+  },
+  {
+    "english": "Nest",
+    "gujarati": "માળો"
+  },
+  {
+    "english": "Hive",
+    "gujarati": "મધપૂડો"
+  },
+  {
+    "english": "Shell",
+    "gujarati": "છીપ"
+  },
+  {
+    "english": "Wave",
+    "gujarati": "મોજું"
+  },
+  {
+    "english": "Current",
+    "gujarati": "પાણીનો પ્રવાહ"
+  },
+  {
+    "english": "Tide",
+    "gujarati": "ભરતી ઓટ"
+  },
+  {
+    "english": "Horizon",
+    "gujarati": "ક્ષિતિજ"
+  },
+  {
+    "english": "Dew",
+    "gujarati": "ઝાકળ"
+  },
+  {
+    "english": "Mist",
+    "gujarati": "ધુમ્મસ"
+  },
+  {
+    "english": "Fog",
+    "gujarati": "ગાઢ ધુમ્મસ"
+  },
+  {
+    "english": "Breeze",
+    "gujarati": "ઠંડો પવન"
+  },
+  {
+    "english": "Cyclone",
+    "gujarati": "ચક્રવાત"
+  },
+  {
+    "english": "Earthquake",
+    "gujarati": "ભૂકંપ"
+  },
+  {
+    "english": "Flood",
+    "gujarati": "પૂર"
+  },
+  {
+    "english": "Drought",
+    "gujarati": "દુષ્કાળ"
+  },
+  {
+    "english": "Eclipse",
+    "gujarati": "ગ્રહણ"
+  },
+  {
+    "english": "Oasis",
+    "gujarati": "રણનું લીલું સ્થળ"
+  },
+  {
+    "english": "Habitat",
+    "gujarati": "રહેઠાણ"
   }
 ]
