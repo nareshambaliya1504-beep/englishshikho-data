@@ -1,15 +1,21 @@
 [
   {
-    "v1": "Ask",
-    "v2": "Asked",
-    "v3": "Asked",
-    "gujarati": "પૂછવું"
-  },
-  {
     "v1": "Accept",
     "v2": "Accepted",
     "v3": "Accepted",
     "gujarati": "સ્વીકારવું"
+  },
+  {
+    "v1": "Achieve",
+    "v2": "Achieved",
+    "v3": "Achieved",
+    "gujarati": "સિદ્ધ કરવું"
+  },
+  {
+    "v1": "Act",
+    "v2": "Acted",
+    "v3": "Acted",
+    "gujarati": "વર્તવું"
   },
   {
     "v1": "Add",
@@ -18,15 +24,460 @@
     "gujarati": "ઉમેરવું"
   },
   {
+    "v1": "Admire",
+    "v2": "Admired",
+    "v3": "Admired",
+    "gujarati": "પ્રશંસા કરવી"
+  },
+  {
+    "v1": "Admit",
+    "v2": "Admitted",
+    "v3": "Admitted",
+    "gujarati": "સ્વીકારી લેવું"
+  },
+  {
+    "v1": "Advise",
+    "v2": "Advised",
+    "v3": "Advised",
+    "gujarati": "સલાહ આપવી"
+  },
+  {
+    "v1": "Afford",
+    "v2": "Afforded",
+    "v3": "Afforded",
+    "gujarati": "પરવડવું"
+  },
+  {
+    "v1": "Agree",
+    "v2": "Agreed",
+    "v3": "Agreed",
+    "gujarati": "સંમત થવું"
+  },
+  {
+    "v1": "Aim",
+    "v2": "Aimed",
+    "v3": "Aimed",
+    "gujarati": "લક્ષ્ય રાખવું"
+  },
+  {
+    "v1": "Allow",
+    "v2": "Allowed",
+    "v3": "Allowed",
+    "gujarati": "પરવાનગી આપવી"
+  },
+  {
+    "v1": "Announce",
+    "v2": "Announced",
+    "v3": "Announced",
+    "gujarati": "જાહેર કરવું"
+  },
+  {
     "v1": "Answer",
     "v2": "Answered",
     "v3": "Answered",
     "gujarati": "જવાબ આપવો"
   },
   {
+    "v1": "Apologize",
+    "v2": "Apologized",
+    "v3": "Apologized",
+    "gujarati": "માફી માંગવી"
+  },
+  {
+    "v1": "Appear",
+    "v2": "Appeared",
+    "v3": "Appeared",
+    "gujarati": "દેખાવું"
+  },
+  {
+    "v1": "Apply",
+    "v2": "Applied",
+    "v3": "Applied",
+    "gujarati": "અરજી કરવી"
+  },
+  {
+    "v1": "Appreciate",
+    "v2": "Appreciated",
+    "v3": "Appreciated",
+    "gujarati": "કદર કરવી"
+  },
+  {
+    "v1": "Approach",
+    "v2": "Approached",
+    "v3": "Approached",
+    "gujarati": "નજીક જવું"
+  },
+  {
+    "v1": "Approve",
+    "v2": "Approved",
+    "v3": "Approved",
+    "gujarati": "મંજૂર કરવું"
+  },
+  {
+    "v1": "Argue",
+    "v2": "Argued",
+    "v3": "Argued",
+    "gujarati": "દલીલ કરવી"
+  },
+  {
+    "v1": "Arrange",
+    "v2": "Arranged",
+    "v3": "Arranged",
+    "gujarati": "ગોઠવવું"
+  },
+  {
+    "v1": "Arrest",
+    "v2": "Arrested",
+    "v3": "Arrested",
+    "gujarati": "પકડવું"
+  },
+  {
     "v1": "Arrive",
     "v2": "Arrived",
     "v3": "Arrived",
     "gujarati": "પહોંચવું"
+  },
+  {
+    "v1": "Ask",
+    "v2": "Asked",
+    "v3": "Asked",
+    "gujarati": "પૂછવું"
+  },
+  {
+    "v1": "Assist",
+    "v2": "Assisted",
+    "v3": "Assisted",
+    "gujarati": "મદદ કરવી"
+  },
+  {
+    "v1": "Assure",
+    "v2": "Assured",
+    "v3": "Assured",
+    "gujarati": "ખાતરી આપવી"
+  },
+  {
+    "v1": "Attack",
+    "v2": "Attacked",
+    "v3": "Attacked",
+    "gujarati": "હુમલો કરવો"
+  },
+  {
+    "v1": "Attempt",
+    "v2": "Attempted",
+    "v3": "Attempted",
+    "gujarati": "પ્રયત્ન કરવો"
+  },
+  {
+    "v1": "Attend",
+    "v2": "Attended",
+    "v3": "Attended",
+    "gujarati": "હાજર રહેવું"
+  },
+  {
+    "v1": "Avoid",
+    "v2": "Avoided",
+    "v3": "Avoided",
+    "gujarati": "ટાળવું"
+  },
+  {
+    "v1": "Awaken",
+    "v2": "Awakened",
+    "v3": "Awakened",
+    "gujarati": "જગાડવું"
+  },
+  {
+    "v1": "Award",
+    "v2": "Awarded",
+    "v3": "Awarded",
+    "gujarati": "પુરસ્કાર આપવો"
+  },
+  {
+    "v1": "Await",
+    "v2": "Awaited",
+    "v3": "Awaited",
+    "gujarati": "રાહ જોવી"
+  },
+  {
+    "v1": "Awake",
+    "v2": "Awoke",
+    "v3": "Awoken",
+    "gujarati": "જાગવું"
+  },
+  {
+    "v1": "Accuse",
+    "v2": "Accused",
+    "v3": "Accused",
+    "gujarati": "આરોપ મૂકવો"
+  },
+  {
+    "v1": "Acquire",
+    "v2": "Acquired",
+    "v3": "Acquired",
+    "gujarati": "મેળવવું"
+  },
+  {
+    "v1": "Adapt",
+    "v2": "Adapted",
+    "v3": "Adapted",
+    "gujarati": "અનુકૂળ થવું"
+  },
+  {
+    "v1": "Address",
+    "v2": "Addressed",
+    "v3": "Addressed",
+    "gujarati": "સંબોધન કરવું"
+  },
+  {
+    "v1": "Adjust",
+    "v2": "Adjusted",
+    "v3": "Adjusted",
+    "gujarati": "ગોઠવવું"
+  },
+  {
+    "v1": "Advertise",
+    "v2": "Advertised",
+    "v3": "Advertised",
+    "gujarati": "જાહેરાત કરવી"
+  },
+  {
+    "v1": "Affect",
+    "v2": "Affected",
+    "v3": "Affected",
+    "gujarati": "અસર કરવી"
+  },
+  {
+    "v1": "Affirm",
+    "v2": "Affirmed",
+    "v3": "Affirmed",
+    "gujarati": "પુષ્ટિ કરવી"
+  },
+  {
+    "v1": "Age",
+    "v2": "Aged",
+    "v3": "Aged",
+    "gujarati": "વૃદ્ધ થવું"
+  },
+  {
+    "v1": "Alert",
+    "v2": "Alerted",
+    "v3": "Alerted",
+    "gujarati": "ચેતવણી આપવી"
+  },
+  {
+    "v1": "Amuse",
+    "v2": "Amused",
+    "v3": "Amused",
+    "gujarati": "મનોરંજન કરવું"
+  },
+  {
+    "v1": "Analyze",
+    "v2": "Analyzed",
+    "v3": "Analyzed",
+    "gujarati": "વિશ્લેષણ કરવું"
+  },
+  {
+    "v1": "Anchor",
+    "v2": "Anchored",
+    "v3": "Anchored",
+    "gujarati": "લંગર નાખવો"
+  },
+  {
+    "v1": "Animate",
+    "v2": "Animated",
+    "v3": "Animated",
+    "gujarati": "જીવંત બનાવવું"
+  },
+  {
+    "v1": "Annoy",
+    "v2": "Annoyed",
+    "v3": "Annoyed",
+    "gujarati": "હેરાન કરવું"
+  },
+  {
+    "v1": "Anticipate",
+    "v2": "Anticipated",
+    "v3": "Anticipated",
+    "gujarati": "અગાઉથી અપેક્ષા રાખવી"
+  },
+  {
+    "v1": "Appeal",
+    "v2": "Appealed",
+    "v3": "Appealed",
+    "gujarati": "અપીલ કરવી"
+  },
+  {
+    "v1": "Applaud",
+    "v2": "Applauded",
+    "v3": "Applauded",
+    "gujarati": "તાળીઓ પાડવી"
+  },
+  {
+    "v1": "Appoint",
+    "v2": "Appointed",
+    "v3": "Appointed",
+    "gujarati": "નિમણૂક કરવી"
+  },
+  {
+    "v1": "Appraise",
+    "v2": "Appraised",
+    "v3": "Appraised",
+    "gujarati": "મૂલ્યાંકન કરવું"
+  },
+  {
+    "v1": "Archive",
+    "v2": "Archived",
+    "v3": "Archived",
+    "gujarati": "સંગ્રહિત કરવું"
+  },
+  {
+    "v1": "Ascend",
+    "v2": "Ascended",
+    "v3": "Ascended",
+    "gujarati": "ઉપર ચઢવું"
+  },
+  {
+    "v1": "Assemble",
+    "v2": "Assembled",
+    "v3": "Assembled",
+    "gujarati": "એકત્ર કરવું"
+  },
+  {
+    "v1": "Assess",
+    "v2": "Assessed",
+    "v3": "Assessed",
+    "gujarati": "મૂલ્યાંકન કરવું"
+  },
+  {
+    "v1": "Assign",
+    "v2": "Assigned",
+    "v3": "Assigned",
+    "gujarati": "સોંપવું"
+  },
+  {
+    "v1": "Associate",
+    "v2": "Associated",
+    "v3": "Associated",
+    "gujarati": "જોડવું"
   }
-]
+  ][
+  {
+    "v1": "Assume",
+    "v2": "Assumed",
+    "v3": "Assumed",
+    "gujarati": "ધારી લેવું"
+  },
+  {
+    "v1": "Assault",
+    "v2": "Assaulted",
+    "v3": "Assaulted",
+    "gujarati": "હુમલો કરવો"
+  },
+  {
+    "v1": "Attach",
+    "v2": "Attached",
+    "v3": "Attached",
+    "gujarati": "જોડવું"
+  },
+  {
+    "v1": "Attract",
+    "v2": "Attracted",
+    "v3": "Attracted",
+    "gujarati": "આકર્ષવું"
+  },
+  {
+    "v1": "Authorize",
+    "v2": "Authorized",
+    "v3": "Authorized",
+    "gujarati": "અધિકૃત કરવું"
+  },
+  {
+    "v1": "Automate",
+    "v2": "Automated",
+    "v3": "Automated",
+    "gujarati": "સ્વચાલિત બનાવવું"
+  },
+  {
+    "v1": "Audit",
+    "v2": "Audited",
+    "v3": "Audited",
+    "gujarati": "હિસાબ તપાસવો"
+  },
+  {
+    "v1": "Augment",
+    "v2": "Augmented",
+    "v3": "Augmented",
+    "gujarati": "વધારવું"
+  },
+  {
+    "v1": "Authenticate",
+    "v2": "Authenticated",
+    "v3": "Authenticated",
+    "gujarati": "પ્રમાણિત કરવું"
+  },
+  {
+    "v1": "Avenge",
+    "v2": "Avenged",
+    "v3": "Avenged",
+    "gujarati": "બદલો લેવો"
+  },
+  {
+    "v1": "Average",
+    "v2": "Averaged",
+    "v3": "Averaged",
+    "gujarati": "સરેરાશ કાઢવી"
+  },
+  {
+    "v1": "Avert",
+    "v2": "Averted",
+    "v3": "Averted",
+    "gujarati": "ટાળવું"
+  },
+  {
+    "v1": "Aid",
+    "v2": "Aided",
+    "v3": "Aided",
+    "gujarati": "મદદ કરવી"
+  },
+  {
+    "v1": "Allocate",
+    "v2": "Allocated",
+    "v3": "Allocated",
+    "gujarati": "ફાળવવું"
+  },
+  {
+    "v1": "Alter",
+    "v2": "Altered",
+    "v3": "Altered",
+    "gujarati": "બદલવું"
+  },
+  {
+    "v1": "Amplify",
+    "v2": "Amplified",
+    "v3": "Amplified",
+    "gujarati": "વધારવું"
+  },
+  {
+    "v1": "Annul",
+    "v2": "Annulled",
+    "v3": "Annulled",
+    "gujarati": "રદ કરવું"
+  },
+  {
+    "v1": "Arm",
+    "v2": "Armed",
+    "v3": "Armed",
+    "gujarati": "શસ્ત્રોથી સજ્જ કરવું"
+  },
+  {
+    "v1": "Arose",
+    "v2": "Arose",
+    "v3": "Arisen",
+    "gujarati": "ઉભું થવું"
+  },
+  {
+    "v1": "Accelerate",
+    "v2": "Accelerated",
+    "v3": "Accelerated",
+    "gujarati": "ઝડપ વધારવી"
+  }
+  ]
