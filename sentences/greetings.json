@@ -16,27 +16,787 @@
     "gujarati": "શુભ રાત્રિ"
   },
   {
-    "english": "How are you?",
-    "gujarati": "તમે કેમ છો?"
+    "english": "Hello",
+    "gujarati": "નમસ્તે"
   },
   {
-    "english": "I am fine.",
-    "gujarati": "હું મજામાં છું."
+    "english": "Hi",
+    "gujarati": "હાય"
   },
   {
-    "english": "Nice to meet you.",
-    "gujarati": "તમને મળીને આનંદ થયો."
+    "english": "Hey",
+    "gujarati": "અરે"
   },
   {
-    "english": "What is your name?",
-    "gujarati": "તમારું નામ શું છે?"
+    "english": "How are you",
+    "gujarati": "તમે કેમ છો"
   },
   {
-    "english": "My name is Naresh.",
-    "gujarati": "મારું નામ નરેશ છે."
+    "english": "I am fine",
+    "gujarati": "હું મજામાં છું"
   },
   {
-    "english": "See you later.",
-    "gujarati": "પછી મળીશું."
+    "english": "How is everything",
+    "gujarati": "બધું કેમ ચાલી રહ્યું છે"
+  },
+  {
+    "english": "Nice to meet you",
+    "gujarati": "તમને મળીને આનંદ થયો"
+  },
+  {
+    "english": "Nice to see you again",
+    "gujarati": "તમને ફરી મળીને આનંદ થયો"
+  },
+  {
+    "english": "What is your name",
+    "gujarati": "તમારું નામ શું છે"
+  },
+  {
+    "english": "My name is Naresh",
+    "gujarati": "મારું નામ નરેશ છે"
+  },
+  {
+    "english": "Where are you from",
+    "gujarati": "તમે ક્યાંના છો"
+  },
+  {
+    "english": "I am from Gujarat",
+    "gujarati": "હું ગુજરાતનો છું"
+  },
+  {
+    "english": "Welcome",
+    "gujarati": "સ્વાગત છે"
+  },
+  {
+    "english": "Welcome back",
+    "gujarati": "ફરી સ્વાગત છે"
+  },
+  {
+    "english": "Please come in",
+    "gujarati": "કૃપા કરીને અંદર આવો"
+  },
+  {
+    "english": "Please have a seat",
+    "gujarati": "કૃપા કરીને બેસો"
+  },
+  {
+    "english": "How have you been",
+    "gujarati": "તમે કેમ રહ્યા છો"
+  },
+  {
+    "english": "I am doing well",
+    "gujarati": "હું સારું છું"
+  },
+  {
+    "english": "It is good to see you",
+    "gujarati": "તમને જોઈને આનંદ થયો"
+  },
+  {
+    "english": "Long time no see",
+    "gujarati": "ઘણા સમય પછી મળ્યા"
+  },
+  {
+    "english": "Have a nice day",
+    "gujarati": "તમારો દિવસ શુભ રહે"
+  },
+  {
+    "english": "Have a great day",
+    "gujarati": "તમારો દિવસ ખૂબ સારો રહે"
+  },
+  {
+    "english": "Have a wonderful day",
+    "gujarati": "તમારો દિવસ અદ્ભુત રહે"
+  },
+  {
+    "english": "Take care",
+    "gujarati": "ધ્યાન રાખજો"
+  },
+  {
+    "english": "See you later",
+    "gujarati": "પછી મળીશું"
+  },
+  {
+    "english": "See you soon",
+    "gujarati": "જલ્દી મળીશું"
+  },
+  {
+    "english": "See you tomorrow",
+    "gujarati": "કાલે મળીશું"
+  },
+  {
+    "english": "Goodbye",
+    "gujarati": "આવજો"
+  },
+  {
+    "english": "Bye",
+    "gujarati": "બાય"
+  },
+  {
+    "english": "Have a safe journey",
+    "gujarati": "તમારી મુસાફરી સુરક્ષિત રહે"
+  },
+  {
+    "english": "Take care of yourself",
+    "gujarati": "તમારી કાળજી રાખજો"
+  },
+  {
+    "english": "How is your family",
+    "gujarati": "તમારો પરિવાર કેમ છે"
+  },
+  {
+    "english": "Everyone is fine",
+    "gujarati": "બધા મજામાં છે"
+  },
+  {
+    "english": "How is your health",
+    "gujarati": "તમારી તબિયત કેવી છે"
+  },
+  {
+    "english": "I am feeling better",
+    "gujarati": "હવે મને સારું લાગે છે"
+  },
+  {
+    "english": "It is a pleasure to meet you",
+    "gujarati": "તમને મળીને આનંદ થયો"
+  },
+  {
+    "english": "Have a good evening",
+    "gujarati": "તમારી સાંજ શુભ રહે"
+  },
+  {
+    "english": "Sleep well",
+    "gujarati": "સારી ઊંઘ કરજો"
+  },
+  {
+    "english": "Sweet dreams",
+    "gujarati": "મીઠા સપના આવો"
+  },
+  {
+    "english": "Have a nice weekend",
+    "gujarati": "તમારો સપ્તાહાંત આનંદમય રહે"
+  },
+  {
+    "english": "Wish you all the best",
+    "gujarati": "તમને શુભેચ્છાઓ"
+  },
+  {
+    "english": "Take it easy",
+    "gujarati": "આરામથી રહો"
+  },
+  {
+    "english": "Glad to meet you",
+    "gujarati": "તમને મળીને ખુશી થઈ"
+  },
+  {
+    "english": "It is my pleasure",
+    "gujarati": "આ મારો આનંદ છે"
+  },
+  {
+    "english": "Hope you are doing well",
+    "gujarati": "આશા છે તમે મજામાં હશો"
+  },
+  {
+    "english": "Have a beautiful day",
+    "gujarati": "તમારો દિવસ સુંદર રહે"
+  },
+  {
+    "english": "Good to see you",
+    "gujarati": "તમને જોઈને આનંદ થયો"
+  },
+  {
+    "english": "How is your day going",
+    "gujarati": "તમારો દિવસ કેવો ચાલી રહ્યો છે"
+  },
+  {
+    "english": "How have you been lately",
+    "gujarati": "તાજેતરમાં તમે કેમ રહ્યા છો"
+  },
+  {
+    "english": "How is life",
+    "gujarati": "જીવન કેમ ચાલી રહ્યું છે"
+  },
+  {
+    "english": "Everything is fine",
+    "gujarati": "બધું બરાબર છે"
+  },
+  {
+    "english": "I am happy to see you",
+    "gujarati": "તમને જોઈને મને ખુશી થઈ"
+  },
+  {
+    "english": "Welcome to our home",
+    "gujarati": "અમારા ઘરે તમારું સ્વાગત છે"
+  },
+  {
+    "english": "Welcome to our office",
+    "gujarati": "અમારી ઓફિસમાં તમારું સ્વાગત છે"
+  },
+  {
+    "english": "Please make yourself comfortable",
+    "gujarati": "કૃપા કરીને આરામથી બેસો"
+  },
+  {
+    "english": "It is nice meeting you",
+    "gujarati": "તમને મળીને આનંદ થયો"
+  },
+  {
+    "english": "I hope you are fine",
+    "gujarati": "આશા છે તમે મજામાં હશો"
+  },
+  {
+    "english": "How is your work",
+    "gujarati": "તમારું કામ કેવું ચાલી રહ્યું છે"
+  },
+  {
+    "english": "How is your study",
+    "gujarati": "તમારો અભ્યાસ કેવો ચાલી રહ્યો છે"
+  },
+  {
+    "english": "How is your family doing",
+    "gujarati": "તમારો પરિવાર કેમ છે"
+  },
+  {
+    "english": "It has been a while",
+    "gujarati": "ઘણો સમય થઈ ગયો"
+  },
+  {
+    "english": "I missed you",
+    "gujarati": "મને તમારી યાદ આવી"
+  },
+  {
+    "english": "You look great",
+    "gujarati": "તમે ખૂબ સારા લાગો છો"
+  },
+  {
+    "english": "You look happy",
+    "gujarati": "તમે ખુશ દેખાઓ છો"
+  },
+  {
+    "english": "You look tired",
+    "gujarati": "તમે થાકેલા દેખાઓ છો"
+  },
+  {
+    "english": "How was your trip",
+    "gujarati": "તમારી મુસાફરી કેવી રહી"
+  },
+  {
+    "english": "Did you reach safely",
+    "gujarati": "શું તમે સુરક્ષિત પહોંચી ગયા"
+  },
+  {
+    "english": "It is good to have you here",
+    "gujarati": "તમારું અહીં હોવું સારું લાગે છે"
+  },
+  {
+    "english": "Thanks for coming",
+    "gujarati": "આવવા બદલ આભાર"
+  },
+  {
+    "english": "It was nice talking to you",
+    "gujarati": "તમારી સાથે વાત કરીને આનંદ થયો"
+  },
+  {
+    "english": "Hope to see you again",
+    "gujarati": "ફરી મળવાની આશા છે"
+  },
+  {
+    "english": "Have a pleasant evening",
+    "gujarati": "તમારી સાંજ આનંદમય રહે"
+  },
+  {
+    "english": "Enjoy your day",
+    "gujarati": "તમારા દિવસનો આનંદ લો"
+  },
+  {
+    "english": "Have a peaceful night",
+    "gujarati": "તમારી રાત શાંતિપૂર્ણ રહે"
+  },
+  {
+    "english": "Drive safely",
+    "gujarati": "સાવધાનીથી વાહન ચલાવો"
+  },
+  {
+    "english": "See you next time",
+    "gujarati": "આવતી વખતે મળીશું"
+  },
+  {
+    "english": "Have a safe trip",
+    "gujarati": "તમારી મુસાફરી શુભ રહે"
+  },
+  {
+    "english": "Take care and stay safe",
+    "gujarati": "ધ્યાન રાખજો અને સુરક્ષિત રહો"
+  },
+  {
+    "english": "Have a good week",
+    "gujarati": "તમારું અઠવાડિયું સારું રહે"
+  },
+  {
+    "english": "Have a productive day",
+    "gujarati": "તમારો દિવસ સફળ રહે"
+  },
+  {
+    "english": "May you have a great day",
+    "gujarati": "તમારો દિવસ ખૂબ સારો રહે"
+  },
+  {
+    "english": "Happy to meet you",
+    "gujarati": "તમને મળીને ખુશી થઈ"
+  },
+  {
+    "english": "How is everything at home",
+    "gujarati": "ઘરે બધું કેમ છે"
+  },
+  {
+    "english": "How is your business",
+    "gujarati": "તમારો વ્યવસાય કેવો ચાલી રહ્યો છે"
+  },
+  {
+    "english": "How is your office",
+    "gujarati": "તમારી ઓફિસ કેવી ચાલી રહી છે"
+  },
+  {
+    "english": "How is your college",
+    "gujarati": "તમારી કોલેજ કેવી ચાલી રહી છે"
+  },
+  {
+    "english": "Have a wonderful evening",
+    "gujarati": "તમારી સાંજ સુંદર રહે"
+  },
+  {
+    "english": "Good luck today",
+    "gujarati": "આજ માટે શુભેચ્છાઓ"
+  },
+  {
+    "english": "Best wishes to you",
+    "gujarati": "તમને હાર્દિક શુભેચ્છાઓ"
+  },
+  {
+    "english": "Warm welcome",
+    "gujarati": "હાર્દિક સ્વાગત"
+  },
+  {
+    "english": "Glad you are here",
+    "gujarati": "તમે અહીં છો તે આનંદની વાત છે"
+  },
+  {
+    "english": "It is lovely to see you",
+    "gujarati": "તમને જોઈને ખૂબ આનંદ થયો"
+  },
+  {
+    "english": "Take care until we meet again",
+    "gujarati": "ફરી મળીએ ત્યાં સુધી ધ્યાન રાખજો"
+  },
+  {
+    "english": "Hope you have a great time",
+    "gujarati": "આશા છે તમારો સમય સારો પસાર થશે"
+  },
+  {
+    "english": "Have a joyful day",
+    "gujarati": "તમારો દિવસ આનંદમય રહે"
+  },
+  {
+    "english": "See you around",
+    "gujarati": "ફરી મળીશું"
+  },
+  {
+    "english": "Happy birthday",
+    "gujarati": "જન્મદિવસની શુભેચ્છાઓ"
+  },
+  {
+    "english": "Many happy returns of the day",
+    "gujarati": "જન્મદિવસની હાર્દિક શુભેચ્છાઓ"
+  },
+  {
+    "english": "Happy anniversary",
+    "gujarati": "લગ્નવાર્ષિકીની શુભેચ્છાઓ"
+  },
+  {
+    "english": "Congratulations",
+    "gujarati": "અભિનંદન"
+  },
+  {
+    "english": "Congratulations on your success",
+    "gujarati": "તમારી સફળતા માટે અભિનંદન"
+  },
+  {
+    "english": "Best of luck",
+    "gujarati": "શુભકામનાઓ"
+  },
+  {
+    "english": "Good luck",
+    "gujarati": "શુભેચ્છાઓ"
+  },
+  {
+    "english": "Have fun",
+    "gujarati": "આનંદ કરો"
+  },
+  {
+    "english": "Enjoy your vacation",
+    "gujarati": "તમારી રજાનો આનંદ લો"
+  },
+  {
+    "english": "Enjoy your journey",
+    "gujarati": "તમારી મુસાફરીનો આનંદ લો"
+  },
+  {
+    "english": "Safe travels",
+    "gujarati": "સુરક્ષિત મુસાફરી કરો"
+  },
+  {
+    "english": "Have a safe flight",
+    "gujarati": "તમારી હવાઈ મુસાફરી સુરક્ષિત રહે"
+  },
+  {
+    "english": "Have a safe drive",
+    "gujarati": "સુરક્ષિત વાહન ચલાવો"
+  },
+  {
+    "english": "Welcome home",
+    "gujarati": "ઘરે તમારું સ્વાગત છે"
+  },
+  {
+    "english": "It is an honor to meet you",
+    "gujarati": "તમને મળવું મારા માટે ગૌરવની વાત છે"
+  },
+  {
+    "english": "How do you do",
+    "gujarati": "તમને મળીને આનંદ થયો"
+  },
+  {
+    "english": "What brings you here",
+    "gujarati": "તમને અહીં શું લાવ્યું"
+  },
+  {
+    "english": "How was your weekend",
+    "gujarati": "તમારો સપ્તાહાંત કેવો રહ્યો"
+  },
+  {
+    "english": "How was your holiday",
+    "gujarati": "તમારી રજા કેવી રહી"
+  },
+  {
+    "english": "How are things going",
+    "gujarati": "બધી બાબતો કેવી ચાલી રહી છે"
+  },
+  {
+    "english": "How is everything with you",
+    "gujarati": "તમારી સાથે બધું કેમ છે"
+  },
+  {
+    "english": "It is wonderful to meet you",
+    "gujarati": "તમને મળીને ખૂબ આનંદ થયો"
+  },
+  {
+    "english": "I hope everything is fine",
+    "gujarati": "આશા છે બધું સારું હશે"
+  },
+  {
+    "english": "Good to have you back",
+    "gujarati": "તમને ફરી જોઈને આનંદ થયો"
+  },
+  {
+    "english": "Welcome once again",
+    "gujarati": "ફરી એકવાર સ્વાગત છે"
+  },
+  {
+    "english": "It is always nice to see you",
+    "gujarati": "તમને જોવું હંમેશા આનંદ આપે છે"
+  },
+  {
+    "english": "You made my day",
+    "gujarati": "તમે મારો દિવસ ખુશ કરી દીધો"
+  },
+  {
+    "english": "It is great to have you here",
+    "gujarati": "તમારું અહીં હોવું ખૂબ સારું લાગે છે"
+  },
+  {
+    "english": "Have a cheerful day",
+    "gujarati": "તમારો દિવસ ખુશીઓથી ભરેલો રહે"
+  },
+  {
+    "english": "May your day be wonderful",
+    "gujarati": "તમારો દિવસ અદ્ભુત રહે"
+  },
+  {
+    "english": "May you stay healthy",
+    "gujarati": "તમે હંમેશા સ્વસ્થ રહો"
+  },
+  {
+    "english": "Wishing you happiness",
+    "gujarati": "તમને ખુશીઓની શુભેચ્છા"
+  },
+  {
+    "english": "Wishing you success",
+    "gujarati": "તમને સફળતાની શુભેચ્છા"
+  },
+  {
+    "english": "Good to hear from you",
+    "gujarati": "તમારા સમાચાર સાંભળીને આનંદ થયો"
+  },
+  {
+    "english": "It has been too long",
+    "gujarati": "ઘણો લાંબો સમય થઈ ગયો"
+  },
+  {
+    "english": "I hope we meet again soon",
+    "gujarati": "આશા છે આપણે જલ્દી ફરી મળીશું"
+  },
+  {
+    "english": "Please visit again",
+    "gujarati": "ફરી જરૂર આવજો"
+  },
+  {
+    "english": "Keep in touch",
+    "gujarati": "સંપર્કમાં રહેજો"
+  },
+  {
+    "english": "Talk to you soon",
+    "gujarati": "જલ્દી વાત કરીશું"
+  },
+  {
+    "english": "Catch you later",
+    "gujarati": "પછી મળીશું"
+  },
+  {
+    "english": "Have a lovely morning",
+    "gujarati": "તમારી સવાર સુંદર રહે"
+  },
+  {
+    "english": "Have a relaxing evening",
+    "gujarati": "તમારી સાંજ આરામદાયક રહે"
+  },
+  {
+    "english": "Have a peaceful weekend",
+    "gujarati": "તમારો સપ્તાહાંત શાંતિપૂર્ણ રહે"
+  },
+  {
+    "english": "Take care on your way",
+    "gujarati": "રસ્તામાં ધ્યાન રાખજો"
+  },
+  {
+    "english": "I am glad you came",
+    "gujarati": "તમે આવ્યા તેનો આનંદ છે"
+  },
+  {
+    "english": "Welcome everyone",
+    "gujarati": "બધાનું સ્વાગત છે"
+  },
+  {
+    "english": "Please enjoy your stay",
+    "gujarati": "અહીં રોકાણનો આનંદ લો"
+  },
+  {
+    "english": "Have a blessed day",
+    "gujarati": "તમારો દિવસ શુભ રહે"
+  },
+  {
+    "english": "It was a pleasure meeting you",
+    "gujarati": "તમને મળીને આનંદ થયો"
+  },
+  {
+    "english": "Until next time",
+    "gujarati": "આવતી મુલાકાત સુધી આવજો"
+  },
+  {
+    "english": "Good day",
+    "gujarati": "શુભ દિવસ"
+  },
+  {
+    "english": "Greetings",
+    "gujarati": "શુભેચ્છાઓ"
+  },
+  {
+    "english": "A warm welcome to you",
+    "gujarati": "તમારું હાર્દિક સ્વાગત છે"
+  },
+  {
+    "english": "Welcome aboard",
+    "gujarati": "તમારું હાર્દિક સ્વાગત છે"
+  },
+  {
+    "english": "It is a pleasure to have you here",
+    "gujarati": "તમારું અહીં હોવું આનંદની વાત છે"
+  },
+  {
+    "english": "Thank you for visiting",
+    "gujarati": "મુલાકાત લેવા બદલ આભાર"
+  },
+  {
+    "english": "I hope you enjoy your stay",
+    "gujarati": "આશા છે તમારું રોકાણ આનંદદાયક રહેશે"
+  },
+  {
+    "english": "How is your morning",
+    "gujarati": "તમારી સવાર કેવી રહી"
+  },
+  {
+    "english": "How is your evening",
+    "gujarati": "તમારી સાંજ કેવી રહી"
+  },
+  {
+    "english": "How was your night",
+    "gujarati": "તમારી રાત કેવી રહી"
+  },
+  {
+    "english": "How are your parents",
+    "gujarati": "તમારા માતા પિતા કેમ છે"
+  },
+  {
+    "english": "How are your children",
+    "gujarati": "તમારા બાળકો કેમ છે"
+  },
+  {
+    "english": "How is your friend",
+    "gujarati": "તમારો મિત્ર કેમ છે"
+  },
+  {
+    "english": "How is your brother",
+    "gujarati": "તમારો ભાઈ કેમ છે"
+  },
+  {
+    "english": "How is your sister",
+    "gujarati": "તમારી બહેન કેમ છે"
+  },
+  {
+    "english": "I am glad to hear that",
+    "gujarati": "એ સાંભળીને આનંદ થયો"
+  },
+  {
+    "english": "I hope you are happy",
+    "gujarati": "આશા છે તમે ખુશ હશો"
+  },
+  {
+    "english": "I wish you a wonderful day",
+    "gujarati": "હું તમને અદ્ભુત દિવસની શુભેચ્છા આપું છું"
+  },
+  {
+    "english": "Have a successful day",
+    "gujarati": "તમારો દિવસ સફળ રહે"
+  },
+  {
+    "english": "Have a fantastic day",
+    "gujarati": "તમારો દિવસ અદ્ભુત રહે"
+  },
+  {
+    "english": "Enjoy every moment",
+    "gujarati": "દરેક ક્ષણનો આનંદ લો"
+  },
+  {
+    "english": "Have a peaceful morning",
+    "gujarati": "તમારી સવાર શાંતિપૂર્ણ રહે"
+  },
+  {
+    "english": "Have a bright future",
+    "gujarati": "તમારું ભવિષ્ય ઉજ્જવળ રહે"
+  },
+  {
+    "english": "May all your dreams come true",
+    "gujarati": "તમારા બધા સપના સાકાર થાય"
+  },
+  {
+    "english": "Take care always",
+    "gujarati": "હંમેશા ધ્યાન રાખજો"
+  },
+  {
+    "english": "Stay healthy",
+    "gujarati": "સ્વસ્થ રહો"
+  },
+  {
+    "english": "Stay happy",
+    "gujarati": "ખુશ રહો"
+  },
+  {
+    "english": "Stay positive",
+    "gujarati": "હકારાત્મક રહો"
+  },
+  {
+    "english": "Stay blessed",
+    "gujarati": "હંમેશા આશીર્વાદિત રહો"
+  },
+  {
+    "english": "Have a safe return",
+    "gujarati": "સુરક્ષિત પાછા ફરો"
+  },
+  {
+    "english": "Come again soon",
+    "gujarati": "ફરી જલ્દી આવજો"
+  },
+  {
+    "english": "Visit us again",
+    "gujarati": "અમને ફરી મળવા આવજો"
+  },
+  {
+    "english": "Looking forward to seeing you again",
+    "gujarati": "ફરી મળવાની રાહ જોઈ રહ્યો છું"
+  },
+  {
+    "english": "It was wonderful meeting you",
+    "gujarati": "તમને મળીને ખૂબ આનંદ થયો"
+  },
+  {
+    "english": "Thank you for your time",
+    "gujarati": "તમારા સમય માટે આભાર"
+  },
+  {
+    "english": "Have a cheerful evening",
+    "gujarati": "તમારી સાંજ આનંદમય રહે"
+  },
+  {
+    "english": "Goodbye and take care",
+    "gujarati": "આવજો અને ધ્યાન રાખજો"
+  },
+  {
+    "english": "Farewell",
+    "gujarati": "વિદાય"
+  },
+  {
+    "english": "See you again",
+    "gujarati": "ફરી મળીશું"
+  },
+  {
+    "english": "Meet you soon",
+    "gujarati": "જલ્દી મળીશું"
+  },
+  {
+    "english": "Have a pleasant journey",
+    "gujarati": "તમારી મુસાફરી સુખદ રહે"
+  },
+  {
+    "english": "Travel safely",
+    "gujarati": "સુરક્ષિત મુસાફરી કરો"
+  },
+  {
+    "english": "Take care of your health",
+    "gujarati": "તમારી તબિયતનું ધ્યાન રાખજો"
+  },
+  {
+    "english": "Have a peaceful life",
+    "gujarati": "તમારું જીવન શાંતિપૂર્ણ રહે"
+  },
+  {
+    "english": "May God bless you",
+    "gujarati": "ભગવાન તમને આશીર્વાદ આપે"
+  },
+  {
+    "english": "Have a joyful life",
+    "gujarati": "તમારું જીવન આનંદમય રહે"
+  },
+  {
+    "english": "Hope to meet you soon",
+    "gujarati": "આશા છે જલ્દી મળીશું"
+  },
+  {
+    "english": "See you next week",
+    "gujarati": "આવતા અઠવાડિયે મળીશું"
+  },
+  {
+    "english": "See you next month",
+    "gujarati": "આવતા મહિને મળીશું"
+  },
+  {
+    "english": "Have a wonderful life",
+    "gujarati": "તમારું જીવન અદ્ભુત રહે"
   }
 ]
