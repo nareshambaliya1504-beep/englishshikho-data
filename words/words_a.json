@@ -1,178 +1,402 @@
 [
   {
-    "english": "Apple",
-    "gujarati": "સફરજન"
+    "english": "Ability",
+    "gujarati": "ક્ષમતા"
   },
   {
-    "english": "Animal",
-    "gujarati": "પ્રાણી"
+    "english": "Absence",
+    "gujarati": "ગેરહાજરી"
   },
   {
-    "english": "Airplane",
+    "english": "Accent",
+    "gujarati": "ઉચ્ચાર"
+  },
+  {
+    "english": "Accident",
+    "gujarati": "અકસ્માત"
+  },
+  {
+    "english": "Account",
+    "gujarati": "ખાતું"
+  },
+  {
+    "english": "Achievement",
+    "gujarati": "સિદ્ધિ"
+  },
+  {
+    "english": "Acid",
+    "gujarati": "એસિડ"
+  },
+  {
+    "english": "Action",
+    "gujarati": "ક્રિયા"
+  },
+  {
+    "english": "Activity",
+    "gujarati": "પ્રવૃત્તિ"
+  },
+  {
+    "english": "Address",
+    "gujarati": "સરનામું"
+  },
+  {
+    "english": "Adult",
+    "gujarati": "પુખ્ત વયનો"
+  },
+  {
+    "english": "Advertisement",
+    "gujarati": "જાહેરાત"
+  },
+  {
+    "english": "Affection",
+    "gujarati": "સ્નેહ"
+  },
+  {
+    "english": "Agency",
+    "gujarati": "એજન્સી"
+  },
+  {
+    "english": "Agriculture",
+    "gujarati": "કૃષિ"
+  },
+  {
+    "english": "Air",
+    "gujarati": "હવા"
+  },
+  {
+    "english": "Aircraft",
     "gujarati": "વિમાન"
   },
   {
-    "english": "Ant",
-    "gujarati": "કીડી"
+    "english": "Aisle",
+    "gujarati": "રસ્તો"
   },
   {
-    "english": "Actor",
-    "gujarati": "અભિનેતા"
+    "english": "Ambition",
+    "gujarati": "મહત્વાકાંક્ષા"
   },
   {
-    "english": "Actress",
-    "gujarati": "અભિનેત્રી"
+    "english": "Amount",
+    "gujarati": "રકમ"
   },
   {
-    "english": "Adventure",
-    "gujarati": "સાહસ"
+    "english": "Ancestor",
+    "gujarati": "પૂર્વજ"
   },
   {
-    "english": "Advice",
-    "gujarati": "સલાહ"
+    "english": "Ankle",
+    "gujarati": "ઘૂંટી"
   },
   {
-    "english": "Afternoon",
-    "gujarati": "બપોર"
+    "english": "Anniversary",
+    "gujarati": "વર્ષગાંઠ"
   },
   {
-    "english": "Age",
-    "gujarati": "ઉંમર"
+    "english": "Anxiety",
+    "gujarati": "ચિંતા"
   },
   {
-    "english": "Agreement",
-    "gujarati": "કરાર"
+    "english": "Application",
+    "gujarati": "અરજી"
   },
   {
-    "english": "Airport",
-    "gujarati": "વિમાનમથક"
+    "english": "Appointment",
+    "gujarati": "મુલાકાતનો સમય"
   },
   {
-    "english": "Alarm",
-    "gujarati": "એલાર્મ"
+    "english": "Apron",
+    "gujarati": "એપ્રન"
   },
   {
-    "english": "Album",
-    "gujarati": "આલ્બમ"
+    "english": "Aquarium",
+    "gujarati": "માછલીઘર"
   },
   {
-    "english": "Alcohol",
-    "gujarati": "દારૂ"
+    "english": "Arc",
+    "gujarati": "ચાપ"
   },
   {
-    "english": "Alphabet",
-    "gujarati": "વર્ણમાળા"
+    "english": "Arrow",
+    "gujarati": "તીર"
   },
   {
-    "english": "Ambulance",
-    "gujarati": "એમ્બ્યુલન્સ"
+    "english": "Ashtray",
+    "gujarati": "રાખદાણી"
   },
   {
-    "english": "America",
-    "gujarati": "અમેરિકા"
+    "english": "Aspect",
+    "gujarati": "પાસું"
   },
   {
-    "english": "Angel",
-    "gujarati": "દેવદૂત"
+    "english": "Assignment",
+    "gujarati": "સોંપણી"
   },
   {
-    "english": "Anger",
-    "gujarati": "ગુસ્સો"
+    "english": "Association",
+    "gujarati": "સંસ્થા"
   },
   {
-    "english": "Answer",
-    "gujarati": "જવાબ"
+    "english": "Assurance",
+    "gujarati": "ખાતરી"
   },
   {
-    "english": "Apartment",
-    "gujarati": "ફ્લેટ"
+    "english": "Astronaut",
+    "gujarati": "અવકાશયાત્રી"
   },
   {
-    "english": "Apology",
-    "gujarati": "માફી"
+    "english": "Astronomy",
+    "gujarati": "ખગોળશાસ્ત્ર"
   },
   {
-    "english": "Area",
-    "gujarati": "વિસ્તાર"
+    "english": "Attraction",
+    "gujarati": "આકર્ષણ"
   },
   {
-    "english": "Arm",
-    "gujarati": "હાથ"
+    "english": "Auction",
+    "gujarati": "હરાજી"
   },
   {
-    "english": "Army",
-    "gujarati": "સેના"
+    "english": "Avenue",
+    "gujarati": "માર્ગ"
   },
   {
-    "english": "Art",
-    "gujarati": "કલા"
+    "english": "Average",
+    "gujarati": "સરેરાશ"
   },
   {
-    "english": "Artist",
-    "gujarati": "કલાકાર"
+    "english": "Avocado",
+    "gujarati": "એવોકાડો"
   },
   {
-    "english": "Ash",
-    "gujarati": "રાખ"
-  },
-  {
-    "english": "Asia",
-    "gujarati": "એશિયા"
-  },
-  {
-    "english": "Assistant",
-    "gujarati": "સહાયક"
-  },
-  {
-    "english": "Athlete",
-    "gujarati": "ખેલાડી"
-  },
-  {
-    "english": "Atmosphere",
-    "gujarati": "વાતાવરણ"
-  },
-  {
-    "english": "Attack",
-    "gujarati": "હુમલો"
-  },
-  {
-    "english": "Attention",
-    "gujarati": "ધ્યાન"
-  },
-  {
-    "english": "Attitude",
-    "gujarati": "વલણ"
-  },
-  {
-    "english": "Audience",
-    "gujarati": "પ્રેક્ષકો"
-  },
-  {
-    "english": "Aunt",
-    "gujarati": "કાકી"
-  },
-  {
-    "english": "Author",
-    "gujarati": "લેખક"
-  },
-  {
-    "english": "Auto",
-    "gujarati": "ઓટો"
-  },
-  {
-    "english": "Autumn",
-    "gujarati": "પાનખર"
-  },
-  {
-    "english": "Award",
-    "gujarati": "પુરસ્કાર"
-  },
-  {
-    "english": "Awareness",
+    "english": "Awakening",
     "gujarati": "જાગૃતિ"
   },
   {
-    "english": "Ax",
-    "gujarati": "કુહાડી"
+    "english": "Awarding",
+    "gujarati": "પુરસ્કાર વિતરણ"
+  },
+  {
+    "english": "Awning",
+    "gujarati": "છાજલી"
+  },
+  {
+    "english": "Axis",
+    "gujarati": "ધરી"
+  },
+  {
+    "english": "Abroad",
+    "gujarati": "વિદેશ"
+  },
+  {
+    "english": "Abbey",
+    "gujarati": "મઠ"
+  },
+  {
+    "english": "Abbot",
+    "gujarati": "મઠાધિપતિ"
+  },
+  {
+    "english": "Abbreviation",
+    "gujarati": "સંક્ષેપ"
+  },
+  {
+    "english": "Abuse",
+    "gujarati": "દુરુપયોગ"
+  },
+  {
+    "english": "Academy",
+    "gujarati": "એકેડમી"
+  },
+  {
+    "english": "Access",
+    "gujarati": "પ્રવેશ"
+  },
+  {
+    "english": "Accommodation",
+    "gujarati": "રહેઠાણ"
+  },
+  {
+    "english": "Acquaintance",
+    "gujarati": "ઓળખાણ"
+  },
+  {
+    "english": "Acre",
+    "gujarati": "એકર"
+  },
+  {
+    "english": "Addition",
+    "gujarati": "ઉમેરો"
+  },
+  {
+    "english": "Adjustment",
+    "gujarati": "ગોઠવણ"
+  },
+  {
+    "english": "Administration",
+    "gujarati": "વહીવટ"
+  },
+  {
+    "english": "Administrator",
+    "gujarati": "સંચાલક"
+  },
+  {
+    "english": "Admission",
+    "gujarati": "પ્રવેશ"
+  },
+  {
+    "english": "Adoption",
+    "gujarati": "દત્તક લેવું"
+  },
+  {
+    "english": "Advance",
+    "gujarati": "પ્રગતિ"
+  },
+  {
+    "english": "Advantage",
+    "gujarati": "ફાયદો"
+  },
+  {
+    "english": "Adventureland",
+    "gujarati": "સાહસિક સ્થળ"
+  },
+  {
+    "english": "Advisor",
+    "gujarati": "સલાહકાર"
+  },
+  {
+    "english": "Affair",
+    "gujarati": "બાબત"
+  },
+  {
+    "english": "Affiliation",
+    "gujarati": "જોડાણ"
+  },
+  {
+    "english": "Agenda",
+    "gujarati": "કાર્યસૂચિ"
+  },
+  {
+    "english": "Agent",
+    "gujarati": "એજન્ટ"
+  },
+  {
+    "english": "Aggression",
+    "gujarati": "આક્રમકતા"
+  },
+  {
+    "english": "Aid",
+    "gujarati": "મદદ"
+  },
+  {
+    "english": "Ailment",
+    "gujarati": "બીમારી"
+  },
+  {
+    "english": "Airbag",
+    "gujarati": "એરબેગ"
+  },
+  {
+    "english": "Airline",
+    "gujarati": "એરલાઇન"
+  },
+  {
+    "english": "Airport Terminal",
+    "gujarati": "વિમાનમથક ટર્મિનલ"
+  },
+  {
+    "english": "Alarm Clock",
+    "gujarati": "અલાર્મ ઘડિયાળ"
+  },
+  {
+    "english": "Alley",
+    "gujarati": "ગલી"
+  },
+  {
+    "english": "Alliance",
+    "gujarati": "જોડાણ"
+  },
+  {
+    "english": "Allowance",
+    "gujarati": "ભથ્થું"
+  },
+  {
+    "english": "Almond",
+    "gujarati": "બદામ"
+  },
+  {
+    "english": "Altitude",
+    "gujarati": "ઊંચાઈ"
+  },
+  {
+    "english": "Amateur",
+    "gujarati": "શોખીન"
+  },
+  {
+    "english": "Amazement",
+    "gujarati": "આશ્ચર્ય"
+  },
+  {
+    "english": "Ambassador",
+    "gujarati": "રાજદૂત"
+  },
+  {
+    "english": "Ambulatory",
+    "gujarati": "ચાલવા યોગ્ય"
+  },
+  {
+    "english": "Amendment",
+    "gujarati": "સુધારો"
+  },
+  {
+    "english": "Ammo",
+    "gujarati": "દારૂગોળો"
+  },
+  {
+    "english": "Amusement",
+    "gujarati": "મનોરંજન"
+  },
+  {
+    "english": "Analyst",
+    "gujarati": "વિશ્લેષક"
+  },
+  {
+    "english": "Android",
+    "gujarati": "એન્ડ્રોઇડ"
+  },
+  {
+    "english": "Angle",
+    "gujarati": "ખૂણો"
+  },
+  {
+    "english": "Announcement",
+    "gujarati": "જાહેરાત"
+  },
+  {
+    "english": "Antenna",
+    "gujarati": "એન્ટેના"
+  },
+  {
+    "english": "Antique",
+    "gujarati": "પ્રાચીન વસ્તુ"
+  },
+  {
+    "english": "Antivirus",
+    "gujarati": "એન્ટીવાયરસ"
+  },
+  {
+    "english": "Apartment Building",
+    "gujarati": "ફ્લેટ બિલ્ડિંગ"
+  },
+  {
+    "english": "Appliance",
+    "gujarati": "ઘરેલું ઉપકરણ"
+  },
+  {
+    "english": "Approval",
+    "gujarati": "મંજૂરી"
+  },
+  {
+    "english": "Arch",
+    "gujarati": "કમાન"
   }
 ]
