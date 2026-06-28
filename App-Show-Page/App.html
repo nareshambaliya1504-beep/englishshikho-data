@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Naresh Apps</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -17,7 +18,7 @@ font-family:'Poppins',sans-serif;
 }
 
 body{
-background:linear-gradient(135deg,#0f172a,#1e293b,#2563eb);
+background:linear-gradient(135deg,#0F172A,#1E3A8A,#2563EB);
 min-height:100vh;
 }
 
@@ -28,14 +29,13 @@ color:white;
 }
 
 header h1{
-font-size:45px;
-font-weight:700;
+font-size:42px;
 }
 
 header p{
-margin-top:12px;
-font-size:18px;
+margin-top:10px;
 opacity:.9;
+font-size:18px;
 }
 
 .container{
@@ -48,79 +48,75 @@ gap:30px;
 }
 
 .card{
-
 background:white;
 border-radius:25px;
 overflow:hidden;
-box-shadow:0 15px 35px rgba(0,0,0,.25);
-transition:.35s;
+box-shadow:0 15px 35px rgba(0,0,0,.2);
+transition:.3s;
 }
 
 .card:hover{
-
-transform:translateY(-12px);
+transform:translateY(-10px);
 }
 
 .icon{
-
 padding:30px;
+background:#f8fafc;
 display:flex;
 justify-content:center;
-background:#f5f5f5;
 }
 
 .icon img{
-
 width:130px;
 height:130px;
-border-radius:28px;
+border-radius:25px;
 object-fit:cover;
 }
 
 .content{
-
 padding:25px;
 text-align:center;
 }
 
 .content h2{
-
-font-size:28px;
 margin-bottom:12px;
-color:#222;
+font-size:28px;
 }
 
 .content p{
-
-color:#666;
+color:#555;
 line-height:1.7;
 margin-bottom:20px;
 }
 
-.download{
-
+.btn{
 display:inline-block;
-background:#16a34a;
+padding:14px 25px;
+background:#16A34A;
 color:white;
-padding:14px 28px;
 text-decoration:none;
 font-weight:bold;
-border-radius:12px;
+border-radius:10px;
 transition:.3s;
 }
 
-.download:hover{
+.btn:hover{
+background:#15803D;
+}
 
-background:#15803d;
+.coming{
+background:#F59E0B;
+}
+
+.coming:hover{
+background:#D97706;
 }
 
 footer{
-
-margin-top:60px;
+margin-top:50px;
 padding:25px;
 text-align:center;
 color:white;
-font-size:15px;
 }
 
 </style>
@@ -133,17 +129,19 @@ font-size:15px;
 
 <h1>📱 Naresh Apps</h1>
 
-<p>Discover and download my Android applications from Google Play.</p>
+<p>Explore my Android applications.</p>
 
 </header>
 
 <div class="container">
 
+<!-- English Shikho -->
+
 <div class="card">
 
 <div class="icon">
 
-<img src="https://raw.githubusercontent.com/nareshambaliya1504-beep/GitPractice/e5f7c2b93f68f374507f6e5ac69d7a4478050267/Img/Englishshikho.png">
+<img src="https://avatars.githubusercontent.com/u/292744313?v=4">
 
 </div>
 
@@ -152,21 +150,24 @@ font-size:15px;
 <h2>📘 English Shikho</h2>
 
 <p>
-Learn English from Gujarati with vocabulary, verbs,
-grammar, daily sentences, pronunciation and interactive tests.
+Learn English from Gujarati with vocabulary,
+grammar, daily sentences, pronunciation,
+quizzes and interactive tests.
 </p>
 
-<a class="download"
-href="YOUR_ENGLISH_SHIKHO_PLAYSTORE_LINK"
-target="_blank">
+<a class="btn coming"
+href="#"
+onclick="alert('🚀 English Shikho is coming soon on Google Play!'); return false;">
 
-📥 Download from Play Store
+🚀 Coming Soon
 
 </a>
 
 </div>
 
 </div>
+
+<!-- Hira Card -->
 
 <div class="card">
 
@@ -181,11 +182,11 @@ target="_blank">
 <h2>💎 Hira Card</h2>
 
 <p>
-Professional digital business card specially designed
-for the diamond industry with easy sharing.
+Professional digital business card
+for the diamond industry.
 </p>
 
-<a class="download"
+<a class="btn"
 href="https://play.google.com/store/apps/details?id=com.hiracard"
 target="_blank">
 
@@ -196,6 +197,8 @@ target="_blank">
 </div>
 
 </div>
+
+<!-- Bharat Yatra -->
 
 <div class="card">
 
@@ -210,11 +213,12 @@ target="_blank">
 <h2>🇮🇳 Bharat Yatra Gallery</h2>
 
 <p>
-Explore India's beautiful destinations, maps,
-travel memories and stunning photo collections.
+Explore India through maps,
+travel memories, beautiful places
+and photo galleries.
 </p>
 
-<a class="download"
+<a class="btn"
 href="https://play.google.com/store/apps/details?id=com.bharatyatra.gallerymap"
 target="_blank">
 
