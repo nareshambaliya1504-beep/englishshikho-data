@@ -1,22 +1,403 @@
 [
   {
-    "english": "Help! Naresh",
-    "gujarati": "મદદ કરો!"
+    "english": "Call an ambulance immediately.",
+    "gujarati": "તાત્કાલિક એમ્બ્યુલન્સ બોલાવો."
+  },
+  {
+    "english": "Please help me.",
+    "gujarati": "મહેરબાની કરીને મારી મદદ કરો."
+  },
+  {
+    "english": "There is an emergency.",
+    "gujarati": "અહીં એક આપાતકાલીન પરિસ્થિતિ છે."
   },
   {
     "english": "Call the police.",
     "gujarati": "પોલીસને બોલાવો."
   },
   {
-    "english": "Call an ambulance.",
-    "gujarati": "એમ્બ્યુલન્સ બોલાવો."
+    "english": "Someone is injured.",
+    "gujarati": "કોઈ વ્યક્તિ ઘાયલ છે."
   },
   {
-    "english": "There is a fire.",
-    "gujarati": "આગ લાગી છે."
+    "english": "He is unconscious.",
+    "gujarati": "તે બેભાન છે."
   },
   {
-    "english": "I need help urgently.",
-    "gujarati": "મને તાત્કાલિક મદદ જોઈએ."
+    "english": "She is bleeding.",
+    "gujarati": "તેને લોહી વહી રહ્યું છે."
+  },
+  {
+    "english": "Take him to the hospital.",
+    "gujarati": "તેને હોસ્પિટલમાં લઈ જાઓ."
+  },
+  {
+    "english": "The building is on fire.",
+    "gujarati": "ઈમારતમાં આગ લાગી છે."
+  },
+  {
+    "english": "Get out immediately.",
+    "gujarati": "તાત્કાલિક બહાર નીકળો."
+  },
+  {
+    "english": "Stay calm.",
+    "gujarati": "શાંત રહો."
+  },
+  {
+    "english": "Don't panic.",
+    "gujarati": "ગભરાશો નહીં."
+  },
+  {
+    "english": "We need help.",
+    "gujarati": "અમને મદદની જરૂર છે."
+  },
+  {
+    "english": "Is everyone safe?",
+    "gujarati": "શું બધા સુરક્ષિત છે?"
+  },
+  {
+    "english": "Move away from the fire.",
+    "gujarati": "આગથી દૂર જાઓ."
+  },
+  {
+    "english": "Keep a safe distance.",
+    "gujarati": "સલામત અંતર રાખો."
+  },
+  {
+    "english": "The road is blocked.",
+    "gujarati": "રસ્તો બંધ છે."
+  },
+  {
+    "english": "Drive carefully.",
+    "gujarati": "સાવધાનીપૂર્વક વાહન ચલાવો."
+  },
+  {
+    "english": "There has been an accident.",
+    "gujarati": "અકસ્માત થયો છે."
+  },
+  {
+    "english": "Can you hear me?",
+    "gujarati": "શું તમે મને સાંભળી શકો છો?"
+  },
+  {
+    "english": "Open your eyes.",
+    "gujarati": "તમારી આંખો ખોલો."
+  },
+  {
+    "english": "Take a deep breath.",
+    "gujarati": "ઊંડો શ્વાસ લો."
+  },
+  {
+    "english": "The situation is under control.",
+    "gujarati": "પરિસ્થિતિ નિયંત્રણમાં છે."
+  },
+  {
+    "english": "Please stay here.",
+    "gujarati": "મહેરબાની કરીને અહીં જ રહો."
+  },
+  {
+    "english": "Help is on the way.",
+    "gujarati": "મદદ રસ્તામાં છે."
+  },
+  {
+    "english": "The patient is having trouble breathing.",
+    "gujarati": "દર્દીને શ્વાસ લેવામાં તકલીફ થઈ રહી છે."
+  },
+  {
+    "english": "Call the fire department.",
+    "gujarati": "ફાયર વિભાગને બોલાવો."
+  },
+  {
+    "english": "We need medical assistance.",
+    "gujarati": "અમને તબીબી મદદની જરૂર છે."
+  },
+  {
+    "english": "The child is missing.",
+    "gujarati": "બાળક ગુમ થઈ ગયું છે."
+  },
+  {
+    "english": "Someone stole my wallet.",
+    "gujarati": "કોઈએ મારું પાકીટ ચોરી લીધું."
+  },
+  {
+    "english": "Please call the emergency number.",
+    "gujarati": "મહેરબાની કરીને આપાતકાલીન નંબર પર ફોન કરો."
+  },
+  {
+    "english": "Turn off the main power.",
+    "gujarati": "મુખ્ય વીજ પુરવઠો બંધ કરો."
+  },
+  {
+    "english": "There is a gas leak.",
+    "gujarati": "ગેસ લીક થઈ રહ્યો છે."
+  },
+  {
+    "english": "Open all the windows.",
+    "gujarati": "બધી બારીઓ ખોલો."
+  },
+  {
+    "english": "Don't touch the electric wire.",
+    "gujarati": "વીજ તારને સ્પર્શ કરશો નહીં."
+  },
+  {
+    "english": "He needs first aid.",
+    "gujarati": "તેને પ્રાથમિક સારવારની જરૂર છે."
+  },
+  {
+    "english": "She has a high fever.",
+    "gujarati": "તેને ખૂબ તાવ છે."
+  },
+  {
+    "english": "The baby is crying continuously.",
+    "gujarati": "બાળક સતત રડી રહ્યું છે."
+  },
+  {
+    "english": "Please stay with the patient.",
+    "gujarati": "મહેરબાની કરીને દર્દી સાથે રહો."
+  },
+  {
+    "english": "The doctor is on the way.",
+    "gujarati": "ડૉક્ટર રસ્તામાં છે."
+  },
+  {
+    "english": "Do not move the injured person.",
+    "gujarati": "ઘાયલ વ્યક્તિને ખસેડશો નહીં."
+  },
+  {
+    "english": "Apply pressure to the wound.",
+    "gujarati": "ઘા પર દબાણ આપો."
+  },
+  {
+    "english": "The bleeding has stopped.",
+    "gujarati": "લોહી વહેતું બંધ થઈ ગયું છે."
+  },
+  {
+    "english": "He is feeling dizzy.",
+    "gujarati": "તેને ચક્કર આવી રહ્યા છે."
+  },
+  {
+    "english": "She has fainted.",
+    "gujarati": "તે બેભાન થઈ ગઈ છે."
+  },
+  {
+    "english": "Check his pulse.",
+    "gujarati": "તેની નાડી તપાસો."
+  },
+  {
+    "english": "Call his family immediately.",
+    "gujarati": "તાત્કાલિક તેના પરિવારને ફોન કરો."
+  },
+  {
+    "english": "The ambulance has arrived.",
+    "gujarati": "એમ્બ્યુલન્સ આવી ગઈ છે."
+  },
+  {
+    "english": "Everything will be okay.",
+    "gujarati": "બધું ઠીક થઈ જશે."
+  },
+  {
+    "english": "Thank you for your quick help.",
+    "gujarati": "તમારી ઝડપી મદદ માટે આભાર."
+  },
+  {
+    "english": "The house is filling with smoke.",
+    "gujarati": "ઘરમાં ધુમાડો ભરાઈ રહ્યો છે."
+  },
+  {
+    "english": "Evacuate the building immediately.",
+    "gujarati": "તાત્કાલિક ઈમારત ખાલી કરો."
+  },
+  {
+    "english": "Stay away from the danger area.",
+    "gujarati": "જોખમવાળા વિસ્તારથી દૂર રહો."
+  },
+  {
+    "english": "The bridge has collapsed.",
+    "gujarati": "પુલ તૂટી ગયો છે."
+  },
+  {
+    "english": "A tree has fallen on the road.",
+    "gujarati": "રસ્તા પર એક વૃક્ષ પડી ગયું છે."
+  },
+  {
+    "english": "There is heavy flooding here.",
+    "gujarati": "અહીં ભારે પૂર આવ્યું છે."
+  },
+  {
+    "english": "The water level is rising quickly.",
+    "gujarati": "પાણીનું સ્તર ઝડપથી વધી રહ્યું છે."
+  },
+  {
+    "english": "Move to higher ground.",
+    "gujarati": "ઊંચી જગ્યાએ જાઓ."
+  },
+  {
+    "english": "An earthquake has occurred.",
+    "gujarati": "ભૂકંપ આવ્યો છે."
+  },
+  {
+    "english": "Take cover under the table.",
+    "gujarati": "ટેબલની નીચે આશરો લો."
+  },
+  {
+    "english": "Stay away from broken glass.",
+    "gujarati": "તૂટેલા કાચથી દૂર રહો."
+  },
+  {
+    "english": "Do not use the elevator.",
+    "gujarati": "લિફ્ટનો ઉપયોગ કરશો નહીં."
+  },
+  {
+    "english": "Use the emergency exit.",
+    "gujarati": "આપાતકાલીન બહાર નીકળવાના માર્ગનો ઉપયોગ કરો."
+  },
+  {
+    "english": "The fire is spreading fast.",
+    "gujarati": "આગ ઝડપથી ફેલાઈ રહી છે."
+  },
+  {
+    "english": "Where is the nearest hospital?",
+    "gujarati": "સૌથી નજીકની હોસ્પિટલ ક્યાં છે?"
+  },
+  {
+    "english": "I need a doctor immediately.",
+    "gujarati": "મને તાત્કાલિક ડૉક્ટરની જરૂર છે."
+  },
+  {
+    "english": "Please bring a first aid kit.",
+    "gujarati": "મહેરબાની કરીને પ્રાથમિક સારવારની કીટ લાવો."
+  },
+  {
+    "english": "The child has stopped breathing.",
+    "gujarati": "બાળકે શ્વાસ લેવાનું બંધ કરી દીધું છે."
+  },
+  {
+    "english": "His condition is serious.",
+    "gujarati": "તેની સ્થિતિ ગંભીર છે."
+  },
+  {
+    "english": "She needs urgent treatment.",
+    "gujarati": "તેને તાત્કાલિક સારવારની જરૂર છે."
+  },
+  {
+    "english": "Call for backup.",
+    "gujarati": "વધારાની મદદ બોલાવો."
+  },
+  {
+    "english": "The police are on their way.",
+    "gujarati": "પોલીસ રસ્તામાં છે."
+  },
+  {
+    "english": "Please remain where you are.",
+    "gujarati": "મહેરબાની કરીને જ્યાં છો ત્યાં જ રહો."
+  },
+  {
+    "english": "Everything is under control now.",
+    "gujarati": "હવે બધું નિયંત્રણમાં છે."
+  },
+  {
+    "english": "You are safe now.",
+    "gujarati": "હવે તમે સુરક્ષિત છો."
+  },
+  {
+    "english": "Someone has called for help.",
+    "gujarati": "કોઈએ મદદ માટે બોલાવ્યું છે."
+  },
+  {
+    "english": "The door is locked from inside.",
+    "gujarati": "દરવાજો અંદરથી બંધ છે."
+  },
+  {
+    "english": "Break the window if necessary.",
+    "gujarati": "જરૂર પડે તો બારી તોડી નાખો."
+  },
+  {
+    "english": "Keep the emergency exit clear.",
+    "gujarati": "આપાતકાલીન બહાર નીકળવાનો રસ્તો ખાલી રાખો."
+  },
+  {
+    "english": "Turn off the gas supply.",
+    "gujarati": "ગેસનો પુરવઠો બંધ કરો."
+  },
+  {
+    "english": "The fire alarm is ringing.",
+    "gujarati": "ફાયર એલાર્મ વાગી રહ્યું છે."
+  },
+  {
+    "english": "Smoke is coming from the kitchen.",
+    "gujarati": "રસોડામાંથી ધુમાડો આવી રહ્યો છે."
+  },
+  {
+    "english": "The patient is recovering.",
+    "gujarati": "દર્દી સાજો થઈ રહ્યો છે."
+  },
+  {
+    "english": "Call the rescue team.",
+    "gujarati": "બચાવ ટીમને બોલાવો."
+  },
+  {
+    "english": "Rescue the trapped people.",
+    "gujarati": "ફસાયેલા લોકોને બચાવો."
+  },
+  {
+    "english": "There is no signal here.",
+    "gujarati": "અહીં મોબાઇલ સિગ્નલ નથી."
+  },
+  {
+    "english": "Use a flashlight.",
+    "gujarati": "ટોર્ચનો ઉપયોગ કરો."
+  },
+  {
+    "english": "The power has gone out.",
+    "gujarati": "વીજળી ચાલી ગઈ છે."
+  },
+  {
+    "english": "We are stuck inside.",
+    "gujarati": "અમે અંદર ફસાઈ ગયા છીએ."
+  },
+  {
+    "english": "Can you hear the siren?",
+    "gujarati": "શું તમને સાઇરનનો અવાજ સંભળાય છે?"
+  },
+  {
+    "english": "The rescue vehicle has arrived.",
+    "gujarati": "બચાવ વાહન આવી ગયું છે."
+  },
+  {
+    "english": "Please wait for instructions.",
+    "gujarati": "મહેરબાની કરીને સૂચનાઓની રાહ જુઓ."
+  },
+  {
+    "english": "Keep children away from danger.",
+    "gujarati": "બાળકોને જોખમથી દૂર રાખો."
+  },
+  {
+    "english": "The road is unsafe.",
+    "gujarati": "રસ્તો અસુરક્ષિત છે."
+  },
+  {
+    "english": "Avoid this area.",
+    "gujarati": "આ વિસ્તારથી દૂર રહો."
+  },
+  {
+    "english": "Call me if anything changes.",
+    "gujarati": "કંઈ બદલાય તો મને ફોન કરજો."
+  },
+  {
+    "english": "Stay on the phone with me.",
+    "gujarati": "મારી સાથે ફોન પર જ રહો."
+  },
+  {
+    "english": "The situation is getting worse.",
+    "gujarati": "પરિસ્થિતિ વધુ ખરાબ થઈ રહી છે."
+  },
+  {
+    "english": "We have reached safely.",
+    "gujarati": "અમે સુરક્ષિત રીતે પહોંચી ગયા છીએ."
+  },
+  {
+    "english": "Thank God everyone is safe.",
+    "gujarati": "ભગવાનનો આભાર, બધા સુરક્ષિત છે."
   }
 ]
+
