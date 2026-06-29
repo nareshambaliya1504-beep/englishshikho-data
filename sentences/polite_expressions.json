@@ -1,14 +1,18 @@
 [
   {
     "english": "Please help me.",
-    "gujarati": "કૃપા કરીને મારી મદદ કરો."
+    "gujarati": "મહેરબાની કરીને મારી મદદ કરો."
+  },
+  {
+    "english": "Thank you.",
+    "gujarati": "આભાર."
   },
   {
     "english": "Thank you very much.",
-    "gujarati": "ખૂબ ખૂબ આભાર."
+    "gujarati": "તમારો ખૂબ ખૂબ આભાર."
   },
   {
-    "english": "You are welcome.",
+    "english": "You're welcome.",
     "gujarati": "તમારું સ્વાગત છે."
   },
   {
@@ -16,7 +20,383 @@
     "gujarati": "માફ કરશો."
   },
   {
-    "english": "Sorry for the mistake.",
-    "gujarati": "ભૂલ માટે માફ કરશો."
+    "english": "I'm sorry.",
+    "gujarati": "મને માફ કરશો."
+  },
+  {
+    "english": "Please forgive me.",
+    "gujarati": "મહેરબાની કરીને મને માફ કરો."
+  },
+  {
+    "english": "No problem.",
+    "gujarati": "કોઈ સમસ્યા નથી."
+  },
+  {
+    "english": "It's my pleasure.",
+    "gujarati": "આ તો મારા માટે આનંદની વાત છે."
+  },
+  {
+    "english": "May I help?",
+    "gujarati": "શું હું મદદ કરી શકું?"
+  },
+  {
+    "english": "May I come?",
+    "gujarati": "શું હું અંદર આવી શકું?"
+  },
+  {
+    "english": "May I sit?",
+    "gujarati": "શું હું બેસી શકું?"
+  },
+  {
+    "english": "Please come in.",
+    "gujarati": "મહેરબાની કરીને અંદર આવો."
+  },
+  {
+    "english": "Please have seat.",
+    "gujarati": "મહેરબાની કરીને બેસો."
+  },
+  {
+    "english": "Please wait moment.",
+    "gujarati": "મહેરબાની કરીને થોડું રાહ જુઓ."
+  },
+  {
+    "english": "After you.",
+    "gujarati": "પહેલા તમે."
+  },
+  {
+    "english": "Go ahead.",
+    "gujarati": "આગળ વધો."
+  },
+  {
+    "english": "Please continue.",
+    "gujarati": "મહેરબાની કરીને ચાલુ રાખો."
+  },
+  {
+    "english": "Take your time.",
+    "gujarati": "આરામથી કરો."
+  },
+  {
+    "english": "Don't mention it.",
+    "gujarati": "આભાર માનવાની જરૂર નથી."
+  },
+  {
+    "english": "I appreciate it.",
+    "gujarati": "હું તેની કદર કરું છું."
+  },
+  {
+    "english": "That's very kind.",
+    "gujarati": "આ તમારી ખૂબ દયાળુતા છે."
+  },
+  {
+    "english": "Have nice day.",
+    "gujarati": "તમારો દિવસ શુભ રહે."
+  },
+  {
+    "english": "Take care.",
+    "gujarati": "ધ્યાન રાખજો."
+  },
+  {
+    "english": "See you soon.",
+    "gujarati": "જલ્દી મળીશું."
+  },
+  {
+    "english": "Could you help me?",
+    "gujarati": "શું તમે મારી મદદ કરી શકશો?"
+  },
+  {
+    "english": "Would you mind?",
+    "gujarati": "શું તમને વાંધો છે?"
+  },
+  {
+    "english": "Could you repeat?",
+    "gujarati": "શું તમે ફરી કહી શકશો?"
+  },
+  {
+    "english": "Please speak slowly.",
+    "gujarati": "મહેરબાની કરીને ધીમે બોલો."
+  },
+  {
+    "english": "Please speak clearly.",
+    "gujarati": "મહેરબાની કરીને સ્પષ્ટ બોલો."
+  },
+  {
+    "english": "Please listen carefully.",
+    "gujarati": "મહેરબાની કરીને ધ્યાનથી સાંભળો."
+  },
+  {
+    "english": "Please follow me.",
+    "gujarati": "મહેરબાની કરીને મારી સાથે આવો."
+  },
+  {
+    "english": "Please be careful.",
+    "gujarati": "મહેરબાની કરીને સાવચેત રહો."
+  },
+  {
+    "english": "Please be patient.",
+    "gujarati": "મહેરબાની કરીને ધીરજ રાખો."
+  },
+  {
+    "english": "Please don't worry.",
+    "gujarati": "મહેરબાની કરીને ચિંતા કરશો નહીં."
+  },
+  {
+    "english": "Please accept this.",
+    "gujarati": "મહેરબાની કરીને આ સ્વીકારો."
+  },
+  {
+    "english": "Please check again.",
+    "gujarati": "મહેરબાની કરીને ફરી તપાસો."
+  },
+  {
+    "english": "Could you explain?",
+    "gujarati": "શું તમે સમજાવી શકશો?"
+  },
+  {
+    "english": "May I ask?",
+    "gujarati": "શું હું એક પ્રશ્ન પૂછી શકું?"
+  },
+  {
+    "english": "May I know?",
+    "gujarati": "શું હું જાણી શકું?"
+  },
+  {
+    "english": "Certainly, yes.",
+    "gujarati": "ચોક્કસ, હા."
+  },
+  {
+    "english": "Of course.",
+    "gujarati": "અવશ્ય."
+  },
+  {
+    "english": "With pleasure.",
+    "gujarati": "આનંદથી."
+  },
+  {
+    "english": "Thanks for understanding.",
+    "gujarati": "સમજવા બદલ આભાર."
+  },
+  {
+    "english": "Thanks for waiting.",
+    "gujarati": "રાહ જોવા બદલ આભાર."
+  },
+  {
+    "english": "I truly appreciate.",
+    "gujarati": "હું ખરેખર આભારી છું."
+  },
+  {
+    "english": "You're very kind.",
+    "gujarati": "તમે ખૂબ દયાળુ છો."
+  },
+  {
+    "english": "Have safe journey.",
+    "gujarati": "સલામત મુસાફરી કરો."
+  },
+  {
+    "english": "Wish you success.",
+    "gujarati": "તમને સફળતાની શુભેચ્છાઓ."
+  },
+  {
+    "english": "Best wishes always.",
+    "gujarati": "હંમેશા શુભેચ્છાઓ."
+  },
+  {
+    "english": "Please forgive mistake.",
+    "gujarati": "મહેરબાની કરીને મારી ભૂલ માફ કરો."
+  },
+  {
+    "english": "I'm really grateful.",
+    "gujarati": "હું ખરેખર આભારી છું."
+  },
+  {
+    "english": "Thank you again.",
+    "gujarati": "ફરી એકવાર આભાર."
+  },
+  {
+    "english": "Many thanks.",
+    "gujarati": "ખૂબ ખૂબ આભાર."
+  },
+  {
+    "english": "Please accept apologies.",
+    "gujarati": "મહેરબાની કરીને મારી માફી સ્વીકારો."
+  },
+  {
+    "english": "Sorry for delay.",
+    "gujarati": "મોડું થવા બદલ માફ કરશો."
+  },
+  {
+    "english": "Sorry for inconvenience.",
+    "gujarati": "અસુવિધા માટે માફ કરશો."
+  },
+  {
+    "english": "Allow me please.",
+    "gujarati": "મહેરબાની કરીને મને પરવાનગી આપો."
+  },
+  {
+    "english": "Please carry on.",
+    "gujarati": "મહેરબાની કરીને આગળ ચાલુ રાખો."
+  },
+  {
+    "english": "After you please.",
+    "gujarati": "મહેરબાની કરીને પહેલા તમે."
+  },
+  {
+    "english": "Please enjoy yourself.",
+    "gujarati": "મહેરબાની કરીને આનંદ માણો."
+  },
+  {
+    "english": "Feel comfortable here.",
+    "gujarati": "અહીં આરામથી રહો."
+  },
+  {
+    "english": "Glad to help.",
+    "gujarati": "મદદ કરીને આનંદ થયો."
+  },
+  {
+    "english": "Happy to assist.",
+    "gujarati": "મદદ કરવામાં આનંદ છે."
+  },
+  {
+    "english": "That's thoughtful.",
+    "gujarati": "આ ખૂબ વિચારપૂર્વકનું છે."
+  },
+  {
+    "english": "You are welcome anytime.",
+    "gujarati": "તમારું હંમેશા સ્વાગત છે."
+  },
+  {
+    "english": "Please contact anytime.",
+    "gujarati": "મહેરબાની કરીને ગમે ત્યારે સંપર્ક કરો."
+  },
+  {
+    "english": "Feel free ask.",
+    "gujarati": "નિઃસંકોચ પૂછી શકો છો."
+  },
+  {
+    "english": "No need worry.",
+    "gujarati": "ચિંતા કરવાની જરૂર નથી."
+  },
+  {
+    "english": "Take care yourself.",
+    "gujarati": "પોતાનું ધ્યાન રાખજો."
+  },
+  {
+    "english": "Have pleasant evening.",
+    "gujarati": "તમારી સાંજ આનંદમય રહે."
+  },
+  {
+    "english": "Have wonderful weekend.",
+    "gujarati": "તમારો સપ્તાહાંત આનંદમય રહે."
+  },
+  {
+    "english": "Best of luck.",
+    "gujarati": "શુભકામનાઓ."
+  },
+  {
+    "english": "See you again.",
+    "gujarati": "ફરી મળીશું."
+  },
+  {
+    "english": "Goodbye and thanks.",
+    "gujarati": "આવજો અને આભાર."
+  },
+  {
+    "english": "May I interrupt?",
+    "gujarati": "શું હું વચ્ચે બોલી શકું?"
+  },
+  {
+    "english": "Please excuse me.",
+    "gujarati": "મહેરબાની કરીને મને માફ કરશો."
+  },
+  {
+    "english": "Thank you kindly.",
+    "gujarati": "આપનો ખૂબ આભાર."
+  },
+  {
+    "english": "I appreciate help.",
+    "gujarati": "હું તમારી મદદની કદર કરું છું."
+  },
+  {
+    "english": "Please understand me.",
+    "gujarati": "મહેરબાની કરીને મને સમજો."
+  },
+  {
+    "english": "May I leave?",
+    "gujarati": "શું હું જઈ શકું?"
+  },
+  {
+    "english": "May I join?",
+    "gujarati": "શું હું જોડાઈ શકું?"
+  },
+  {
+    "english": "Please forgive delay.",
+    "gujarati": "મહેરબાની કરીને મોડું થવા બદલ માફ કરશો."
+  },
+  {
+    "english": "Would you please wait?",
+    "gujarati": "શું તમે કૃપા કરીને રાહ જોશો?"
+  },
+  {
+    "english": "Please take this.",
+    "gujarati": "મહેરબાની કરીને આ લો."
+  },
+  {
+    "english": "Please have some.",
+    "gujarati": "મહેરબાની કરીને થોડું લો."
+  },
+  {
+    "english": "Please enjoy meal.",
+    "gujarati": "મહેરબાની કરીને ભોજનનો આનંદ માણો."
+  },
+  {
+    "english": "Thanks for coming.",
+    "gujarati": "આવવા બદલ આભાર."
+  },
+  {
+    "english": "Thanks for support.",
+    "gujarati": "સહયોગ માટે આભાર."
+  },
+  {
+    "english": "I owe you.",
+    "gujarati": "હું તમારો ઋણી છું."
+  },
+  {
+    "english": "That's very helpful.",
+    "gujarati": "આ ખૂબ મદદરૂપ છે."
+  },
+  {
+    "english": "You are generous.",
+    "gujarati": "તમે ખૂબ ઉદાર છો."
+  },
+  {
+    "english": "Please stay seated.",
+    "gujarati": "મહેરબાની કરીને બેઠા રહો."
+  },
+  {
+    "english": "Please drive safely.",
+    "gujarati": "મહેરબાની કરીને સુરક્ષિત વાહન ચલાવો."
+  },
+  {
+    "english": "Take good care.",
+    "gujarati": "સારું ધ્યાન રાખજો."
+  },
+  {
+    "english": "Hope see again.",
+    "gujarati": "આશા છે ફરી મળીશું."
+  },
+  {
+    "english": "Have pleasant day.",
+    "gujarati": "તમારો દિવસ આનંદમય રહે."
+  },
+  {
+    "english": "Enjoy your journey.",
+    "gujarati": "તમારી મુસાફરીનો આનંદ માણો."
+  },
+  {
+    "english": "Wishing you happiness.",
+    "gujarati": "તમને ખુશીની શુભેચ્છાઓ."
+  },
+  {
+    "english": "Goodbye, stay safe.",
+    "gujarati": "આવજો, સુરક્ષિત રહેજો."
   }
 ]
