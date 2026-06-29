@@ -1,22 +1,402 @@
 [
   {
     "english": "What time is it?",
-    "gujarati": "કેટલા વાગ્યા છે?"
+    "gujarati": "હવે કેટલા વાગ્યા છે?"
+  },
+  {
+    "english": "It's seven o'clock.",
+    "gujarati": "સાત વાગ્યા છે."
+  },
+  {
+    "english": "It's half past nine.",
+    "gujarati": "સાડા નવ વાગ્યા છે."
+  },
+  {
+    "english": "It's quarter past five.",
+    "gujarati": "સવા પાંચ વાગ્યા છે."
+  },
+  {
+    "english": "It's quarter to eight.",
+    "gujarati": "પોણા આઠ વાગ્યા છે."
+  },
+  {
+    "english": "Good morning.",
+    "gujarati": "સુપ્રભાત."
+  },
+  {
+    "english": "Good afternoon.",
+    "gujarati": "શુભ બપોર."
+  },
+  {
+    "english": "Good evening.",
+    "gujarati": "શુભ સાંજ."
+  },
+  {
+    "english": "Good night.",
+    "gujarati": "શુભ રાત્રિ."
   },
   {
     "english": "Today is Monday.",
     "gujarati": "આજે સોમવાર છે."
   },
   {
-    "english": "Tomorrow is holiday.",
-    "gujarati": "આવતી કાલે રજા છે."
+    "english": "Tomorrow is Tuesday.",
+    "gujarati": "આવતીકાલે મંગળવાર છે."
   },
   {
-    "english": "I am late.",
-    "gujarati": "હું મોડો છું."
+    "english": "Yesterday was Sunday.",
+    "gujarati": "ગઈકાલે રવિવાર હતો."
+  },
+  {
+    "english": "What's today's date?",
+    "gujarati": "આજની તારીખ શું છે?"
+  },
+  {
+    "english": "Today is first.",
+    "gujarati": "આજે પહેલી તારીખ છે."
+  },
+  {
+    "english": "This month June.",
+    "gujarati": "આ મહિનો જૂન છે."
+  },
+  {
+    "english": "Next month July.",
+    "gujarati": "આવતો મહિનો જુલાઈ છે."
+  },
+  {
+    "english": "This year wonderful.",
+    "gujarati": "આ વર્ષ સુંદર છે."
+  },
+  {
+    "english": "Time flies fast.",
+    "gujarati": "સમય ઝડપથી પસાર થાય છે."
+  },
+  {
+    "english": "Don't waste time.",
+    "gujarati": "સમય બગાડશો નહીં."
+  },
+  {
+    "english": "Be on time.",
+    "gujarati": "સમયસર આવો."
+  },
+  {
+    "english": "I'm running late.",
+    "gujarati": "મને મોડું થઈ રહ્યું છે."
+  },
+  {
+    "english": "Please hurry up.",
+    "gujarati": "મહેરબાની કરીને જલ્દી કરો."
   },
   {
     "english": "See you tomorrow.",
-    "gujarati": "આવતી કાલે મળીશું."
+    "gujarati": "આવતીકાલે મળીશું."
+  },
+  {
+    "english": "See you soon.",
+    "gujarati": "જલ્દી મળીશું."
+  },
+  {
+    "english": "Have a great day.",
+    "gujarati": "તમારો દિવસ શુભ રહે."
+  },
+  {
+    "english": "What day is today?",
+    "gujarati": "આજે કયો દિવસ છે?"
+  },
+  {
+    "english": "What month is this?",
+    "gujarati": "આ કયો મહિનો છે?"
+  },
+  {
+    "english": "What year is this?",
+    "gujarati": "આ કયું વર્ષ છે?"
+  },
+  {
+    "english": "Today is Friday.",
+    "gujarati": "આજે શુક્રવાર છે."
+  },
+  {
+    "english": "Tomorrow is Saturday.",
+    "gujarati": "આવતીકાલે શનિવાર છે."
+  },
+  {
+    "english": "Yesterday was Thursday.",
+    "gujarati": "ગઈકાલે ગુરુવાર હતો."
+  },
+  {
+    "english": "It's almost noon.",
+    "gujarati": "લગભગ બપોર થઈ ગઈ છે."
+  },
+  {
+    "english": "It's midnight now.",
+    "gujarati": "હવે મધરાત છે."
+  },
+  {
+    "english": "Wake up early.",
+    "gujarati": "વહેલા ઉઠો."
+  },
+  {
+    "english": "Go to bed.",
+    "gujarati": "સૂવા જાઓ."
+  },
+  {
+    "english": "Breakfast time now.",
+    "gujarati": "હવે નાસ્તાનો સમય છે."
+  },
+  {
+    "english": "Lunch time now.",
+    "gujarati": "હવે બપોરના ભોજનનો સમય છે."
+  },
+  {
+    "english": "Dinner time now.",
+    "gujarati": "હવે રાત્રિભોજનનો સમય છે."
+  },
+  {
+    "english": "I'm on time.",
+    "gujarati": "હું સમયસર આવ્યો છું."
+  },
+  {
+    "english": "Sorry, I'm late.",
+    "gujarati": "માફ કરજો, મને મોડું થયું."
+  },
+  {
+    "english": "Wait five minutes.",
+    "gujarati": "પાંચ મિનિટ રાહ જુઓ."
+  },
+  {
+    "english": "Give me hour.",
+    "gujarati": "મને એક કલાક આપો."
+  },
+  {
+    "english": "I'll come tomorrow.",
+    "gujarati": "હું આવતીકાલે આવીશ."
+  },
+  {
+    "english": "Let's meet today.",
+    "gujarati": "ચાલો આજે મળીએ."
+  },
+  {
+    "english": "See you tonight.",
+    "gujarati": "આજે રાત્રે મળીશું."
+  },
+  {
+    "english": "Weekend is coming.",
+    "gujarati": "સપ્તાહાંત આવી રહ્યો છે."
+  },
+  {
+    "english": "Time is valuable.",
+    "gujarati": "સમય કિંમતી છે."
+  },
+  {
+    "english": "Use time wisely.",
+    "gujarati": "સમયનો સમજદારીથી ઉપયોગ કરો."
+  },
+  {
+    "english": "Never waste time.",
+    "gujarati": "ક્યારેય સમય બગાડશો નહીં."
+  },
+  {
+    "english": "Every second matters.",
+    "gujarati": "દરેક સેકન્ડ મહત્વનો છે."
+  },
+  {
+    "english": "It's early morning.",
+    "gujarati": "વહેલી સવાર છે."
+  },
+  {
+    "english": "It's late evening.",
+    "gujarati": "મોડી સાંજ છે."
+  },
+  {
+    "english": "It's getting late.",
+    "gujarati": "મોડું થઈ રહ્યું છે."
+  },
+  {
+    "english": "Time passes quickly.",
+    "gujarati": "સમય ઝડપથી પસાર થાય છે."
+  },
+  {
+    "english": "Please come early.",
+    "gujarati": "મહેરબાની કરીને વહેલા આવો."
+  },
+  {
+    "english": "Don't be late.",
+    "gujarati": "મોડા ન થશો."
+  },
+  {
+    "english": "Let's leave now.",
+    "gujarati": "ચાલો હવે નીકળીએ."
+  },
+  {
+    "english": "We'll start soon.",
+    "gujarati": "અમે ટૂંક સમયમાં શરૂ કરીશું."
+  },
+  {
+    "english": "The meeting begins.",
+    "gujarati": "મીટિંગ શરૂ થાય છે."
+  },
+  {
+    "english": "Meeting is over.",
+    "gujarati": "મીટિંગ પૂરી થઈ ગઈ."
+  },
+  {
+    "english": "I'll return soon.",
+    "gujarati": "હું જલ્દી પાછો આવીશ."
+  },
+  {
+    "english": "Come back tomorrow.",
+    "gujarati": "આવતીકાલે પાછા આવજો."
+  },
+  {
+    "english": "This week busy.",
+    "gujarati": "આ અઠવાડિયું વ્યસ્ત છે."
+  },
+  {
+    "english": "Next week free.",
+    "gujarati": "આવતું અઠવાડિયું ફ્રી છે."
+  },
+  {
+    "english": "Last week wonderful.",
+    "gujarati": "ગયું અઠવાડિયું સરસ હતું."
+  },
+  {
+    "english": "This month ends.",
+    "gujarati": "આ મહિનો પૂરો થઈ રહ્યો છે."
+  },
+  {
+    "english": "New month begins.",
+    "gujarati": "નવો મહિનો શરૂ થાય છે."
+  },
+  {
+    "english": "Happy new year.",
+    "gujarati": "નવા વર્ષની શુભેચ્છાઓ."
+  },
+  {
+    "english": "Today's schedule full.",
+    "gujarati": "આજનો કાર્યક્રમ ભરેલો છે."
+  },
+  {
+    "english": "I'm available tomorrow.",
+    "gujarati": "હું આવતીકાલે ઉપલબ્ધ છું."
+  },
+  {
+    "english": "Let's fix date.",
+    "gujarati": "ચાલો તારીખ નક્કી કરીએ."
+  },
+  {
+    "english": "Don't miss deadline.",
+    "gujarati": "સમયમર્યાદા ચૂકશો નહીં."
+  },
+  {
+    "english": "Time is precious.",
+    "gujarati": "સમય અમૂલ્ય છે."
+  },
+  {
+    "english": "Enjoy every moment.",
+    "gujarati": "દરેક ક્ષણનો આનંદ માણો."
+  },
+  {
+    "english": "See you next week.",
+    "gujarati": "આવતા અઠવાડિયે મળીશું."
+  },
+  {
+    "english": "Today is special.",
+    "gujarati": "આજનો દિવસ ખાસ છે."
+  },
+  {
+    "english": "Tomorrow is holiday.",
+    "gujarati": "આવતીકાલે રજા છે."
+  },
+  {
+    "english": "Yesterday was busy.",
+    "gujarati": "ગઈકાલ ખૂબ વ્યસ્ત હતો."
+  },
+  {
+    "english": "This morning was beautiful.",
+    "gujarati": "આજની સવાર સુંદર હતી."
+  },
+  {
+    "english": "Tonight will be peaceful.",
+    "gujarati": "આજની રાત શાંતિપૂર્ણ રહેશે."
+  },
+  {
+    "english": "It's almost sunrise.",
+    "gujarati": "લગભગ સૂર્યોદય થવાનો છે."
+  },
+  {
+    "english": "Sunset is beautiful.",
+    "gujarati": "સૂર્યાસ્ત સુંદર છે."
+  },
+  {
+    "english": "The clock stopped.",
+    "gujarati": "ઘડિયાળ બંધ થઈ ગઈ."
+  },
+  {
+    "english": "Set your alarm.",
+    "gujarati": "તમારું એલાર્મ સેટ કરો."
+  },
+  {
+    "english": "Alarm is ringing.",
+    "gujarati": "એલાર્મ વાગી રહ્યું છે."
+  },
+  {
+    "english": "Don't forget date.",
+    "gujarati": "તારીખ ભૂલશો નહીં."
+  },
+  {
+    "english": "Mark your calendar.",
+    "gujarati": "કેલેન્ડરમાં નોંધ કરો."
+  },
+  {
+    "english": "Appointment is tomorrow.",
+    "gujarati": "મુલાકાત આવતીકાલે છે."
+  },
+  {
+    "english": "Meeting starts soon.",
+    "gujarati": "મીટિંગ ટૂંક સમયમાં શરૂ થશે."
+  },
+  {
+    "english": "Please arrive early.",
+    "gujarati": "મહેરબાની કરીને વહેલા પહોંચો."
+  },
+  {
+    "english": "We have time.",
+    "gujarati": "આપણી પાસે સમય છે."
+  },
+  {
+    "english": "We're out of time.",
+    "gujarati": "આપણો સમય પૂરો થયો."
+  },
+  {
+    "english": "Take your time.",
+    "gujarati": "આરામથી કરો."
+  },
+  {
+    "english": "Right on time.",
+    "gujarati": "એકદમ સમયસર."
+  },
+  {
+    "english": "Time for work.",
+    "gujarati": "કામ કરવાનો સમય થયો."
+  },
+  {
+    "english": "Time for lunch.",
+    "gujarati": "બપોરના ભોજનનો સમય થયો."
+  },
+  {
+    "english": "Time for sleep.",
+    "gujarati": "સૂવાનો સમય થયો."
+  },
+  {
+    "english": "Another day begins.",
+    "gujarati": "નવો દિવસ શરૂ થાય છે."
+  },
+  {
+    "english": "Make every moment count.",
+    "gujarati": "દરેક ક્ષણને મહત્વપૂર્ણ બનાવો."
+  },
+  {
+    "english": "Have wonderful tomorrow.",
+    "gujarati": "તમારી આવતીકાલ સુંદર રહે."
   }
 ]
