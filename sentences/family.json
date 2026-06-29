@@ -1,22 +1,402 @@
 [
   {
-    "english": "This is my father.",
-    "gujarati": "આ મારા પિતા છે."
+    "english": "Good morning, Mom.",
+    "gujarati": "સુપ્રભાત, મમ્મી."
   },
   {
-    "english": "This is my mother.",
-    "gujarati": "આ મારી માતા છે."
+    "english": "Good morning, Dad.",
+    "gujarati": "સુપ્રભાત, પપ્પા."
   },
   {
-    "english": "I love my family.",
-    "gujarati": "હું મારા પરિવારને પ્રેમ કરું છું."
+    "english": "How are you?",
+    "gujarati": "તમે કેમ છો?"
   },
   {
-    "english": "My brother is studying.",
-    "gujarati": "મારો ભાઈ અભ્યાસ કરી રહ્યો છે."
+    "english": "I am fine.",
+    "gujarati": "હું મજામાં છું."
   },
   {
-    "english": "My sister is very kind.",
-    "gujarati": "મારી બહેન ખૂબ દયાળુ છે."
+    "english": "Where is Mom?",
+    "gujarati": "મમ્મી ક્યાં છે?"
+  },
+  {
+    "english": "Dad is home.",
+    "gujarati": "પપ્પા ઘરે છે."
+  },
+  {
+    "english": "Come here, dear.",
+    "gujarati": "અહીં આવો, પ્રિય."
+  },
+  {
+    "english": "Sit with us.",
+    "gujarati": "અમારી સાથે બેસો."
+  },
+  {
+    "english": "Let's eat together.",
+    "gujarati": "ચાલો સાથે જમીએ."
+  },
+  {
+    "english": "Dinner is ready.",
+    "gujarati": "રાત્રિભોજન તૈયાર છે."
+  },
+  {
+    "english": "Wash your hands.",
+    "gujarati": "તમારા હાથ ધોઈ લો."
+  },
+  {
+    "english": "Finish your food.",
+    "gujarati": "તમારું ભોજન પૂરું કરો."
+  },
+  {
+    "english": "Drink some water.",
+    "gujarati": "થોડું પાણી પીવો."
+  },
+  {
+    "english": "Take some rest.",
+    "gujarati": "થોડો આરામ કરો."
+  },
+  {
+    "english": "Don't worry.",
+    "gujarati": "ચિંતા કરશો નહીં."
+  },
+  {
+    "english": "Everything is okay.",
+    "gujarati": "બધું બરાબર છે."
+  },
+  {
+    "english": "I love you.",
+    "gujarati": "હું તમને પ્રેમ કરું છું."
+  },
+  {
+    "english": "Take care always.",
+    "gujarati": "હંમેશા ધ્યાન રાખજો."
+  },
+  {
+    "english": "See you later.",
+    "gujarati": "પછી મળીશું."
+  },
+  {
+    "english": "Welcome back home.",
+    "gujarati": "ઘરે પાછા આવવા બદલ સ્વાગત છે."
+  },
+  {
+    "english": "Everyone is happy.",
+    "gujarati": "બધા ખુશ છે."
+  },
+  {
+    "english": "Family comes first.",
+    "gujarati": "પરિવાર સૌથી પહેલાં આવે છે."
+  },
+  {
+    "english": "We are together.",
+    "gujarati": "અમે બધા સાથે છીએ."
+  },
+  {
+    "english": "Have a nice day.",
+    "gujarati": "તમારો દિવસ શુભ રહે."
+  },
+  {
+    "english": "Good night everyone.",
+    "gujarati": "બધાને શુભ રાત્રિ."
+  },
+  {
+    "english": "Wake up early.",
+    "gujarati": "વહેલા ઉઠો."
+  },
+  {
+    "english": "Brush your teeth.",
+    "gujarati": "તમારા દાંત સાફ કરો."
+  },
+  {
+    "english": "Take your bath.",
+    "gujarati": "સ્નાન કરી લો."
+  },
+  {
+    "english": "Get ready quickly.",
+    "gujarati": "જલ્દી તૈયાર થઈ જાઓ."
+  },
+  {
+    "english": "Wear your shoes.",
+    "gujarati": "તમારા જૂતા પહેરો."
+  },
+  {
+    "english": "Pack your bag.",
+    "gujarati": "તમારો થેલો તૈયાર કરો."
+  },
+  {
+    "english": "Eat your breakfast.",
+    "gujarati": "તમારો નાસ્તો કરો."
+  },
+  {
+    "english": "Don't be late.",
+    "gujarati": "મોડું કરશો નહીં."
+  },
+  {
+    "english": "Come home early.",
+    "gujarati": "ઘરે વહેલા આવજો."
+  },
+  {
+    "english": "Call me later.",
+    "gujarati": "મને પછી ફોન કરજો."
+  },
+  {
+    "english": "Where are you?",
+    "gujarati": "તમે ક્યાં છો?"
+  },
+  {
+    "english": "I'm coming home.",
+    "gujarati": "હું ઘરે આવી રહ્યો છું."
+  },
+  {
+    "english": "Please help me.",
+    "gujarati": "મહેરબાની કરીને મારી મદદ કરો."
+  },
+  {
+    "english": "Clean your room.",
+    "gujarati": "તમારો રૂમ સાફ કરો."
+  },
+  {
+    "english": "Fold your clothes.",
+    "gujarati": "તમારા કપડાં વાળી દો."
+  },
+  {
+    "english": "Close the door.",
+    "gujarati": "દરવાજો બંધ કરો."
+  },
+  {
+    "english": "Open the window.",
+    "gujarati": "બારી ખોલો."
+  },
+  {
+    "english": "Turn off lights.",
+    "gujarati": "લાઇટ બંધ કરો."
+  },
+  {
+    "english": "Keep smiling always.",
+    "gujarati": "હંમેશા હસતા રહો."
+  },
+  {
+    "english": "I'm proud of you.",
+    "gujarati": "મને તમારા પર ગર્વ છે."
+  },
+  {
+    "english": "You look happy.",
+    "gujarati": "તમે ખુશ દેખાઓ છો."
+  },
+  {
+    "english": "Don't lose hope.",
+    "gujarati": "આશા છોડશો નહીં."
+  },
+  {
+    "english": "Stay with us.",
+    "gujarati": "અમારી સાથે રહો."
+  },
+  {
+    "english": "Family is everything.",
+    "gujarati": "પરિવાર જ બધું છે."
+  },
+  {
+    "english": "God bless you.",
+    "gujarati": "ભગવાન તમારું ભલું કરે."
+  },
+  {
+    "english": "How was school?",
+    "gujarati": "શાળા કેવી રહી?"
+  },
+  {
+    "english": "How was work?",
+    "gujarati": "કામ કેવું રહ્યું?"
+  },
+  {
+    "english": "Did you eat?",
+    "gujarati": "તમે જમ્યા?"
+  },
+  {
+    "english": "I'm very hungry.",
+    "gujarati": "મને ખૂબ ભૂખ લાગી છે."
+  },
+  {
+    "english": "Let's cook together.",
+    "gujarati": "ચાલો સાથે રસોઈ કરીએ."
+  },
+  {
+    "english": "Set the table.",
+    "gujarati": "ટેબલ ગોઠવો."
+  },
+  {
+    "english": "Dinner smells delicious.",
+    "gujarati": "રાત્રિભોજનની સુગંધ સરસ છે."
+  },
+  {
+    "english": "Please pass salt.",
+    "gujarati": "મહેરબાની કરીને મીઠું આપો."
+  },
+  {
+    "english": "Take some vegetables.",
+    "gujarati": "થોડું શાક લો."
+  },
+  {
+    "english": "Eat slowly please.",
+    "gujarati": "મહેરબાની કરીને ધીમે જમો."
+  },
+  {
+    "english": "Finish your homework.",
+    "gujarati": "તમારું ગૃહકાર્ય પૂર્ણ કરો."
+  },
+  {
+    "english": "Study for exams.",
+    "gujarati": "પરીક્ષા માટે અભ્યાસ કરો."
+  },
+  {
+    "english": "You did well.",
+    "gujarati": "તમે સારું કર્યું."
+  },
+  {
+    "english": "Don't fight anymore.",
+    "gujarati": "હવે ઝઘડો કરશો નહીં."
+  },
+  {
+    "english": "Say sorry first.",
+    "gujarati": "પહેલા માફી માંગો."
+  },
+  {
+    "english": "Forgive each other.",
+    "gujarati": "એકબીજાને માફ કરો."
+  },
+  {
+    "english": "Respect your elders.",
+    "gujarati": "મોટાઓનો આદર કરો."
+  },
+  {
+    "english": "Love your family.",
+    "gujarati": "તમારા પરિવારને પ્રેમ કરો."
+  },
+  {
+    "english": "Let's watch television.",
+    "gujarati": "ચાલો ટીવી જોઈએ."
+  },
+  {
+    "english": "Play with children.",
+    "gujarati": "બાળકો સાથે રમો."
+  },
+  {
+    "english": "Let's go outside.",
+    "gujarati": "ચાલો બહાર જઈએ."
+  },
+  {
+    "english": "Come back soon.",
+    "gujarati": "જલ્દી પાછા આવજો."
+  },
+  {
+    "english": "Drive very carefully.",
+    "gujarati": "ખૂબ સાવધાનીથી વાહન ચલાવો."
+  },
+  {
+    "english": "See you tomorrow.",
+    "gujarati": "આવતીકાલે મળીશું."
+  },
+  {
+    "english": "Sleep peacefully tonight.",
+    "gujarati": "આજે રાત્રે શાંતિથી સૂઈ જજો."
+  },
+  {
+    "english": "Grandma is resting.",
+    "gujarati": "દાદી આરામ કરી રહ્યા છે."
+  },
+  {
+    "english": "Grandpa is reading.",
+    "gujarati": "દાદા વાંચી રહ્યા છે."
+  },
+  {
+    "english": "Brother is studying.",
+    "gujarati": "ભાઈ અભ્યાસ કરી રહ્યો છે."
+  },
+  {
+    "english": "Sister is cooking.",
+    "gujarati": "બહેન રસોઈ બનાવી રહી છે."
+  },
+  {
+    "english": "Mom is busy.",
+    "gujarati": "મમ્મી વ્યસ્ત છે."
+  },
+  {
+    "english": "Dad is working.",
+    "gujarati": "પપ્પા કામ કરી રહ્યા છે."
+  },
+  {
+    "english": "Baby is sleeping.",
+    "gujarati": "બાળક ઊંઘી રહ્યું છે."
+  },
+  {
+    "english": "Please wake him.",
+    "gujarati": "મહેરબાની કરીને તેને જગાડો."
+  },
+  {
+    "english": "Call your brother.",
+    "gujarati": "તમારા ભાઈને બોલાવો."
+  },
+  {
+    "english": "Call your sister.",
+    "gujarati": "તમારી બહેનને બોલાવો."
+  },
+  {
+    "english": "Everyone is waiting.",
+    "gujarati": "બધા રાહ જોઈ રહ્યા છે."
+  },
+  {
+    "english": "Let's celebrate together.",
+    "gujarati": "ચાલો સાથે ઉજવણી કરીએ."
+  },
+  {
+    "english": "Family supports everyone.",
+    "gujarati": "પરિવાર દરેકનો સાથ આપે છે."
+  },
+  {
+    "english": "Always tell truth.",
+    "gujarati": "હંમેશા સત્ય બોલો."
+  },
+  {
+    "english": "Never tell lies.",
+    "gujarati": "ક્યારેય જૂઠું બોલશો નહીં."
+  },
+  {
+    "english": "Help your parents.",
+    "gujarati": "તમારા માતા-પિતાની મદદ કરો."
+  },
+  {
+    "english": "Respect every member.",
+    "gujarati": "પરિવારના દરેક સભ્યનો આદર કરો."
+  },
+  {
+    "english": "Share your feelings.",
+    "gujarati": "તમારી લાગણીઓ વ્યક્ત કરો."
+  },
+  {
+    "english": "We miss you.",
+    "gujarati": "અમને તમારી યાદ આવે છે."
+  },
+  {
+    "english": "Take care yourself.",
+    "gujarati": "તમારું ધ્યાન રાખો."
+  },
+  {
+    "english": "Reach home safely.",
+    "gujarati": "ઘરે સુરક્ષિત પહોંચજો."
+  },
+  {
+    "english": "Call after reaching.",
+    "gujarati": "પહોંચીને ફોન કરજો."
+  },
+  {
+    "english": "Family means love.",
+    "gujarati": "પરિવાર એટલે પ્રેમ."
+  },
+  {
+    "english": "Home feels peaceful.",
+    "gujarati": "ઘર શાંતિપૂર્ણ લાગે છે."
+  },
+  {
+    "english": "Stay happy together.",
+    "gujarati": "હંમેશા સાથે ખુશ રહો."
   }
 ]
