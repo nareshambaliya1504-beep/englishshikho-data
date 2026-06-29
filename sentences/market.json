@@ -1,42 +1,402 @@
 [
   {
-    "english": "How much does this cost?",
+    "english": "Welcome to our shop.",
+    "gujarati": "અમારી દુકાનમાં તમારું સ્વાગત છે."
+  },
+  {
+    "english": "What do you need?",
+    "gujarati": "તમારે શું જોઈએ છે?"
+  },
+  {
+    "english": "I need groceries.",
+    "gujarati": "મને કરિયાણું જોઈએ છે."
+  },
+  {
+    "english": "Show me this.",
+    "gujarati": "મને આ બતાવો."
+  },
+  {
+    "english": "Anything else, sir?",
+    "gujarati": "સર, બીજું કંઈ જોઈએ?"
+  },
+  {
+    "english": "How much cost?",
     "gujarati": "આની કિંમત કેટલી છે?"
   },
   {
-    "english": "It is too expensive.",
-    "gujarati": "આ બહુ મોંઘું છે."
+    "english": "It's very expensive.",
+    "gujarati": "આ ખૂબ મોંઘું છે."
   },
   {
-    "english": "Can you reduce the price?",
-    "gujarati": "શું તમે ભાવ ઓછો કરી શકો?"
+    "english": "Price is reasonable.",
+    "gujarati": "ભાવ યોગ્ય છે."
   },
   {
-    "english": "I want one kilogram.",
-    "gujarati": "મારે એક કિલો જોઈએ."
+    "english": "Give me discount.",
+    "gujarati": "મને ડિસ્કાઉન્ટ આપો."
   },
   {
-    "english": "Give me a bag.",
-    "gujarati": "મને એક થેલી આપો."
+    "english": "Final price please.",
+    "gujarati": "અંતિમ ભાવ જણાવો."
   },
   {
-    "english": "I want to buy this.",
-    "gujarati": "મારે આ ખરીદવું છે."
+    "english": "I will buy.",
+    "gujarati": "હું આ ખરીદીશ."
   },
   {
-    "english": "Do you have another color?",
-    "gujarati": "શું તમારી પાસે બીજો રંગ છે?"
+    "english": "I don't need.",
+    "gujarati": "મને આની જરૂર નથી."
+  },
+  {
+    "english": "Pack it carefully.",
+    "gujarati": "તેને સારી રીતે પેક કરો."
+  },
+  {
+    "english": "Use paper bag.",
+    "gujarati": "કાગળની થેલી વાપરો."
+  },
+  {
+    "english": "Cash or card?",
+    "gujarati": "રોકડ કે કાર્ડ?"
+  },
+  {
+    "english": "I'll pay cash.",
+    "gujarati": "હું રોકડમાં ચૂકવણી કરીશ."
+  },
+  {
+    "english": "Card is accepted.",
+    "gujarati": "કાર્ડ સ્વીકારવામાં આવે છે."
+  },
+  {
+    "english": "Payment completed successfully.",
+    "gujarati": "ચુકવણી સફળતાપૂર્વક થઈ ગઈ."
+  },
+  {
+    "english": "Keep the receipt.",
+    "gujarati": "રસીદ સાચવી રાખો."
+  },
+  {
+    "english": "Thank you, visit again.",
+    "gujarati": "આભાર, ફરી આવજો."
+  },
+  {
+    "english": "The shop opens.",
+    "gujarati": "દુકાન ખુલ્લી છે."
+  },
+  {
+    "english": "The shop closes.",
+    "gujarati": "દુકાન બંધ થાય છે."
+  },
+  {
+    "english": "Fresh items available.",
+    "gujarati": "તાજી વસ્તુઓ ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Quality is excellent.",
+    "gujarati": "ગુણવત્તા ઉત્તમ છે."
+  },
+  {
+    "english": "Happy shopping today.",
+    "gujarati": "આજે ખરીદીનો આનંદ લો."
+  },
+  {
+    "english": "I need vegetables.",
+    "gujarati": "મને શાકભાજી જોઈએ છે."
+  },
+  {
+    "english": "These tomatoes are fresh.",
+    "gujarati": "આ ટામેટાં તાજાં છે."
+  },
+  {
+    "english": "Give me potatoes.",
+    "gujarati": "મને બટાકા આપો."
+  },
+  {
+    "english": "I need onions.",
+    "gujarati": "મને ડુંગળી જોઈએ છે."
+  },
+  {
+    "english": "These apples look fresh.",
+    "gujarati": "આ સફરજન તાજાં લાગે છે."
+  },
+  {
+    "english": "Give me bananas.",
+    "gujarati": "મને કેળા આપો."
+  },
+  {
+    "english": "We need rice.",
+    "gujarati": "અમને ચોખા જોઈએ છે."
+  },
+  {
+    "english": "Buy some sugar.",
+    "gujarati": "થોડી ખાંડ ખરીદો."
+  },
+  {
+    "english": "I need milk.",
+    "gujarati": "મને દૂધ જોઈએ છે."
+  },
+  {
+    "english": "Buy fresh bread.",
+    "gujarati": "તાજી બ્રેડ ખરીદો."
+  },
+  {
+    "english": "This looks good.",
+    "gujarati": "આ સારું લાગે છે."
+  },
+  {
+    "english": "Show another one.",
+    "gujarati": "બીજું બતાવો."
+  },
+  {
+    "english": "This size fits.",
+    "gujarati": "આ માપ બરાબર છે."
   },
   {
     "english": "I like this.",
     "gujarati": "મને આ ગમે છે."
   },
   {
-    "english": "Please pack it.",
-    "gujarati": "કૃપા કરીને પેક કરો."
+    "english": "This color suits.",
+    "gujarati": "આ રંગ યોગ્ય લાગે છે."
   },
   {
-    "english": "Thank you.",
-    "gujarati": "આભાર."
+    "english": "It's too costly.",
+    "gujarati": "આ ખૂબ મોંઘું છે."
+  },
+  {
+    "english": "Reduce the price.",
+    "gujarati": "ભાવ ઓછો કરો."
+  },
+  {
+    "english": "That's my budget.",
+    "gujarati": "આ મારું બજેટ છે."
+  },
+  {
+    "english": "I'll think later.",
+    "gujarati": "હું પછી વિચાર કરીશ."
+  },
+  {
+    "english": "Please wrap nicely.",
+    "gujarati": "મહેરબાની કરીને સારી રીતે પેક કરો."
+  },
+  {
+    "english": "Where is billing?",
+    "gujarati": "બિલિંગ ક્યાં છે?"
+  },
+  {
+    "english": "Please give change.",
+    "gujarati": "મહેરબાની કરીને છૂટા પૈસા આપો."
+  },
+  {
+    "english": "Transaction was successful.",
+    "gujarati": "ચુકવણી સફળ થઈ."
+  },
+  {
+    "english": "See you again.",
+    "gujarati": "ફરી મળીશું."
+  },
+  {
+    "english": "Have a nice day.",
+    "gujarati": "તમારો દિવસ શુભ રહે."
+  },
+  {
+    "english": "Where is checkout?",
+    "gujarati": "ચુકવણી કાઉન્ટર ક્યાં છે?"
+  },
+  {
+    "english": "Please weigh these.",
+    "gujarati": "મહેરબાની કરીને આનું વજન કરો."
+  },
+  {
+    "english": "This is enough.",
+    "gujarati": "આટલું પૂરતું છે."
+  },
+  {
+    "english": "Need anything else?",
+    "gujarati": "બીજું કંઈ જોઈએ?"
+  },
+  {
+    "english": "This offer expires today.",
+    "gujarati": "આ ઓફર આજે પૂરી થાય છે."
+  },
+  {
+    "english": "Today's special offer.",
+    "gujarati": "આજની ખાસ ઓફર."
+  },
+  {
+    "english": "Buy one free.",
+    "gujarati": "એક ખરીદો, એક મફત."
+  },
+  {
+    "english": "Everything is fresh.",
+    "gujarati": "બધી વસ્તુઓ તાજી છે."
+  },
+  {
+    "english": "Fresh fruits arrived.",
+    "gujarati": "તાજા ફળ આવ્યા છે."
+  },
+  {
+    "english": "Fresh vegetables available.",
+    "gujarati": "તાજાં શાકભાજી ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Choose your favorite.",
+    "gujarati": "તમારી મનપસંદ પસંદ કરો."
+  },
+  {
+    "english": "Can I exchange?",
+    "gujarati": "શું હું બદલી શકું?"
+  },
+  {
+    "english": "Return policy available.",
+    "gujarati": "પરત કરવાની સુવિધા ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Need shopping bag?",
+    "gujarati": "શું થેલી જોઈએ?"
+  },
+  {
+    "english": "Plastic bags banned.",
+    "gujarati": "પ્લાસ્ટિકની થેલીઓ પ્રતિબંધિત છે."
+  },
+  {
+    "english": "Please wait patiently.",
+    "gujarati": "મહેરબાની કરીને ધીરજથી રાહ જુઓ."
+  },
+  {
+    "english": "Counter is free.",
+    "gujarati": "કાઉન્ટર ખાલી છે."
+  },
+  {
+    "english": "Queue starts here.",
+    "gujarati": "લાઇન અહીંથી શરૂ થાય છે."
+  },
+  {
+    "english": "Please stand here.",
+    "gujarati": "મહેરબાની કરીને અહીં ઊભા રહો."
+  },
+  {
+    "english": "Cashier is coming.",
+    "gujarati": "કેશિયર આવી રહ્યા છે."
+  },
+  {
+    "english": "Bill is ready.",
+    "gujarati": "બિલ તૈયાર છે."
+  },
+  {
+    "english": "Please collect receipt.",
+    "gujarati": "મહેરબાની કરીને રસીદ લઈ લો."
+  },
+  {
+    "english": "Visit us again.",
+    "gujarati": "ફરીથી જરૂર આવજો."
+  },
+  {
+    "english": "Thank you, sir.",
+    "gujarati": "આભાર, સર."
+  },
+  {
+    "english": "Thank you, madam.",
+    "gujarati": "આભાર, મેડમ."
+  },
+  {
+    "english": "Where is cashier?",
+    "gujarati": "કેશિયર ક્યાં છે?"
+  },
+  {
+    "english": "Please bill this.",
+    "gujarati": "મહેરબાની કરીને આનું બિલ બનાવો."
+  },
+  {
+    "english": "I need receipt.",
+    "gujarati": "મને રસીદ જોઈએ."
+  },
+  {
+    "english": "Keep the change.",
+    "gujarati": "છૂટા પૈસા રાખી લો."
+  },
+  {
+    "english": "Do you deliver?",
+    "gujarati": "શું તમે હોમ ડિલિવરી કરો છો?"
+  },
+  {
+    "english": "Home delivery available.",
+    "gujarati": "હોમ ડિલિવરી ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Please deliver today.",
+    "gujarati": "મહેરબાની કરીને આજે પહોંચાડો."
+  },
+  {
+    "english": "Delivery is free.",
+    "gujarati": "ડિલિવરી મફત છે."
+  },
+  {
+    "english": "Need shopping cart?",
+    "gujarati": "શું ટ્રોલી જોઈએ?"
+  },
+  {
+    "english": "Basket is available.",
+    "gujarati": "ટોપલી ઉપલબ્ધ છે."
+  },
+  {
+    "english": "This item sold.",
+    "gujarati": "આ વસ્તુ વેચાઈ ગઈ."
+  },
+  {
+    "english": "Currently out stock.",
+    "gujarati": "હાલ સ્ટોકમાં નથી."
+  },
+  {
+    "english": "New stock arrived.",
+    "gujarati": "નવો સ્ટોક આવ્યો છે."
+  },
+  {
+    "english": "Please check quality.",
+    "gujarati": "મહેરબાની કરીને ગુણવત્તા તપાસો."
+  },
+  {
+    "english": "This looks fresh.",
+    "gujarati": "આ તાજું લાગે છે."
+  },
+  {
+    "english": "I'll take these.",
+    "gujarati": "હું આ લઈશ."
+  },
+  {
+    "english": "Pack them separately.",
+    "gujarati": "આને અલગથી પેક કરો."
+  },
+  {
+    "english": "Need gift wrapping?",
+    "gujarati": "શું ગિફ્ટ પેકિંગ જોઈએ?"
+  },
+  {
+    "english": "Gift wrapping available.",
+    "gujarati": "ગિફ્ટ પેકિંગ ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Please hurry up.",
+    "gujarati": "મહેરબાની કરીને જલ્દી કરો."
+  },
+  {
+    "english": "Market is crowded.",
+    "gujarati": "બજારમાં ખૂબ ભીડ છે."
+  },
+  {
+    "english": "Shop opens early.",
+    "gujarati": "દુકાન વહેલી ખુલે છે."
+  },
+  {
+    "english": "Shop closes late.",
+    "gujarati": "દુકાન મોડે બંધ થાય છે."
+  },
+  {
+    "english": "Come back tomorrow.",
+    "gujarati": "આવતીકાલે ફરી આવજો."
+  },
+  {
+    "english": "Have pleasant shopping.",
+    "gujarati": "ખરીદીનો આનંદ માણો."
   }
 ]
