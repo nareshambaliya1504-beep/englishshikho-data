@@ -1,22 +1,402 @@
 [
   {
-    "english": "Send me the link.",
-    "gujarati": "મને લિંક મોકલો."
+    "english": "Send me message.",
+    "gujarati": "મને મેસેજ મોકલો."
   },
   {
-    "english": "I use Instagram every day.",
-    "gujarati": "હું દરરોજ ઇન્સ્ટાગ્રામ વાપરું છું."
+    "english": "Check your messages.",
+    "gujarati": "તમારા મેસેજ તપાસો."
   },
   {
-    "english": "Check your email.",
-    "gujarati": "તમારું ઇમેઇલ તપાસો."
+    "english": "Reply quickly.",
+    "gujarati": "જલ્દી જવાબ આપો."
   },
   {
-    "english": "The internet is slow.",
+    "english": "I saw message.",
+    "gujarati": "મેં મેસેજ જોયો."
+  },
+  {
+    "english": "Call me online.",
+    "gujarati": "મને ઓનલાઇન કોલ કરો."
+  },
+  {
+    "english": "Let's video call.",
+    "gujarati": "ચાલો વિડિયો કોલ કરીએ."
+  },
+  {
+    "english": "Join meeting now.",
+    "gujarati": "હવે મીટિંગમાં જોડાઓ."
+  },
+  {
+    "english": "Meeting link sent.",
+    "gujarati": "મીટિંગની લિંક મોકલી છે."
+  },
+  {
+    "english": "Share the link.",
+    "gujarati": "લિંક શેર કરો."
+  },
+  {
+    "english": "Open this website.",
+    "gujarati": "આ વેબસાઇટ ખોલો."
+  },
+  {
+    "english": "Search on Google.",
+    "gujarati": "ગૂગલ પર શોધો."
+  },
+  {
+    "english": "Download this file.",
+    "gujarati": "આ ફાઇલ ડાઉનલોડ કરો."
+  },
+  {
+    "english": "Upload your photo.",
+    "gujarati": "તમારો ફોટો અપલોડ કરો."
+  },
+  {
+    "english": "Share your photo.",
+    "gujarati": "તમારો ફોટો શેર કરો."
+  },
+  {
+    "english": "Post new status.",
+    "gujarati": "નવું સ્ટેટસ મૂકો."
+  },
+  {
+    "english": "Like my post.",
+    "gujarati": "મારી પોસ્ટને લાઈક કરો."
+  },
+  {
+    "english": "Leave a comment.",
+    "gujarati": "કોમેન્ટ કરો."
+  },
+  {
+    "english": "Subscribe channel.",
+    "gujarati": "ચેનલ સબસ્ક્રાઇબ કરો."
+  },
+  {
+    "english": "Watch this video.",
+    "gujarati": "આ વિડિયો જુઓ."
+  },
+  {
+    "english": "Internet is slow.",
     "gujarati": "ઇન્ટરનેટ ધીમું છે."
   },
   {
-    "english": "I uploaded a photo.",
-    "gujarati": "મેં ફોટો અપલોડ કર્યો."
+    "english": "Wi-Fi connected.",
+    "gujarati": "વાઈ-ફાઈ જોડાઈ ગયું."
+  },
+  {
+    "english": "Turn Wi-Fi on.",
+    "gujarati": "વાઈ-ફાઈ ચાલુ કરો."
+  },
+  {
+    "english": "Network unavailable.",
+    "gujarati": "નેટવર્ક ઉપલબ્ધ નથી."
+  },
+  {
+    "english": "Check internet connection.",
+    "gujarati": "ઇન્ટરનેટ કનેક્શન તપાસો."
+  },
+  {
+    "english": "Stay online.",
+    "gujarati": "ઓનલાઇન રહો."
+  },
+  {
+    "english": "Send me link.",
+    "gujarati": "મને લિંક મોકલો."
+  },
+  {
+    "english": "Open the app.",
+    "gujarati": "એપ ખોલો."
+  },
+  {
+    "english": "Update the app.",
+    "gujarati": "એપ અપડેટ કરો."
+  },
+  {
+    "english": "Install this app.",
+    "gujarati": "આ એપ ઇન્સ્ટોલ કરો."
+  },
+  {
+    "english": "Delete old files.",
+    "gujarati": "જૂની ફાઇલો કાઢી નાખો."
+  },
+  {
+    "english": "Save this photo.",
+    "gujarati": "આ ફોટો સેવ કરો."
+  },
+  {
+    "english": "Share your screen.",
+    "gujarati": "તમારી સ્ક્રીન શેર કરો."
+  },
+  {
+    "english": "Turn camera on.",
+    "gujarati": "કેમેરો ચાલુ કરો."
+  },
+  {
+    "english": "Mute your microphone.",
+    "gujarati": "માઇક્રોફોન મ્યૂટ કરો."
+  },
+  {
+    "english": "Unmute yourself.",
+    "gujarati": "માઇક્રોફોન ચાલુ કરો."
+  },
+  {
+    "english": "Join the call.",
+    "gujarati": "કોલમાં જોડાઓ."
+  },
+  {
+    "english": "Leave the meeting.",
+    "gujarati": "મીટિંગમાંથી બહાર નીકળો."
+  },
+  {
+    "english": "The video buffering.",
+    "gujarati": "વિડિયો બફર થઈ રહ્યો છે."
+  },
+  {
+    "english": "Refresh the page.",
+    "gujarati": "પેજ રિફ્રેશ કરો."
+  },
+  {
+    "english": "Clear browser history.",
+    "gujarati": "બ્રાઉઝર હિસ્ટ્રી સાફ કરો."
+  },
+  {
+    "english": "Remember my password.",
+    "gujarati": "મારો પાસવર્ડ યાદ રાખો."
+  },
+  {
+    "english": "Reset your password.",
+    "gujarati": "તમારો પાસવર્ડ રીસેટ કરો."
+  },
+  {
+    "english": "Login successfully.",
+    "gujarati": "સફળતાપૂર્વક લોગિન થયું."
+  },
+  {
+    "english": "Logout before leaving.",
+    "gujarati": "જતાં પહેલાં લોગઆઉટ કરો."
+  },
+  {
+    "english": "Follow my page.",
+    "gujarati": "મારું પેજ ફોલો કરો."
+  },
+  {
+    "english": "Tag your friend.",
+    "gujarati": "તમારા મિત્રને ટેગ કરો."
+  },
+  {
+    "english": "Share this post.",
+    "gujarati": "આ પોસ્ટ શેર કરો."
+  },
+  {
+    "english": "Check notifications.",
+    "gujarati": "નોટિફિકેશન તપાસો."
+  },
+  {
+    "english": "Go live now.",
+    "gujarati": "હવે લાઇવ જાઓ."
+  },
+  {
+    "english": "See you online.",
+    "gujarati": "ઓનલાઇન મળીશું."
+  },
+  {
+    "english": "Who sent message?",
+    "gujarati": "મેસેજ કોણે મોકલ્યો?"
+  },
+  {
+    "english": "Did you reply?",
+    "gujarati": "શું તમે જવાબ આપ્યો?"
+  },
+  {
+    "english": "Check your inbox.",
+    "gujarati": "તમારું ઇનબોક્સ તપાસો."
+  },
+  {
+    "english": "I got notification.",
+    "gujarati": "મને નોટિફિકેશન મળ્યું."
+  },
+  {
+    "english": "My phone vibrating.",
+    "gujarati": "મારો ફોન વાઇબ્રેટ થઈ રહ્યો છે."
+  },
+  {
+    "english": "The internet works.",
+    "gujarati": "ઇન્ટરનેટ ચાલુ છે."
+  },
+  {
+    "english": "Reconnect the Wi-Fi.",
+    "gujarati": "વાઈ-ફાઈ ફરી જોડો."
+  },
+  {
+    "english": "Turn mobile data.",
+    "gujarati": "મોબાઇલ ડેટા ચાલુ કરો."
+  },
+  {
+    "english": "Signal is weak.",
+    "gujarati": "સિગ્નલ નબળું છે."
+  },
+  {
+    "english": "Page loading slowly.",
+    "gujarati": "પેજ ધીમે લોડ થઈ રહ્યું છે."
+  },
+  {
+    "english": "Download completed successfully.",
+    "gujarati": "ડાઉનલોડ સફળતાપૂર્વક પૂર્ણ થયું."
+  },
+  {
+    "english": "Upload still pending.",
+    "gujarati": "અપલોડ હજુ બાકી છે."
+  },
+  {
+    "english": "The file uploaded.",
+    "gujarati": "ફાઇલ અપલોડ થઈ ગઈ."
+  },
+  {
+    "english": "Please send document.",
+    "gujarati": "મહેરબાની કરીને દસ્તાવેજ મોકલો."
+  },
+  {
+    "english": "Open your email.",
+    "gujarati": "તમારું ઇમેઇલ ખોલો."
+  },
+  {
+    "english": "Check spam folder.",
+    "gujarati": "સ્પામ ફોલ્ડર તપાસો."
+  },
+  {
+    "english": "Reply by email.",
+    "gujarati": "ઇમેઇલ દ્વારા જવાબ આપો."
+  },
+  {
+    "english": "Save the document.",
+    "gujarati": "દસ્તાવેજ સેવ કરો."
+  },
+  {
+    "english": "Enable dark mode.",
+    "gujarati": "ડાર્ક મોડ ચાલુ કરો."
+  },
+  {
+    "english": "Disable notifications.",
+    "gujarati": "નોટિફિકેશન બંધ કરો."
+  },
+  {
+    "english": "Your profile updated.",
+    "gujarati": "તમારી પ્રોફાઇલ અપડેટ થઈ ગઈ."
+  },
+  {
+    "english": "Change profile picture.",
+    "gujarati": "પ્રોફાઇલ ફોટો બદલો."
+  },
+  {
+    "english": "Add new friend.",
+    "gujarati": "નવો મિત્ર ઉમેરો."
+  },
+  {
+    "english": "Accept my request.",
+    "gujarati": "મારી વિનંતી સ્વીકારો."
+  },
+  {
+    "english": "Block unwanted users.",
+    "gujarati": "બિનજરૂરી વપરાશકર્તાઓને બ્લોક કરો."
+  },
+  {
+    "english": "Create new account.",
+    "gujarati": "નવું એકાઉન્ટ બનાવો."
+  },
+  {
+    "english": "Verify your account.",
+    "gujarati": "તમારું એકાઉન્ટ ચકાસો."
+  },
+  {
+    "english": "Enter verification code.",
+    "gujarati": "વેરિફિકેશન કોડ દાખલ કરો."
+  },
+  {
+    "english": "Forgot your password?",
+    "gujarati": "શું તમે પાસવર્ડ ભૂલી ગયા?"
+  },
+  {
+    "english": "Recover your account.",
+    "gujarati": "તમારું એકાઉન્ટ પુનઃપ્રાપ્ત કરો."
+  },
+  {
+    "english": "Your account secured.",
+    "gujarati": "તમારું એકાઉન્ટ સુરક્ષિત છે."
+  },
+  {
+    "english": "Enable two-factor authentication.",
+    "gujarati": "ટુ-ફેક્ટર ઓથેન્ટિકેશન ચાલુ કરો."
+  },
+  {
+    "english": "Update your profile.",
+    "gujarati": "તમારી પ્રોફાઇલ અપડેટ કરો."
+  },
+  {
+    "english": "Change your username.",
+    "gujarati": "તમારું યુઝરનેમ બદલો."
+  },
+  {
+    "english": "Edit your profile.",
+    "gujarati": "તમારી પ્રોફાઇલ સંપાદિત કરો."
+  },
+  {
+    "english": "Check your feed.",
+    "gujarati": "તમારી ફીડ તપાસો."
+  },
+  {
+    "english": "Scroll for updates.",
+    "gujarati": "નવા અપડેટ જોવા સ્ક્રોલ કરો."
+  },
+  {
+    "english": "This post trending.",
+    "gujarati": "આ પોસ્ટ ટ્રેન્ડમાં છે."
+  },
+  {
+    "english": "Your post viral.",
+    "gujarati": "તમારી પોસ્ટ વાયરલ થઈ."
+  },
+  {
+    "english": "Share this story.",
+    "gujarati": "આ સ્ટોરી શેર કરો."
+  },
+  {
+    "english": "React with emoji.",
+    "gujarati": "ઇમોજી વડે પ્રતિક્રિયા આપો."
+  },
+  {
+    "english": "Mention your friend.",
+    "gujarati": "તમારા મિત્રનો ઉલ્લેખ કરો."
+  },
+  {
+    "english": "Send voice message.",
+    "gujarati": "વોઇસ મેસેજ મોકલો."
+  },
+  {
+    "english": "Delete this chat.",
+    "gujarati": "આ ચેટ કાઢી નાખો."
+  },
+  {
+    "english": "Archive old chats.",
+    "gujarati": "જૂની ચેટ આર્કાઇવ કરો."
+  },
+  {
+    "english": "Internet speed improved.",
+    "gujarati": "ઇન્ટરનેટની ઝડપ વધી ગઈ."
+  },
+  {
+    "english": "Restart your router.",
+    "gujarati": "તમારું રાઉટર ફરી શરૂ કરો."
+  },
+  {
+    "english": "Connect to hotspot.",
+    "gujarati": "હોટસ્પોટ સાથે જોડાઓ."
+  },
+  {
+    "english": "Stay connected always.",
+    "gujarati": "હંમેશા જોડાયેલા રહો."
+  },
+  {
+    "english": "Browse safely online.",
+    "gujarati": "ઓનલાઇન સુરક્ષિત રીતે બ્રાઉઝ કરો."
   }
 ]
