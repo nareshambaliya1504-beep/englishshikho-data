@@ -1,42 +1,402 @@
 [
   {
-    "english": "Open the door",
-    "gujarati": "દરવાજો ખોલો."
+    "english": "Welcome to my home.",
+    "gujarati": "મારા ઘરે તમારું સ્વાગત છે."
   },
   {
-    "english": "Close the door.",
-    "gujarati": "દરવાજો બંધ કરો."
+    "english": "Please come inside.",
+    "gujarati": "મહેરબાની કરીને અંદર આવો."
   },
   {
-    "english": "Turn on the light.",
+    "english": "Make yourself comfortable.",
+    "gujarati": "આરામથી બેસો."
+  },
+  {
+    "english": "Please take a seat.",
+    "gujarati": "મહેરબાની કરીને બેસો."
+  },
+  {
+    "english": "Can I get you some water?",
+    "gujarati": "શું હું તમને થોડું પાણી આપું?"
+  },
+  {
+    "english": "Would you like some tea?",
+    "gujarati": "શું તમને ચા પીવી છે?"
+  },
+  {
+    "english": "Dinner is ready.",
+    "gujarati": "રાત્રિભોજન તૈયાર છે."
+  },
+  {
+    "english": "Breakfast is ready.",
+    "gujarati": "નાસ્તો તૈયાર છે."
+  },
+  {
+    "english": "Lunch is on the table.",
+    "gujarati": "બપોરનું ભોજન ટેબલ પર છે."
+  },
+  {
+    "english": "Wash your hands before eating.",
+    "gujarati": "જમતા પહેલાં હાથ ધોઈ લો."
+  },
+  {
+    "english": "Please close the door.",
+    "gujarati": "મહેરબાની કરીને દરવાજો બંધ કરો."
+  },
+  {
+    "english": "Open the window.",
+    "gujarati": "બારી ખોલો."
+  },
+  {
+    "english": "Turn on the fan.",
+    "gujarati": "પંખો ચાલુ કરો."
+  },
+  {
+    "english": "Turn off the light.",
+    "gujarati": "લાઇટ બંધ કરો."
+  },
+  {
+    "english": "Please clean your room.",
+    "gujarati": "મહેરબાની કરીને તમારો રૂમ સાફ કરો."
+  },
+  {
+    "english": "Keep your clothes in the cupboard.",
+    "gujarati": "તમારા કપડાં કબાટમાં મૂકો."
+  },
+  {
+    "english": "Don't make a mess.",
+    "gujarati": "ગંદકી ન કરો."
+  },
+  {
+    "english": "Please help me in the kitchen.",
+    "gujarati": "મહેરબાની કરીને રસોડામાં મારી મદદ કરો."
+  },
+  {
+    "english": "The house looks beautiful.",
+    "gujarati": "ઘર ખૂબ સુંદર લાગે છે."
+  },
+  {
+    "english": "I am cleaning the house.",
+    "gujarati": "હું ઘર સાફ કરી રહ્યો છું."
+  },
+  {
+    "english": "The floor is clean.",
+    "gujarati": "ફર્શ સાફ છે."
+  },
+  {
+    "english": "Please lock the door.",
+    "gujarati": "મહેરબાની કરીને દરવાજાને તાળું મારો."
+  },
+  {
+    "english": "Where did you keep the keys?",
+    "gujarati": "તમે ચાવીઓ ક્યાં મૂકી?"
+  },
+  {
+    "english": "The children are playing at home.",
+    "gujarati": "બાળકો ઘરે રમી રહ્યા છે."
+  },
+  {
+    "english": "Everyone is at home today.",
+    "gujarati": "આજે બધા ઘરે છે."
+  },
+  {
+    "english": "Please switch off the TV.",
+    "gujarati": "મહેરબાની કરીને ટીવી બંધ કરો."
+  },
+  {
+    "english": "Switch on the lights.",
     "gujarati": "લાઇટ ચાલુ કરો."
   },
   {
-    "english": "Turn off the fan.",
-    "gujarati": "પંખો બંધ કરો."
+    "english": "The room is too hot.",
+    "gujarati": "રૂમમાં ખૂબ ગરમી છે."
   },
   {
-    "english": "Bring me water.",
-    "gujarati": "મને પાણી લાવો."
+    "english": "Open the curtains.",
+    "gujarati": "પડદા ખોલો."
   },
   {
-    "english": "I am hungry.",
-    "gujarati": "મને ભૂખ લાગી છે."
+    "english": "Close the curtains.",
+    "gujarati": "પડદા બંધ કરો."
   },
   {
-    "english": "I am thirsty.",
-    "gujarati": "મને તરસ લાગી છે."
+    "english": "Please answer the door.",
+    "gujarati": "મહેરબાની કરીને દરવાજો ખોલો."
   },
   {
-    "english": "Please sit here.",
-    "gujarati": "કૃપા કરીને અહીં બેસો."
+    "english": "Someone is at the door.",
+    "gujarati": "દરવાજા પર કોઈ આવ્યું છે."
   },
   {
-    "english": "Let's eat.",
-    "gujarati": "ચાલો જમીએ."
+    "english": "The doorbell is ringing.",
+    "gujarati": "ડોરબેલ વાગી રહી છે."
   },
   {
-    "english": "The food is delicious.",
-    "gujarati": "ભોજન સ્વાદિષ્ટ છે."
+    "english": "Please answer the phone.",
+    "gujarati": "મહેરબાની કરીને ફોન ઉપાડો."
+  },
+  {
+    "english": "Dinner smells delicious.",
+    "gujarati": "રાત્રિભોજનની સુગંધ ખૂબ સરસ છે."
+  },
+  {
+    "english": "The food is very tasty.",
+    "gujarati": "ભોજન ખૂબ સ્વાદિષ્ટ છે."
+  },
+  {
+    "english": "Please set the table.",
+    "gujarati": "મહેરબાની કરીને ટેબલ ગોઠવો."
+  },
+  {
+    "english": "Bring me a glass of water.",
+    "gujarati": "મને એક ગ્લાસ પાણી લાવી આપો."
+  },
+  {
+    "english": "Please pass the salt.",
+    "gujarati": "મહેરબાની કરીને મીઠું આપો."
+  },
+  {
+    "english": "Have some more food.",
+    "gujarati": "થોડું વધુ ભોજન લો."
+  },
+  {
+    "english": "Finish your meal.",
+    "gujarati": "તમારું ભોજન પૂરું કરો."
+  },
+  {
+    "english": "Wash the dishes after dinner.",
+    "gujarati": "રાત્રિભોજન પછી વાસણ ધોઈ લો."
+  },
+  {
+    "english": "Keep the kitchen clean.",
+    "gujarati": "રસોડું સાફ રાખો."
+  },
+  {
+    "english": "Take out the garbage.",
+    "gujarati": "કચરો બહાર નાખો."
+  },
+  {
+    "english": "The house needs cleaning.",
+    "gujarati": "ઘરને સાફ કરવાની જરૂર છે."
+  },
+  {
+    "english": "I am doing the laundry.",
+    "gujarati": "હું કપડાં ધોઈ રહ્યો છું."
+  },
+  {
+    "english": "Hang the clothes outside.",
+    "gujarati": "કપડાં બહાર સૂકવવા લટકાવો."
+  },
+  {
+    "english": "Fold the clothes neatly.",
+    "gujarati": "કપડાં સરસ રીતે વાળી દો."
+  },
+  {
+    "english": "Please make your bed.",
+    "gujarati": "મહેરબાની કરીને તમારો પલંગ ગોઠવો."
+  },
+  {
+    "english": "Good night. Sleep well.",
+    "gujarati": "શુભ રાત્રિ. સારી રીતે ઊંઘજો."
+  },
+  {
+    "english": "Wake up, it's morning.",
+    "gujarati": "ઉઠો, સવાર થઈ ગઈ છે."
+  },
+  {
+    "english": "Brush your teeth.",
+    "gujarati": "તમારા દાંત સાફ કરો."
+  },
+  {
+    "english": "Take a shower.",
+    "gujarati": "સ્નાન કરી લો."
+  },
+  {
+    "english": "Get ready quickly.",
+    "gujarati": "જલ્દી તૈયાર થઈ જાઓ."
+  },
+  {
+    "english": "Don't be late.",
+    "gujarati": "મોડું કરશો નહીં."
+  },
+  {
+    "english": "Where is my wallet?",
+    "gujarati": "મારું પાકીટ ક્યાં છે?"
+  },
+  {
+    "english": "Have you seen my phone?",
+    "gujarati": "શું તમે મારો ફોન જોયો છે?"
+  },
+  {
+    "english": "I can't find my keys.",
+    "gujarati": "મને મારી ચાવીઓ મળતી નથી."
+  },
+  {
+    "english": "Please open the cupboard.",
+    "gujarati": "મહેરબાની કરીને કબાટ ખોલો."
+  },
+  {
+    "english": "The room is very clean.",
+    "gujarati": "રૂમ ખૂબ સાફ છે."
+  },
+  {
+    "english": "This sofa is very comfortable.",
+    "gujarati": "આ સોફો ખૂબ આરામદાયક છે."
+  },
+  {
+    "english": "Let's watch a movie.",
+    "gujarati": "ચાલો ફિલ્મ જોઈએ."
+  },
+  {
+    "english": "Please lower the volume.",
+    "gujarati": "મહેરબાની કરીને અવાજ ઓછો કરો."
+  },
+  {
+    "english": "The baby is sleeping.",
+    "gujarati": "બાળક ઊંઘી રહ્યું છે."
+  },
+  {
+    "english": "Please be quiet.",
+    "gujarati": "મહેરબાની કરીને શાંતિ રાખો."
+  },
+  {
+    "english": "Can you help me clean the room?",
+    "gujarati": "શું તમે રૂમ સાફ કરવામાં મારી મદદ કરી શકો?"
+  },
+  {
+    "english": "The house feels peaceful.",
+    "gujarati": "ઘરમાં શાંતિનો માહોલ છે."
+  },
+  {
+    "english": "The guests will arrive soon.",
+    "gujarati": "મહેમાનો થોડા સમયમાં આવશે."
+  },
+  {
+    "english": "Please make some tea.",
+    "gujarati": "મહેરબાની કરીને ચા બનાવો."
+  },
+  {
+    "english": "I will prepare dinner tonight.",
+    "gujarati": "આજે રાત્રિભોજન હું બનાવીશ."
+  },
+  {
+    "english": "Please keep your shoes outside.",
+    "gujarati": "મહેરબાની કરીને તમારા જૂતા બહાર રાખો."
+  },
+  {
+    "english": "Close the refrigerator properly.",
+    "gujarati": "ફ્રિજ સારી રીતે બંધ કરો."
+  },
+  {
+    "english": "There is milk in the fridge.",
+    "gujarati": "ફ્રિજમાં દૂધ છે."
+  },
+  {
+    "english": "Don't waste water.",
+    "gujarati": "પાણીનો બગાડ કરશો નહીં."
+  },
+  {
+    "english": "Home is the best place to relax.",
+    "gujarati": "આરામ કરવા માટે ઘર સૌથી સારી જગ્યા છે."
+  },
+  {
+    "english": "Please water the plants.",
+    "gujarati": "મહેરબાની કરીને છોડને પાણી આપો."
+  },
+  {
+    "english": "The plants look healthy.",
+    "gujarati": "છોડ સ્વસ્થ દેખાય છે."
+  },
+  {
+    "english": "Please sweep the floor.",
+    "gujarati": "મહેરબાની કરીને ફર્શ સાફ કરો."
+  },
+  {
+    "english": "Mop the floor carefully.",
+    "gujarati": "ફર્શ સારી રીતે પોચો મારો."
+  },
+  {
+    "english": "The room smells fresh.",
+    "gujarati": "રૂમમાં તાજગીની સુગંધ આવે છે."
+  },
+  {
+    "english": "Please dust the furniture.",
+    "gujarati": "મહેરબાની કરીને ફર્નિચરની ધૂળ સાફ કરો."
+  },
+  {
+    "english": "The fan needs cleaning.",
+    "gujarati": "પંખો સાફ કરવાની જરૂર છે."
+  },
+  {
+    "english": "Please change the bedsheet.",
+    "gujarati": "મહેરબાની કરીને ચાદર બદલો."
+  },
+  {
+    "english": "The pillow is very soft.",
+    "gujarati": "તકિયો ખૂબ નરમ છે."
+  },
+  {
+    "english": "The blanket is warm.",
+    "gujarati": "ધાબળું ગરમ છે."
+  },
+  {
+    "english": "Close the gate.",
+    "gujarati": "ગેટ બંધ કરો."
+  },
+  {
+    "english": "Please check the mailbox.",
+    "gujarati": "મહેરબાની કરીને પત્રપેટી તપાસો."
+  },
+  {
+    "english": "The electricity is gone.",
+    "gujarati": "વીજળી ચાલી ગઈ છે."
+  },
+  {
+    "english": "The power is back.",
+    "gujarati": "વીજળી ફરી આવી ગઈ છે."
+  },
+  {
+    "english": "Charge your phone.",
+    "gujarati": "તમારો ફોન ચાર્જ કરો."
+  },
+  {
+    "english": "The Wi-Fi is not working.",
+    "gujarati": "વાઈ-ફાઈ કામ કરતું નથી."
+  },
+  {
+    "english": "Please restart the router.",
+    "gujarati": "મહેરબાની કરીને રાઉટર ફરી શરૂ કરો."
+  },
+  {
+    "english": "Someone is knocking at the door.",
+    "gujarati": "કોઈ દરવાજો ખખડાવી રહ્યું છે."
+  },
+  {
+    "english": "The guests have arrived.",
+    "gujarati": "મહેમાનો આવી ગયા છે."
+  },
+  {
+    "english": "Please serve the snacks.",
+    "gujarati": "મહેરબાની કરીને નાસ્તો પીરસો."
+  },
+  {
+    "english": "Would you like some coffee?",
+    "gujarati": "શું તમને કોફી પીવી છે?"
+  },
+  {
+    "english": "Make yourself at home.",
+    "gujarati": "તમારા પોતાના ઘર જેવી લાગણી રાખો."
+  },
+  {
+    "english": "I love spending time with my family.",
+    "gujarati": "મને મારા પરિવાર સાથે સમય પસાર કરવો ગમે છે."
+  },
+  {
+    "english": "Our home is always full of happiness.",
+    "gujarati": "અમારું ઘર હંમેશા ખુશીઓથી ભરેલું રહે છે."
+  },
+  {
+    "english": "There is no place like home.",
+    "gujarati": "ઘર જેવી બીજી કોઈ જગ્યા નથી."
   }
 ]
