@@ -1,22 +1,402 @@
 [
   {
-    "english": "How much money do you have?",
-    "gujarati": "તમારી પાસે કેટલા પૈસા છે?"
+    "english": "How much money?",
+    "gujarati": "કેટલા પૈસા?"
   },
   {
-    "english": "This is expensive.",
+    "english": "I need money.",
+    "gujarati": "મને પૈસા જોઈએ."
+  },
+  {
+    "english": "I have cash.",
+    "gujarati": "મારી પાસે રોકડ છે."
+  },
+  {
+    "english": "I have no cash.",
+    "gujarati": "મારી પાસે રોકડ નથી."
+  },
+  {
+    "english": "Pay by cash.",
+    "gujarati": "રોકડથી ચૂકવણી કરો."
+  },
+  {
+    "english": "Pay by card.",
+    "gujarati": "કાર્ડથી ચૂકવણી કરો."
+  },
+  {
+    "english": "Online payment accepted.",
+    "gujarati": "ઓનલાઈન ચુકવણી સ્વીકારવામાં આવે છે."
+  },
+  {
+    "english": "Please pay now.",
+    "gujarati": "મહેરબાની કરીને હવે ચૂકવણી કરો."
+  },
+  {
+    "english": "Payment completed.",
+    "gujarati": "ચુકવણી પૂર્ણ થઈ ગઈ."
+  },
+  {
+    "english": "Here's your change.",
+    "gujarati": "આ રહ્યા તમારા છૂટા પૈસા."
+  },
+  {
+    "english": "Keep the change.",
+    "gujarati": "છૂટા પૈસા રાખી લો."
+  },
+  {
+    "english": "That's expensive.",
     "gujarati": "આ મોંઘું છે."
   },
   {
-    "english": "I want to save money.",
-    "gujarati": "મારે પૈસા બચાવવા છે."
+    "english": "That's affordable.",
+    "gujarati": "આ પોસાય એવું છે."
   },
   {
-    "english": "Please pay the bill.",
-    "gujarati": "કૃપા કરીને બિલ ભરો."
+    "english": "Can you discount?",
+    "gujarati": "શું તમે ડિસ્કાઉન્ટ આપશો?"
   },
   {
-    "english": "I don't have cash.",
-    "gujarati": "મારી પાસે રોકડા નથી."
+    "english": "Price is reasonable.",
+    "gujarati": "કિંમત યોગ્ય છે."
+  },
+  {
+    "english": "I saved money.",
+    "gujarati": "મેં પૈસા બચાવ્યા."
+  },
+  {
+    "english": "Spend money wisely.",
+    "gujarati": "પૈસા સમજદારીથી ખર્ચો."
+  },
+  {
+    "english": "Money is important.",
+    "gujarati": "પૈસા મહત્વના છે."
+  },
+  {
+    "english": "I earned today.",
+    "gujarati": "મેં આજે કમાણી કરી."
+  },
+  {
+    "english": "Business is good.",
+    "gujarati": "ધંધો સારો છે."
+  },
+  {
+    "english": "Business is slow.",
+    "gujarati": "ધંધો ધીમો છે."
+  },
+  {
+    "english": "Count the money.",
+    "gujarati": "પૈસા ગણી લો."
+  },
+  {
+    "english": "Check the bill.",
+    "gujarati": "બિલ તપાસો."
+  },
+  {
+    "english": "Receipt is ready.",
+    "gujarati": "રસીદ તૈયાર છે."
+  },
+  {
+    "english": "Thank you payment.",
+    "gujarati": "ચુકવણી બદલ આભાર."
+  },
+  {
+    "english": "How much total?",
+    "gujarati": "કુલ કેટલા થયા?"
+  },
+  {
+    "english": "Please pay later.",
+    "gujarati": "મહેરબાની કરીને પછી ચૂકવણી કરજો."
+  },
+  {
+    "english": "I forgot wallet.",
+    "gujarati": "હું પાકીટ ભૂલી ગયો."
+  },
+  {
+    "english": "I forgot purse.",
+    "gujarati": "હું પર્સ ભૂલી ગઈ."
+  },
+  {
+    "english": "Can you lend?",
+    "gujarati": "શું તમે ઉધાર આપી શકો?"
+  },
+  {
+    "english": "I'll return tomorrow.",
+    "gujarati": "હું આવતીકાલે પરત આપીશ."
+  },
+  {
+    "english": "Please return money.",
+    "gujarati": "મહેરબાની કરીને પૈસા પરત આપો."
+  },
+  {
+    "english": "I borrowed money.",
+    "gujarati": "મેં પૈસા ઉધાર લીધા."
+  },
+  {
+    "english": "Money transferred successfully.",
+    "gujarati": "પૈસા સફળતાપૂર્વક ટ્રાન્સફર થયા."
+  },
+  {
+    "english": "Check your account.",
+    "gujarati": "તમારું ખાતું તપાસો."
+  },
+  {
+    "english": "Balance is low.",
+    "gujarati": "બેલેન્સ ઓછું છે."
+  },
+  {
+    "english": "Balance is enough.",
+    "gujarati": "બેલેન્સ પૂરતું છે."
+  },
+  {
+    "english": "Deposit this amount.",
+    "gujarati": "આ રકમ જમા કરો."
+  },
+  {
+    "english": "Withdraw some cash.",
+    "gujarati": "થોડી રોકડ ઉપાડો."
+  },
+  {
+    "english": "Bank is open.",
+    "gujarati": "બેંક ખુલ્લી છે."
+  },
+  {
+    "english": "Bank is closed.",
+    "gujarati": "બેંક બંધ છે."
+  },
+  {
+    "english": "ATM is nearby.",
+    "gujarati": "એટીએમ નજીક છે."
+  },
+  {
+    "english": "Need exact change.",
+    "gujarati": "ચોક્કસ છૂટા પૈસા જોઈએ."
+  },
+  {
+    "english": "This costs less.",
+    "gujarati": "આની કિંમત ઓછી છે."
+  },
+  {
+    "english": "This costs more.",
+    "gujarati": "આની કિંમત વધારે છે."
+  },
+  {
+    "english": "Money isn't everything.",
+    "gujarati": "પૈસા જ બધું નથી."
+  },
+  {
+    "english": "Save for future.",
+    "gujarati": "ભવિષ્ય માટે બચત કરો."
+  },
+  {
+    "english": "Don't waste money.",
+    "gujarati": "પૈસા બગાડશો નહીં."
+  },
+  {
+    "english": "Invest your money.",
+    "gujarati": "તમારા પૈસાનું રોકાણ કરો."
+  },
+  {
+    "english": "Money brings responsibility.",
+    "gujarati": "પૈસા જવાબદારી લાવે છે."
+  },
+  {
+    "english": "How much balance?",
+    "gujarati": "બેલેન્સ કેટલું છે?"
+  },
+  {
+    "english": "Please check balance.",
+    "gujarati": "મહેરબાની કરીને બેલેન્સ તપાસો."
+  },
+  {
+    "english": "Salary credited today.",
+    "gujarati": "આજે પગાર જમા થયો."
+  },
+  {
+    "english": "I received salary.",
+    "gujarati": "મને પગાર મળ્યો."
+  },
+  {
+    "english": "I paid rent.",
+    "gujarati": "મેં ભાડું ચૂકવ્યું."
+  },
+  {
+    "english": "Electricity bill paid.",
+    "gujarati": "વીજળીનું બિલ ભરાઈ ગયું."
+  },
+  {
+    "english": "Water bill paid.",
+    "gujarati": "પાણીનું બિલ ભરાઈ ગયું."
+  },
+  {
+    "english": "Need more savings.",
+    "gujarati": "વધુ બચત કરવાની જરૂર છે."
+  },
+  {
+    "english": "Expenses are increasing.",
+    "gujarati": "ખર્ચ વધી રહ્યા છે."
+  },
+  {
+    "english": "Income is growing.",
+    "gujarati": "આવક વધી રહી છે."
+  },
+  {
+    "english": "Business earned profit.",
+    "gujarati": "ધંધામાં નફો થયો."
+  },
+  {
+    "english": "Business suffered loss.",
+    "gujarati": "ધંધામાં નુકસાન થયું."
+  },
+  {
+    "english": "Please send payment.",
+    "gujarati": "મહેરબાની કરીને ચુકવણી મોકલો."
+  },
+  {
+    "english": "Payment received successfully.",
+    "gujarati": "ચુકવણી સફળતાપૂર્વક મળી ગઈ."
+  },
+  {
+    "english": "Transaction completed successfully.",
+    "gujarati": "ટ્રાન્ઝેક્શન સફળતાપૂર્વક પૂર્ણ થયું."
+  },
+  {
+    "english": "Transaction failed today.",
+    "gujarati": "આજે ટ્રાન્ઝેક્શન નિષ્ફળ ગયું."
+  },
+  {
+    "english": "Try payment again.",
+    "gujarati": "ફરીથી ચુકવણી કરવાનો પ્રયાસ કરો."
+  },
+  {
+    "english": "Scan this code.",
+    "gujarati": "આ કોડ સ્કેન કરો."
+  },
+  {
+    "english": "Payment confirmed now.",
+    "gujarati": "ચુકવણીની પુષ્ટિ થઈ ગઈ."
+  },
+  {
+    "english": "Please collect cash.",
+    "gujarati": "મહેરબાની કરીને રોકડ લઈ લો."
+  },
+  {
+    "english": "Money saved today.",
+    "gujarati": "આજે પૈસા બચ્યા."
+  },
+  {
+    "english": "Every rupee matters.",
+    "gujarati": "દરેક રૂપિયા મહત્વનો છે."
+  },
+  {
+    "english": "Spend within budget.",
+    "gujarati": "બજેટમાં રહીને ખર્ચ કરો."
+  },
+  {
+    "english": "Financial planning helps.",
+    "gujarati": "નાણાકીય આયોજન મદદરૂપ બને છે."
+  },
+  {
+    "english": "Save money regularly.",
+    "gujarati": "નિયમિત બચત કરો."
+  },
+  {
+    "english": "I need receipt.",
+    "gujarati": "મને રસીદ જોઈએ."
+  },
+  {
+    "english": "Keep your receipt.",
+    "gujarati": "તમારી રસીદ સાચવી રાખો."
+  },
+  {
+    "english": "Count your cash.",
+    "gujarati": "તમારી રોકડ ગણી લો."
+  },
+  {
+    "english": "Money is safe.",
+    "gujarati": "પૈસા સુરક્ષિત છે."
+  },
+  {
+    "english": "Wallet is missing.",
+    "gujarati": "પાકીટ ખોવાઈ ગયું છે."
+  },
+  {
+    "english": "I found wallet.",
+    "gujarati": "મને પાકીટ મળ્યું."
+  },
+  {
+    "english": "Card is expired.",
+    "gujarati": "કાર્ડની મુદત પૂરી થઈ ગઈ છે."
+  },
+  {
+    "english": "Card isn't working.",
+    "gujarati": "કાર્ડ કામ કરતું નથી."
+  },
+  {
+    "english": "Please swipe card.",
+    "gujarati": "મહેરબાની કરીને કાર્ડ સ્વાઇપ કરો."
+  },
+  {
+    "english": "Enter your PIN.",
+    "gujarati": "તમારો પિન દાખલ કરો."
+  },
+  {
+    "english": "Payment is pending.",
+    "gujarati": "ચુકવણી બાકી છે."
+  },
+  {
+    "english": "Payment was declined.",
+    "gujarati": "ચુકવણી નકારી દેવામાં આવી."
+  },
+  {
+    "english": "Please pay balance.",
+    "gujarati": "મહેરબાની કરીને બાકી રકમ ચૂકવો."
+  },
+  {
+    "english": "Loan approved today.",
+    "gujarati": "આજે લોન મંજૂર થઈ."
+  },
+  {
+    "english": "Loan is pending.",
+    "gujarati": "લોન બાકી છે."
+  },
+  {
+    "english": "Interest is high.",
+    "gujarati": "વ્યાજ વધારે છે."
+  },
+  {
+    "english": "Interest is low.",
+    "gujarati": "વ્યાજ ઓછું છે."
+  },
+  {
+    "english": "Open bank account.",
+    "gujarati": "બેંક ખાતું ખોલો."
+  },
+  {
+    "english": "Close bank account.",
+    "gujarati": "બેંક ખાતું બંધ કરો."
+  },
+  {
+    "english": "Check account statement.",
+    "gujarati": "ખાતાનું સ્ટેટમેન્ટ તપાસો."
+  },
+  {
+    "english": "Avoid unnecessary expenses.",
+    "gujarati": "બિનજરૂરી ખર્ચ ટાળો."
+  },
+  {
+    "english": "Spend money carefully.",
+    "gujarati": "પૈસા સાવધાનીથી ખર્ચો."
+  },
+  {
+    "english": "Save every rupee.",
+    "gujarati": "દરેક રૂપિયા બચાવો."
+  },
+  {
+    "english": "Financial freedom matters.",
+    "gujarati": "નાણાકીય સ્વતંત્રતા મહત્વની છે."
+  },
+  {
+    "english": "Manage money wisely.",
+    "gujarati": "પૈસાનું સમજદારીથી સંચાલન કરો."
   }
 ]
