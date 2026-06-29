@@ -1,22 +1,405 @@
 [
   {
-    "english": "I am not feeling well.",
+    "english": "I need doctor.",
+    "gujarati": "મને ડૉક્ટર જોઈએ."
+  },
+  {
+    "english": "Call the doctor.",
+    "gujarati": "ડૉક્ટરને બોલાવો."
+  },
+  {
+    "english": "Where is doctor?",
+    "gujarati": "ડૉક્ટર ક્યાં છે?"
+  },
+  {
+    "english": "I feel sick.",
     "gujarati": "મને સારું લાગતું નથી."
-  },
-  {
-    "english": "I need a doctor.",
-    "gujarati": "મને ડોક્ટર જોઈએ."
-  },
-  {
-    "english": "Where is the hospital?",
-    "gujarati": "હોસ્પિટલ ક્યાં છે?"
   },
   {
     "english": "I have fever.",
     "gujarati": "મને તાવ છે."
   },
   {
+    "english": "I have cough.",
+    "gujarati": "મને ઉધરસ છે."
+  },
+  {
+    "english": "I have cold.",
+    "gujarati": "મને શરદી છે."
+  },
+  {
+    "english": "My head hurts.",
+    "gujarati": "મારા માથામાં દુખે છે."
+  },
+  {
+    "english": "My stomach hurts.",
+    "gujarati": "મારા પેટમાં દુખે છે."
+  },
+  {
+    "english": "My throat hurts.",
+    "gujarati": "મારા ગળામાં દુખે છે."
+  },
+  {
+    "english": "Please sit here.",
+    "gujarati": "મહેરબાની કરીને અહીં બેસો."
+  },
+  {
+    "english": "Wait your turn.",
+    "gujarati": "તમારા વારોની રાહ જુઓ."
+  },
+  {
     "english": "Take this medicine.",
     "gujarati": "આ દવા લો."
+  },
+  {
+    "english": "Medicine works well.",
+    "gujarati": "દવા સારી રીતે કામ કરે છે."
+  },
+  {
+    "english": "Take rest today.",
+    "gujarati": "આજે આરામ કરો."
+  },
+  {
+    "english": "Drink more water.",
+    "gujarati": "વધુ પાણી પીવો."
+  },
+  {
+    "english": "Eat healthy food.",
+    "gujarati": "સ્વસ્થ ખોરાક ખાઓ."
+  },
+  {
+    "english": "Sleep well tonight.",
+    "gujarati": "આજે રાત્રે સારી ઊંઘ લો."
+  },
+  {
+    "english": "Open your mouth.",
+    "gujarati": "તમારું મોં ખોલો."
+  },
+  {
+    "english": "Take deep breath.",
+    "gujarati": "ઊંડો શ્વાસ લો."
+  },
+  {
+    "english": "Your temperature normal.",
+    "gujarati": "તમારું તાપમાન સામાન્ય છે."
+  },
+  {
+    "english": "Blood pressure normal.",
+    "gujarati": "બ્લડ પ્રેશર સામાન્ય છે."
+  },
+  {
+    "english": "You look better.",
+    "gujarati": "તમે હવે વધુ સારાં લાગો છો."
+  },
+  {
+    "english": "Get well soon.",
+    "gujarati": "જલ્દી સાજા થાઓ."
+  },
+  {
+    "english": "Take care always.",
+    "gujarati": "હંમેશા ધ્યાન રાખજો."
+  },
+  {
+    "english": "I need appointment.",
+    "gujarati": "મને એપોઇન્ટમેન્ટ જોઈએ."
+  },
+  {
+    "english": "Doctor is available.",
+    "gujarati": "ડૉક્ટર ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Doctor is busy.",
+    "gujarati": "ડૉક્ટર વ્યસ્ત છે."
+  },
+  {
+    "english": "Please come inside.",
+    "gujarati": "મહેરબાની કરીને અંદર આવો."
+  },
+  {
+    "english": "Describe your problem.",
+    "gujarati": "તમારી સમસ્યા જણાવો."
+  },
+  {
+    "english": "Since when pain?",
+    "gujarati": "દુખાવો ક્યારથી છે?"
+  },
+  {
+    "english": "I feel dizzy.",
+    "gujarati": "મને ચક્કર આવે છે."
+  },
+  {
+    "english": "I feel weak.",
+    "gujarati": "મને નબળાઈ લાગે છે."
+  },
+  {
+    "english": "I cannot sleep.",
+    "gujarati": "મને ઊંઘ આવતી નથી."
+  },
+  {
+    "english": "Check my pulse.",
+    "gujarati": "મારી નાડી તપાસો."
+  },
+  {
+    "english": "Check my temperature.",
+    "gujarati": "મારું તાપમાન તપાસો."
+  },
+  {
+    "english": "Take this tablet.",
+    "gujarati": "આ ગોળી લો."
+  },
+  {
+    "english": "Take medicines regularly.",
+    "gujarati": "દવા નિયમિત લો."
+  },
+  {
+    "english": "Complete full course.",
+    "gujarati": "દવાનો સંપૂર્ણ કોર્સ પૂર્ણ કરો."
+  },
+  {
+    "english": "Avoid oily food.",
+    "gujarati": "તેલવાળો ખોરાક ટાળો."
+  },
+  {
+    "english": "Eat fresh fruits.",
+    "gujarati": "તાજા ફળ ખાઓ."
+  },
+  {
+    "english": "Drink warm water.",
+    "gujarati": "ગરમ પાણી પીવો."
+  },
+  {
+    "english": "Need blood test.",
+    "gujarati": "લોહીની તપાસ કરાવવી પડશે."
+  },
+  {
+    "english": "Take this prescription.",
+    "gujarati": "આ પ્રિસ્ક્રિપ્શન લો."
+  },
+  {
+    "english": "Visit again tomorrow.",
+    "gujarati": "આવતીકાલે ફરી આવજો."
+  },
+  {
+    "english": "Report looks normal.",
+    "gujarati": "રિપોર્ટ સામાન્ય છે."
+  },
+  {
+    "english": "Recovery is good.",
+    "gujarati": "સ્વાસ્થ્ય સુધરી રહ્યું છે."
+  },
+  {
+    "english": "Follow doctor's advice.",
+    "gujarati": "ડૉક્ટરની સલાહનું પાલન કરો."
+  },
+  {[
+  {
+    "english": "Where is pharmacy?",
+    "gujarati": "મેડિકલ સ્ટોર ક્યાં છે?"
+  },
+  {
+    "english": "Buy these medicines.",
+    "gujarati": "આ દવાઓ ખરીદો."
+  },
+  {
+    "english": "Medicine is available.",
+    "gujarati": "દવા ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Medicine is unavailable.",
+    "gujarati": "દવા ઉપલબ્ધ નથી."
+  },
+  {
+    "english": "Please lie down.",
+    "gujarati": "મહેરબાની કરીને સૂઈ જાઓ."
+  },
+  {
+    "english": "Take slow breaths.",
+    "gujarati": "ધીમા શ્વાસ લો."
+  },
+  {
+    "english": "Does it hurt?",
+    "gujarati": "શું દુખે છે?"
+  },
+  {
+    "english": "Pain is severe.",
+    "gujarati": "દુખાવો ખૂબ છે."
+  },
+  {
+    "english": "Pain is reduced.",
+    "gujarati": "દુખાવો ઓછો થયો છે."
+  },
+  {
+    "english": "I feel better.",
+    "gujarati": "મને હવે સારું લાગે છે."
+  },
+  {
+    "english": "I feel tired.",
+    "gujarati": "મને થાક લાગે છે."
+  },
+  {
+    "english": "My leg hurts.",
+    "gujarati": "મારા પગમાં દુખે છે."
+  },
+  {
+    "english": "My hand hurts.",
+    "gujarati": "મારા હાથમાં દુખે છે."
+  },
+  {
+    "english": "My back hurts.",
+    "gujarati": "મારી પીઠમાં દુખે છે."
+  },
+  {
+    "english": "Need an injection.",
+    "gujarati": "ઇન્જેક્શન લેવું પડશે."
+  },
+  {
+    "english": "Injection is ready.",
+    "gujarati": "ઇન્જેક્શન તૈયાર છે."
+  },
+  {
+    "english": "Please relax now.",
+    "gujarati": "મહેરબાની કરીને આરામ કરો."
+  },
+  {
+    "english": "Your heartbeat normal.",
+    "gujarati": "તમારા ધબકારા સામાન્ય છે."
+  },
+  {
+    "english": "Need X-ray today.",
+    "gujarati": "આજે એક્સ-રે કરાવવો પડશે."
+  },
+  {
+    "english": "Please follow instructions.",
+    "gujarati": "મહેરબાની કરીને સૂચનાઓનું પાલન કરો."
+  },
+  {
+    "english": "Hospital is nearby.",
+    "gujarati": "હોસ્પિટલ નજીક છે."
+  },
+  {
+    "english": "Emergency room upstairs.",
+    "gujarati": "ઇમરજન્સી રૂમ ઉપર છે."
+  },
+  {
+    "english": "Nurse is coming.",
+    "gujarati": "નર્સ આવી રહ્યા છે."
+  },
+  {
+    "english": "Please stay calm.",
+    "gujarati": "મહેરબાની કરીને શાંત રહો."
+  },
+  {
+    "english": "Everything is fine.",
+    "gujarati": "બધું બરાબર છે."
+  },
+  {
+    "english": "Please register first.",
+    "gujarati": "મહેરબાની કરીને પહેલા નોંધણી કરો."
+  },
+  {
+    "english": "Registration is complete.",
+    "gujarati": "નોંધણી પૂર્ણ થઈ ગઈ છે."
+  },
+  {
+    "english": "Show your report.",
+    "gujarati": "તમારો રિપોર્ટ બતાવો."
+  },
+  {
+    "english": "Bring previous reports.",
+    "gujarati": "પહેલાના રિપોર્ટ લાવો."
+  },
+  {
+    "english": "Your report arrived.",
+    "gujarati": "તમારો રિપોર્ટ આવી ગયો છે."
+  },
+  {
+    "english": "Blood test completed.",
+    "gujarati": "લોહીની તપાસ પૂર્ણ થઈ."
+  },
+  {
+    "english": "Urine test required.",
+    "gujarati": "પેશાબની તપાસ જરૂરી છે."
+  },
+  {
+    "english": "Please check weight.",
+    "gujarati": "મહેરબાની કરીને વજન તપાસો."
+  },
+  {
+    "english": "Please check height.",
+    "gujarati": "મહેરબાની કરીને ઊંચાઈ માપો."
+  },
+  {
+    "english": "Take regular medicine.",
+    "gujarati": "દવા નિયમિત લો."
+  },
+  {
+    "english": "Don't skip medicine.",
+    "gujarati": "દવા લેવાનું ચૂકશો નહીં."
+  },
+  {
+    "english": "Finish this bottle.",
+    "gujarati": "આ બોટલ પૂરી કરો."
+  },
+  {
+    "english": "Avoid cold drinks.",
+    "gujarati": "ઠંડાં પીણાં ટાળો."
+  },
+  {
+    "english": "Avoid outside food.",
+    "gujarati": "બહારનું ભોજન ટાળો."
+  },
+  {
+    "english": "Eat light meals.",
+    "gujarati": "હળવો ખોરાક ખાઓ."
+  },
+  {
+    "english": "Walk every day.",
+    "gujarati": "દરરોજ ચાલો."
+  },
+  {
+    "english": "Exercise regularly.",
+    "gujarati": "નિયમિત કસરત કરો."
+  },
+  {
+    "english": "Take enough sleep.",
+    "gujarati": "પૂરતી ઊંઘ લો."
+  },
+  {
+    "english": "Patient feels better.",
+    "gujarati": "દર્દીને હવે સારું લાગે છે."
+  },
+  {
+    "english": "Patient needs rest.",
+    "gujarati": "દર્દીને આરામની જરૂર છે."
+  },
+  {
+    "english": "Doctor will arrive.",
+    "gujarati": "ડૉક્ટર ટૂંક સમયમાં આવશે."
+  },
+  {
+    "english": "Visit after week.",
+    "gujarati": "એક અઠવાડિયા પછી આવજો."
+  },
+  {
+    "english": "Recovery takes time.",
+    "gujarati": "સાજા થવામાં સમય લાગે છે."
+  },
+  {
+    "english": "Stay healthy always.",
+    "gujarati": "હંમેશા સ્વસ્થ રહો."
+  },
+  {
+    "english": "Wish good health.",
+    "gujarati": "સારા સ્વાસ્થ્યની શુભેચ્છા."
   }
 ]
+    "english": "Take proper rest.",
+    "gujarati": "યોગ્ય આરામ કરો."
+  },
+  {
+    "english": "Wish you recovery.",
+    "gujarati": "તમારા જલ્દી સ્વસ્થ થવાની શુભેચ્છા."
+  }
+]
+
+
