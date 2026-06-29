@@ -191,7 +191,14 @@
     "english": "Follow doctor's advice.",
     "gujarati": "ડૉક્ટરની સલાહનું પાલન કરો."
   },
-  {[
+  {
+    "english": "Take proper rest.",
+    "gujarati": "યોગ્ય આરામ કરો."
+  },
+  {
+    "english": "Wish you recovery.",
+    "gujarati": "તમારા જલ્દી સ્વસ્થ થવાની શુભેચ્છા."
+  },
   {
     "english": "Where is pharmacy?",
     "gujarati": "મેડિકલ સ્ટોર ક્યાં છે?"
@@ -393,13 +400,3 @@
     "gujarati": "સારા સ્વાસ્થ્યની શુભેચ્છા."
   }
 ]
-    "english": "Take proper rest.",
-    "gujarati": "યોગ્ય આરામ કરો."
-  },
-  {
-    "english": "Wish you recovery.",
-    "gujarati": "તમારા જલ્દી સ્વસ્થ થવાની શુભેચ્છા."
-  }
-]
-
-
