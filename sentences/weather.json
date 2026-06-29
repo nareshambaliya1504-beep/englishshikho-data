@@ -1,22 +1,402 @@
 [
   {
-    "english": "It is very hot today.",
-    "gujarati": "આજે ખૂબ ગરમી છે."
+    "english": "How's the weather?",
+    "gujarati": "હવામાન કેવું છે?"
   },
   {
-    "english": "It is raining.",
-    "gujarati": "વરસાદ પડી રહ્યો છે."
+    "english": "It's sunny today.",
+    "gujarati": "આજે તડકો છે."
   },
   {
-    "english": "The weather is nice.",
-    "gujarati": "હવામાન સારું છે."
+    "english": "It's raining now.",
+    "gujarati": "હમણાં વરસાદ પડી રહ્યો છે."
   },
   {
-    "english": "It is very cold.",
+    "english": "It's very cloudy.",
+    "gujarati": "ખૂબ વાદળછાયું છે."
+  },
+  {
+    "english": "It's windy today.",
+    "gujarati": "આજે પવન છે."
+  },
+  {
+    "english": "It's very hot.",
+    "gujarati": "ખૂબ ગરમી છે."
+  },
+  {
+    "english": "It's very cold.",
     "gujarati": "ખૂબ ઠંડી છે."
+  },
+  {
+    "english": "Weather feels pleasant.",
+    "gujarati": "હવામાન સુખદ લાગે છે."
+  },
+  {
+    "english": "Take an umbrella.",
+    "gujarati": "છત્રી લઈ જાઓ."
+  },
+  {
+    "english": "Wear warm clothes.",
+    "gujarati": "ગરમ કપડાં પહેરો."
+  },
+  {
+    "english": "Wear light clothes.",
+    "gujarati": "હળવા કપડાં પહેરો."
+  },
+  {
+    "english": "Rain started suddenly.",
+    "gujarati": "વરસાદ અચાનક શરૂ થયો."
+  },
+  {
+    "english": "The sun shines.",
+    "gujarati": "સૂર્ય ચમકે છે."
+  },
+  {
+    "english": "Sky looks clear.",
+    "gujarati": "આકાશ સ્વચ્છ લાગે છે."
+  },
+  {
+    "english": "Dark clouds coming.",
+    "gujarati": "કાળા વાદળો આવી રહ્યા છે."
+  },
+  {
+    "english": "It's getting colder.",
+    "gujarati": "ઠંડી વધી રહી છે."
+  },
+  {
+    "english": "It's getting hotter.",
+    "gujarati": "ગરમી વધી રહી છે."
+  },
+  {
+    "english": "Stay inside today.",
+    "gujarati": "આજે ઘરમાં જ રહો."
+  },
+  {
+    "english": "Drive carefully today.",
+    "gujarati": "આજે સાવધાનીથી વાહન ચલાવો."
+  },
+  {
+    "english": "Roads are wet.",
+    "gujarati": "રસ્તાઓ ભીના છે."
+  },
+  {
+    "english": "Weather changed suddenly.",
+    "gujarati": "હવામાન અચાનક બદલાઈ ગયું."
+  },
+  {
+    "english": "Hope rain stops.",
+    "gujarati": "આશા છે વરસાદ બંધ થશે."
+  },
+  {
+    "english": "Beautiful weather today.",
+    "gujarati": "આજે સુંદર હવામાન છે."
+  },
+  {
+    "english": "Enjoy the sunshine.",
+    "gujarati": "સૂર્યપ્રકાશનો આનંદ માણો."
+  },
+  {
+    "english": "Have a nice day.",
+    "gujarati": "તમારો દિવસ શુભ રહે."
+  },
+  {
+    "english": "Will it rain?",
+    "gujarati": "શું વરસાદ પડશે?"
+  },
+  {
+    "english": "Rain is expected.",
+    "gujarati": "વરસાદની શક્યતા છે."
+  },
+  {
+    "english": "It's raining heavily.",
+    "gujarati": "ભારે વરસાદ પડી રહ્યો છે."
+  },
+  {
+    "english": "Rain stopped now.",
+    "gujarati": "હવે વરસાદ બંધ થયો."
+  },
+  {
+    "english": "The weather improved.",
+    "gujarati": "હવામાન સુધરી ગયું."
+  },
+  {
+    "english": "Strong winds today.",
+    "gujarati": "આજે જોરદાર પવન છે."
+  },
+  {
+    "english": "The air feels fresh.",
+    "gujarati": "હવા તાજગીભરી લાગે છે."
+  },
+  {
+    "english": "It's too humid.",
+    "gujarati": "ખૂબ ભેજ છે."
+  },
+  {
+    "english": "Humidity is high.",
+    "gujarati": "ભેજ વધારે છે."
+  },
+  {
+    "english": "The temperature dropped.",
+    "gujarati": "તાપમાન ઘટી ગયું."
+  },
+  {
+    "english": "Temperature is rising.",
+    "gujarati": "તાપમાન વધી રહ્યું છે."
+  },
+  {
+    "english": "Sun is bright.",
+    "gujarati": "સૂર્ય તેજસ્વી છે."
+  },
+  {
+    "english": "Clouds look dark.",
+    "gujarati": "વાદળો કાળા દેખાય છે."
+  },
+  {
+    "english": "Fog is everywhere.",
+    "gujarati": "ચારે બાજુ ધુમ્મસ છે."
+  },
+  {
+    "english": "Visibility is low.",
+    "gujarati": "દેખાવ ઓછો છે."
+  },
+  {
+    "english": "Please stay warm.",
+    "gujarati": "મહેરબાની કરીને ગરમ રહો."
+  },
+  {
+    "english": "Stay hydrated today.",
+    "gujarati": "આજે પૂરતું પાણી પીતા રહો."
+  },
+  {
+    "english": "Avoid direct sunlight.",
+    "gujarati": "સીધા તડકાથી બચો."
+  },
+  {
+    "english": "Take your umbrella.",
+    "gujarati": "તમારી છત્રી સાથે લઈ જાઓ."
+  },
+  {
+    "english": "Wear raincoat today.",
+    "gujarati": "આજે રેઇનકોટ પહેરો."
+  },
+  {
+    "english": "Weather feels wonderful.",
+    "gujarati": "હવામાન અદ્ભુત લાગે છે."
+  },
+  {
+    "english": "Perfect day outside.",
+    "gujarati": "બહાર જવા માટે સુંદર દિવસ છે."
+  },
+  {
+    "english": "Let's enjoy weather.",
+    "gujarati": "ચાલો હવામાનનો આનંદ માણીએ."
+  },
+  {
+    "english": "Hope weather improves.",
+    "gujarati": "આશા છે હવામાન સુધરશે."
+  },
+  {
+    "english": "Stay safe outside.",
+    "gujarati": "બહાર સુરક્ષિત રહો."
+  },
+  {
+    "english": "The sky is blue.",
+    "gujarati": "આકાશ વાદળી છે."
   },
   {
     "english": "The sky is clear.",
     "gujarati": "આકાશ સ્વચ્છ છે."
+  },
+  {
+    "english": "Clouds are moving.",
+    "gujarati": "વાદળો આગળ વધી રહ્યા છે."
+  },
+  {
+    "english": "The wind stopped.",
+    "gujarati": "પવન બંધ થઈ ગયો."
+  },
+  {
+    "english": "Cool breeze blowing.",
+    "gujarati": "ઠંડો પવન ફૂંકાઈ રહ્યો છે."
+  },
+  {
+    "english": "It's freezing outside.",
+    "gujarati": "બહાર ખૂબ ઠંડી છે."
+  },
+  {
+    "english": "It's extremely hot.",
+    "gujarati": "ખૂબ જ ગરમી છે."
+  },
+  {
+    "english": "Weather feels cooler.",
+    "gujarati": "હવામાન વધુ ઠંડું લાગે છે."
+  },
+  {
+    "english": "The sun disappeared.",
+    "gujarati": "સૂર્ય વાદળોમાં છુપાઈ ગયો."
+  },
+  {
+    "english": "The rain returned.",
+    "gujarati": "વરસાદ ફરી શરૂ થયો."
+  },
+  {
+    "english": "Lightning is flashing.",
+    "gujarati": "વીજળી ચમકી રહી છે."
+  },
+  {
+    "english": "Thunder sounds loud.",
+    "gujarati": "ગરજ ખૂબ જોરથી સંભળાય છે."
+  },
+  {
+    "english": "Storm is coming.",
+    "gujarati": "તોફાન આવી રહ્યું છે."
+  },
+  {
+    "english": "Please stay indoors.",
+    "gujarati": "મહેરબાની કરીને ઘરમાં જ રહો."
+  },
+  {
+    "english": "Close all windows.",
+    "gujarati": "બધી બારીઓ બંધ કરો."
+  },
+  {
+    "english": "Roads are slippery.",
+    "gujarati": "રસ્તા લપસણા છે."
+  },
+  {
+    "english": "Drive very carefully.",
+    "gujarati": "ખૂબ સાવધાનીથી વાહન ચલાવો."
+  },
+  {
+    "english": "Carry drinking water.",
+    "gujarati": "પીવાનું પાણી સાથે રાખો."
+  },
+  {
+    "english": "Wear sunglasses outside.",
+    "gujarati": "બહાર સનગ્લાસ પહેરો."
+  },
+  {
+    "english": "The weather changed.",
+    "gujarati": "હવામાન બદલાઈ ગયું."
+  },
+  {
+    "english": "Today feels pleasant.",
+    "gujarati": "આજનું હવામાન સુખદ લાગે છે."
+  },
+  {
+    "english": "Tomorrow looks sunny.",
+    "gujarati": "આવતીકાલે તડકો રહેશે."
+  },
+  {
+    "english": "Enjoy fresh air.",
+    "gujarati": "તાજી હવાનો આનંદ માણો."
+  },
+  {
+    "english": "Nature looks beautiful.",
+    "gujarati": "પ્રકૃતિ સુંદર લાગે છે."
+  },
+  {
+    "english": "Have safe travel.",
+    "gujarati": "સલામત મુસાફરી કરો."
+  },
+  {
+    "english": "It's a beautiful morning.",
+    "gujarati": "આ સુંદર સવાર છે."
+  },
+  {
+    "english": "The evening is pleasant.",
+    "gujarati": "સાંજ સુખદ છે."
+  },
+  {
+    "english": "The night is cold.",
+    "gujarati": "રાત ઠંડી છે."
+  },
+  {
+    "english": "Sunrise looks beautiful.",
+    "gujarati": "સૂર્યોદય સુંદર લાગે છે."
+  },
+  {
+    "english": "Sunset looks amazing.",
+    "gujarati": "સૂર્યાસ્ત અદ્ભુત લાગે છે."
+  },
+  {
+    "english": "The weather is perfect.",
+    "gujarati": "હવામાન એકદમ સરસ છે."
+  },
+  {
+    "english": "Rain is slowing.",
+    "gujarati": "વરસાદ ધીમો પડી રહ્યો છે."
+  },
+  {
+    "english": "The storm ended.",
+    "gujarati": "તોફાન પૂરું થયું."
+  },
+  {
+    "english": "The wind is stronger.",
+    "gujarati": "પવન વધુ જોરદાર છે."
+  },
+  {
+    "english": "The air is cool.",
+    "gujarati": "હવા ઠંડી છે."
+  },
+  {
+    "english": "The air feels humid.",
+    "gujarati": "હવામાં ભેજ લાગે છે."
+  },
+  {
+    "english": "Today feels warmer.",
+    "gujarati": "આજે વધુ ગરમ લાગે છે."
+  },
+  {
+    "english": "Winter has arrived.",
+    "gujarati": "શિયાળો આવી ગયો છે."
+  },
+  {
+    "english": "Summer is here.",
+    "gujarati": "ઉનાળો આવી ગયો છે."
+  },
+  {
+    "english": "Monsoon has started.",
+    "gujarati": "ચોમાસું શરૂ થઈ ગયું છે."
+  },
+  {
+    "english": "Spring is beautiful.",
+    "gujarati": "વસંત ઋતુ સુંદર છે."
+  },
+  {
+    "english": "Autumn feels pleasant.",
+    "gujarati": "પાનખર સુખદ લાગે છે."
+  },
+  {
+    "english": "Carry a jacket.",
+    "gujarati": "જેકેટ સાથે રાખો."
+  },
+  {
+    "english": "Drink plenty water.",
+    "gujarati": "પૂરતું પાણી પીવો."
+  },
+  {
+    "english": "Stay away sunlight.",
+    "gujarati": "સીધા તડકાથી દૂર રહો."
+  },
+  {
+    "english": "Weather forecast changed.",
+    "gujarati": "હવામાનની આગાહી બદલાઈ ગઈ."
+  },
+  {
+    "english": "Hope tomorrow brighter.",
+    "gujarati": "આશા છે આવતીકાલ વધુ સુંદર રહેશે."
+  },
+  {
+    "english": "Enjoy rainy season.",
+    "gujarati": "વરસાદની ઋતુનો આનંદ માણો."
+  },
+  {
+    "english": "Today's weather amazing.",
+    "gujarati": "આજનું હવામાન અદ્ભુત છે."
+  },
+  {
+    "english": "Stay safe everyone.",
+    "gujarati": "બધા સુરક્ષિત રહો."
   }
 ]
