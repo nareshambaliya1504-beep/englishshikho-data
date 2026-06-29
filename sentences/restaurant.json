@@ -1,22 +1,402 @@
 [
   {
-    "english": "I want to order food.",
-    "gujarati": "મારે ભોજન ઓર્ડર કરવું છે."
+    "english": "Welcome to restaurant.",
+    "gujarati": "રેસ્ટોરન્ટમાં તમારું સ્વાગત છે."
   },
   {
-    "english": "The food is delicious.",
-    "gujarati": "ભોજન સ્વાદિષ્ટ છે."
+    "english": "Table for two.",
+    "gujarati": "બે લોકો માટે ટેબલ."
   },
   {
-    "english": "Bring me water.",
-    "gujarati": "મને પાણી લાવો."
+    "english": "Please have seat.",
+    "gujarati": "મહેરબાની કરીને બેસો."
   },
   {
-    "english": "I want tea.",
-    "gujarati": "મારે ચા જોઈએ."
+    "english": "Can I help?",
+    "gujarati": "શું હું મદદ કરી શકું?"
   },
   {
-    "english": "Please bring the bill.",
-    "gujarati": "કૃપા કરીને બિલ લાવો."
+    "english": "Show me menu.",
+    "gujarati": "મને મેનુ બતાવો."
+  },
+  {
+    "english": "What do recommend?",
+    "gujarati": "તમે શું ભલામણ કરો છો?"
+  },
+  {
+    "english": "I want pizza.",
+    "gujarati": "મને પિઝા જોઈએ."
+  },
+  {
+    "english": "I want burger.",
+    "gujarati": "મને બર્ગર જોઈએ."
+  },
+  {
+    "english": "Order one coffee.",
+    "gujarati": "એક કોફી ઓર્ડર કરો."
+  },
+  {
+    "english": "Bring some water.",
+    "gujarati": "થોડું પાણી લાવો."
+  },
+  {
+    "english": "Food is delicious.",
+    "gujarati": "ભોજન ખૂબ સ્વાદિષ્ટ છે."
+  },
+  {
+    "english": "Food tastes amazing.",
+    "gujarati": "ભોજનનો સ્વાદ અદ્ભુત છે."
+  },
+  {
+    "english": "Serve food quickly.",
+    "gujarati": "જલ્દી ભોજન પીરસો."
+  },
+  {
+    "english": "Please wait moment.",
+    "gujarati": "મહેરબાની કરીને થોડી રાહ જુઓ."
+  },
+  {
+    "english": "Order is ready.",
+    "gujarati": "ઓર્ડર તૈયાર છે."
+  },
+  {
+    "english": "Enjoy your meal.",
+    "gujarati": "તમારા ભોજનનો આનંદ માણો."
+  },
+  {
+    "english": "Need anything else?",
+    "gujarati": "બીજું કંઈ જોઈએ?"
+  },
+  {
+    "english": "Everything is perfect.",
+    "gujarati": "બધું સરસ છે."
+  },
+  {
+    "english": "Please bring bill.",
+    "gujarati": "મહેરબાની કરીને બિલ લાવો."
+  },
+  {
+    "english": "Pay by card.",
+    "gujarati": "કાર્ડથી ચૂકવણી કરો."
+  },
+  {
+    "english": "Pay by cash.",
+    "gujarati": "રોકડથી ચૂકવણી કરો."
+  },
+  {
+    "english": "Keep the change.",
+    "gujarati": "છૂટા પૈસા રાખી લો."
+  },
+  {
+    "english": "Thank you visiting.",
+    "gujarati": "આવવા બદલ આભાર."
+  },
+  {
+    "english": "Visit us again.",
+    "gujarati": "ફરીથી જરૂર આવજો."
+  },
+  {
+    "english": "Have wonderful day.",
+    "gujarati": "તમારો દિવસ આનંદમય રહે."
+  },
+  {
+    "english": "Please take order.",
+    "gujarati": "મહેરબાની કરીને ઓર્ડર લો."
+  },
+  {
+    "english": "I am hungry.",
+    "gujarati": "મને ભૂખ લાગી છે."
+  },
+  {
+    "english": "I am thirsty.",
+    "gujarati": "મને તરસ લાગી છે."
+  },
+  {
+    "english": "Bring cold water.",
+    "gujarati": "ઠંડું પાણી લાવો."
+  },
+  {
+    "english": "Bring warm water.",
+    "gujarati": "ગરમ પાણી લાવો."
+  },
+  {
+    "english": "Bring extra plates.",
+    "gujarati": "વધારાની પ્લેટો લાવો."
+  },
+  {
+    "english": "Bring extra spoons.",
+    "gujarati": "વધારાની ચમચીઓ લાવો."
+  },
+  {
+    "english": "Food is spicy.",
+    "gujarati": "ભોજન તીખું છે."
+  },
+  {
+    "english": "Food is sweet.",
+    "gujarati": "ભોજન મીઠું છે."
+  },
+  {
+    "english": "Food is hot.",
+    "gujarati": "ભોજન ગરમ છે."
+  },
+  {
+    "english": "Food is cold.",
+    "gujarati": "ભોજન ઠંડું છે."
+  },
+  {
+    "english": "This tastes good.",
+    "gujarati": "આનો સ્વાદ સારો છે."
+  },
+  {
+    "english": "This tastes bad.",
+    "gujarati": "આનો સ્વાદ સારો નથી."
+  },
+  {
+    "english": "Need more sauce.",
+    "gujarati": "વધુ સોસ જોઈએ."
+  },
+  {
+    "english": "Need more ketchup.",
+    "gujarati": "વધુ કેચઅપ જોઈએ."
+  },
+  {
+    "english": "Please serve quickly.",
+    "gujarati": "મહેરબાની કરીને જલ્દી પીરસો."
+  },
+  {
+    "english": "Order coming soon.",
+    "gujarati": "ઓર્ડર ટૂંક સમયમાં આવશે."
+  },
+  {
+    "english": "Everything tastes fresh.",
+    "gujarati": "બધું તાજું લાગે છે."
+  },
+  {
+    "english": "Please refill water.",
+    "gujarati": "મહેરબાની કરીને ફરી પાણી ભરો."
+  },
+  {
+    "english": "Can I reorder?",
+    "gujarati": "શું હું ફરી ઓર્ડર આપી શકું?"
+  },
+  {
+    "english": "Pack remaining food.",
+    "gujarati": "બાકીનું ભોજન પેક કરો."
+  },
+  {
+    "english": "Need takeaway box.",
+    "gujarati": "ટેકઅવે બોક્સ જોઈએ."
+  },
+  {
+    "english": "Bill looks correct.",
+    "gujarati": "બિલ બરાબર છે."
+  },
+  {
+    "english": "Payment completed successfully.",
+    "gujarati": "ચુકવણી સફળતાપૂર્વક થઈ ગઈ."
+  },
+  {
+    "english": "Thanks for coming.",
+    "gujarati": "આવવા બદલ આભાર."
+  },
+  {
+    "english": "Book a table.",
+    "gujarati": "ટેબલ બુક કરો."
+  },
+  {
+    "english": "Table is reserved.",
+    "gujarati": "ટેબલ અનામત છે."
+  },
+  {
+    "english": "Please follow me.",
+    "gujarati": "મહેરબાની કરીને મારી સાથે આવો."
+  },
+  {
+    "english": "Sit near window.",
+    "gujarati": "બારી પાસે બેસો."
+  },
+  {
+    "english": "This table works.",
+    "gujarati": "આ ટેબલ યોગ્ય છે."
+  },
+  {
+    "english": "Menu is here.",
+    "gujarati": "મેનુ અહીં છે."
+  },
+  {
+    "english": "Today's special available.",
+    "gujarati": "આજની સ્પેશિયલ વાનગી ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Vegetarian food available.",
+    "gujarati": "શાકાહારી ભોજન ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Non-vegetarian food available.",
+    "gujarati": "માંસાહારી ભોજન ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Less spicy please.",
+    "gujarati": "મહેરબાની કરીને ઓછું તીખું રાખો."
+  },
+  {
+    "english": "Without onion please.",
+    "gujarati": "મહેરબાની કરીને ડુંગળી વગર બનાવો."
+  },
+  {
+    "english": "Without garlic please.",
+    "gujarati": "મહેરબાની કરીને લસણ વગર બનાવો."
+  },
+  {
+    "english": "Add extra cheese.",
+    "gujarati": "વધારું ચીઝ ઉમેરો."
+  },
+  {
+    "english": "Bring dessert menu.",
+    "gujarati": "ડેઝર્ટનું મેનુ લાવો."
+  },
+  {
+    "english": "Ice cream please.",
+    "gujarati": "મહેરબાની કરીને આઈસક્રીમ આપો."
+  },
+  {
+    "english": "Coffee after dinner.",
+    "gujarati": "જમ્યા પછી કોફી આપો."
+  },
+  {
+    "english": "Tea without sugar.",
+    "gujarati": "ખાંડ વગરની ચા આપો."
+  },
+  {
+    "english": "Food smells delicious.",
+    "gujarati": "ભોજનની સુગંધ ખૂબ સરસ છે."
+  },
+  {
+    "english": "Service was excellent.",
+    "gujarati": "સેવા ખૂબ સારી હતી."
+  },
+  {
+    "english": "Waiter was polite.",
+    "gujarati": "વેટર ખૂબ વિનમ્ર હતો."
+  },
+  {
+    "english": "Food arrived quickly.",
+    "gujarati": "ભોજન ઝડપથી આવી ગયું."
+  },
+  {
+    "english": "Please clean table.",
+    "gujarati": "મહેરબાની કરીને ટેબલ સાફ કરો."
+  },
+  {
+    "english": "Need extra napkins.",
+    "gujarati": "વધારાના નેપકિન જોઈએ."
+  },
+  {
+    "english": "Dinner was wonderful.",
+    "gujarati": "રાત્રિભોજન અદ્ભુત હતું."
+  },
+  {
+    "english": "We'll visit again.",
+    "gujarati": "અમે ફરીથી આવીશું."
+  },
+  {
+    "english": "Table is available.",
+    "gujarati": "ટેબલ ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Please follow waiter.",
+    "gujarati": "મહેરબાની કરીને વેટર સાથે આવો."
+  },
+  {
+    "english": "Would you order?",
+    "gujarati": "શું તમે ઓર્ડર આપશો?"
+  },
+  {
+    "english": "Need few minutes.",
+    "gujarati": "અમને થોડી મિનિટો જોઈએ."
+  },
+  {
+    "english": "Order has arrived.",
+    "gujarati": "ઓર્ડર આવી ગયો છે."
+  },
+  {
+    "english": "Serve fresh food.",
+    "gujarati": "તાજું ભોજન પીરસો."
+  },
+  {
+    "english": "Food is excellent.",
+    "gujarati": "ભોજન ઉત્તમ છે."
+  },
+  {
+    "english": "Soup tastes great.",
+    "gujarati": "સૂપનો સ્વાદ સરસ છે."
+  },
+  {
+    "english": "Pizza looks delicious.",
+    "gujarati": "પિઝા ખૂબ સ્વાદિષ્ટ લાગે છે."
+  },
+  {
+    "english": "Burger was tasty.",
+    "gujarati": "બર્ગર ખૂબ સ્વાદિષ્ટ હતો."
+  },
+  {
+    "english": "Please bring forks.",
+    "gujarati": "મહેરબાની કરીને કાંટા લાવો."
+  },
+  {
+    "english": "Please bring spoons.",
+    "gujarati": "મહેરબાની કરીને ચમચીઓ લાવો."
+  },
+  {
+    "english": "Need drinking water.",
+    "gujarati": "પીવાનું પાણી જોઈએ."
+  },
+  {
+    "english": "Glass is empty.",
+    "gujarati": "ગ્લાસ ખાલી છે."
+  },
+  {
+    "english": "Please refill drinks.",
+    "gujarati": "મહેરબાની કરીને પીણું ફરી ભરો."
+  },
+  {
+    "english": "Dessert was amazing.",
+    "gujarati": "ડેઝર્ટ અદ્ભુત હતું."
+  },
+  {
+    "english": "Everything was perfect.",
+    "gujarati": "બધું એકદમ સરસ હતું."
+  },
+  {
+    "english": "Please pack leftovers.",
+    "gujarati": "મહેરબાની કરીને બચેલું ભોજન પેક કરો."
+  },
+  {
+    "english": "Bring payment machine.",
+    "gujarati": "ચુકવણી મશીન લાવો."
+  },
+  {
+    "english": "Card payment accepted.",
+    "gujarati": "કાર્ડથી ચુકવણી સ્વીકારવામાં આવે છે."
+  },
+  {
+    "english": "Cash payment accepted.",
+    "gujarati": "રોકડ ચુકવણી સ્વીકારવામાં આવે છે."
+  },
+  {
+    "english": "Receipt is ready.",
+    "gujarati": "રસીદ તૈયાર છે."
+  },
+  {
+    "english": "Hope you enjoyed.",
+    "gujarati": "આશા છે તમને આનંદ આવ્યો હશે."
+  },
+  {
+    "english": "Please visit again.",
+    "gujarati": "મહેરબાની કરીને ફરી આવજો."
+  },
+  {
+    "english": "Have pleasant evening.",
+    "gujarati": "તમારી સાંજ આનંદમય રહે."
   }
 ]
