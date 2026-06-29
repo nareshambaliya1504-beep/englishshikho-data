@@ -1,10 +1,18 @@
 [
   {
-    "english": "What is your name?",
+    "english": "What's your name?",
     "gujarati": "તમારું નામ શું છે?"
   },
   {
-    "english": "Where do you live?",
+    "english": "How are you?",
+    "gujarati": "તમે કેમ છો?"
+  },
+  {
+    "english": "Where are you?",
+    "gujarati": "તમે ક્યાં છો?"
+  },
+  {
+    "english": "Where do live?",
     "gujarati": "તમે ક્યાં રહો છો?"
   },
   {
@@ -12,11 +20,383 @@
     "gujarati": "તમારી ઉંમર કેટલી છે?"
   },
   {
-    "english": "Why are you late?",
-    "gujarati": "તમે મોડા કેમ આવ્યા?"
+    "english": "What do do?",
+    "gujarati": "તમે શું કરો છો?"
+  },
+  {
+    "english": "Where do work?",
+    "gujarati": "તમે ક્યાં કામ કરો છો?"
+  },
+  {
+    "english": "Where do study?",
+    "gujarati": "તમે ક્યાં અભ્યાસ કરો છો?"
+  },
+  {
+    "english": "Are you busy?",
+    "gujarati": "શું તમે વ્યસ્ત છો?"
+  },
+  {
+    "english": "Are you free?",
+    "gujarati": "શું તમે ફ્રી છો?"
+  },
+  {
+    "english": "Can you help?",
+    "gujarati": "શું તમે મદદ કરી શકો?"
+  },
+  {
+    "english": "What happened?",
+    "gujarati": "શું થયું?"
+  },
+  {
+    "english": "What's wrong?",
+    "gujarati": "શું સમસ્યા છે?"
+  },
+  {
+    "english": "What time now?",
+    "gujarati": "હવે કેટલા વાગ્યા છે?"
+  },
+  {
+    "english": "What day today?",
+    "gujarati": "આજે કયો દિવસ છે?"
+  },
+  {
+    "english": "Where is station?",
+    "gujarati": "સ્ટેશન ક્યાં છે?"
+  },
+  {
+    "english": "Where is hospital?",
+    "gujarati": "હોસ્પિટલ ક્યાં છે?"
+  },
+  {
+    "english": "Where is market?",
+    "gujarati": "બજાર ક્યાં છે?"
+  },
+  {
+    "english": "How much cost?",
+    "gujarati": "કિંમત કેટલી છે?"
+  },
+  {
+    "english": "Can I come?",
+    "gujarati": "શું હું આવી શકું?"
+  },
+  {
+    "english": "Can I join?",
+    "gujarati": "શું હું જોડાઈ શકું?"
+  },
+  {
+    "english": "Do you understand?",
+    "gujarati": "શું તમને સમજાયું?"
+  },
+  {
+    "english": "Can you repeat?",
+    "gujarati": "શું તમે ફરી કહી શકો?"
+  },
+  {
+    "english": "Any questions?",
+    "gujarati": "કોઈ પ્રશ્ન છે?"
+  },
+  {
+    "english": "Need anything else?",
+    "gujarati": "બીજું કંઈ જોઈએ?"
+  },
+  {
+    "english": "Who is calling?",
+    "gujarati": "કોણ ફોન કરી રહ્યું છે?"
+  },
+  {
+    "english": "Who is there?",
+    "gujarati": "ત્યાં કોણ છે?"
+  },
+  {
+    "english": "Whose bag is this?",
+    "gujarati": "આ કોની બેગ છે?"
   },
   {
     "english": "When will you come?",
     "gujarati": "તમે ક્યારે આવશો?"
+  },
+  {
+    "english": "Why are late?",
+    "gujarati": "તમે મોડા કેમ છો?"
+  },
+  {
+    "english": "How was day?",
+    "gujarati": "તમારો દિવસ કેવો રહ્યો?"
+  },
+  {
+    "english": "Did you eat?",
+    "gujarati": "તમે જમ્યા?"
+  },
+  {
+    "english": "Did you sleep?",
+    "gujarati": "તમે ઊંઘ્યા?"
+  },
+  {
+    "english": "Did you call?",
+    "gujarati": "તમે ફોન કર્યો?"
+  },
+  {
+    "english": "Did you finish?",
+    "gujarati": "તમે પૂર્ણ કર્યું?"
+  },
+  {
+    "english": "Are you ready?",
+    "gujarati": "શું તમે તૈયાર છો?"
+  },
+  {
+    "english": "Can we start?",
+    "gujarati": "શું આપણે શરૂ કરીએ?"
+  },
+  {
+    "english": "Can you wait?",
+    "gujarati": "શું તમે રાહ જોઈ શકો?"
+  },
+  {
+    "english": "Should we leave?",
+    "gujarati": "શું આપણે નીકળીએ?"
+  },
+  {
+    "english": "Where should go?",
+    "gujarati": "આપણે ક્યાં જવું જોઈએ?"
+  },
+  {
+    "english": "Which way now?",
+    "gujarati": "હવે કયા રસ્તે જવું?"
+  },
+  {
+    "english": "Is it okay?",
+    "gujarati": "શું બધું બરાબર છે?"
+  },
+  {
+    "english": "Is everything fine?",
+    "gujarati": "શું બધું સારું છે?"
+  },
+  {
+    "english": "Do you agree?",
+    "gujarati": "શું તમે સહમત છો?"
+  },
+  {
+    "english": "Do you remember?",
+    "gujarati": "શું તમને યાદ છે?"
+  },
+  {
+    "english": "Can you explain?",
+    "gujarati": "શું તમે સમજાવી શકો?"
+  },
+  {
+    "english": "Can you show?",
+    "gujarati": "શું તમે બતાવી શકો?"
+  },
+  {
+    "english": "May I enter?",
+    "gujarati": "શું હું અંદર આવી શકું?"
+  },
+  {
+    "english": "May I sit?",
+    "gujarati": "શું હું બેસી શકું?"
+  },
+  {
+    "english": "What's your opinion?",
+    "gujarati": "તમારો અભિપ્રાય શું છે?"
+  },
+  {
+    "english": "What's your hobby?",
+    "gujarati": "તમારો શોખ શું છે?"
+  },
+  {
+    "english": "What's your favorite food?",
+    "gujarati": "તમારું મનપસંદ ભોજન શું છે?"
+  },
+  {
+    "english": "What's your favorite color?",
+    "gujarati": "તમારો મનપસંદ રંગ કયો છે?"
+  },
+  {
+    "english": "Where are friends?",
+    "gujarati": "તમારા મિત્રો ક્યાં છે?"
+  },
+  {
+    "english": "Who invited you?",
+    "gujarati": "તમને કોણે આમંત્રણ આપ્યું?"
+  },
+  {
+    "english": "Why are smiling?",
+    "gujarati": "તમે કેમ હસી રહ્યા છો?"
+  },
+  {
+    "english": "Why are upset?",
+    "gujarati": "તમે દુઃખી કેમ છો?"
+  },
+  {
+    "english": "How was meeting?",
+    "gujarati": "મીટિંગ કેવી રહી?"
+  },
+  {
+    "english": "How was journey?",
+    "gujarati": "મુસાફરી કેવી રહી?"
+  },
+  {
+    "english": "How's your family?",
+    "gujarati": "તમારો પરિવાર કેમ છે?"
+  },
+  {
+    "english": "Can you drive?",
+    "gujarati": "શું તમે વાહન ચલાવી શકો?"
+  },
+  {
+    "english": "Can you cook?",
+    "gujarati": "શું તમે રસોઈ બનાવી શકો?"
+  },
+  {
+    "english": "Can you swim?",
+    "gujarati": "શું તમે તરતા આવડે છે?"
+  },
+  {
+    "english": "Can you dance?",
+    "gujarati": "શું તમે નાચી શકો?"
+  },
+  {
+    "english": "Do you exercise?",
+    "gujarati": "શું તમે કસરત કરો છો?"
+  },
+  {
+    "english": "Do you travel?",
+    "gujarati": "શું તમે મુસાફરી કરો છો?"
+  },
+  {
+    "english": "Have you eaten?",
+    "gujarati": "શું તમે જમ્યા છો?"
+  },
+  {
+    "english": "Have you finished?",
+    "gujarati": "શું તમે પૂર્ણ કર્યું છે?"
+  },
+  {
+    "english": "Could you help?",
+    "gujarati": "શું તમે મદદ કરી શકશો?"
+  },
+  {
+    "english": "Would you come?",
+    "gujarati": "શું તમે આવશો?"
+  },
+  {
+    "english": "Shall we begin?",
+    "gujarati": "શું આપણે શરૂ કરીએ?"
+  },
+  {
+    "english": "What's your problem?",
+    "gujarati": "તમારી સમસ્યા શું છે?"
+  },
+  {
+    "english": "Who told you?",
+    "gujarati": "તમને કોણે કહ્યું?"
+  },
+  {
+    "english": "Where is everyone?",
+    "gujarati": "બધા ક્યાં છે?"
+  },
+  {
+    "english": "What should do?",
+    "gujarati": "મારે શું કરવું જોઈએ?"
+  },
+  {
+    "english": "What's your address?",
+    "gujarati": "તમારું સરનામું શું છે?"
+  },
+  {
+    "english": "What's your phone number?",
+    "gujarati": "તમારો ફોન નંબર શું છે?"
+  },
+  {
+    "english": "Which bus goes?",
+    "gujarati": "કઈ બસ જાય છે?"
+  },
+  {
+    "english": "Where can park?",
+    "gujarati": "હું ક્યાં પાર્ક કરી શકું?"
+  },
+  {
+    "english": "How far is it?",
+    "gujarati": "તે કેટલું દૂર છે?"
+  },
+  {
+    "english": "How long takes?",
+    "gujarati": "કેટલો સમય લાગે છે?"
+  },
+  {
+    "english": "What are doing?",
+    "gujarati": "તમે શું કરી રહ્યા છો?"
+  },
+  {
+    "english": "What did say?",
+    "gujarati": "તમે શું કહ્યું?"
+  },
+  {
+    "english": "Who needs help?",
+    "gujarati": "કોને મદદ જોઈએ છે?"
+  },
+  {
+    "english": "Who came first?",
+    "gujarati": "પહેલા કોણ આવ્યું?"
+  },
+  {
+    "english": "When did arrive?",
+    "gujarati": "તમે ક્યારે પહોંચ્યા?"
+  },
+  {
+    "english": "When will start?",
+    "gujarati": "શરૂ ક્યારે થશે?"
+  },
+  {
+    "english": "Why did leave?",
+    "gujarati": "તમે કેમ નીકળી ગયા?"
+  },
+  {
+    "english": "Why are waiting?",
+    "gujarati": "તમે રાહ કેમ જોઈ રહ્યા છો?"
+  },
+  {
+    "english": "Which one better?",
+    "gujarati": "કયું વધુ સારું છે?"
+  },
+  {
+    "english": "Which color prefer?",
+    "gujarati": "તમને કયો રંગ પસંદ છે?"
+  },
+  {
+    "english": "Can you drive?",
+    "gujarati": "શું તમે વાહન ચલાવી શકો?"
+  },
+  {
+    "english": "Can I help?",
+    "gujarati": "શું હું મદદ કરી શકું?"
+  },
+  {
+    "english": "Should I wait?",
+    "gujarati": "શું મારે રાહ જોવી જોઈએ?"
+  },
+  {
+    "english": "Should we leave?",
+    "gujarati": "શું આપણે નીકળી જવું જોઈએ?"
+  },
+  {
+    "english": "Would you like tea?",
+    "gujarati": "શું તમને ચા ગમશે?"
+  },
+  {
+    "english": "Could you repeat?",
+    "gujarati": "શું તમે ફરી કહી શકો?"
+  },
+  {
+    "english": "Is anyone home?",
+    "gujarati": "શું ઘરે કોઈ છે?"
+  },
+  {
+    "english": "Are you serious?",
+    "gujarati": "શું તમે ગંભીર છો?"
+  },
+  {
+    "english": "What's next plan?",
+    "gujarati": "આગળનો પ્લાન શું છે?"
   }
 ]
