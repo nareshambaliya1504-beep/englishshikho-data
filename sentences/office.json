@@ -1,42 +1,403 @@
 [
   {
-    "english": "I am busy.",
-    "gujarati": "હું વ્યસ્ત છું."
+    "english": "Good morning, everyone.",
+    "gujarati": "સુપ્રભાત, મિત્રો."
   },
   {
-    "english": "Please send the file.",
-    "gujarati": "કૃપા કરીને ફાઇલ મોકલો."
+    "english": "I am at work.",
+    "gujarati": "હું ઓફિસમાં છું."
   },
   {
-    "english": "Let's start the meeting.",
-    "gujarati": "ચાલો મીટિંગ શરૂ કરીએ."
+    "english": "Please come in.",
+    "gujarati": "મહેરબાની કરીને અંદર આવો."
   },
   {
-    "english": "I will call you later.",
-    "gujarati": "હું તમને પછી ફોન કરીશ."
+    "english": "Take your seat.",
+    "gujarati": "તમારી જગ્યાએ બેસો."
   },
   {
-    "english": "Please wait.",
-    "gujarati": "કૃપા કરીને રાહ જુઓ."
+    "english": "Let's start working.",
+    "gujarati": "ચાલો કામ શરૂ કરીએ."
   },
   {
-    "english": "I need help.",
-    "gujarati": "મને મદદ જોઈએ."
+    "english": "I have a meeting.",
+    "gujarati": "મારી એક મીટિંગ છે."
   },
   {
-    "english": "The work is finished.",
-    "gujarati": "કામ પૂરું થયું છે."
+    "english": "The meeting starts now.",
+    "gujarati": "મીટિંગ હવે શરૂ થાય છે."
   },
   {
-    "english": "I am going to office.",
-    "gujarati": "હું ઓફિસ જઈ રહ્યો છું."
+    "english": "Please join us.",
+    "gujarati": "મહેરબાની કરીને અમારી સાથે જોડાઓ."
   },
   {
     "english": "Check your email.",
-    "gujarati": "તમારું ઇમેઇલ તપાસો."
+    "gujarati": "તમારો ઈમેલ તપાસો."
+  },
+  {
+    "english": "I sent the email.",
+    "gujarati": "મેં ઈમેલ મોકલ્યો છે."
+  },
+  {
+    "english": "Please reply soon.",
+    "gujarati": "મહેરબાની કરીને જલ્દી જવાબ આપો."
+  },
+  {
+    "english": "Call the client.",
+    "gujarati": "ગ્રાહકને ફોન કરો."
+  },
+  {
+    "english": "The client arrived.",
+    "gujarati": "ગ્રાહક આવી ગયા."
+  },
+  {
+    "english": "Finish this task.",
+    "gujarati": "આ કાર્ય પૂર્ણ કરો."
+  },
+  {
+    "english": "Submit the report.",
+    "gujarati": "અહેવાલ જમા કરો."
+  },
+  {
+    "english": "The report is ready.",
+    "gujarati": "અહેવાલ તૈયાર છે."
+  },
+  {
+    "english": "Let's discuss this.",
+    "gujarati": "ચાલો આ અંગે ચર્ચા કરીએ."
+  },
+  {
+    "english": "I need your help.",
+    "gujarati": "મને તમારી મદદ જોઈએ."
+  },
+  {
+    "english": "Can you help?",
+    "gujarati": "શું તમે મદદ કરી શકો?"
+  },
+  {
+    "english": "Everything is fine.",
+    "gujarati": "બધું બરાબર છે."
+  },
+  {
+    "english": "This looks good.",
+    "gujarati": "આ સારું લાગે છે."
+  },
+  {
+    "english": "Please wait outside.",
+    "gujarati": "મહેરબાની કરીને બહાર રાહ જુઓ."
+  },
+  {
+    "english": "The manager called.",
+    "gujarati": "મેનેજરે બોલાવ્યા."
+  },
+  {
+    "english": "Work carefully.",
+    "gujarati": "ધ્યાનથી કામ કરો."
+  },
+  {
+    "english": "Have a great day.",
+    "gujarati": "તમારો દિવસ શુભ રહે."
+  },
+  {
+    "english": "I reached office early.",
+    "gujarati": "હું ઓફિસમાં વહેલો પહોંચ્યો."
+  },
+  {
+    "english": "Please sign here.",
+    "gujarati": "મહેરબાની કરીને અહીં સહી કરો."
+  },
+  {
+    "english": "The office is busy.",
+    "gujarati": "ઓફિસમાં ખૂબ વ્યસ્તતા છે."
+  },
+  {
+    "english": "Please check again.",
+    "gujarati": "મહેરબાની કરીને ફરી તપાસો."
+  },
+  {
+    "english": "The work is pending.",
+    "gujarati": "કામ બાકી છે."
+  },
+  {
+    "english": "Complete it today.",
+    "gujarati": "આજે જ પૂર્ણ કરો."
+  },
+  {
+    "english": "Please be punctual.",
+    "gujarati": "મહેરબાની કરીને સમયસર આવો."
+  },
+  {
+    "english": "The deadline is tomorrow.",
+    "gujarati": "અંતિમ તારીખ આવતીકાલે છે."
+  },
+  {
+    "english": "Let's discuss later.",
+    "gujarati": "ચાલો પછી ચર્ચા કરીએ."
+  },
+  {
+    "english": "The file is missing.",
+    "gujarati": "ફાઇલ મળી રહી નથી."
+  },
+  {
+    "english": "I found it.",
+    "gujarati": "મને તે મળી ગઈ."
+  },
+  {
+    "english": "Print this document.",
+    "gujarati": "આ દસ્તાવેજ પ્રિન્ટ કરો."
+  },
+  {
+    "english": "Please scan this.",
+    "gujarati": "મહેરબાની કરીને આ સ્કેન કરો."
+  },
+  {
+    "english": "Send me details.",
+    "gujarati": "મને વિગતો મોકલો."
+  },
+  {
+    "english": "Update the report.",
+    "gujarati": "અહેવાલ અપડેટ કરો."
+  },
+  {
+    "english": "The project continues.",
+    "gujarati": "પ્રોજેક્ટ ચાલુ છે."
+  },
+  {
+    "english": "We need approval.",
+    "gujarati": "અમને મંજૂરી જોઈએ."
+  },
+  {
+    "english": "Approval is granted.",
+    "gujarati": "મંજૂરી મળી ગઈ છે."
+  },
+  {
+    "english": "Call the manager.",
+    "gujarati": "મેનેજરને બોલાવો."
+  },
+  {
+    "english": "Manager is available.",
+    "gujarati": "મેનેજર ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Please take notes.",
+    "gujarati": "મહેરબાની કરીને નોંધ લો."
+  },
+  {
+    "english": "Lunch break started.",
+    "gujarati": "બપોરનો વિરામ શરૂ થયો."
+  },
+  {
+    "english": "Let's have coffee.",
+    "gujarati": "ચાલો કોફી પીીએ."
   },
   {
     "english": "See you tomorrow.",
-    "gujarati": "આવતી કાલે મળીશું."
+    "gujarati": "આવતીકાલે મળીશું."
+  },
+  {
+    "english": "Good work today.",
+    "gujarati": "આજે સારું કામ કર્યું."
+  },
+  {
+    "english": "Please open the file.",
+    "gujarati": "મહેરબાની કરીને ફાઇલ ખોલો."
+  },
+  {
+    "english": "Close the document.",
+    "gujarati": "દસ્તાવેજ બંધ કરો."
+  },
+  {
+    "english": "Save your work.",
+    "gujarati": "તમારું કામ સાચવો."
+  },
+  {
+    "english": "The printer stopped.",
+    "gujarati": "પ્રિન્ટર બંધ થઈ ગયું."
+  },
+  {
+    "english": "Printer is working.",
+    "gujarati": "પ્રિન્ટર કામ કરી રહ્યું છે."
+  },
+  {
+    "english": "Internet is slow.",
+    "gujarati": "ઇન્ટરનેટ ધીમું છે."
+  },
+  {
+    "english": "Computer is ready.",
+    "gujarati": "કમ્પ્યુટર તૈયાર છે."
+  },
+  {
+    "english": "Restart your computer.",
+    "gujarati": "તમારું કમ્પ્યુટર ફરી શરૂ કરો."
+  },
+  {
+    "english": "Please log in.",
+    "gujarati": "મહેરબાની કરીને લૉગ ઇન કરો."
+  },
+  {
+    "english": "Log out properly.",
+    "gujarati": "યોગ્ય રીતે લૉગ આઉટ કરો."
+  },
+  {
+    "english": "Meeting was successful.",
+    "gujarati": "મીટિંગ સફળ રહી."
+  },
+  {
+    "english": "Everyone agreed today.",
+    "gujarati": "આજે બધા સહમત હતા."
+  },
+  {
+    "english": "Share your opinion.",
+    "gujarati": "તમારો અભિપ્રાય જણાવો."
+  },
+  {
+    "english": "Let's solve this.",
+    "gujarati": "ચાલો આ ઉકેલીએ."
+  },
+  {
+    "english": "The client agreed.",
+    "gujarati": "ગ્રાહક સંમત થયા."
+  },
+  {
+    "english": "Payment was received.",
+    "gujarati": "ચુકવણી મળી ગઈ."
+  },
+  {
+    "english": "Invoice is ready.",
+    "gujarati": "ઇન્વૉઇસ તૈયાર છે."
+  },
+  {
+    "english": "Check your schedule.",
+    "gujarati": "તમારું સમયપત્રક તપાસો."
+  },
+  {
+    "english": "Today's work finished.",
+    "gujarati": "આજનું કામ પૂર્ણ થયું."
+  },
+  {
+    "english": "Office closes soon.",
+    "gujarati": "ઓફિસ ટૂંક સમયમાં બંધ થશે."
+  },
+  {
+    "english": "Take some rest.",
+    "gujarati": "થોડો આરામ કરો."
+  },
+  {
+    "english": "Tomorrow is busy.",
+    "gujarati": "આવતીકાલે વ્યસ્તતા રહેશે."
+  },
+  {
+    "english": "Prepare the presentation.",
+    "gujarati": "પ્રેઝન્ટેશન તૈયાર કરો."
+  },
+  {
+    "english": "Presentation looks great.",
+    "gujarati": "પ્રેઝન્ટેશન સુંદર લાગે છે."
+  },
+  {
+    "english": "Let's finish together.",
+    "gujarati": "ચાલો સાથે મળીને પૂર્ણ કરીએ."
+  },
+  {
+    "english": "My shift started.",
+    "gujarati": "મારી શિફ્ટ શરૂ થઈ."
+  },
+  {
+    "english": "Your shift ended.",
+    "gujarati": "તમારી શિફ્ટ પૂરી થઈ."
+  },
+  {
+    "english": "Please check attendance.",
+    "gujarati": "મહેરબાની કરીને હાજરી તપાસો."
+  },
+  {
+    "english": "Attendance is complete.",
+    "gujarati": "હાજરી પૂર્ણ થઈ ગઈ."
+  },
+  {
+    "english": "Please verify details.",
+    "gujarati": "મહેરબાની કરીને વિગતો ચકાસો."
+  },
+  {
+    "english": "Customer is waiting.",
+    "gujarati": "ગ્રાહક રાહ જોઈ રહ્યા છે."
+  },
+  {
+    "english": "Please assist customer.",
+    "gujarati": "મહેરબાની કરીને ગ્રાહકને મદદ કરો."
+  },
+  {
+    "english": "Answer the phone.",
+    "gujarati": "ફોન ઉપાડો."
+  },
+  {
+    "english": "Transfer the call.",
+    "gujarati": "કૉલ ટ્રાન્સફર કરો."
+  },
+  {
+    "english": "Call ended successfully.",
+    "gujarati": "કૉલ સફળતાપૂર્વક પૂર્ણ થયો."
+  },
+  {
+    "english": "Please send quotation.",
+    "gujarati": "મહેરબાની કરીને ભાવપત્રક મોકલો."
+  },
+  {
+    "english": "Quotation was approved.",
+    "gujarati": "ભાવપત્રક મંજૂર થયું."
+  },
+  {
+    "english": "Please check inventory.",
+    "gujarati": "મહેરબાની કરીને જથ્થો તપાસો."
+  },
+  {
+    "english": "Stock is available.",
+    "gujarati": "સ્ટોક ઉપલબ્ધ છે."
+  },
+  {
+    "english": "Stock is finished.",
+    "gujarati": "સ્ટોક પૂરો થઈ ગયો."
+  },
+  {
+    "english": "Please update inventory.",
+    "gujarati": "મહેરબાની કરીને જથ્થો અપડેટ કરો."
+  },
+  {
+    "english": "Team completed project.",
+    "gujarati": "ટીમે પ્રોજેક્ટ પૂર્ણ કર્યો."
+  },
+  {
+    "english": "Project starts Monday.",
+    "gujarati": "પ્રોજેક્ટ સોમવારથી શરૂ થશે."
+  },
+  {
+    "english": "Meeting room booked.",
+    "gujarati": "મીટિંગ રૂમ બુક થયો."
+  },
+  {
+    "english": "Please join meeting.",
+    "gujarati": "મહેરબાની કરીને મીટિંગમાં જોડાઓ."
+  },
+  {
+    "english": "Everyone joined meeting.",
+    "gujarati": "બધા મીટિંગમાં જોડાયા."
+  },
+  {
+    "english": "Office looks clean.",
+    "gujarati": "ઓફિસ સ્વચ્છ લાગે છે."
+  },
+  {
+    "english": "Lock the office.",
+    "gujarati": "ઓફિસને તાળું મારો."
+  },
+  {
+    "english": "Switch off lights.",
+    "gujarati": "લાઇટ બંધ કરો."
+  },
+  {
+    "english": "Have a safe journey.",
+    "gujarati": "સલામત મુસાફરી કરો."
   }
 ]
+
