@@ -4,19 +4,399 @@
     "gujarati": "હું ખુશ છું."
   },
   {
-    "english": "I am sad.",
-    "gujarati": "હું દુઃખી છું."
+    "english": "I feel sad.",
+    "gujarati": "મને દુઃખ થાય છે."
   },
   {
-    "english": "I am excited.",
-    "gujarati": "હું ઉત્સાહિત છું."
+    "english": "I'm very excited.",
+    "gujarati": "હું ખૂબ ઉત્સાહિત છું."
   },
   {
-    "english": "I am angry.",
-    "gujarati": "હું ગુસ્સે છું."
+    "english": "I'm feeling nervous.",
+    "gujarati": "મને ગભરામણ થાય છે."
+  },
+  {
+    "english": "I am worried.",
+    "gujarati": "હું ચિંતિત છું."
   },
   {
     "english": "Don't worry.",
-    "gujarati": "ચિંતા ન કરો."
+    "gujarati": "ચિંતા કરશો નહીં."
+  },
+  {
+    "english": "Stay calm.",
+    "gujarati": "શાંત રહો."
+  },
+  {
+    "english": "I feel relaxed.",
+    "gujarati": "મને હળવાશ લાગે છે."
+  },
+  {
+    "english": "I'm feeling tired.",
+    "gujarati": "મને થાક લાગે છે."
+  },
+  {
+    "english": "I need rest.",
+    "gujarati": "મને આરામ જોઈએ."
+  },
+  {
+    "english": "I'm feeling angry.",
+    "gujarati": "મને ગુસ્સો આવે છે."
+  },
+  {
+    "english": "Please forgive me.",
+    "gujarati": "મહેરબાની કરીને મને માફ કરો."
+  },
+  {
+    "english": "It's okay.",
+    "gujarati": "કોઈ વાત નથી."
+  },
+  {
+    "english": "I'm really sorry.",
+    "gujarati": "મને ખરેખર માફ કરજો."
+  },
+  {
+    "english": "Thank you.",
+    "gujarati": "આભાર."
+  },
+  {
+    "english": "You're welcome.",
+    "gujarati": "તમારું સ્વાગત છે."
+  },
+  {
+    "english": "I feel lonely.",
+    "gujarati": "મને એકલતા લાગે છે."
+  },
+  {
+    "english": "I miss you.",
+    "gujarati": "મને તમારી યાદ આવે છે."
+  },
+  {
+    "english": "I trust you.",
+    "gujarati": "મને તમારા પર વિશ્વાસ છે."
+  },
+  {
+    "english": "Believe yourself.",
+    "gujarati": "પોતાના પર વિશ્વાસ રાખો."
+  },
+  {
+    "english": "I'm feeling better.",
+    "gujarati": "મને હવે સારું લાગે છે."
+  },
+  {
+    "english": "Everything feels good.",
+    "gujarati": "બધું સારું લાગે છે."
+  },
+  {
+    "english": "Keep smiling.",
+    "gujarati": "હસતા રહો."
+  },
+  {
+    "english": "Be confident.",
+    "gujarati": "આત્મવિશ્વાસ રાખો."
+  },
+  {
+    "english": "Have faith.",
+    "gujarati": "વિશ્વાસ રાખો."
+  },
+  {
+    "english": "I'm feeling proud.",
+    "gujarati": "મને ગર્વ થાય છે."
+  },
+  {
+    "english": "I'm feeling embarrassed.",
+    "gujarati": "મને શરમ આવે છે."
+  },
+  {
+    "english": "I feel disappointed.",
+    "gujarati": "મને નિરાશા થાય છે."
+  },
+  {
+    "english": "I'm feeling confused.",
+    "gujarati": "હું મૂંઝવણમાં છું."
+  },
+  {
+    "english": "I feel surprised.",
+    "gujarati": "મને આશ્ચર્ય થાય છે."
+  },
+  {
+    "english": "That's wonderful.",
+    "gujarati": "આ અદ્ભુત છે."
+  },
+  {
+    "english": "That's terrible.",
+    "gujarati": "આ ખૂબ ખરાબ છે."
+  },
+  {
+    "english": "I feel hopeful.",
+    "gujarati": "મને આશા છે."
+  },
+  {
+    "english": "Never lose hope.",
+    "gujarati": "ક્યારેય આશા છોડશો નહીં."
+  },
+  {
+    "english": "I'm feeling stressed.",
+    "gujarati": "મને તણાવ થાય છે."
+  },
+  {
+    "english": "Take deep breath.",
+    "gujarati": "ઊંડો શ્વાસ લો."
+  },
+  {
+    "english": "Relax your mind.",
+    "gujarati": "તમારું મન શાંત કરો."
+  },
+  {
+    "english": "Everything will improve.",
+    "gujarati": "બધું સારું થઈ જશે."
+  },
+  {
+    "english": "I'm feeling peaceful.",
+    "gujarati": "મને શાંતિ લાગે છે."
+  },
+  {
+    "english": "You inspire me.",
+    "gujarati": "તમે મને પ્રેરણા આપો છો."
+  },
+  {
+    "english": "I appreciate you.",
+    "gujarati": "હું તમારી કદર કરું છું."
+  },
+  {
+    "english": "I'm feeling grateful.",
+    "gujarati": "હું આભારી છું."
+  },
+  {
+    "english": "I respect you.",
+    "gujarati": "હું તમારો આદર કરું છું."
+  },
+  {
+    "english": "Don't feel guilty.",
+    "gujarati": "દોષી અનુભવશો નહીં."
+  },
+  {
+    "english": "I'm feeling excited.",
+    "gujarati": "હું ઉત્સાહિત છું."
+  },
+  {
+    "english": "I can't believe.",
+    "gujarati": "મને વિશ્વાસ નથી થતો."
+  },
+  {
+    "english": "What a surprise!",
+    "gujarati": "કેવું આશ્ચર્ય!"
+  },
+  {
+    "english": "Stay strong always.",
+    "gujarati": "હંમેશા મજબૂત રહો."
+  },
+  {
+    "english": "You can smile.",
+    "gujarati": "તમે હસી શકો છો."
+  },
+  {
+    "english": "Today feels wonderful.",
+    "gujarati": "આજનો દિવસ અદ્ભુત લાગે છે."
+  },
+  {
+    "english": "I'm feeling confident.",
+    "gujarati": "હું આત્મવિશ્વાસ અનુભવું છું."
+  },
+  {
+    "english": "I'm feeling nervous.",
+    "gujarati": "મને ગભરામણ થાય છે."
+  },
+  {
+    "english": "I feel embarrassed.",
+    "gujarati": "મને શરમ લાગે છે."
+  },
+  {
+    "english": "I'm feeling jealous.",
+    "gujarati": "મને ઈર્ષ્યા થાય છે."
+  },
+  {
+    "english": "I feel thankful.",
+    "gujarati": "હું આભારી છું."
+  },
+  {
+    "english": "I'm feeling hopeful.",
+    "gujarati": "મને આશા છે."
+  },
+  {
+    "english": "I feel relaxed.",
+    "gujarati": "મને હળવાશ લાગે છે."
+  },
+  {
+    "english": "I feel motivated.",
+    "gujarati": "મને પ્રેરણા મળે છે."
+  },
+  {
+    "english": "I'm really excited.",
+    "gujarati": "હું ખરેખર ઉત્સાહિત છું."
+  },
+  {
+    "english": "I feel peaceful.",
+    "gujarati": "મને શાંતિ લાગે છે."
+  },
+  {
+    "english": "Don't be afraid.",
+    "gujarati": "ડરશો નહીં."
+  },
+  {
+    "english": "Everything feels normal.",
+    "gujarati": "બધું સામાન્ય લાગે છે."
+  },
+  {
+    "english": "You seem happy.",
+    "gujarati": "તમે ખુશ દેખાઓ છો."
+  },
+  {
+    "english": "You seem worried.",
+    "gujarati": "તમે ચિંતિત દેખાઓ છો."
+  },
+  {
+    "english": "I understand you.",
+    "gujarati": "હું તમને સમજું છું."
+  },
+  {
+    "english": "Stay positive today.",
+    "gujarati": "આજે હકારાત્મક રહો."
+  },
+  {
+    "english": "Don't feel lonely.",
+    "gujarati": "એકલતા અનુભવશો નહીં."
+  },
+  {
+    "english": "Cheer up friend.",
+    "gujarati": "ખુશ થઈ જા મિત્ર."
+  },
+  {
+    "english": "Keep your smile.",
+    "gujarati": "તમારું સ્મિત જાળવી રાખો."
+  },
+  {
+    "english": "I'm feeling lucky.",
+    "gujarati": "હું ભાગ્યશાળી અનુભવું છું."
+  },
+  {
+    "english": "I admire you.",
+    "gujarati": "હું તમારી પ્રશંસા કરું છું."
+  },
+  {
+    "english": "You inspire everyone.",
+    "gujarati": "તમે બધાને પ્રેરણા આપો છો."
+  },
+  {
+    "english": "Life feels beautiful.",
+    "gujarati": "જીવન સુંદર લાગે છે."
+  },
+  {
+    "english": "Today is special.",
+    "gujarati": "આજનો દિવસ ખાસ છે."
+  },
+  {
+    "english": "Enjoy every moment.",
+    "gujarati": "દરેક ક્ષણનો આનંદ માણો."
+  },
+  {
+    "english": "I feel hopeful.",
+    "gujarati": "મને આશા છે."
+  },
+  {
+    "english": "I'm deeply touched.",
+    "gujarati": "હું ખૂબ ભાવુક થયો છું."
+  },
+  {
+    "english": "That made happy.",
+    "gujarati": "તે મને ખુશ કરી ગયું."
+  },
+  {
+    "english": "I feel relieved.",
+    "gujarati": "મને રાહત અનુભવાય છે."
+  },
+  {
+    "english": "I'm feeling energetic.",
+    "gujarati": "હું ઊર્જાવાન અનુભવું છું."
+  },
+  {
+    "english": "I'm feeling sleepy.",
+    "gujarati": "મને ઊંઘ આવે છે."
+  },
+  {
+    "english": "I'm feeling upset.",
+    "gujarati": "હું દુઃખી છું."
+  },
+  {
+    "english": "I feel frustrated.",
+    "gujarati": "મને હતાશા થાય છે."
+  },
+  {
+    "english": "I feel satisfied.",
+    "gujarati": "મને સંતોષ થાય છે."
+  },
+  {
+    "english": "I feel confident.",
+    "gujarati": "હું આત્મવિશ્વાસ અનુભવું છું."
+  },
+  {
+    "english": "I'm proud today.",
+    "gujarati": "આજે મને ગર્વ છે."
+  },
+  {
+    "english": "I forgive you.",
+    "gujarati": "હું તમને માફ કરું છું."
+  },
+  {
+    "english": "Please trust me.",
+    "gujarati": "મહેરબાની કરીને મારા પર વિશ્વાસ રાખો."
+  },
+  {
+    "english": "You made smile.",
+    "gujarati": "તમે મને હસાવ્યા."
+  },
+  {
+    "english": "I feel loved.",
+    "gujarati": "મને પ્રેમ મળ્યાની લાગણી થાય છે."
+  },
+  {
+    "english": "You made proud.",
+    "gujarati": "તમે મને ગર્વ અનુભવાવ્યો."
+  },
+  {
+    "english": "I'm feeling relaxed.",
+    "gujarati": "મને હળવાશ લાગે છે."
+  },
+  {
+    "english": "Nothing can stop.",
+    "gujarati": "હવે કંઈ રોકી શકતું નથી."
+  },
+  {
+    "english": "I'm ready now.",
+    "gujarati": "હું હવે તૈયાર છું."
+  },
+  {
+    "english": "I believe myself.",
+    "gujarati": "હું મારા પર વિશ્વાસ રાખું છું."
+  },
+  {
+    "english": "Tomorrow feels better.",
+    "gujarati": "આવતીકાલ વધુ સારી લાગશે."
+  },
+  {
+    "english": "Everything will improve.",
+    "gujarati": "બધું સારું થઈ જશે."
+  },
+  {
+    "english": "Keep moving forward.",
+    "gujarati": "આગળ વધતા રહો."
+  },
+  {
+    "english": "Never lose confidence.",
+    "gujarati": "ક્યારેય આત્મવિશ્વાસ ગુમાવશો નહીં."
+  },
+  {
+    "english": "Stay happy always.",
+    "gujarati": "હંમેશા ખુશ રહો."
   }
 ]
