@@ -1,22 +1,402 @@
 [
   {
     "english": "I love you.",
-    "gujarati": "હું તમને પ્રેમ કરું છું."
-  },
-  {
-    "english": "You are special to me.",
-    "gujarati": "તમે મારા માટે ખાસ છો."
+    "gujarati": "હું તને પ્રેમ કરું છું."
   },
   {
     "english": "I miss you.",
-    "gujarati": "મને તમારી યાદ આવે છે."
+    "gujarati": "મને તારી યાદ આવે છે."
   },
   {
-    "english": "You are beautiful.",
-    "gujarati": "તમે સુંદર છો."
+    "english": "You mean everything.",
+    "gujarati": "તું મારા માટે બધું જ છે."
   },
   {
-    "english": "I am happy with you.",
-    "gujarati": "હું તમારી સાથે ખુશ છું."
+    "english": "You make smile.",
+    "gujarati": "તું મને હસાવે છે."
+  },
+  {
+    "english": "You look beautiful.",
+    "gujarati": "તું સુંદર લાગે છે."
+  },
+  {
+    "english": "You look handsome.",
+    "gujarati": "તું હેન્ડસમ લાગે છે."
+  },
+  {
+    "english": "Take care yourself.",
+    "gujarati": "પોતાનું ધ્યાન રાખજે."
+  },
+  {
+    "english": "I'm always here.",
+    "gujarati": "હું હંમેશા તારી સાથે છું."
+  },
+  {
+    "english": "Trust me always.",
+    "gujarati": "હંમેશા મારા પર વિશ્વાસ રાખ."
+  },
+  {
+    "english": "I believe you.",
+    "gujarati": "મને તારા પર વિશ્વાસ છે."
+  },
+  {
+    "english": "Stay with me.",
+    "gujarati": "મારી સાથે રહેજે."
+  },
+  {
+    "english": "You make happy.",
+    "gujarati": "તું મને ખુશ કરે છે."
+  },
+  {
+    "english": "You are special.",
+    "gujarati": "તું ખાસ છે."
+  },
+  {
+    "english": "You are amazing.",
+    "gujarati": "તું અદ્ભુત છે."
+  },
+  {
+    "english": "Thanks for everything.",
+    "gujarati": "દરેક વસ્તુ માટે આભાર."
+  },
+  {
+    "english": "I'm proud of you.",
+    "gujarati": "મને તારા પર ગર્વ છે."
+  },
+  {
+    "english": "You inspire me.",
+    "gujarati": "તું મને પ્રેરણા આપે છે."
+  },
+  {
+    "english": "Don't worry dear.",
+    "gujarati": "ચિંતા ન કર પ્રિય."
+  },
+  {
+    "english": "Everything will improve.",
+    "gujarati": "બધું સારું થઈ જશે."
+  },
+  {
+    "english": "Keep smiling always.",
+    "gujarati": "હંમેશા હસતા રહેજે."
+  },
+  {
+    "english": "You're my happiness.",
+    "gujarati": "તું મારી ખુશી છે."
+  },
+  {
+    "english": "I'm lucky today.",
+    "gujarati": "હું આજે ભાગ્યશાળી છું."
+  },
+  {
+    "english": "Love brings joy.",
+    "gujarati": "પ્રેમ આનંદ લાવે છે."
+  },
+  {
+    "english": "Forever together.",
+    "gujarati": "હંમેશા સાથે."
+  },
+  {
+    "english": "Have sweet dreams.",
+    "gujarati": "મીઠાં સપનાં જો."
+  },
+  {
+    "english": "You make laugh.",
+    "gujarati": "તું મને હસાવે છે."
+  },
+  {
+    "english": "I'm thinking about you.",
+    "gujarati": "હું તારા વિશે વિચારી રહ્યો છું."
+  },
+  {
+    "english": "You are kind.",
+    "gujarati": "તું દયાળુ છે."
+  },
+  {
+    "english": "You are caring.",
+    "gujarati": "તું ખૂબ કાળજી રાખે છે."
+  },
+  {
+    "english": "I appreciate you.",
+    "gujarati": "હું તારી કદર કરું છું."
+  },
+  {
+    "english": "You understand me.",
+    "gujarati": "તું મને સમજે છે."
+  },
+  {
+    "english": "You support me.",
+    "gujarati": "તું મારો સાથ આપે છે."
+  },
+  {
+    "english": "I'm grateful you.",
+    "gujarati": "હું તારો આભારી છું."
+  },
+  {
+    "english": "You are enough.",
+    "gujarati": "તું પૂરતો છે."
+  },
+  {
+    "english": "You are precious.",
+    "gujarati": "તું અમૂલ્ય છે."
+  },
+  {
+    "english": "I respect you.",
+    "gujarati": "હું તારો આદર કરું છું."
+  },
+  {
+    "english": "You matter most.",
+    "gujarati": "તું સૌથી મહત્વનો છે."
+  },
+  {
+    "english": "Never change yourself.",
+    "gujarati": "પોતાને ક્યારેય બદલતો નહીં."
+  },
+  {
+    "english": "Stay just yourself.",
+    "gujarati": "જેવો છે એવો જ રહેજે."
+  },
+  {
+    "english": "You complete me.",
+    "gujarati": "તું મને પૂર્ણ બનાવે છે."
+  },
+  {
+    "english": "My heart smiles.",
+    "gujarati": "મારું દિલ ખુશ થાય છે."
+  },
+  {
+    "english": "I'm always yours.",
+    "gujarati": "હું હંમેશા તારો જ છું."
+  },
+  {
+    "english": "Our bond strong.",
+    "gujarati": "આપણો સંબંધ મજબૂત છે."
+  },
+  {
+    "english": "We are together.",
+    "gujarati": "આપણે સાથે છીએ."
+  },
+  {
+    "english": "Let's stay forever.",
+    "gujarati": "ચાલ હંમેશા સાથે રહીએ."
+  },
+  {
+    "english": "Missing you already.",
+    "gujarati": "મને હમણાંથી જ તારી યાદ આવે છે."
+  },
+  {
+    "english": "Call me soon.",
+    "gujarati": "મને જલ્દી ફોન કરજે."
+  },
+  {
+    "english": "Message me later.",
+    "gujarati": "મને પછી મેસેજ કરજે."
+  },
+  {
+    "english": "See you soon.",
+    "gujarati": "જલ્દી મળીશું."
+  },
+  {
+    "english": "Sweet dreams dear.",
+    "gujarati": "મીઠાં સપનાં જો પ્રિય."
+  },
+  {
+    "english": "You are my sunshine.",
+    "gujarati": "તું મારા જીવનનો પ્રકાશ છે."
+  },
+  {
+    "english": "Life feels beautiful.",
+    "gujarati": "જીવન સુંદર લાગે છે."
+  },
+  {
+    "english": "You make stronger.",
+    "gujarati": "તું મને વધુ મજબૂત બનાવે છે."
+  },
+  {
+    "english": "Your smile shines.",
+    "gujarati": "તારું સ્મિત ચમકે છે."
+  },
+  {
+    "english": "I admire you.",
+    "gujarati": "હું તારી પ્રશંસા કરું છું."
+  },
+  {
+    "english": "You inspire happiness.",
+    "gujarati": "તું ખુશી માટે પ્રેરણા આપે છે."
+  },
+  {
+    "english": "You deserve happiness.",
+    "gujarati": "તું ખુશીનો હકદાર છે."
+  },
+  {
+    "english": "I'm beside you.",
+    "gujarati": "હું તારી બાજુમાં છું."
+  },
+  {
+    "english": "We'll face together.",
+    "gujarati": "આપણે સાથે મળીને સામનો કરીશું."
+  },
+  {
+    "english": "Nothing separates us.",
+    "gujarati": "કંઈપણ આપણને અલગ કરી શકતું નથી."
+  },
+  {
+    "english": "You make proud.",
+    "gujarati": "તું મને ગર્વ અનુભવાવે છે."
+  },
+  {
+    "english": "You're my peace.",
+    "gujarati": "તું મારી શાંતિ છે."
+  },
+  {
+    "english": "I cherish you.",
+    "gujarati": "હું તને ખૂબ જ મૂલ્યવાન માનું છું."
+  },
+  {
+    "english": "You are enough.",
+    "gujarati": "તું પૂરતો છે."
+  },
+  {
+    "english": "My heart trusts.",
+    "gujarati": "મારું દિલ વિશ્વાસ કરે છે."
+  },
+  {
+    "english": "You are unforgettable.",
+    "gujarati": "તું ક્યારેય ભૂલી શકાય એવો નથી."
+  },
+  {
+    "english": "Every moment matters.",
+    "gujarati": "દરેક ક્ષણ મહત્વની છે."
+  },
+  {
+    "english": "Stay close always.",
+    "gujarati": "હંમેશા નજીક રહેજે."
+  },
+  {
+    "english": "Let's make memories.",
+    "gujarati": "ચાલ યાદો બનાવીએ."
+  },
+  {
+    "english": "You're my favorite.",
+    "gujarati": "તું મારો સૌથી પ્રિય છે."
+  },
+  {
+    "english": "Thinking of you.",
+    "gujarati": "હું તારા વિશે વિચારી રહ્યો છું."
+  },
+  {
+    "english": "Waiting for you.",
+    "gujarati": "હું તારી રાહ જોઈ રહ્યો છું."
+  },
+  {
+    "english": "Come back soon.",
+    "gujarati": "જલ્દી પાછો આવજે."
+  },
+  {
+    "english": "Always stay happy.",
+    "gujarati": "હંમેશા ખુશ રહેજે."
+  },
+  {
+    "english": "Love never fades.",
+    "gujarati": "પ્રેમ ક્યારેય ઓછો થતો નથી."
+  },
+  {
+    "english": "You brighten my day.",
+    "gujarati": "તું મારો દિવસ સુંદર બનાવી દે છે."
+  },
+  {
+    "english": "I value you.",
+    "gujarati": "હું તને ખૂબ મહત્વ આપું છું."
+  },
+  {
+    "english": "Your happiness matters.",
+    "gujarati": "તારી ખુશી મારા માટે મહત્વની છે."
+  },
+  {
+    "english": "I care deeply.",
+    "gujarati": "હું તારી ખૂબ કાળજી રાખું છું."
+  },
+  {
+    "english": "You are wonderful.",
+    "gujarati": "તું અદ્ભુત છે."
+  },
+  {
+    "english": "My heart smiles.",
+    "gujarati": "મારું દિલ ખુશ થઈ જાય છે."
+  },
+  {
+    "english": "You're my strength.",
+    "gujarati": "તું મારી શક્તિ છે."
+  },
+  {
+    "english": "I'm always listening.",
+    "gujarati": "હું હંમેશા તારી વાત સાંભળવા તૈયાર છું."
+  },
+  {
+    "english": "Your voice comforts.",
+    "gujarati": "તારો અવાજ મને શાંતિ આપે છે."
+  },
+  {
+    "english": "Thanks for caring.",
+    "gujarati": "મારી કાળજી રાખવા બદલ આભાર."
+  },
+  {
+    "english": "You deserve love.",
+    "gujarati": "તું પ્રેમનો હકદાર છે."
+  },
+  {
+    "english": "Let's stay connected.",
+    "gujarati": "ચાલો હંમેશા સંપર્કમાં રહીએ."
+  },
+  {
+    "english": "Distance changes nothing.",
+    "gujarati": "અંતર કંઈ બદલતું નથી."
+  },
+  {
+    "english": "Our memories precious.",
+    "gujarati": "આપણી યાદો અમૂલ્ય છે."
+  },
+  {
+    "english": "You understand silence.",
+    "gujarati": "તું મારી શાંતિને પણ સમજે છે."
+  },
+  {
+    "english": "Every day special.",
+    "gujarati": "દરેક દિવસ ખાસ બને છે."
+  },
+  {
+    "english": "Love needs trust.",
+    "gujarati": "પ્રેમને વિશ્વાસની જરૂર હોય છે."
+  },
+  {
+    "english": "Love needs respect.",
+    "gujarati": "પ્રેમને આદરની જરૂર હોય છે."
+  },
+  {
+    "english": "Love needs patience.",
+    "gujarati": "પ્રેમને ધીરજની જરૂર હોય છે."
+  },
+  {
+    "english": "You're my comfort.",
+    "gujarati": "તું મને શાંતિ આપે છે."
+  },
+  {
+    "english": "Forever starts today.",
+    "gujarati": "હંમેશાની શરૂઆત આજથી થાય છે."
+  },
+  {
+    "english": "Love grows stronger.",
+    "gujarati": "પ્રેમ વધુ મજબૂત બનતો જાય છે."
+  },
+  {
+    "english": "Stay safe dear.",
+    "gujarati": "ધ્યાન રાખજે પ્રિય."
+  },
+  {
+    "english": "See you soon love.",
+    "gujarati": "જલ્દી મળીશું પ્રિય."
+  },
+  {
+    "english": "Love always wins.",
+    "gujarati": "પ્રેમ હંમેશા જીતે છે."
   }
 ]
