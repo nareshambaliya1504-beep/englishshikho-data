@@ -1,42 +1,402 @@
 [
   {
-    "english": "Where is the bus stand?",
-    "gujarati": "બસ સ્ટેન્ડ ક્યાં છે?"
+    "english": "Where are you going?",
+    "gujarati": "તમે ક્યાં જઈ રહ્યા છો?"
   },
   {
-    "english": "I want to buy a ticket.",
-    "gujarati": "મારે ટિકિટ ખરીદવી છે."
+    "english": "I am traveling today.",
+    "gujarati": "હું આજે મુસાફરી કરી રહ્યો છું."
   },
   {
-    "english": "How much is the fare?",
-    "gujarati": "ભાડું કેટલું છે?"
+    "english": "Book my ticket.",
+    "gujarati": "મારી ટિકિટ બુક કરો."
   },
   {
-    "english": "When will the train arrive?",
-    "gujarati": "ટ્રેન ક્યારે આવશે?"
+    "english": "I need one ticket.",
+    "gujarati": "મને એક ટિકિટ જોઈએ."
   },
   {
-    "english": "I am going to Ahmedabad.",
-    "gujarati": "હું અમદાવાદ જઈ રહ્યો છું."
+    "english": "When is departure?",
+    "gujarati": "પ્રસ્થાન ક્યારે છે?"
   },
   {
-    "english": "Please stop here.",
-    "gujarati": "કૃપા કરીને અહીં રોકો."
+    "english": "What is arrival time?",
+    "gujarati": "પહોંચવાનો સમય શું છે?"
   },
   {
-    "english": "This seat is reserved.",
-    "gujarati": "આ બેઠક અનામત છે."
+    "english": "Where is platform?",
+    "gujarati": "પ્લેટફોર્મ ક્યાં છે?"
   },
   {
-    "english": "Where is the station?",
+    "english": "The train arrived.",
+    "gujarati": "ટ્રેન આવી ગઈ."
+  },
+  {
+    "english": "The train departed.",
+    "gujarati": "ટ્રેન નીકળી ગઈ."
+  },
+  {
+    "english": "Bus is waiting.",
+    "gujarati": "બસ રાહ જોઈ રહી છે."
+  },
+  {
+    "english": "Let's board now.",
+    "gujarati": "ચાલો હવે ચઢીએ."
+  },
+  {
+    "english": "Please show ticket.",
+    "gujarati": "મહેરબાની કરીને ટિકિટ બતાવો."
+  },
+  {
+    "english": "Keep your luggage.",
+    "gujarati": "તમારો સામાન રાખો."
+  },
+  {
+    "english": "Carry your passport.",
+    "gujarati": "તમારો પાસપોર્ટ સાથે રાખો."
+  },
+  {
+    "english": "Where is airport?",
+    "gujarati": "એરપોર્ટ ક્યાં છે?"
+  },
+  {
+    "english": "Flight is delayed.",
+    "gujarati": "ફ્લાઇટ મોડી છે."
+  },
+  {
+    "english": "Flight is boarding.",
+    "gujarati": "ફ્લાઇટમાં ચઢવાનું શરૂ થયું છે."
+  },
+  {
+    "english": "Take this taxi.",
+    "gujarati": "આ ટેક્સી લો."
+  },
+  {
+    "english": "Please drive carefully.",
+    "gujarati": "મહેરબાની કરીને સાવધાનીથી ચલાવો."
+  },
+  {
+    "english": "Stop the vehicle.",
+    "gujarati": "વાહન રોકો."
+  },
+  {
+    "english": "How far is it?",
+    "gujarati": "તે કેટલું દૂર છે?"
+  },
+  {
+    "english": "We reached safely.",
+    "gujarati": "અમે સુરક્ષિત રીતે પહોંચી ગયા."
+  },
+  {
+    "english": "Enjoy your journey.",
+    "gujarati": "તમારી મુસાફરીનો આનંદ માણો."
+  },
+  {
+    "english": "Have safe travels.",
+    "gujarati": "સલામત મુસાફરી કરો."
+  },
+  {
+    "english": "Welcome aboard.",
+    "gujarati": "તમારું સ્વાગત છે."
+  },
+  {
+    "english": "Where is bus stop?",
+    "gujarati": "બસ સ્ટોપ ક્યાં છે?"
+  },
+  {
+    "english": "Bus leaves soon.",
+    "gujarati": "બસ ટૂંક સમયમાં નીકળશે."
+  },
+  {
+    "english": "Train is crowded.",
+    "gujarati": "ટ્રેનમાં ઘણી ભીડ છે."
+  },
+  {
+    "english": "Please reserve seats.",
+    "gujarati": "મહેરબાની કરીને બેઠકો અનામત કરો."
+  },
+  {
+    "english": "Window seat please.",
+    "gujarati": "મહેરબાની કરીને બારી પાસેની બેઠક આપો."
+  },
+  {
+    "english": "Aisle seat please.",
+    "gujarati": "મહેરબાની કરીને રસ્તા બાજુની બેઠક આપો."
+  },
+  {
+    "english": "Ticket is confirmed.",
+    "gujarati": "ટિકિટ કન્ફર્મ છે."
+  },
+  {
+    "english": "Show your passport.",
+    "gujarati": "તમારો પાસપોર્ટ બતાવો."
+  },
+  {
+    "english": "Show your ID.",
+    "gujarati": "તમારું ઓળખપત્ર બતાવો."
+  },
+  {
+    "english": "Where is hotel?",
+    "gujarati": "હોટેલ ક્યાં છે?"
+  },
+  {
+    "english": "I booked room.",
+    "gujarati": "મેં રૂમ બુક કર્યો છે."
+  },
+  {
+    "english": "Check in please.",
+    "gujarati": "મહેરબાની કરીને ચેક-ઇન કરો."
+  },
+  {
+    "english": "Check out tomorrow.",
+    "gujarati": "આવતીકાલે ચેક-આઉટ કરીશ."
+  },
+  {
+    "english": "Need room key.",
+    "gujarati": "મને રૂમની ચાવી જોઈએ."
+  },
+  {
+    "english": "Call a taxi.",
+    "gujarati": "ટેક્સી બોલાવો."
+  },
+  {
+    "english": "Drive more slowly.",
+    "gujarati": "થોડું ધીમું ચલાવો."
+  },
+  {
+    "english": "Stop over here.",
+    "gujarati": "અહીં રોકો."
+  },
+  {
+    "english": "Turn left here.",
+    "gujarati": "અહીંથી ડાબે વળો."
+  },
+  {
+    "english": "Turn right here.",
+    "gujarati": "અહીંથી જમણે વળો."
+  },
+  {
+    "english": "Go straight ahead.",
+    "gujarati": "સીધા આગળ જાઓ."
+  },
+  {
+    "english": "We are lost.",
+    "gujarati": "અમે રસ્તો ભૂલી ગયા છીએ."
+  },
+  {
+    "english": "Please guide us.",
+    "gujarati": "મહેરબાની કરીને અમને માર્ગ બતાવો."
+  },
+  {
+    "english": "Journey was comfortable.",
+    "gujarati": "મુસાફરી આરામદાયક હતી."
+  },
+  {
+    "english": "Reached destination safely.",
+    "gujarati": "અમે સુરક્ષિત રીતે ગંતવ્યે પહોંચી ગયા."
+  },
+  {
+    "english": "Thanks for helping.",
+    "gujarati": "મદદ કરવા બદલ આભાર."
+  },
+  {
+    "english": "Book return ticket.",
+    "gujarati": "પરત આવવાની ટિકિટ બુક કરો."
+  },
+  {
+    "english": "Platform changed suddenly.",
+    "gujarati": "પ્લેટફોર્મ અચાનક બદલાયું."
+  },
+  {
+    "english": "Train arrived late.",
+    "gujarati": "ટ્રેન મોડી આવી."
+  },
+  {
+    "english": "Bus left already.",
+    "gujarati": "બસ પહેલેથી નીકળી ગઈ."
+  },
+  {
+    "english": "Wait for bus.",
+    "gujarati": "બસની રાહ જુઓ."
+  },
+  {
+    "english": "Taxi arrived quickly.",
+    "gujarati": "ટેક્સી ઝડપથી આવી."
+  },
+  {
+    "english": "Driver knows route.",
+    "gujarati": "ડ્રાઇવરને રસ્તો ખબર છે."
+  },
+  {
+    "english": "Please slow down.",
+    "gujarati": "મહેરબાની કરીને ધીમું ચલાવો."
+  },
+  {
+    "english": "Fasten your seatbelt.",
+    "gujarati": "તમારી સીટ બેલ્ટ બાંધો."
+  },
+  {
+    "english": "Keep ticket safely.",
+    "gujarati": "ટિકિટ સુરક્ષિત રાખો."
+  },
+  {
+    "english": "Carry less luggage.",
+    "gujarati": "ઓછો સામાન રાખો."
+  },
+  {
+    "english": "My bag disappeared.",
+    "gujarati": "મારી બેગ ગુમ થઈ ગઈ."
+  },
+  {
+    "english": "Help me please.",
+    "gujarati": "મહેરબાની કરીને મારી મદદ કરો."
+  },
+  {
+    "english": "Need travel guide.",
+    "gujarati": "મને પ્રવાસ માર્ગદર્શક જોઈએ."
+  },
+  {
+    "english": "Let's take photos.",
+    "gujarati": "ચાલો ફોટા લઈએ."
+  },
+  {
+    "english": "Beautiful place indeed.",
+    "gujarati": "આ જગ્યા ખરેખર સુંદર છે."
+  },
+  {
+    "english": "Weather feels pleasant.",
+    "gujarati": "હવામાન સુખદ લાગે છે."
+  },
+  {
+    "english": "Let's explore together.",
+    "gujarati": "ચાલો સાથે ફરીએ."
+  },
+  {
+    "english": "Take this map.",
+    "gujarati": "આ નકશો લો."
+  },
+  {
+    "english": "Follow this road.",
+    "gujarati": "આ રસ્તે જાઓ."
+  },
+  {
+    "english": "Cross the bridge.",
+    "gujarati": "પુલ પાર કરો."
+  },
+  {
+    "english": "Destination is nearby.",
+    "gujarati": "ગંતવ્ય નજીક છે."
+  },
+  {
+    "english": "Journey was amazing.",
+    "gujarati": "મુસાફરી અદ્ભુત હતી."
+  },
+  {
+    "english": "Let's travel again.",
+    "gujarati": "ચાલો ફરી મુસાફરી કરીએ."
+  },
+  {
+    "english": "Happy journey ahead.",
+    "gujarati": "તમારી આગળની મુસાફરી શુભ રહે."
+  },
+  {
+    "english": "Book hotel room.",
+    "gujarati": "હોટેલનો રૂમ બુક કરો."
+  },
+  {
+    "english": "Room is ready.",
+    "gujarati": "રૂમ તૈયાર છે."
+  },
+  {
+    "english": "Please carry luggage.",
+    "gujarati": "મહેરબાની કરીને સામાન લઈ જાઓ."
+  },
+  {
+    "english": "Where is reception?",
+    "gujarati": "રિસેપ્શન ક્યાં છે?"
+  },
+  {
+    "english": "Need room service.",
+    "gujarati": "મને રૂમ સર્વિસ જોઈએ."
+  },
+  {
+    "english": "Book flight ticket.",
+    "gujarati": "ફ્લાઇટની ટિકિટ બુક કરો."
+  },
+  {
+    "english": "Flight landed safely.",
+    "gujarati": "ફ્લાઇટ સુરક્ષિત રીતે ઉતરી."
+  },
+  {
+    "english": "Collect your baggage.",
+    "gujarati": "તમારો સામાન લઈ લો."
+  },
+  {
+    "english": "Passport was checked.",
+    "gujarati": "પાસપોર્ટ તપાસવામાં આવ્યો."
+  },
+  {
+    "english": "Security check completed.",
+    "gujarati": "સુરક્ષા તપાસ પૂર્ણ થઈ."
+  },
+  {
+    "english": "Show boarding pass.",
+    "gujarati": "બોર્ડિંગ પાસ બતાવો."
+  },
+  {
+    "english": "Gate opened now.",
+    "gujarati": "ગેટ હવે ખુલ્યો."
+  },
+  {
+    "english": "Boarding starts soon.",
+    "gujarati": "બોર્ડિંગ ટૂંક સમયમાં શરૂ થશે."
+  },
+  {
+    "english": "Flight departed ontime.",
+    "gujarati": "ફ્લાઇટ સમયસર નીકળી."
+  },
+  {
+    "english": "Please buckle seatbelt.",
+    "gujarati": "મહેરબાની કરીને સીટ બેલ્ટ બાંધો."
+  },
+  {
+    "english": "Enjoy your flight.",
+    "gujarati": "તમારી ફ્લાઇટનો આનંદ માણો."
+  },
+  {
+    "english": "Where is station?",
     "gujarati": "સ્ટેશન ક્યાં છે?"
   },
   {
-    "english": "Let's go.",
-    "gujarati": "ચાલો જઈએ."
+    "english": "Book cab online.",
+    "gujarati": "ઓનલાઇન કેબ બુક કરો."
   },
   {
-    "english": "Have a safe journey.",
-    "gujarati": "તમારી યાત્રા શુભ રહે."
+    "english": "Cab arrived early.",
+    "gujarati": "કેબ વહેલી આવી ગઈ."
+  },
+  {
+    "english": "Driver was friendly.",
+    "gujarati": "ડ્રાઇવર મિત્રતાભર્યો હતો."
+  },
+  {
+    "english": "Travel was memorable.",
+    "gujarati": "મુસાફરી યાદગાર રહી."
+  },
+  {
+    "english": "Let's visit again.",
+    "gujarati": "ચાલો ફરી મુલાકાત લઈએ."
+  },
+  {
+    "english": "Time to return.",
+    "gujarati": "પાછા ફરવાનો સમય થયો."
+  },
+  {
+    "english": "Reached home safely.",
+    "gujarati": "ઘરે સુરક્ષિત રીતે પહોંચી ગયા."
+  },
+  {
+    "english": "Thanks for traveling.",
+    "gujarati": "મુસાફરી માટે આભાર."
   }
 ]
