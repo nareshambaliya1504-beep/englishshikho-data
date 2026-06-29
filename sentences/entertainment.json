@@ -1,22 +1,402 @@
 [
   {
-    "english": "Let's watch a movie.",
+    "english": "Let's watch movie.",
     "gujarati": "ચાલો ફિલ્મ જોઈએ."
   },
   {
-    "english": "This song is amazing.",
-    "gujarati": "આ ગીત અદ્ભુત છે."
+    "english": "I love movies.",
+    "gujarati": "મને ફિલ્મો ગમે છે."
   },
   {
-    "english": "I like this actor.",
-    "gujarati": "મને આ અભિનેતા ગમે છે."
+    "english": "The movie amazing.",
+    "gujarati": "ફિલ્મ અદ્ભુત છે."
   },
   {
-    "english": "The movie was great.",
-    "gujarati": "ફિલ્મ ખૂબ સારી હતી."
+    "english": "Who's favorite actor?",
+    "gujarati": "તમારો મનપસંદ અભિનેતા કોણ છે?"
   },
   {
-    "english": "I enjoy music.",
+    "english": "She's favorite actress.",
+    "gujarati": "તે મારી મનપસંદ અભિનેત્રી છે."
+  },
+  {
+    "english": "Let's watch comedy.",
+    "gujarati": "ચાલો કોમેડી જોઈએ."
+  },
+  {
+    "english": "I enjoy action movies.",
+    "gujarati": "મને એક્શન ફિલ્મો ગમે છે."
+  },
+  {
+    "english": "I like music.",
     "gujarati": "મને સંગીત ગમે છે."
+  },
+  {
+    "english": "Play my favorite song.",
+    "gujarati": "મારું મનપસંદ ગીત વગાડો."
+  },
+  {
+    "english": "This song beautiful.",
+    "gujarati": "આ ગીત સુંદર છે."
+  },
+  {
+    "english": "Let's dance together.",
+    "gujarati": "ચાલો સાથે નાચીએ."
+  },
+  {
+    "english": "She dances well.",
+    "gujarati": "તે સારું નાચે છે."
+  },
+  {
+    "english": "He sings beautifully.",
+    "gujarati": "તે સુંદર ગાય છે."
+  },
+  {
+    "english": "Let's play game.",
+    "gujarati": "ચાલો રમત રમીએ."
+  },
+  {
+    "english": "Games are fun.",
+    "gujarati": "રમતો મજાની છે."
+  },
+  {
+    "english": "Let's have fun.",
+    "gujarati": "ચાલો મજા કરીએ."
+  },
+  {
+    "english": "Everyone is laughing.",
+    "gujarati": "બધા હસી રહ્યા છે."
+  },
+  {
+    "english": "That was funny.",
+    "gujarati": "તે ખૂબ રમુજી હતું."
+  },
+  {
+    "english": "I'm feeling bored.",
+    "gujarati": "મને કંટાળો આવે છે."
+  },
+  {
+    "english": "Let's go outside.",
+    "gujarati": "ચાલો બહાર જઈએ."
+  },
+  {
+    "english": "Let's enjoy evening.",
+    "gujarati": "ચાલો સાંજનો આનંદ માણીએ."
+  },
+  {
+    "english": "Weekend is fun.",
+    "gujarati": "સપ્તાહાંત મજાનો છે."
+  },
+  {
+    "english": "Enjoy every moment.",
+    "gujarati": "દરેક ક્ષણનો આનંદ માણો."
+  },
+  {
+    "english": "Life is enjoyable.",
+    "gujarati": "જીવન આનંદમય છે."
+  },
+  {
+    "english": "Smile and enjoy.",
+    "gujarati": "હસો અને આનંદ માણો."
+  },
+  {
+    "english": "Which movie tonight?",
+    "gujarati": "આજે રાત્રે કઈ ફિલ્મ જોઈએ?"
+  },
+  {
+    "english": "Let's watch series.",
+    "gujarati": "ચાલો વેબ સિરીઝ જોઈએ."
+  },
+  {
+    "english": "The story interesting.",
+    "gujarati": "વાર્તા રસપ્રદ છે."
+  },
+  {
+    "english": "The ending surprised.",
+    "gujarati": "અંત આશ્ચર્યજનક હતો."
+  },
+  {
+    "english": "Who's favorite singer?",
+    "gujarati": "તમારો મનપસંદ ગાયક કોણ છે?"
+  },
+  {
+    "english": "This music relaxing.",
+    "gujarati": "આ સંગીત શાંતિ આપે છે."
+  },
+  {
+    "english": "Turn volume up.",
+    "gujarati": "અવાજ વધારો."
+  },
+  {
+    "english": "Turn volume down.",
+    "gujarati": "અવાજ ઓછો કરો."
+  },
+  {
+    "english": "Let's sing together.",
+    "gujarati": "ચાલો સાથે ગાઈએ."
+  },
+  {
+    "english": "Everyone enjoyed concert.",
+    "gujarati": "બધાએ કોન્સર્ટનો આનંદ માણ્યો."
+  },
+  {
+    "english": "The show started.",
+    "gujarati": "શો શરૂ થયો."
+  },
+  {
+    "english": "The show amazing.",
+    "gujarati": "શો અદ્ભુત હતો."
+  },
+  {
+    "english": "Let's buy tickets.",
+    "gujarati": "ચાલો ટિકિટ ખરીદીએ."
+  },
+  {
+    "english": "Tickets sold out.",
+    "gujarati": "ટિકિટો વેચાઈ ગઈ."
+  },
+  {
+    "english": "Play another song.",
+    "gujarati": "બીજું ગીત વગાડો."
+  },
+  {
+    "english": "Change the channel.",
+    "gujarati": "ચેનલ બદલો."
+  },
+  {
+    "english": "Watch this video.",
+    "gujarati": "આ વિડિયો જુઓ."
+  },
+  {
+    "english": "The video funny.",
+    "gujarati": "વિડિયો ખૂબ રમુજી છે."
+  },
+  {
+    "english": "Let's play chess.",
+    "gujarati": "ચાલો ચેસ રમીએ."
+  },
+  {
+    "english": "I won game.",
+    "gujarati": "હું રમત જીતી ગયો."
+  },
+  {
+    "english": "Let's play again.",
+    "gujarati": "ચાલો ફરી રમીએ."
+  },
+  {
+    "english": "Time passed quickly.",
+    "gujarati": "સમય ઝડપથી પસાર થઈ ગયો."
+  },
+  {
+    "english": "What a performance!",
+    "gujarati": "કેવું સરસ પ્રદર્શન!"
+  },
+  {
+    "english": "Everyone had fun.",
+    "gujarati": "બધાએ ખૂબ મજા કરી."
+  },
+  {
+    "english": "Let's meet again.",
+    "gujarati": "ચાલો ફરી મળીશું."
+  },
+  {
+    "english": "Let's watch together.",
+    "gujarati": "ચાલો સાથે જોઈએ."
+  },
+  {
+    "english": "I enjoyed movie.",
+    "gujarati": "મેં ફિલ્મનો આનંદ માણ્યો."
+  },
+  {
+    "english": "The movie hilarious.",
+    "gujarati": "ફિલ્મ ખૂબ રમુજી હતી."
+  },
+  {
+    "english": "The ending emotional.",
+    "gujarati": "અંત ભાવનાત્મક હતો."
+  },
+  {
+    "english": "That scene unforgettable.",
+    "gujarati": "એ દૃશ્ય ભૂલી શકાય એવું નથી."
+  },
+  {
+    "english": "I love comedy.",
+    "gujarati": "મને કોમેડી ગમે છે."
+  },
+  {
+    "english": "I prefer thrillers.",
+    "gujarati": "મને થ્રિલર ફિલ્મો વધુ ગમે છે."
+  },
+  {
+    "english": "The music wonderful.",
+    "gujarati": "સંગીત અદ્ભુત છે."
+  },
+  {
+    "english": "This song popular.",
+    "gujarati": "આ ગીત ખૂબ લોકપ્રિય છે."
+  },
+  {
+    "english": "Everyone started dancing.",
+    "gujarati": "બધા નાચવા લાગ્યા."
+  },
+  {
+    "english": "Sing with me.",
+    "gujarati": "મારી સાથે ગા."
+  },
+  {
+    "english": "The audience clapped.",
+    "gujarati": "પ્રેક્ષકોએ તાળીઓ પાડી."
+  },
+  {
+    "english": "The performance outstanding.",
+    "gujarati": "પ્રદર્શન શાનદાર હતું."
+  },
+  {
+    "english": "Let's enjoy concert.",
+    "gujarati": "ચાલો કોન્સર્ટનો આનંદ માણીએ."
+  },
+  {
+    "english": "Everyone enjoyed music.",
+    "gujarati": "બધાએ સંગીતનો આનંદ માણ્યો."
+  },
+  {
+    "english": "Let's play cards.",
+    "gujarati": "ચાલો પત્તા રમીએ."
+  },
+  {
+    "english": "Board games entertaining.",
+    "gujarati": "બોર્ડ ગેમ્સ મજેદાર છે."
+  },
+  {
+    "english": "Let's solve puzzle.",
+    "gujarati": "ચાલો પઝલ ઉકેલીએ."
+  },
+  {
+    "english": "The game exciting.",
+    "gujarati": "રમત ખૂબ રોમાંચક હતી."
+  },
+  {
+    "english": "Everyone laughed loudly.",
+    "gujarati": "બધા જોરથી હસ્યા."
+  },
+  {
+    "english": "This joke funny.",
+    "gujarati": "આ જોક ખૂબ રમુજી છે."
+  },
+  {
+    "english": "Let's enjoy picnic.",
+    "gujarati": "ચાલો પિકનિકનો આનંદ માણીએ."
+  },
+  {
+    "english": "We had fun.",
+    "gujarati": "અમે ખૂબ મજા કરી."
+  },
+  {
+    "english": "Entertainment refreshes mind.",
+    "gujarati": "મનોરંજન મનને તાજગી આપે છે."
+  },
+  {
+    "english": "Let's enjoy life.",
+    "gujarati": "ચાલો જીવનનો આનંદ માણીએ."
+  },
+  {
+    "english": "What's your favorite movie?",
+    "gujarati": "તમારી મનપસંદ ફિલ્મ કઈ છે?"
+  },
+  {
+    "english": "Who's your favorite actor?",
+    "gujarati": "તમારો મનપસંદ અભિનેતા કોણ છે?"
+  },
+  {
+    "english": "Who's your favorite singer?",
+    "gujarati": "તમારો મનપસંદ ગાયક કોણ છે?"
+  },
+  {
+    "english": "Let's watch trailer.",
+    "gujarati": "ચાલો ટ્રેલર જોઈએ."
+  },
+  {
+    "english": "The trailer amazing.",
+    "gujarati": "ટ્રેલર અદ્ભુત છે."
+  },
+  {
+    "english": "Book the tickets.",
+    "gujarati": "ટિકિટ બુક કરો."
+  },
+  {
+    "english": "The cinema crowded.",
+    "gujarati": "સિનેમા હોલમાં ઘણી ભીડ છે."
+  },
+  {
+    "english": "Let's grab popcorn.",
+    "gujarati": "ચાલો પોપકોર્ન લઈએ."
+  },
+  {
+    "english": "The soundtrack fantastic.",
+    "gujarati": "ફિલ્મનું સંગીત શાનદાર છે."
+  },
+  {
+    "english": "Everyone enjoyed show.",
+    "gujarati": "બધાએ શોનો આનંદ માણ્યો."
+  },
+  {
+    "english": "Dance with everyone.",
+    "gujarati": "બધા સાથે નાચો."
+  },
+  {
+    "english": "Music fills happiness.",
+    "gujarati": "સંગીત ખુશીથી ભરી દે છે."
+  },
+  {
+    "english": "Play your playlist.",
+    "gujarati": "તમારી પ્લેલિસ્ટ વગાડો."
+  },
+  {
+    "english": "Let's sing loudly.",
+    "gujarati": "ચાલો જોરથી ગાઈએ."
+  },
+  {
+    "english": "Watch live concert.",
+    "gujarati": "લાઇવ કોન્સર્ટ જુઓ."
+  },
+  {
+    "english": "This game addictive.",
+    "gujarati": "આ રમત ખૂબ રસપ્રદ છે."
+  },
+  {
+    "english": "Let's play indoors.",
+    "gujarati": "ચાલો ઘરની અંદર રમીએ."
+  },
+  {
+    "english": "Fun never ends.",
+    "gujarati": "મજા ક્યારેય પૂરી થતી નથી."
+  },
+  {
+    "english": "Let's celebrate together.",
+    "gujarati": "ચાલો સાથે ઉજવણી કરીએ."
+  },
+  {
+    "english": "Weekend feels exciting.",
+    "gujarati": "સપ્તાહાંત ખૂબ રોમાંચક લાગે છે."
+  },
+  {
+    "english": "Entertainment reduces stress.",
+    "gujarati": "મનોરંજન તણાવ ઘટાડે છે."
+  },
+  {
+    "english": "Laughter is medicine.",
+    "gujarati": "હાસ્ય શ્રેષ્ઠ દવા છે."
+  },
+  {
+    "english": "Let's enjoy today.",
+    "gujarati": "ચાલો આજનો દિવસ માણીએ."
+  },
+  {
+    "english": "Make happy memories.",
+    "gujarati": "ખુશીની યાદો બનાવો."
+  },
+  {
+    "english": "Have lots fun.",
+    "gujarati": "ખૂબ મજા કરો."
   }
 ]
