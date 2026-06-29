@@ -1,22 +1,402 @@
 [
   {
-    "english": "Hello, who is speaking?",
-    "gujarati": "હેલો, કોણ બોલી રહ્યું છે?"
+    "english": "Hello, who's speaking?",
+    "gujarati": "હેલો, કોણ બોલી રહ્યા છો?"
+  },
+  {
+    "english": "Hello, this is Naresh.",
+    "gujarati": "હેલો, હું નરેશ બોલું છું."
   },
   {
     "english": "Can you hear me?",
-    "gujarati": "શું તમે મને સાંભળી શકો છો?"
+    "gujarati": "શું તમને મારો અવાજ સંભળાય છે?"
   },
   {
-    "english": "I will call you later.",
-    "gujarati": "હું તમને પછી ફોન કરીશ."
+    "english": "Yes, I can.",
+    "gujarati": "હા, સંભળાય છે."
   },
   {
-    "english": "Please call me.",
-    "gujarati": "કૃપા કરીને મને ફોન કરો."
+    "english": "Please speak louder.",
+    "gujarati": "મહેરબાની કરીને થોડું મોટેથી બોલો."
   },
   {
-    "english": "The line is busy.",
-    "gujarati": "લાઇન વ્યસ્ત છે."
+    "english": "Your voice breaks.",
+    "gujarati": "તમારો અવાજ તૂટી રહ્યો છે."
+  },
+  {
+    "english": "Network is weak.",
+    "gujarati": "નેટવર્ક નબળું છે."
+  },
+  {
+    "english": "Call me later.",
+    "gujarati": "મને પછી ફોન કરજો."
+  },
+  {
+    "english": "I'm busy now.",
+    "gujarati": "હું અત્યારે વ્યસ્ત છું."
+  },
+  {
+    "english": "Please hold on.",
+    "gujarati": "મહેરબાની કરીને થોડી રાહ જુઓ."
+  },
+  {
+    "english": "One moment please.",
+    "gujarati": "એક ક્ષણ રાહ જુઓ."
+  },
+  {
+    "english": "I'll call back.",
+    "gujarati": "હું પાછો ફોન કરીશ."
+  },
+  {
+    "english": "I missed your call.",
+    "gujarati": "તમારો ફોન મિસ થઈ ગયો."
+  },
+  {
+    "english": "Why did you call?",
+    "gujarati": "તમે શા માટે ફોન કર્યો?"
+  },
+  {
+    "english": "Nothing important.",
+    "gujarati": "કંઈ ખાસ નથી."
+  },
+  {
+    "english": "What's the matter?",
+    "gujarati": "શું વાત છે?"
+  },
+  {
+    "english": "Everything is fine.",
+    "gujarati": "બધું બરાબર છે."
+  },
+  {
+    "english": "Where are you?",
+    "gujarati": "તમે ક્યાં છો?"
+  },
+  {
+    "english": "I'm at home.",
+    "gujarati": "હું ઘરે છું."
+  },
+  {
+    "english": "When will you come?",
+    "gujarati": "તમે ક્યારે આવશો?"
+  },
+  {
+    "english": "I'll come soon.",
+    "gujarati": "હું જલ્દી આવીશ."
+  },
+  {
+    "english": "Take care.",
+    "gujarati": "ધ્યાન રાખજો."
+  },
+  {
+    "english": "Talk to you later.",
+    "gujarati": "પછી વાત કરીએ."
+  },
+  {
+    "english": "Goodbye, take care.",
+    "gujarati": "આવજો, ધ્યાન રાખજો."
+  },
+  {
+    "english": "Have a nice day.",
+    "gujarati": "તમારો દિવસ શુભ રહે."
+  },
+  {
+    "english": "Is this Naresh?",
+    "gujarati": "શું આ નરેશ છે?"
+  },
+  {
+    "english": "Speaking, who is this?",
+    "gujarati": "હું જ બોલું છું, તમે કોણ?"
+  },
+  {
+    "english": "Wrong number, sorry.",
+    "gujarati": "ખોટો નંબર છે, માફ કરશો."
+  },
+  {
+    "english": "Please dial again.",
+    "gujarati": "મહેરબાની કરીને ફરી નંબર લગાવો."
+  },
+  {
+    "english": "Call disconnected suddenly.",
+    "gujarati": "ફોન અચાનક કપાઈ ગયો."
+  },
+  {
+    "english": "I can't hear.",
+    "gujarati": "મને સંભળાતું નથી."
+  },
+  {
+    "english": "Speak little slowly.",
+    "gujarati": "જરા ધીમે બોલો."
+  },
+  {
+    "english": "You're breaking up.",
+    "gujarati": "તમારો અવાજ તૂટી રહ્યો છે."
+  },
+  {
+    "english": "Signal is poor.",
+    "gujarati": "સિગ્નલ નબળું છે."
+  },
+  {
+    "english": "I'm driving now.",
+    "gujarati": "હું અત્યારે ડ્રાઇવિંગ કરું છું."
+  },
+  {
+    "english": "I'll call later.",
+    "gujarati": "હું પછી ફોન કરીશ."
+  },
+  {
+    "english": "Please message me.",
+    "gujarati": "મહેરબાની કરીને મને મેસેજ કરો."
+  },
+  {
+    "english": "Check your messages.",
+    "gujarati": "તમારા મેસેજ તપાસો."
+  },
+  {
+    "english": "Did you call?",
+    "gujarati": "શું તમે ફોન કર્યો હતો?"
+  },
+  {
+    "english": "I called yesterday.",
+    "gujarati": "મેં ગઈકાલે ફોન કર્યો હતો."
+  },
+  {
+    "english": "Please answer quickly.",
+    "gujarati": "મહેરબાની કરીને જલ્દી જવાબ આપો."
+  },
+  {
+    "english": "Hold the line.",
+    "gujarati": "લાઇન પર જ રહો."
+  },
+  {
+    "english": "Don't hang up.",
+    "gujarati": "ફોન કાપશો નહીં."
+  },
+  {
+    "english": "I'm listening carefully.",
+    "gujarati": "હું ધ્યાનથી સાંભળી રહ્યો છું."
+  },
+  {
+    "english": "Tell me everything.",
+    "gujarati": "મને બધું કહો."
+  },
+  {
+    "english": "Thanks for calling.",
+    "gujarati": "ફોન કરવા બદલ આભાર."
+  },
+  {
+    "english": "Glad you called.",
+    "gujarati": "તમે ફોન કર્યો તેનો આનંદ છે."
+  },
+  {
+    "english": "Talk again tomorrow.",
+    "gujarati": "આવતીકાલે ફરી વાત કરીએ."
+  },
+  {
+    "english": "Good night, bye.",
+    "gujarati": "શુભ રાત્રિ, આવજો."
+  },
+  {
+    "english": "See you soon.",
+    "gujarati": "જલ્દી મળીશું."
+  },
+  {
+    "english": "Are you free?",
+    "gujarati": "શું તમે ફ્રી છો?"
+  },
+  {
+    "english": "I'm free now.",
+    "gujarati": "હું હવે ફ્રી છું."
+  },
+  {
+    "english": "Can we talk?",
+    "gujarati": "શું આપણે વાત કરી શકીએ?"
+  },
+  {
+    "english": "I'm in meeting.",
+    "gujarati": "હું મીટિંગમાં છું."
+  },
+  {
+    "english": "Please wait outside.",
+    "gujarati": "મહેરબાની કરીને બહાર રાહ જુઓ."
+  },
+  {
+    "english": "I'll text you.",
+    "gujarati": "હું તમને મેસેજ કરીશ."
+  },
+  {
+    "english": "Read my message.",
+    "gujarati": "મારો મેસેજ વાંચજો."
+  },
+  {
+    "english": "Did you reply?",
+    "gujarati": "શું તમે જવાબ આપ્યો?"
+  },
+  {
+    "english": "Please call immediately.",
+    "gujarati": "મહેરબાની કરીને તરત ફોન કરો."
+  },
+  {
+    "english": "Emergency call only.",
+    "gujarati": "ફક્ત ઇમરજન્સી કૉલ કરો."
+  },
+  {
+    "english": "I'll join later.",
+    "gujarati": "હું પછી જોડાઈશ."
+  },
+  {
+    "english": "Where should meet?",
+    "gujarati": "આપણે ક્યાં મળવું?"
+  },
+  {
+    "english": "I'm almost home.",
+    "gujarati": "હું લગભગ ઘરે પહોંચી ગયો છું."
+  },
+  {
+    "english": "Reach safely please.",
+    "gujarati": "મહેરબાની કરીને સુરક્ષિત પહોંચજો."
+  },
+  {
+    "english": "Don't worry anymore.",
+    "gujarati": "હવે ચિંતા કરશો નહીં."
+  },
+  {
+    "english": "Everything went well.",
+    "gujarati": "બધું સારી રીતે થયું."
+  },
+  {
+    "english": "Thanks for informing.",
+    "gujarati": "જાણ કરવા બદલ આભાર."
+  },
+  {
+    "english": "Please remind me.",
+    "gujarati": "મહેરબાની કરીને મને યાદ કરાવજો."
+  },
+  {
+    "english": "I'll remember it.",
+    "gujarati": "હું તેને યાદ રાખીશ."
+  },
+  {
+    "english": "Can you repeat?",
+    "gujarati": "શું તમે ફરી કહી શકો?"
+  },
+  {
+    "english": "I didn't understand.",
+    "gujarati": "મને સમજાયું નથી."
+  },
+  {
+    "english": "Now it's clear.",
+    "gujarati": "હવે બધું સ્પષ્ટ છે."
+  },
+  {
+    "english": "We'll discuss tomorrow.",
+    "gujarati": "આપણે આવતીકાલે ચર્ચા કરીશું."
+  },
+  {
+    "english": "Have good evening.",
+    "gujarati": "તમારી સાંજ શુભ રહે."
+  },
+  {
+    "english": "Bye, see you.",
+    "gujarati": "આવજો, ફરી મળીશું."
+  },
+  {
+    "english": "Phone battery low.",
+    "gujarati": "ફોનની બેટરી ઓછી છે."
+  },
+  {
+    "english": "My phone died.",
+    "gujarati": "મારો ફોન બંધ થઈ ગયો."
+  },
+  {
+    "english": "Please charge phone.",
+    "gujarati": "મહેરબાની કરીને ફોન ચાર્જ કરો."
+  },
+  {
+    "english": "I'll charge later.",
+    "gujarati": "હું પછી ચાર્જ કરીશ."
+  },
+  {
+    "english": "Your phone ringing.",
+    "gujarati": "તમારો ફોન વાગી રહ્યો છે."
+  },
+  {
+    "english": "Please answer it.",
+    "gujarati": "મહેરબાની કરીને ઉપાડો."
+  },
+  {
+    "english": "Someone called you.",
+    "gujarati": "કોઈએ તમને ફોન કર્યો હતો."
+  },
+  {
+    "english": "Missed call received.",
+    "gujarati": "મિસ્ડ કોલ આવ્યો છે."
+  },
+  {
+    "english": "Please check voicemail.",
+    "gujarati": "મહેરબાની કરીને વોઇસમેલ તપાસો."
+  },
+  {
+    "english": "Send me location.",
+    "gujarati": "મને તમારું લોકેશન મોકલો."
+  },
+  {
+    "english": "Location received successfully.",
+    "gujarati": "લોકેશન સફળતાપૂર્વક મળી ગયું."
+  },
+  {
+    "english": "Share contact number.",
+    "gujarati": "તમારો સંપર્ક નંબર મોકલો."
+  },
+  {
+    "english": "Save my number.",
+    "gujarati": "મારો નંબર સેવ કરો."
+  },
+  {
+    "english": "Delete old messages.",
+    "gujarati": "જૂના મેસેજ કાઢી નાખો."
+  },
+  {
+    "english": "Check internet connection.",
+    "gujarati": "ઇન્ટરનેટ કનેક્શન તપાસો."
+  },
+  {
+    "english": "Internet works now.",
+    "gujarati": "હવે ઇન્ટરનેટ ચાલે છે."
+  },
+  {
+    "english": "Video call now?",
+    "gujarati": "હવે વિડિયો કોલ કરીએ?"
+  },
+  {
+    "english": "Camera isn't working.",
+    "gujarati": "કેમેરો કામ કરતો નથી."
+  },
+  {
+    "english": "Microphone works fine.",
+    "gujarati": "માઇક્રોફોન બરાબર કામ કરે છે."
+  },
+  {
+    "english": "Let's continue later.",
+    "gujarati": "ચાલો પછી ચાલુ રાખીએ."
+  },
+  {
+    "english": "Call was helpful.",
+    "gujarati": "આ ફોન ઉપયોગી રહ્યો."
+  },
+  {
+    "english": "Thanks for your time.",
+    "gujarati": "તમારા સમય માટે આભાર."
+  },
+  {
+    "english": "Talk with you soon.",
+    "gujarati": "જલ્દી ફરી વાત કરીશું."
+  },
+  {
+    "english": "Have a great day.",
+    "gujarati": "તમારો દિવસ સુંદર રહે."
+  },
+  {
+    "english": "Goodbye for now.",
+    "gujarati": "હાલ માટે આવજો."
   }
 ]
