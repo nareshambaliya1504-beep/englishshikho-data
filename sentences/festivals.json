@@ -8,15 +8,395 @@
     "gujarati": "નવા વર્ષની શુભકામનાઓ!"
   },
   {
-    "english": "Merry Christmas!",
-    "gujarati": "મેરી ક્રિસમસ!"
-  },
-  {
     "english": "Happy Holi!",
     "gujarati": "હોળીની શુભકામનાઓ!"
   },
   {
+    "english": "Merry Christmas!",
+    "gujarati": "મેરી ક્રિસમસ!"
+  },
+  {
+    "english": "Happy Eid!",
+    "gujarati": "ઈદ મુબારક!"
+  },
+  {
+    "english": "Happy Navratri!",
+    "gujarati": "નવરાત્રિની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Raksha Bandhan!",
+    "gujarati": "રક્ષાબંધનની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Janmashtami!",
+    "gujarati": "જન્માષ્ટમીની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Ganesh Chaturthi!",
+    "gujarati": "ગણેશ ચતુર્થીની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Independence Day!",
+    "gujarati": "સ્વતંત્રતા દિવસની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Republic Day!",
+    "gujarati": "પ્રજાસત્તાક દિવસની શુભકામનાઓ!"
+  },
+  {
     "english": "Enjoy the festival.",
     "gujarati": "તહેવારનો આનંદ માણો."
+  },
+  {
+    "english": "Have great celebration.",
+    "gujarati": "ઉજવણીનો આનંદ માણો."
+  },
+  {
+    "english": "Celebrate with family.",
+    "gujarati": "પરિવાર સાથે ઉજવણી કરો."
+  },
+  {
+    "english": "Wear new clothes.",
+    "gujarati": "નવા કપડાં પહેરો."
+  },
+  {
+    "english": "Light the lamps.",
+    "gujarati": "દીવા પ્રગટાવો."
+  },
+  {
+    "english": "Decorate your home.",
+    "gujarati": "તમારું ઘર સજાવો."
+  },
+  {
+    "english": "Exchange sweet gifts.",
+    "gujarati": "મીઠાઈ અને ભેટોની આપ-લે કરો."
+  },
+  {
+    "english": "Wish everyone happiness.",
+    "gujarati": "બધાને ખુશીની શુભેચ્છાઓ આપો."
+  },
+  {
+    "english": "Festival brings joy.",
+    "gujarati": "તહેવાર આનંદ લાવે છે."
+  },
+  {
+    "english": "Enjoy delicious sweets.",
+    "gujarati": "સ્વાદિષ્ટ મીઠાઈનો આનંદ માણો."
+  },
+  {
+    "english": "Spend quality time.",
+    "gujarati": "સારો સમય પસાર કરો."
+  },
+  {
+    "english": "May God bless.",
+    "gujarati": "ભગવાન આશીર્વાદ આપે."
+  },
+  {
+    "english": "Stay happy always.",
+    "gujarati": "હંમેશા ખુશ રહો."
+  },
+  {
+    "english": "Best festival wishes.",
+    "gujarati": "તહેવારની હાર્દિક શુભકામનાઓ."
+  },
+  {
+    "english": "Happy Pongal!",
+    "gujarati": "પોંગલની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Makar Sankranti!",
+    "gujarati": "મકર સંક્રાંતિની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Uttarayan!",
+    "gujarati": "ઉત્તરાયણની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Onam!",
+    "gujarati": "ઓણમની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Baisakhi!",
+    "gujarati": "બૈસાખીની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Dussehra!",
+    "gujarati": "દશેરાની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Mahashivratri!",
+    "gujarati": "મહાશિવરાત્રિની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Ram Navami!",
+    "gujarati": "રામ નવમીની શુભકામનાઓ!"
+  },
+  {
+    "english": "Festival starts today.",
+    "gujarati": "આજે તહેવાર શરૂ થાય છે."
+  },
+  {
+    "english": "Everyone is celebrating.",
+    "gujarati": "બધા ઉજવણી કરી રહ્યા છે."
+  },
+  {
+    "english": "The streets decorated.",
+    "gujarati": "રસ્તાઓ શણગારવામાં આવ્યા છે."
+  },
+  {
+    "english": "Children are excited.",
+    "gujarati": "બાળકો ખૂબ ઉત્સાહિત છે."
+  },
+  {
+    "english": "Family gathered together.",
+    "gujarati": "પરિવાર એકત્ર થયો છે."
+  },
+  {
+    "english": "Let's visit temple.",
+    "gujarati": "ચાલો મંદિરે જઈએ."
+  },
+  {
+    "english": "Let's offer prayers.",
+    "gujarati": "ચાલો પ્રાર્થના કરીએ."
+  },
+  {
+    "english": "Distribute sweets everyone.",
+    "gujarati": "બધાને મીઠાઈ વહેંચો."
+  },
+  {
+    "english": "Exchange warm wishes.",
+    "gujarati": "શુભેચ્છાઓની આપ-લે કરો."
+  },
+  {
+    "english": "Enjoy festive holidays.",
+    "gujarati": "તહેવારની રજાનો આનંદ માણો."
+  },
+  {
+    "english": "Wear traditional clothes.",
+    "gujarati": "પરંપરાગત કપડાં પહેરો."
+  },
+  {
+    "english": "Take family photos.",
+    "gujarati": "પરિવાર સાથે ફોટા લો."
+  },
+  {
+    "english": "Celebrate with friends.",
+    "gujarati": "મિત્રો સાથે ઉજવણી કરો."
+  },
+  {
+    "english": "Share festive happiness.",
+    "gujarati": "તહેવારની ખુશી વહેંચો."
+  },
+  {
+    "english": "May peace prevail.",
+    "gujarati": "શાંતિ હંમેશા રહે."
+  },
+  {
+    "english": "Stay blessed always.",
+    "gujarati": "હંમેશા આશીર્વાદિત રહો."
+  },
+  {
+    "english": "Enjoy every celebration.",
+    "gujarati": "દરેક ઉજવણીનો આનંદ માણો."
+  },
+  {
+    "english": "Happy Buddha Purnima!",
+    "gujarati": "બુદ્ધ પૂર્ણિમાની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Guru Purnima!",
+    "gujarati": "ગુરુ પૂર્ણિમાની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Easter!",
+    "gujarati": "ઈસ્ટરની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Good Friday!",
+    "gujarati": "ગુડ ફ્રાઇડેની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Children's Day!",
+    "gujarati": "બાળ દિવસની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Teachers' Day!",
+    "gujarati": "શિક્ષક દિવસની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Mother's Day!",
+    "gujarati": "માતૃ દિવસની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Father's Day!",
+    "gujarati": "પિતૃ દિવસની શુભકામનાઓ!"
+  },
+  {
+    "english": "Let's celebrate together.",
+    "gujarati": "ચાલો સાથે મળીને ઉજવણી કરીએ."
+  },
+  {
+    "english": "Festival brings unity.",
+    "gujarati": "તહેવાર એકતા લાવે છે."
+  },
+  {
+    "english": "Everyone looks happy.",
+    "gujarati": "બધા ખુશ દેખાય છે."
+  },
+  {
+    "english": "The city sparkles.",
+    "gujarati": "આખું શહેર ઝગમગી રહ્યું છે."
+  },
+  {
+    "english": "Music fills air.",
+    "gujarati": "ચારે બાજુ સંગીત ગુંજી રહ્યું છે."
+  },
+  {
+    "english": "People are dancing.",
+    "gujarati": "લોકો નાચી રહ્યા છે."
+  },
+  {
+    "english": "Let's enjoy together.",
+    "gujarati": "ચાલો સાથે આનંદ કરીએ."
+  },
+  {
+    "english": "Offer heartfelt prayers.",
+    "gujarati": "હૃદયપૂર્વક પ્રાર્થના કરો."
+  },
+  {
+    "english": "Spread love everywhere.",
+    "gujarati": "દરેક જગ્યાએ પ્રેમ ફેલાવો."
+  },
+  {
+    "english": "Share happiness always.",
+    "gujarati": "હંમેશા ખુશી વહેંચો."
+  },
+  {
+    "english": "Celebrate with joy.",
+    "gujarati": "આનંદથી ઉજવણી કરો."
+  },
+  {
+    "english": "Create beautiful memories.",
+    "gujarati": "સુંદર યાદો બનાવો."
+  },
+  {
+    "english": "Enjoy festive moments.",
+    "gujarati": "તહેવારની ક્ષણોનો આનંદ માણો."
+  },
+  {
+    "english": "Festival feels magical.",
+    "gujarati": "તહેવાર જાદુઈ લાગે છે."
+  },
+  {
+    "english": "May dreams come true.",
+    "gujarati": "તમારા સપના સાકાર થાય."
+  },
+  {
+    "english": "Celebrate responsibly.",
+    "gujarati": "જવાબદારીપૂર્વક ઉજવણી કરો."
+  },
+  {
+    "english": "Wishing endless happiness.",
+    "gujarati": "અનંત ખુશીની શુભેચ્છાઓ."
+  },
+  {
+    "english": "Happy Lohri!",
+    "gujarati": "લોહડીની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Vishu!",
+    "gujarati": "વિષુની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Gudi Padwa!",
+    "gujarati": "ગુડી પાડવાની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Ugadi!",
+    "gujarati": "ઉગાદીની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy Christmas Eve!",
+    "gujarati": "ક્રિસમસ ઈવની શુભકામનાઓ!"
+  },
+  {
+    "english": "Happy festival season!",
+    "gujarati": "તહેવારોની શુભ સીઝનની શુભકામનાઓ!"
+  },
+  {
+    "english": "Let's light candles.",
+    "gujarati": "ચાલો મીણબત્તીઓ પ્રગટાવીએ."
+  },
+  {
+    "english": "Let's decorate together.",
+    "gujarati": "ચાલો સાથે મળીને સજાવટ કરીએ."
+  },
+  {
+    "english": "Prepare festive food.",
+    "gujarati": "તહેવારનું ભોજન તૈયાર કરો."
+  },
+  {
+    "english": "Everyone wears traditional clothes.",
+    "gujarati": "બધા પરંપરાગત કપડાં પહેરે છે."
+  },
+  {
+    "english": "The festival begins.",
+    "gujarati": "તહેવાર શરૂ થાય છે."
+  },
+  {
+    "english": "The celebration continues.",
+    "gujarati": "ઉજવણી ચાલુ છે."
+  },
+  {
+    "english": "Invite your relatives.",
+    "gujarati": "તમારા સગાંઓને આમંત્રિત કરો."
+  },
+  {
+    "english": "Welcome our guests.",
+    "gujarati": "આપણા મહેમાનોનું સ્વાગત કરો."
+  },
+  {
+    "english": "Let's exchange gifts.",
+    "gujarati": "ચાલો ભેટોની આપ-લે કરીએ."
+  },
+  {
+    "english": "Children enjoy fireworks.",
+    "gujarati": "બાળકો ફટાકડાનો આનંદ માણે છે."
+  },
+  {
+    "english": "The temple crowded.",
+    "gujarati": "મંદિરમાં ઘણી ભીડ છે."
+  },
+  {
+    "english": "Pray for everyone.",
+    "gujarati": "બધા માટે પ્રાર્થના કરો."
+  },
+  {
+    "english": "Festival spreads happiness.",
+    "gujarati": "તહેવાર ખુશીઓ ફેલાવે છે."
+  },
+  {
+    "english": "Enjoy every tradition.",
+    "gujarati": "દરેક પરંપરાનો આનંદ માણો."
+  },
+  {
+    "english": "Celebrate with respect.",
+    "gujarati": "આદર સાથે ઉજવણી કરો."
+  },
+  {
+    "english": "Cherish family moments.",
+    "gujarati": "પરિવાર સાથેની ક્ષણોને સાચવો."
+  },
+  {
+    "english": "May happiness stay.",
+    "gujarati": "ખુશીઓ હંમેશા રહે."
+  },
+  {
+    "english": "Enjoy festive holidays.",
+    "gujarati": "તહેવારની રજાઓનો આનંદ માણો."
+  },
+  {
+    "english": "Best wishes everyone.",
+    "gujarati": "બધાને હાર્દિક શુભકામનાઓ."
   }
 ]
