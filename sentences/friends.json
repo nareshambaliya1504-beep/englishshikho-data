@@ -1,22 +1,402 @@
 [
   {
-    "english": "He is my best friend my mind.",
-    "gujarati": "તે મારો શ્રેષ્ઠ મિત્ર છે."
+    "english": "Hey, how are you?",
+    "gujarati": "અરે, કેમ છે?"
   },
   {
-    "english": "Let's play together.",
-    "gujarati": "ચાલો સાથે રમીએ."
+    "english": "I'm doing great.",
+    "gujarati": "હું બહુ મજામાં છું."
   },
   {
-    "english": "I miss my friends.",
-    "gujarati": "મને મારા મિત્રો યાદ આવે છે."
+    "english": "Long time, friend.",
+    "gujarati": "ઘણા સમય પછી મળ્યા, મિત્ર."
   },
   {
-    "english": "We are good friends.",
-    "gujarati": "અમે સારા મિત્રો છીએ."
+    "english": "Nice seeing you.",
+    "gujarati": "તને મળીને આનંદ થયો."
   },
   {
-    "english": "Thank you, my friend.",
-    "gujarati": "આભાર, મારા મિત્ર."
+    "english": "Where were you?",
+    "gujarati": "તું ક્યાં હતો?"
+  },
+  {
+    "english": "I missed you.",
+    "gujarati": "મને તારી યાદ આવતી હતી."
+  },
+  {
+    "english": "Let's meet today.",
+    "gujarati": "ચાલ આજે મળીએ."
+  },
+  {
+    "english": "Come to my house.",
+    "gujarati": "મારા ઘરે આવ."
+  },
+  {
+    "english": "I'm on way.",
+    "gujarati": "હું રસ્તામાં છું."
+  },
+  {
+    "english": "Wait for me.",
+    "gujarati": "મારી રાહ જો."
+  },
+  {
+    "english": "I'm almost there.",
+    "gujarati": "હું લગભગ પહોંચી ગયો છું."
+  },
+  {
+    "english": "Let's go together.",
+    "gujarati": "ચાલ સાથે જઈએ."
+  },
+  {
+    "english": "What's your plan?",
+    "gujarati": "તારો શું પ્લાન છે?"
+  },
+  {
+    "english": "No special plan.",
+    "gujarati": "કોઈ ખાસ પ્લાન નથી."
+  },
+  {
+    "english": "Let's have fun.",
+    "gujarati": "ચાલ મજા કરીએ."
+  },
+  {
+    "english": "Don't be late.",
+    "gujarati": "મોડું ન કર."
+  },
+  {
+    "english": "Call me later.",
+    "gujarati": "મને પછી ફોન કરજે."
+  },
+  {
+    "english": "Text me later.",
+    "gujarati": "મને પછી મેસેજ કરજે."
+  },
+  {
+    "english": "See you soon.",
+    "gujarati": "જલ્દી મળીશું."
+  },
+  {
+    "english": "Take care, buddy.",
+    "gujarati": "ધ્યાન રાખજે, મિત્ર."
+  },
+  {
+    "english": "You look happy.",
+    "gujarati": "તું ખુશ દેખાય છે."
+  },
+  {
+    "english": "You look tired.",
+    "gujarati": "તું થાકેલો લાગે છે."
+  },
+  {
+    "english": "Everything is fine.",
+    "gujarati": "બધું બરાબર છે."
+  },
+  {
+    "english": "Let's catch up.",
+    "gujarati": "ચાલ, સારી રીતે વાત કરીએ."
+  },
+  {
+    "english": "Have great day.",
+    "gujarati": "તારો દિવસ સારો જાય."
+  },
+  {
+    "english": "Where are you now?",
+    "gujarati": "તું અત્યારે ક્યાં છે?"
+  },
+  {
+    "english": "I'm at home.",
+    "gujarati": "હું ઘરે છું."
+  },
+  {
+    "english": "Let's grab coffee.",
+    "gujarati": "ચાલ કોફી પીવા જઈએ."
+  },
+  {
+    "english": "Let's eat outside.",
+    "gujarati": "ચાલ બહાર જમવા જઈએ."
+  },
+  {
+    "english": "I'm feeling bored.",
+    "gujarati": "મને કંટાળો આવે છે."
+  },
+  {
+    "english": "Let's watch movie.",
+    "gujarati": "ચાલ ફિલ્મ જોઈએ."
+  },
+  {
+    "english": "Movie was awesome.",
+    "gujarati": "ફિલ્મ ખૂબ સરસ હતી."
+  },
+  {
+    "english": "Let's play cricket.",
+    "gujarati": "ચાલ ક્રિકેટ રમીએ."
+  },
+  {
+    "english": "Let's play football.",
+    "gujarati": "ચાલ ફૂટબોલ રમીએ."
+  },
+  {
+    "english": "You played well.",
+    "gujarati": "તું ખૂબ સારું રમ્યો."
+  },
+  {
+    "english": "Congratulations my friend.",
+    "gujarati": "અભિનંદન મારા મિત્ર."
+  },
+  {
+    "english": "I'm proud of you.",
+    "gujarati": "મને તારા પર ગર્વ છે."
+  },
+  {
+    "english": "Never give up.",
+    "gujarati": "ક્યારેય હાર માનતો નહીં."
+  },
+  {
+    "english": "You can succeed.",
+    "gujarati": "તું સફળ થઈ શકે છે."
+  },
+  {
+    "english": "I trust you.",
+    "gujarati": "મને તારા પર વિશ્વાસ છે."
+  },
+  {
+    "english": "Thanks for helping.",
+    "gujarati": "મદદ કરવા બદલ આભાર."
+  },
+  {
+    "english": "You're welcome friend.",
+    "gujarati": "તમારું સ્વાગત છે મિત્ર."
+  },
+  {
+    "english": "Keep smiling always.",
+    "gujarati": "હંમેશા હસતો રહેજે."
+  },
+  {
+    "english": "Don't worry friend.",
+    "gujarati": "ચિંતા ન કર મિત્ર."
+  },
+  {
+    "english": "Let's study together.",
+    "gujarati": "ચાલ સાથે અભ્યાસ કરીએ."
+  },
+  {
+    "english": "Help me understand.",
+    "gujarati": "મને સમજવામાં મદદ કર."
+  },
+  {
+    "english": "That's a good idea.",
+    "gujarati": "આ સારો વિચાર છે."
+  },
+  {
+    "english": "See you tomorrow.",
+    "gujarati": "આવતીકાલે મળીશું."
+  },
+  {
+    "english": "Message me tonight.",
+    "gujarati": "આજે રાત્રે મને મેસેજ કરજે."
+  },
+  {
+    "english": "Have safe journey.",
+    "gujarati": "સલામત મુસાફરી કરજે."
+  },
+  {
+    "english": "What's going on?",
+    "gujarati": "શું ચાલી રહ્યું છે?"
+  },
+  {
+    "english": "Nothing much.",
+    "gujarati": "ખાસ કંઈ નથી."
+  },
+  {
+    "english": "I'm free today.",
+    "gujarati": "હું આજે ફ્રી છું."
+  },
+  {
+    "english": "Are you busy?",
+    "gujarati": "શું તું વ્યસ્ત છે?"
+  },
+  {
+    "english": "Let's go shopping.",
+    "gujarati": "ચાલ ખરીદી કરવા જઈએ."
+  },
+  {
+    "english": "Let's take selfie.",
+    "gujarati": "ચાલ સેલ્ફી લઈએ."
+  },
+  {
+    "english": "Smile for photo.",
+    "gujarati": "ફોટા માટે હસ."
+  },
+  {
+    "english": "Send me photos.",
+    "gujarati": "મને ફોટા મોકલ."
+  },
+  {
+    "english": "Share your location.",
+    "gujarati": "તમારું લોકેશન મોકલ."
+  },
+  {
+    "english": "I'll be there.",
+    "gujarati": "હું ત્યાં આવી જઈશ."
+  },
+  {
+    "english": "Let's start now.",
+    "gujarati": "ચાલ હવે શરૂ કરીએ."
+  },
+  {
+    "english": "Don't forget me.",
+    "gujarati": "મને ભૂલતો નહીં."
+  },
+  {
+    "english": "You are amazing.",
+    "gujarati": "તું અદ્ભુત છે."
+  },
+  {
+    "english": "You're my best friend.",
+    "gujarati": "તું મારો શ્રેષ્ઠ મિત્ર છે."
+  },
+  {
+    "english": "I appreciate you.",
+    "gujarati": "હું તારી કદર કરું છું."
+  },
+  {
+    "english": "Believe in yourself.",
+    "gujarati": "પોતાના પર વિશ્વાસ રાખ."
+  },
+  {
+    "english": "Stay positive always.",
+    "gujarati": "હંમેશા હકારાત્મક રહેજે."
+  },
+  {
+    "english": "Let's solve together.",
+    "gujarati": "ચાલ સાથે મળીને ઉકેલીએ."
+  },
+  {
+    "english": "I'm always here.",
+    "gujarati": "હું હંમેશા તારી સાથે છું."
+  },
+  {
+    "english": "Need any help?",
+    "gujarati": "કોઈ મદદ જોઈએ?"
+  },
+  {
+    "english": "Thanks my friend.",
+    "gujarati": "આભાર મારા મિત્ર."
+  },
+  {
+    "english": "You're very kind.",
+    "gujarati": "તું ખૂબ દયાળુ છે."
+  },
+  {
+    "english": "Let's celebrate today.",
+    "gujarati": "ચાલ આજે ઉજવણી કરીએ."
+  },
+  {
+    "english": "See you later.",
+    "gujarati": "પછી મળીશું."
+  },
+  {
+    "english": "Take care buddy.",
+    "gujarati": "ધ્યાન રાખજે દોસ્ત."
+  },
+  {
+    "english": "You're absolutely right.",
+    "gujarati": "તું એકદમ સાચો છે."
+  },
+  {
+    "english": "I completely agree.",
+    "gujarati": "હું સંપૂર્ણ સહમત છું."
+  },
+  {
+    "english": "That's really funny.",
+    "gujarati": "આ ખરેખર રમુજી છે."
+  },
+  {
+    "english": "Don't make excuses.",
+    "gujarati": "બહાના ન બનાવ."
+  },
+  {
+    "english": "Just be honest.",
+    "gujarati": "ફક્ત સાચું બોલ."
+  },
+  {
+    "english": "Tell me everything.",
+    "gujarati": "મને બધું કહ."
+  },
+  {
+    "english": "Keep this secret.",
+    "gujarati": "આ વાત ગુપ્ત રાખજે."
+  },
+  {
+    "english": "I won't tell.",
+    "gujarati": "હું કોઈને નહીં કહું."
+  },
+  {
+    "english": "Don't lose confidence.",
+    "gujarati": "આત્મવિશ્વાસ ગુમાવતો નહીં."
+  },
+  {
+    "english": "You'll do great.",
+    "gujarati": "તું ખૂબ સારું કરીશ."
+  },
+  {
+    "english": "Let's try again.",
+    "gujarati": "ચાલ ફરી પ્રયાસ કરીએ."
+  },
+  {
+    "english": "Don't be angry.",
+    "gujarati": "ગુસ્સો ન કર."
+  },
+  {
+    "english": "Please forgive me.",
+    "gujarati": "મહેરબાની કરીને મને માફ કર."
+  },
+  {
+    "english": "No problem buddy.",
+    "gujarati": "કોઈ વાત નહીં દોસ્ત."
+  },
+  {
+    "english": "I understand you.",
+    "gujarati": "હું તને સમજું છું."
+  },
+  {
+    "english": "Trust the process.",
+    "gujarati": "પ્રક્રિયા પર વિશ્વાસ રાખ."
+  },
+  {
+    "english": "Life is beautiful.",
+    "gujarati": "જીવન સુંદર છે."
+  },
+  {
+    "english": "Enjoy every moment.",
+    "gujarati": "દરેક ક્ષણનો આનંદ માણ."
+  },
+  {
+    "english": "Let's make memories.",
+    "gujarati": "ચાલ યાદો બનાવીએ."
+  },
+  {
+    "english": "This was unforgettable.",
+    "gujarati": "આ ક્યારેય ભૂલી શકાય એવું નથી."
+  },
+  {
+    "english": "Friends stay forever.",
+    "gujarati": "મિત્રો હંમેશા સાથે રહે છે."
+  },
+  {
+    "english": "Best wishes always.",
+    "gujarati": "હંમેશા શુભેચ્છાઓ."
+  },
+  {
+    "english": "Stay happy friend.",
+    "gujarati": "હંમેશા ખુશ રહેજે મિત્ર."
+  },
+  {
+    "english": "Meet you soon.",
+    "gujarati": "જલ્દી મળીશું."
+  },
+  {
+    "english": "Have wonderful weekend.",
+    "gujarati": "તમારો સપ્તાહાંત આનંદમય રહે."
   }
 ]
