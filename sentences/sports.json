@@ -1,22 +1,402 @@
 [
   {
+    "english": "Do you play sports?",
+    "gujarati": "શું તમે રમત રમો છો?"
+  },
+  {
+    "english": "I love sports.",
+    "gujarati": "મને રમતો ગમે છે."
+  },
+  {
     "english": "Let's play cricket.",
     "gujarati": "ચાલો ક્રિકેટ રમીએ."
   },
   {
-    "english": "I like football.",
-    "gujarati": "મને ફૂટબોલ ગમે છે."
+    "english": "Let's play football.",
+    "gujarati": "ચાલો ફૂટબોલ રમીએ."
   },
   {
-    "english": "Who won the match?",
+    "english": "Let's play badminton.",
+    "gujarati": "ચાલો બેડમિન્ટન રમીએ."
+  },
+  {
+    "english": "Let's play volleyball.",
+    "gujarati": "ચાલો વોલીબોલ રમીએ."
+  },
+  {
+    "english": "Let's play tennis.",
+    "gujarati": "ચાલો ટેનિસ રમીએ."
+  },
+  {
+    "english": "I like running.",
+    "gujarati": "મને દોડવું ગમે છે."
+  },
+  {
+    "english": "I enjoy swimming.",
+    "gujarati": "મને તરવું ગમે છે."
+  },
+  {
+    "english": "Who won match?",
     "gujarati": "મેચ કોણ જીત્યું?"
   },
   {
-    "english": "I exercise every day.",
-    "gujarati": "હું દરરોજ કસરત કરું છું."
+    "english": "Our team won.",
+    "gujarati": "અમારી ટીમ જીતી."
   },
   {
-    "english": "You played well.",
-    "gujarati": "તમે સારું રમ્યા."
+    "english": "We lost today.",
+    "gujarati": "આજે અમે હારી ગયા."
+  },
+  {
+    "english": "Well played everyone.",
+    "gujarati": "બધાએ ખૂબ સારું રમ્યા."
+  },
+  {
+    "english": "Good game.",
+    "gujarati": "સારી રમત."
+  },
+  {
+    "english": "Practice every day.",
+    "gujarati": "દરરોજ પ્રેક્ટિસ કરો."
+  },
+  {
+    "english": "Never give up.",
+    "gujarati": "ક્યારેય હાર માનશો નહીં."
+  },
+  {
+    "english": "Play with confidence.",
+    "gujarati": "આત્મવિશ્વાસ સાથે રમો."
+  },
+  {
+    "english": "The match started.",
+    "gujarati": "મેચ શરૂ થઈ ગઈ."
+  },
+  {
+    "english": "The match ended.",
+    "gujarati": "મેચ પૂરી થઈ ગઈ."
+  },
+  {
+    "english": "Cheer for team.",
+    "gujarati": "ટીમને પ્રોત્સાહન આપો."
+  },
+  {
+    "english": "Score another goal.",
+    "gujarati": "વધુ એક ગોલ કરો."
+  },
+  {
+    "english": "Hit the ball.",
+    "gujarati": "બોલને મારો."
+  },
+  {
+    "english": "Catch the ball.",
+    "gujarati": "બોલ પકડો."
+  },
+  {
+    "english": "Keep playing.",
+    "gujarati": "રમતા રહો."
+  },
+  {
+    "english": "Enjoy the game.",
+    "gujarati": "રમતનો આનંદ માણો."
+  },
+  {
+    "english": "Which sport favorite?",
+    "gujarati": "તમારી મનપસંદ રમત કઈ છે?"
+  },
+  {
+    "english": "I love cricket.",
+    "gujarati": "મને ક્રિકેટ ખૂબ ગમે છે."
+  },
+  {
+    "english": "Football is exciting.",
+    "gujarati": "ફૂટબોલ રોમાંચક છે."
+  },
+  {
+    "english": "Let's watch match.",
+    "gujarati": "ચાલો મેચ જોઈએ."
+  },
+  {
+    "english": "The match exciting.",
+    "gujarati": "મેચ ખૂબ રોમાંચક છે."
+  },
+  {
+    "english": "Who scored goal?",
+    "gujarati": "ગોલ કોણે કર્યો?"
+  },
+  {
+    "english": "He scored century.",
+    "gujarati": "તેણે સદી ફટકારી."
+  },
+  {
+    "english": "She played brilliantly.",
+    "gujarati": "તેણીએ ખૂબ સરસ રમત રમી."
+  },
+  {
+    "english": "The crowd cheered.",
+    "gujarati": "પ્રેક્ષકોએ ઉત્સાહ વધાર્યો."
+  },
+  {
+    "english": "The stadium packed.",
+    "gujarati": "સ્ટેડિયમ ભરેલું છે."
+  },
+  {
+    "english": "Practice makes perfect.",
+    "gujarati": "પ્રેક્ટિસ માણસને નિપુણ બનાવે છે."
+  },
+  {
+    "english": "Train every day.",
+    "gujarati": "દરરોજ તાલીમ લો."
+  },
+  {
+    "english": "Stay physically fit.",
+    "gujarati": "શારીરિક રીતે તંદુરસ્ત રહો."
+  },
+  {
+    "english": "Warm up first.",
+    "gujarati": "પહેલા વોર્મ અપ કરો."
+  },
+  {
+    "english": "Stretch your muscles.",
+    "gujarati": "તમારા સ્નાયુઓ ખેંચો."
+  },
+  {
+    "english": "Drink enough water.",
+    "gujarati": "પૂરતું પાણી પીવો."
+  },
+  {
+    "english": "Take short break.",
+    "gujarati": "થોડો વિરામ લો."
+  },
+  {
+    "english": "Play fair always.",
+    "gujarati": "હંમેશા નિષ્પક્ષ રમત રમો."
+  },
+  {
+    "english": "Respect your opponents.",
+    "gujarati": "તમારા પ્રતિસ્પર્ધીનો આદર કરો."
+  },
+  {
+    "english": "Respect the referee.",
+    "gujarati": "રેફરીનો આદર કરો."
+  },
+  {
+    "english": "Never lose hope.",
+    "gujarati": "ક્યારેય આશા છોડશો નહીં."
+  },
+  {
+    "english": "Victory feels amazing.",
+    "gujarati": "જીત અદ્ભુત લાગે છે."
+  },
+  {
+    "english": "Learn from defeat.",
+    "gujarati": "હારમાંથી શીખો."
+  },
+  {
+    "english": "Better luck next time.",
+    "gujarati": "આગલી વખત માટે શુભેચ્છાઓ."
+  },
+  {
+    "english": "Keep improving yourself.",
+    "gujarati": "પોતાને સતત સુધારતા રહો."
+  },
+  {
+    "english": "Who is captain?",
+    "gujarati": "કપ્તાન કોણ છે?"
+  },
+  {
+    "english": "The game begins.",
+    "gujarati": "રમત શરૂ થાય છે."
+  },
+  {
+    "english": "The final whistle.",
+    "gujarati": "અંતિમ સિટી વાગી."
+  },
+  {
+    "english": "Everyone celebrated victory.",
+    "gujarati": "બધાએ જીતની ઉજવણી કરી."
+  },
+  {
+    "english": "They played well.",
+    "gujarati": "તેઓએ ખૂબ સારી રમત રમી."
+  },
+  {
+    "english": "He hit six.",
+    "gujarati": "તેણે છગ્ગો માર્યો."
+  },
+  {
+    "english": "She scored point.",
+    "gujarati": "તેણીએ પોઈન્ટ મેળવ્યો."
+  },
+  {
+    "english": "The score tied.",
+    "gujarati": "સ્કોર બરાબર થયો."
+  },
+  {
+    "english": "What's the score?",
+    "gujarati": "સ્કોર કેટલો છે?"
+  },
+  {
+    "english": "The crowd applauded.",
+    "gujarati": "પ્રેક્ષકોએ તાળીઓ પાડી."
+  },
+  {
+    "english": "The referee signaled.",
+    "gujarati": "રેફરીએ સંકેત આપ્યો."
+  },
+  {
+    "english": "The coach smiled.",
+    "gujarati": "કોચ સ્મિત કર્યા."
+  },
+  {
+    "english": "Teamwork wins games.",
+    "gujarati": "ટીમવર્ક રમત જીતાડે છે."
+  },
+  {
+    "english": "Stay focused always.",
+    "gujarati": "હંમેશા ધ્યાન કેન્દ્રિત રાખો."
+  },
+  {
+    "english": "Believe your skills.",
+    "gujarati": "તમારી કુશળતા પર વિશ્વાસ રાખો."
+  },
+  {
+    "english": "Push your limits.",
+    "gujarati": "તમારી મર્યાદાઓ આગળ વધારો."
+  },
+  {
+    "english": "Never stop training.",
+    "gujarati": "તાલીમ ક્યારેય બંધ કરશો નહીં."
+  },
+  {
+    "english": "Fitness comes first.",
+    "gujarati": "તંદુરસ્તી સૌથી પહેલા છે."
+  },
+  {
+    "english": "Exercise keeps healthy.",
+    "gujarati": "કસરત તમને સ્વસ્થ રાખે છે."
+  },
+  {
+    "english": "Champions never quit.",
+    "gujarati": "ચેમ્પિયન ક્યારેય હાર માનતા નથી."
+  },
+  {
+    "english": "Hard work pays.",
+    "gujarati": "મહેનતનું ફળ મળે છે."
+  },
+  {
+    "english": "Every match teaches.",
+    "gujarati": "દરેક મેચ કંઈક શીખવે છે."
+  },
+  {
+    "english": "Success needs discipline.",
+    "gujarati": "સફળતા માટે શિસ્ત જરૂરી છે."
+  },
+  {
+    "english": "Play your best.",
+    "gujarati": "તમારી શ્રેષ્ઠ રમત રમો."
+  },
+  {
+    "english": "Sports build character.",
+    "gujarati": "રમતગમત સારો સ્વભાવ બનાવે છે."
+  },
+  {
+    "english": "Which team won?",
+    "gujarati": "કઈ ટીમ જીતી?"
+  },
+  {
+    "english": "Support your team.",
+    "gujarati": "તમારી ટીમને સમર્થન આપો."
+  },
+  {
+    "english": "The match begins.",
+    "gujarati": "મેચ શરૂ થાય છે."
+  },
+  {
+    "english": "The match finished.",
+    "gujarati": "મેચ પૂર્ણ થઈ ગઈ."
+  },
+  {
+    "english": "Everyone enjoyed match.",
+    "gujarati": "બધાએ મેચનો આનંદ માણ્યો."
+  },
+  {
+    "english": "The players celebrated.",
+    "gujarati": "ખેલાડીઓએ ઉજવણી કરી."
+  },
+  {
+    "english": "He won medal.",
+    "gujarati": "તેણે મેડલ જીત્યો."
+  },
+  {
+    "english": "She broke record.",
+    "gujarati": "તેણીએ રેકોર્ડ તોડ્યો."
+  },
+  {
+    "english": "The trophy shines.",
+    "gujarati": "ટ્રોફી ચમકી રહી છે."
+  },
+  {
+    "english": "Congratulations champion!",
+    "gujarati": "અભિનંદન ચેમ્પિયન!"
+  },
+  {
+    "english": "Everyone played fairly.",
+    "gujarati": "બધાએ નિષ્પક્ષ રમત રમી."
+  },
+  {
+    "english": "The referee fair.",
+    "gujarati": "રેફરીએ નિષ્પક્ષ નિર્ણય લીધો."
+  },
+  {
+    "english": "The audience cheered.",
+    "gujarati": "પ્રેક્ષકોએ ઉત્સાહ વધાર્યો."
+  },
+  {
+    "english": "The game exciting.",
+    "gujarati": "રમત ખૂબ રોમાંચક હતી."
+  },
+  {
+    "english": "Stay active daily.",
+    "gujarati": "દરરોજ સક્રિય રહો."
+  },
+  {
+    "english": "Sports improve health.",
+    "gujarati": "રમતગમત સ્વાસ્થ્ય સુધારે છે."
+  },
+  {
+    "english": "Running builds stamina.",
+    "gujarati": "દોડવાથી સહનશક્તિ વધે છે."
+  },
+  {
+    "english": "Swimming strengthens body.",
+    "gujarati": "તરવાથી શરીર મજબૂત બને છે."
+  },
+  {
+    "english": "Exercise every morning.",
+    "gujarati": "દરરોજ સવારે કસરત કરો."
+  },
+  {
+    "english": "Healthy body wins.",
+    "gujarati": "સ્વસ્થ શરીર જ જીતે છે."
+  },
+  {
+    "english": "Stay motivated always.",
+    "gujarati": "હંમેશા પ્રેરિત રહો."
+  },
+  {
+    "english": "Keep chasing goals.",
+    "gujarati": "તમારા લક્ષ્યોનો પીછો કરતા રહો."
+  },
+  {
+    "english": "Success needs practice.",
+    "gujarati": "સફળતા માટે પ્રેક્ટિસ જરૂરી છે."
+  },
+  {
+    "english": "Enjoy every game.",
+    "gujarati": "દરેક રમતનો આનંદ માણો."
+  },
+  {
+    "english": "Play with passion.",
+    "gujarati": "જુસ્સાથી રમત રમો."
   }
 ]
