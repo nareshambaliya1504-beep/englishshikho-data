@@ -1,42 +1,402 @@
 [
   {
-    "english": "May I come in?",
-    "gujarati": "શું હું અંદર આવી શકું?"
+    "english": "Welcome to our school.",
+    "gujarati": "અમારી શાળામાં તમારું સ્વાગત છે."
   },
   {
-    "english": "Please sit down.",
-    "gujarati": "કૃપા કરીને બેસો."
+    "english": "Please enter the classroom.",
+    "gujarati": "મહેરબાની કરીને વર્ગખંડમાં પ્રવેશ કરો."
   },
   {
-    "english": "Open your book.",
-    "gujarati": "તમારી પુસ્તક ખોલો."
+    "english": "Take your seat.",
+    "gujarati": "તમારી જગ્યાએ બેસો."
   },
   {
-    "english": "Close your notebook.",
-    "gujarati": "તમારી નોટબુક બંધ કરો."
+    "english": "The teacher is coming.",
+    "gujarati": "શિક્ષક આવી રહ્યા છે."
   },
   {
-    "english": "Do your homework.",
-    "gujarati": "તમારું હોમવર્ક કરો."
+    "english": "Everyone is ready for the class.",
+    "gujarati": "બધા વર્ગ માટે તૈયાર છે."
+  },
+  {
+    "english": "Open your English book.",
+    "gujarati": "તમારું અંગ્રેજીનું પુસ્તક ખોલો."
+  },
+  {
+    "english": "Read the first paragraph.",
+    "gujarati": "પ્રથમ ફકરો વાંચો."
+  },
+  {
+    "english": "Repeat after me.",
+    "gujarati": "મારા પછી બોલો."
+  },
+  {
+    "english": "Speak in English.",
+    "gujarati": "અંગ્રેજીમાં બોલો."
+  },
+  {
+    "english": "Don't be afraid to answer.",
+    "gujarati": "જવાબ આપવાથી ડરશો નહીં."
+  },
+  {
+    "english": "Very good answer.",
+    "gujarati": "ખૂબ સરસ જવાબ."
+  },
+  {
+    "english": "Please write faster.",
+    "gujarati": "મહેરબાની કરીને ઝડપથી લખો."
+  },
+  {
+    "english": "Keep your notebook open.",
+    "gujarati": "તમારી નોટબુક ખુલ્લી રાખો."
+  },
+  {
+    "english": "Underline the important words.",
+    "gujarati": "મહત્વના શબ્દો નીચે લીટી કરો."
+  },
+  {
+    "english": "Circle the correct answer.",
+    "gujarati": "સાચા જવાબને ગોળ કરો."
+  },
+  {
+    "english": "Check the spelling.",
+    "gujarati": "જોડણી તપાસો."
+  },
+  {
+    "english": "Don't make noise.",
+    "gujarati": "ઘોંઘાટ કરશો નહીં."
+  },
+  {
+    "english": "The classroom is silent.",
+    "gujarati": "વર્ગખંડ શાંત છે."
+  },
+  {
+    "english": "Today we will learn English.",
+    "gujarati": "આજે આપણે અંગ્રેજી શીખીશું."
+  },
+  {
+    "english": "Learning English is fun.",
+    "gujarati": "અંગ્રેજી શીખવું આનંદદાયક છે."
+  },
+  {
+    "english": "Please complete this exercise.",
+    "gujarati": "મહેરબાની કરીને આ કસરત પૂર્ણ કરો."
+  },
+  {
+    "english": "Submit your assignment tomorrow.",
+    "gujarati": "તમારી સોંપણી આવતીકાલે જમા કરાવજો."
+  },
+  {
+    "english": "This answer is correct.",
+    "gujarati": "આ જવાબ સાચો છે."
+  },
+  {
+    "english": "Try again.",
+    "gujarati": "ફરી પ્રયાસ કરો."
+  },
+  {
+    "english": "Keep learning every day.",
+    "gujarati": "દરરોજ શીખતા રહો."
+  },
+  {
+    "english": "Bring your notebook.",
+    "gujarati": "તમારી નોટબુક લાવો."
+  },
+  {
+    "english": "Bring your textbook.",
+    "gujarati": "તમારું પાઠ્યપુસ્તક લાવો."
+  },
+  {
+    "english": "Keep books ready.",
+    "gujarati": "પુસ્તકો તૈયાર રાખો."
+  },
+  {
+    "english": "Write your answer.",
+    "gujarati": "તમારો જવાબ લખો."
+  },
+  {
+    "english": "Read this page.",
+    "gujarati": "આ પાનું વાંચો."
+  },
+  {
+    "english": "Turn next page.",
+    "gujarati": "આગળનું પાનું ફેરવો."
+  },
+  {
+    "english": "Finish this work.",
+    "gujarati": "આ કામ પૂર્ણ કરો."
+  },
+  {
+    "english": "Show your notebook.",
+    "gujarati": "તમારી નોટબુક બતાવો."
+  },
+  {
+    "english": "Learn new words.",
+    "gujarati": "નવા શબ્દો શીખો."
+  },
+  {
+    "english": "Practice every lesson.",
+    "gujarati": "દરેક પાઠનો અભ્યાસ કરો."
+  },
+  {
+    "english": "Write with pencil.",
+    "gujarati": "પેન્સિલથી લખો."
+  },
+  {
+    "english": "Use black pen.",
+    "gujarati": "કાળી પેન વાપરો."
+  },
+  {
+    "english": "Keep classroom clean.",
+    "gujarati": "વર્ગખંડ સાફ રાખો."
+  },
+  {
+    "english": "Respect your classmates.",
+    "gujarati": "તમારા સહાધ્યાયીઓનો માન રાખો."
+  },
+  {
+    "english": "Share your books.",
+    "gujarati": "તમારા પુસ્તકો વહેંચો."
+  },
+  {
+    "english": "Complete classwork today.",
+    "gujarati": "આજે વર્ગકાર્ય પૂર્ણ કરો."
+  },
+  {
+    "english": "Revise today's lesson.",
+    "gujarati": "આજનો પાઠ પુનરાવર્તન કરો."
+  },
+  {
+    "english": "Teacher called you.",
+    "gujarati": "શિક્ષકે તમને બોલાવ્યા."
+  },
+  {
+    "english": "Collect your papers.",
+    "gujarati": "તમારા પેપરો લો."
+  },
+  {
+    "english": "Submit your paper.",
+    "gujarati": "તમારું પેપર જમા કરો."
+  },
+  {
+    "english": "Check your spelling.",
+    "gujarati": "તમારી જોડણી તપાસો."
+  },
+  {
+    "english": "Improve your handwriting.",
+    "gujarati": "તમારું લખાણ સુધારો."
+  },
+  {
+    "english": "Keep learning always.",
+    "gujarati": "હંમેશા શીખતા રહો."
+  },
+  {
+    "english": "School teaches discipline.",
+    "gujarati": "શાળા શિસ્ત શીખવે છે."
+  },
+  {
+    "english": "Education builds future.",
+    "gujarati": "શિક્ષણ ભવિષ્ય બનાવે છે."
+  },
+  {
+    "english": "Bring school diary.",
+    "gujarati": "શાળાની ડાયરી લાવો."
+  },
+  {
+    "english": "Wear clean uniform.",
+    "gujarati": "સ્વચ્છ યુનિફોર્મ પહેરો."
+  },
+  {
+    "english": "Polish your shoes.",
+    "gujarati": "તમારા જૂતા ચમકાવો."
+  },
+  {
+    "english": "Carry water bottle.",
+    "gujarati": "પાણીની બોટલ લાવો."
+  },
+  {
+    "english": "Pack your lunch.",
+    "gujarati": "તમારો ટિફિન ભરો."
+  },
+  {
+    "english": "Attend every class.",
+    "gujarati": "દરેક વર્ગમાં હાજર રહો."
+  },
+  {
+    "english": "Complete all exercises.",
+    "gujarati": "બધી કસરતો પૂર્ણ કરો."
+  },
+  {
+    "english": "Keep smiling always.",
+    "gujarati": "હંમેશા હસતા રહો."
+  },
+  {
+    "english": "Follow school rules.",
+    "gujarati": "શાળાના નિયમો પાળો."
+  },
+  {
+    "english": "Respect school property.",
+    "gujarati": "શાળાની સંપત્તિનો માન રાખો."
+  },
+  {
+    "english": "Help new students.",
+    "gujarati": "નવા વિદ્યાર્થીઓને મદદ કરો."
+  },
+  {
+    "english": "Complete project today.",
+    "gujarati": "આજે પ્રોજેક્ટ પૂર્ણ કરો."
+  },
+  {
+    "english": "Bring drawing book.",
+    "gujarati": "ચિત્રકામની પુસ્તક લાવો."
+  },
+  {
+    "english": "Keep desk tidy.",
+    "gujarati": "ડેસ્ક વ્યવસ્થિત રાખો."
+  },
+  {
+    "english": "Clean your bench.",
+    "gujarati": "તમારી બેંચ સાફ કરો."
+  },
+  {
+    "english": "Save your work.",
+    "gujarati": "તમારું કામ સાચવો."
+  },
+  {
+    "english": "Read story books.",
+    "gujarati": "વાર્તાની પુસ્તકો વાંચો."
+  },
+  {
+    "english": "Use school library.",
+    "gujarati": "શાળાનું પુસ્તકાલય વાપરો."
+  },
+  {
+    "english": "Play fair always.",
+    "gujarati": "હંમેશા નિષ્પક્ષ રમો."
+  },
+  {
+    "english": "Join morning assembly.",
+    "gujarati": "સવારની પ્રાર્થના સભામાં જોડાઓ."
+  },
+  {
+    "english": "Finish test early.",
+    "gujarati": "પરીક્ષા વહેલી પૂર્ણ કરો."
+  },
+  {
+    "english": "Review your answers.",
+    "gujarati": "તમારા જવાબો તપાસો."
+  },
+  {
+    "english": "Return borrowed books.",
+    "gujarati": "ઉધાર લીધેલા પુસ્તકો પરત આપો."
+  },
+  {
+    "english": "Enjoy school life.",
+    "gujarati": "શાળાનું જીવન માણો."
+  },
+  {
+    "english": "Always stay focused.",
+    "gujarati": "હંમેશા એકાગ્ર રહો."
+  },
+  {
+    "english": "Open books.",
+    "gujarati": "પુસ્તકો ખોલો."
+  },
+  {
+    "english": "Close books.",
+    "gujarati": "પુસ્તકો બંધ કરો."
+  },
+  {
+    "english": "Open notebook.",
+    "gujarati": "નોટબુક ખોલો."
+  },
+  {
+    "english": "Close notebook.",
+    "gujarati": "નોટબુક બંધ કરો."
+  },
+  {
+    "english": "Write neatly.",
+    "gujarati": "સરસ લખો."
+  },
+  {
+    "english": "Read loudly.",
+    "gujarati": "મોટેથી વાંચો."
   },
   {
     "english": "Listen carefully.",
     "gujarati": "ધ્યાનથી સાંભળો."
   },
   {
-    "english": "Write this.",
-    "gujarati": "આ લખો."
+    "english": "Speak clearly.",
+    "gujarati": "સ્પષ્ટ બોલો."
   },
   {
-    "english": "Read loudly.",
-    "gujarati": "મોટા અવાજે વાંચો."
+    "english": "Answer quickly.",
+    "gujarati": "ઝડપથી જવાબ આપો."
   },
   {
-    "english": "Ask your question.",
-    "gujarati": "તમારો પ્રશ્ન પૂછો."
+    "english": "Raise hands.",
+    "gujarati": "હાથ ઊંચા કરો."
   },
   {
-    "english": "Very good.",
-    "gujarati": "ખૂબ સારું."
+    "english": "Stand straight.",
+    "gujarati": "સીધા ઊભા રહો."
+  },
+  {
+    "english": "Sit properly.",
+    "gujarati": "બરાબર બેસો."
+  },
+  {
+    "english": "Keep silence.",
+    "gujarati": "શાંતિ રાખો."
+  },
+  {
+    "english": "Stop talking.",
+    "gujarati": "વાતો બંધ કરો."
+  },
+  {
+    "english": "Come inside.",
+    "gujarati": "અંદર આવો."
+  },
+  {
+    "english": "Go outside.",
+    "gujarati": "બહાર જાઓ."
+  },
+  {
+    "english": "Take notes.",
+    "gujarati": "નોંધ લો."
+  },
+  {
+    "english": "Complete homework.",
+    "gujarati": "ગૃહકાર્ય પૂર્ણ કરો."
+  },
+  {
+    "english": "Check answers.",
+    "gujarati": "જવાબ તપાસો."
+  },
+  {
+    "english": "Learn spelling.",
+    "gujarati": "જોડણી શીખો."
+  },
+  {
+    "english": "Draw picture.",
+    "gujarati": "ચિત્ર દોરો."
+  },
+  {
+    "english": "Color nicely.",
+    "gujarati": "સરસ રંગ भरो."
+  },
+  {
+    "english": "Bring ruler.",
+    "gujarati": "પટ્ટી લાવો."
+  },
+  {
+    "english": "Bring compass.",
+    "gujarati": "કમ્પાસ લાવો."
+  },
+  {
+    "english": "Study daily.",
+    "gujarati": "દરરોજ અભ્યાસ કરો."
   }
 ]
