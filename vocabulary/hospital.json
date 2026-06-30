@@ -1,151 +1,151 @@
 [
   {
     "english": "Hospital",
-    "gujarati": "હોસ્પિટલ"
+    "gujarati": "દર્દીઓની સારવારનું સ્થળ"
   },
   {
     "english": "Clinic",
-    "gujarati": "દવાખાનું"
+    "gujarati": "નાનું સારવાર કેન્દ્ર"
   },
   {
     "english": "Doctor",
-    "gujarati": "ડૉક્ટર"
+    "gujarati": "દર્દીની સારવાર કરનાર તબીબ"
   },
   {
     "english": "Nurse",
-    "gujarati": "નર્સ"
+    "gujarati": "દર્દીની સેવા અને સંભાળ રાખનાર"
   },
   {
     "english": "Patient",
-    "gujarati": "દર્દી"
+    "gujarati": "સારવાર લેતી વ્યક્તિ"
   },
   {
     "english": "Surgeon",
-    "gujarati": "શસ્ત્રક્રિયા નિષ્ણાત"
+    "gujarati": "શસ્ત્રક્રિયા કરનાર તબીબ"
   },
   {
     "english": "Physician",
-    "gujarati": "ચિકિત્સક"
+    "gujarati": "રોગનું નિદાન અને સારવાર કરનાર તબીબ"
   },
   {
     "english": "Dentist",
-    "gujarati": "દંતચિકિત્સક"
+    "gujarati": "દાંતના રોગોની સારવાર કરનાર તબીબ"
   },
   {
     "english": "Pharmacist",
-    "gujarati": "ફાર્માસિસ્ટ"
+    "gujarati": "દવા આપનાર અને દવા અંગે માર્ગદર્શન આપનાર"
   },
   {
     "english": "Reception",
-    "gujarati": "સ્વાગત કક્ષ"
+    "gujarati": "દર્દીઓનું સ્વાગત અને નોંધણી કરવાનું સ્થળ"
   },
   {
     "english": "Appointment",
-    "gujarati": "મુલાકાતનો સમય"
+    "gujarati": "મુલાકાત માટે નક્કી કરેલો સમય"
   },
   {
     "english": "Emergency",
-    "gujarati": "આકસ્મિક સેવા"
+    "gujarati": "તાત્કાલિક સારવારની સ્થિતિ"
   },
   {
     "english": "Ambulance",
-    "gujarati": "એમ્બ્યુલન્સ"
+    "gujarati": "દર્દીને હોસ્પિટલ પહોંચાડવાનું વાહન"
   },
   {
     "english": "Ward",
-    "gujarati": "વોર્ડ"
+    "gujarati": "દર્દીઓ રહેવાનો વિભાગ"
   },
   {
     "english": "Operation Theatre",
-    "gujarati": "ઓપરેશન થિયેટર"
+    "gujarati": "શસ્ત્રક્રિયા કરવાનો કક્ષ"
   },
   {
     "english": "ICU",
-    "gujarati": "સઘન સારવાર વિભાગ"
-  },
-  {
-    "english": "Medical Store",
-    "gujarati": "મેડિકલ સ્ટોર"
+    "gujarati": "ગંભીર દર્દીઓ માટેનો સઘન સારવાર વિભાગ"
   },
   {
     "english": "Pharmacy",
-    "gujarati": "દવાખાનું"
+    "gujarati": "દવા મળવાનું કેન્દ્ર"
   },
   {
     "english": "Medicine",
-    "gujarati": "દવા"
+    "gujarati": "રોગ દૂર કરવા માટેનું ઔષધ"
   },
   {
     "english": "Prescription",
-    "gujarati": "દવાનું પ્રિસ્ક્રિપ્શન"
+    "gujarati": "તબીબ દ્વારા લખાયેલ દવાની ચિઠ્ઠી"
   },
   {
     "english": "Injection",
-    "gujarati": "ઇન્જેક્શન"
+    "gujarati": "સોય દ્વારા આપવામાં આવતી દવા"
   },
   {
     "english": "Tablet",
-    "gujarati": "ગોળી"
+    "gujarati": "ગોળીના સ્વરૂપમાં દવા"
   },
   {
     "english": "Capsule",
-    "gujarati": "કેપ્સ્યુલ"
+    "gujarati": "આવરણવાળી દવાની ગોળી"
   },
   {
     "english": "Syrup",
-    "gujarati": "દવાની ચાસણી"
+    "gujarati": "પ્રવાહી સ્વરૂપની દવા"
   },
   {
     "english": "First Aid",
     "gujarati": "પ્રાથમિક સારવાર"
   },
   {
+    "english": "Medical Store",
+    "gujarati": "દવા વેચવાની દુકાન"
+  },
+  {
     "english": "Blood",
-    "gujarati": "લોહી"
+    "gujarati": "શરીરમાં વહેતું લોહી"
   },
   {
     "english": "Blood Test",
-    "gujarati": "લોહીની તપાસ"
+    "gujarati": "લોહીનું પરીક્ષણ"
   },
   {
     "english": "Urine Test",
-    "gujarati": "પેશાબની તપાસ"
+    "gujarati": "પેશાબનું પરીક્ષણ"
   },
   {
     "english": "X-Ray",
-    "gujarati": "ક્ષ-કિરણ તપાસ"
+    "gujarati": "શરીરના અંદરના ભાગનું ચિત્ર લેવાની તપાસ"
   },
   {
     "english": "MRI Scan",
-    "gujarati": "એમઆરઆઈ તપાસ"
+    "gujarati": "શરીરના અંદરના અંગોની વિગતવાર તપાસ"
   },
   {
     "english": "CT Scan",
-    "gujarati": "સીટી સ્કેન તપાસ"
+    "gujarati": "શરીરના અંદરના ભાગોના સ્તરવાર ચિત્રોની તપાસ"
   },
   {
     "english": "Ultrasound",
-    "gujarati": "અલ્ટ્રાસાઉન્ડ તપાસ"
+    "gujarati": "ધ્વનિ તરંગોથી શરીરની અંદરની તપાસ"
   },
   {
     "english": "ECG",
-    "gujarati": "હૃદયની વિદ્યુત તપાસ"
+    "gujarati": "હૃદયની ધબકારાની તપાસ"
   },
   {
     "english": "Laboratory",
-    "gujarati": "પ્રયોગશાળા"
+    "gujarati": "તબીબી તપાસ કરવાની પ્રયોગશાળા"
   },
   {
-    "english": "Report",
-    "gujarati": "તપાસનો અહેવાલ"
+    "english": "Medical Report",
+    "gujarati": "તપાસનો તબીબી અહેવાલ"
   },
   {
     "english": "Diagnosis",
-    "gujarati": "રોગનું નિદાન"
+    "gujarati": "રોગ ઓળખવાની પ્રક્રિયા"
   },
   {
     "english": "Treatment",
-    "gujarati": "સારવાર"
+    "gujarati": "રોગ મટાડવાની સારવાર"
   },
   {
     "english": "Operation",
@@ -153,19 +153,19 @@
   },
   {
     "english": "Stitches",
-    "gujarati": "ટાંકા"
+    "gujarati": "ઘા પર લેવાતા ટાંકા"
   },
   {
     "english": "Bandage",
-    "gujarati": "પાટો"
+    "gujarati": "ઘા પર બાંધવાનો પાટો"
   },
   {
     "english": "Cotton",
-    "gujarati": "રૂ"
+    "gujarati": "ઘા સાફ કરવા માટેનું રૂ"
   },
   {
     "english": "Thermometer",
-    "gujarati": "તાપમાન માપવાનું સાધન"
+    "gujarati": "તાવ માપવાનું સાધન"
   },
   {
     "english": "Blood Pressure",
@@ -173,230 +173,232 @@
   },
   {
     "english": "Pulse",
-    "gujarati": "નાડી"
+    "gujarati": "નાડીના ધબકારા"
   },
   {
     "english": "Oxygen",
-    "gujarati": "પ્રાણવાયુ"
+    "gujarati": "શ્વાસ લેવા માટે જરૂરી પ્રાણવાયુ"
   },
   {
     "english": "Oxygen Cylinder",
-    "gujarati": "પ્રાણવાયુનો સિલિન્ડર"
+    "gujarati": "પ્રાણવાયુ ભરેલો સિલિન્ડર"
   },
   {
     "english": "Ventilator",
-    "gujarati": "કૃત્રિમ શ્વાસ સહાયક યંત્ર"
+    "gujarati": "શ્વાસ લેવામાં મદદ કરતું યંત્ર"
   },
   {
     "english": "Wheelchair",
-    "gujarati": "વ્હીલચેર"
+    "gujarati": "દર્દીને બેસાડી લઈ જવાની ખુરશી"
   },
   {
     "english": "Stretcher",
-    "gujarati": "દર્દીને લઈ જવાની સ્ટ્રેચર"
+    "gujarati": "દર્દીને સુવાડી લઈ જવાનું સાધન"
   },
   {
     "english": "Hospital Bed",
-    "gujarati": "હોસ્પિટલનો પલંગ"
+    "gujarati": "દર્દી માટેનો હોસ્પિટલનો પલંગ"
   },
   {
     "english": "Fever",
-    "gujarati": "તાવ"
+    "gujarati": "શરીરનું તાપમાન વધવાની સ્થિતિ"
   },
   {
     "english": "Cold",
-    "gujarati": "શરદી"
+    "gujarati": "શરદીનો રોગ"
   },
   {
     "english": "Cough",
-    "gujarati": "ઉધરસ"
+    "gujarati": "વારંવાર ઉધરસ આવવી"
   },
   {
     "english": "Headache",
-    "gujarati": "માથાનો દુખાવો"
+    "gujarati": "માથામાં થતો દુખાવો"
   },
   {
     "english": "Toothache",
-    "gujarati": "દાંતનો દુખાવો"
+    "gujarati": "દાંતમાં થતો દુખાવો"
   },
   {
     "english": "Earache",
-    "gujarati": "કાનનો દુખાવો"
+    "gujarati": "કાનમાં થતો દુખાવો"
   },
   {
     "english": "Sore Throat",
-    "gujarati": "ગળામાં દુખાવો"
+    "gujarati": "ગળામાં દુખાવો અથવા બળતરા"
   },
   {
     "english": "Stomachache",
-    "gujarati": "પેટનો દુખાવો"
+    "gujarati": "પેટમાં થતો દુખાવો"
   },
   {
     "english": "Back Pain",
-    "gujarati": "પીઠનો દુખાવો"
+    "gujarati": "પીઠમાં થતો દુખાવો"
   },
   {
     "english": "Chest Pain",
-    "gujarati": "છાતીમાં દુખાવો"
+    "gujarati": "છાતીમાં થતો દુખાવો"
   },
   {
     "english": "Vomiting",
-    "gujarati": "ઉલટી"
+    "gujarati": "ઉલટી થવી"
   },
   {
     "english": "Diarrhea",
-    "gujarati": "ઝાડા"
+    "gujarati": "વારંવાર પાતળો મળ થવો"
   },
   {
     "english": "Constipation",
-    "gujarati": "કબજિયાત"
+    "gujarati": "મળ સરળતાથી ન થવાની સ્થિતિ"
   },
   {
     "english": "Allergy",
-    "gujarati": "એલર્જી"
+    "gujarati": "કોઈ વસ્તુની પ્રતિકૂળ અસર"
   },
   {
     "english": "Infection",
-    "gujarati": "ચેપ"
+    "gujarati": "જીવાણુથી થયેલો ચેપ"
   },
   {
     "english": "Fracture",
-    "gujarati": "હાડકું ભાંગવું"
+    "gujarati": "હાડકું તૂટી જવું"
   },
   {
     "english": "Burn",
-    "gujarati": "દાઝવું"
+    "gujarati": "આગ કે ગરમીથી દાઝવું"
   },
   {
     "english": "Cut",
-    "gujarati": "કાપો"
+    "gujarati": "શરીર પર પડેલો કાપો"
   },
   {
     "english": "Wound",
-    "gujarati": "ઘા"
+    "gujarati": "શરીર પર થયેલો ઘા"
   },
   {
     "english": "Swelling",
-    "gujarati": "સોજો"
+    "gujarati": "અંગ પર આવેલો સોજો"
   },
   {
     "english": "Pain",
-    "gujarati": "દુખાવો"
+    "gujarati": "શરીરમાં થતો દુખાવો"
   },
   {
     "english": "Dizziness",
-    "gujarati": "ચક્કર આવવું"
+    "gujarati": "ચક્કર આવવાની સ્થિતિ"
   },
   {
     "english": "Unconscious",
-    "gujarati": "બેભાન"
+    "gujarati": "ભાન ન રહેવાની સ્થિતિ"
   },
   {
     "english": "Recovery",
-    "gujarati": "સાજા થવાની પ્રક્રિયા"
+    "gujarati": "રોગમાંથી ધીમે ધીમે સાજા થવાની પ્રક્રિયા"
   },
   {
     "english": "Healthy",
-    "gujarati": "સ્વસ્થ"
+    "gujarati": "તંદુરસ્ત અને નિરોગી"
   },
   {
     "english": "Medical Certificate",
-    "gujarati": "તબીબી પ્રમાણપત્ર"
+    "gujarati": "તબીબ દ્વારા આપવામાં આવેલ આરોગ્યનું પ્રમાણપત્ર"
   },
   {
     "english": "Health Checkup",
-    "gujarati": "આરોગ્ય તપાસ"
+    "gujarati": "આરોગ્યની નિયમિત તપાસ"
   },
   {
     "english": "Vaccination",
-    "gujarati": "રસીકરણ"
+    "gujarati": "રોગથી બચવા માટે રસી આપવાની પ્રક્રિયા"
   },
   {
     "english": "Vaccine",
-    "gujarati": "રસી"
+    "gujarati": "રોગપ્રતિકારક રસી"
   },
   {
     "english": "Blood Donation",
-    "gujarati": "રક્તદાન"
+    "gujarati": "જરૂરિયાતમંદ માટે સ્વેચ્છાએ લોહી આપવું"
   },
   {
     "english": "Blood Donor",
-    "gujarati": "રક્તદાતા"
+    "gujarati": "લોહી દાન કરનાર વ્યક્તિ"
   },
   {
     "english": "Blood Bank",
-    "gujarati": "રક્ત ભંડાર"
+    "gujarati": "લોહી સંગ્રહ અને વિતરણ કરતું કેન્દ્ર"
   },
   {
     "english": "Organ Donation",
-    "gujarati": "અંગદાન"
+    "gujarati": "શરીરના અંગોનું દાન"
   },
   {
     "english": "Health Insurance",
-    "gujarati": "આરોગ્ય વીમો"
+    "gujarati": "આરોગ્ય ખર્ચ માટેનો વીમો"
   },
   {
     "english": "Medical Record",
-    "gujarati": "તબીબી નોંધ"
+    "gujarati": "દર્દીની સારવારનો તબીબી રેકોર્ડ"
   },
   {
     "english": "Discharge",
-    "gujarati": "હોસ્પિટલમાંથી રજા"
+    "gujarati": "સારવાર પછી હોસ્પિટલમાંથી રજા આપવી"
   },
   {
     "english": "Admission",
-    "gujarati": "હોસ્પિટલમાં દાખલ કરવું"
+    "gujarati": "દર્દીને હોસ્પિટલમાં દાખલ કરવાની પ્રક્રિયા"
   },
   {
     "english": "Attendant",
-    "gujarati": "દર્દીની સંભાળ રાખનાર"
+    "gujarati": "દર્દીની સંભાળ રાખનાર વ્યક્તિ"
   },
   {
     "english": "Visitor",
-    "gujarati": "મુલાકાતી"
+    "gujarati": "દર્દીની મુલાકાતે આવનાર વ્યક્તિ"
   },
   {
     "english": "Medical Equipment",
-    "gujarati": "તબીબી સાધનો"
+    "gujarati": "સારવારમાં વપરાતા તબીબી સાધનો"
   },
   {
     "english": "Surgical Instrument",
-    "gujarati": "શસ્ત્રક્રિયાનું સાધન"
+    "gujarati": "શસ્ત્રક્રિયામાં વપરાતું સાધન"
   },
   {
     "english": "Gloves",
-    "gujarati": "હાથમોજાં"
+    "gujarati": "હાથની સુરક્ષા માટેના હાથમોજાં"
   },
   {
     "english": "Face Mask",
-    "gujarati": "ચહેરાનો માસ્ક"
+    "gujarati": "નાક અને મોં ઢાંકવા માટેનો માસ્ક"
   },
   {
     "english": "Sanitizer",
-    "gujarati": "જંતુનાશક દ્રાવણ"
+    "gujarati": "હાથને જંતુમુક્ત કરતું દ્રાવણ"
   },
   {
     "english": "Isolation Ward",
-    "gujarati": "અલગ સારવાર વોર્ડ"
+    "gujarati": "ચેપી દર્દીઓને અલગ રાખવાનો વિભાગ"
   },
   {
     "english": "Intensive Care",
-    "gujarati": "સઘન સારવાર"
+    "gujarati": "ગંભીર દર્દીઓની વિશેષ સારવાર"
   },
   {
     "english": "Medical Emergency",
-    "gujarati": "તબીબી આપાતકાલીન સ્થિતિ"
+    "gujarati": "તાત્કાલિક તબીબી સારવારની જરૂરિયાત"
   },
   {
     "english": "Life Support",
-    "gujarati": "જીવનરક્ષક સહાય"
+    "gujarati": "જીવન જાળવી રાખવા માટેની યાંત્રિક સહાય"
   },
   {
     "english": "Health Care",
-    "gujarati": "આરોગ્ય સંભાળ"
+    "gujarati": "આરોગ્યની સંભાળ અને સારવાર"
   },
   {
     "english": "Recovery Room",
-    "gujarati": "સાજા થવાનો કક્ષ"
+    "gujarati": "શસ્ત્રક્રિયા અથવા સારવાર પછી આરામ કરવાનો કક્ષ"
   }
 ]
+
+
