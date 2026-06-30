@@ -1,7 +1,71 @@
 [
   {
+    "english": "Bathroom",
+    "gujarati": "બાથરૂમ"
+  },
+  {
+    "english": "Toilet",
+    "gujarati": "શૌચાલય"
+  },
+  {
+    "english": "Washbasin",
+    "gujarati": "વોશબેસિન"
+  },
+  {
+    "english": "Sink",
+    "gujarati": "સિંક"
+  },
+  {
+    "english": "Mirror",
+    "gujarati": "અરીસો"
+  },
+  {
+    "english": "Shower",
+    "gujarati": "શાવર"
+  },
+  {
+    "english": "Bathtub",
+    "gujarati": "બાથટબ"
+  },
+  {
+    "english": "Faucet",
+    "gujarati": "નળ"
+  },
+  {
+    "english": "Tap",
+    "gujarati": "નળ"
+  },
+  {
+    "english": "Bucket",
+    "gujarati": "ડોલ"
+  },
+  {
+    "english": "Mug",
+    "gujarati": "મગ"
+  },
+  {
     "english": "Soap",
     "gujarati": "સાબુ"
+  },
+  {
+    "english": "Soap Dish",
+    "gujarati": "સાબુદાની"
+  },
+  {
+    "english": "Shampoo",
+    "gujarati": "શેમ્પૂ"
+  },
+  {
+    "english": "Conditioner",
+    "gujarati": "કન્ડીશનર"
+  },
+  {
+    "english": "Body Wash",
+    "gujarati": "બોડી વોશ"
+  },
+  {
+    "english": "Face Wash",
+    "gujarati": "ફેસ વોશ"
   },
   {
     "english": "Toothbrush",
@@ -12,11 +76,327 @@
     "gujarati": "ટૂથપેસ્ટ"
   },
   {
-    "english": "Bucket",
-    "gujarati": "ડોલ"
+    "english": "Mouthwash",
+    "gujarati": "મોઢું ધોવાનું પ્રવાહી"
+  },
+  {
+    "english": "Dental Floss",
+    "gujarati": "દાંત સાફ કરવાની દોરી"
   },
   {
     "english": "Towel",
     "gujarati": "ટુવાલ"
+  },
+  {
+    "english": "Hand Towel",
+    "gujarati": "હાથનો ટુવાલ"
+  },
+  {
+    "english": "Bath Towel",
+    "gujarati": "નાહવાનો ટુવાલ"
+  },
+  {
+    "english": "Towel Rack",
+    "gujarati": "ટુવાલ સ્ટેન્ડ"
+  },
+  {
+    "english": "Toilet Paper",
+    "gujarati": "ટોયલેટ પેપર"
+  },
+  {
+    "english": "Tissue Paper",
+    "gujarati": "ટિશ્યૂ પેપર"
+  },
+  {
+    "english": "Toilet Brush",
+    "gujarati": "ટોયલેટ બ્રશ"
+  },
+  {
+    "english": "Plunger",
+    "gujarati": "પ્લંજર"
+  },
+  {
+    "english": "Toilet Seat",
+    "gujarati": "ટોયલેટ સીટ"
+  },
+  {
+    "english": "Flush Tank",
+    "gujarati": "ફ્લશ ટાંકી"
+  },
+  {
+    "english": "Flush Button",
+    "gujarati": "ફ્લશ બટન"
+  },
+  {
+    "english": "Drain",
+    "gujarati": "ગટરનું છિદ્ર"
+  },
+  {
+    "english": "Drain Cover",
+    "gujarati": "ગટરનું ઢાંકણ"
+  },
+  {
+    "english": "Floor Mat",
+    "gujarati": "ફ્લોર મેટ"
+  },
+  {
+    "english": "Bath Mat",
+    "gujarati": "બાથ મેટ"
+  },
+  {
+    "english": "Shower Curtain",
+    "gujarati": "શાવર પડદો"
+  },
+  {
+    "english": "Curtain Rod",
+    "gujarati": "પડદાનો સળિયો"
+  },
+  {
+    "english": "Water Heater",
+    "gujarati": "પાણી ગરમ કરવાનું યંત્ર"
+  },
+  {
+    "english": "Geyser",
+    "gujarati": "ગીઝર"
+  },
+  {
+    "english": "Hot Water",
+    "gujarati": "ગરમ પાણી"
+  },
+  {
+    "english": "Cold Water",
+    "gujarati": "ઠંડુ પાણી"
+  },
+  {
+    "english": "Shaving Cream",
+    "gujarati": "શેવિંગ ક્રીમ"
+  },
+  {
+    "english": "Razor",
+    "gujarati": "રેઝર"
+  },
+  {
+    "english": "Electric Razor",
+    "gujarati": "ઇલેક્ટ્રિક રેઝર"
+  },
+  {
+    "english": "Aftershave",
+    "gujarati": "આફ્ટરશેવ"
+  },
+  {
+    "english": "Comb",
+    "gujarati": "કાંસકો"
+  },
+  {
+    "english": "Hair Brush",
+    "gujarati": "વાળનો બ્રશ"
+  },
+  {
+    "english": "Hair Dryer",
+    "gujarati": "હેર ડ્રાયર"
+  },
+  {
+    "english": "Hair Comb",
+    "gujarati": "વાળનો કાંસકો"
+  },
+  {
+    "english": "Nail Cutter",
+    "gujarati": "નેલ કટર"
+  },
+  {
+    "english": "Nail File",
+    "gujarati": "નેલ ફાઇલ"
+  },
+  {
+    "english": "Tweezers",
+    "gujarati": "ચીપિયો"
+  },
+  {
+    "english": "Cotton",
+    "gujarati": "રૂ"
+  },
+  {
+    "english": "Cotton Buds",
+    "gujarati": "કોટન બડ્સ"
+  },
+  {
+    "english": "Face Towel",
+    "gujarati": "ચહેરાનો ટુવાલ"
+  },
+  {
+    "english": "Bathrobe",
+    "gujarati": "નાહવાનો ઝભ્ભો"
+  },
+  {
+    "english": "Slippers",
+    "gujarati": "ચપ્પલ"
+  },
+  {
+    "english": "Laundry Basket",
+    "gujarati": "કપડાંની ટોપલી"
+  },
+  {
+    "english": "Trash Bin",
+    "gujarati": "કચરાપેટી"
+  },
+  {
+    "english": "Air Freshener",
+    "gujarati": "એર ફ્રેશનર"
+  },
+  {
+    "english": "Bathroom Cleaner",
+    "gujarati": "બાથરૂમ ક્લીનર"
+  },
+  {
+    "english": "Disinfectant",
+    "gujarati": "જંતુનાશક પ્રવાહી"
+  },
+  {
+    "english": "Liquid Soap",
+    "gujarati": "પ્રવાહી સાબુ"
+  },
+  {
+    "english": "Hand Wash",
+    "gujarati": "હેન્ડ વોશ"
+  },
+  {
+    "english": "Soap Dispenser",
+    "gujarati": "સાબુ ડિસ્પેન્સર"
+  },
+  {
+    "english": "Toothbrush Holder",
+    "gujarati": "ટૂથબ્રશ સ્ટેન્ડ"
+  },
+  {
+    "english": "Toothpaste Tube",
+    "gujarati": "ટૂથપેસ્ટ ટ્યુબ"
+  },
+  {
+    "english": "Mirror Cabinet",
+    "gujarati": "અરીસાવાળું કબાટ"
+  },
+  {
+    "english": "Cabinet",
+    "gujarati": "કબાટ"
+  },
+  {
+    "english": "Shelf",
+    "gujarati": "છાજલી"
+  },
+  {
+    "english": "Hook",
+    "gujarati": "હૂક"
+  },
+  {
+    "english": "Toilet Roll Holder",
+    "gujarati": "ટોયલેટ પેપર ધારક"
+  },
+  {
+    "english": "Water Pipe",
+    "gujarati": "પાણીની પાઇપ"
+  },
+  {
+    "english": "Shower Head",
+    "gujarati": "શાવર હેડ"
+  },
+  {
+    "english": "Bidet",
+    "gujarati": "બિડે"
+  },
+  {
+    "english": "Bidet Spray",
+    "gujarati": "બિડે સ્પ્રે"
+  },
+  {
+    "english": "Health Faucet",
+    "gujarati": "હેલ્થ ફોસેટ"
+  },
+  {
+    "english": "Water Closet",
+    "gujarati": "શૌચાલય"
+  },
+  {
+    "english": "Exhaust Fan",
+    "gujarati": "એક્ઝોસ્ટ પંખો"
+  },
+  {
+    "english": "Ventilator",
+    "gujarati": "વેન્ટિલેટર"
+  },
+  {
+    "english": "Light Switch",
+    "gujarati": "લાઇટ સ્વિચ"
+  },
+  {
+    "english": "Door Lock",
+    "gujarati": "દરવાજાનું તાળું"
+  },
+  {
+    "english": "Door Handle",
+    "gujarati": "દરવાજાનું હેન્ડલ"
+  },
+  {
+    "english": "Bath Sponge",
+    "gujarati": "નાહવાનો સ્પોન્જ"
+  },
+  {
+    "english": "Loofah",
+    "gujarati": "લૂફા"
+  },
+  {
+    "english": "Bath Salt",
+    "gujarati": "નાહવાનું મીઠું"
+  },
+  {
+    "english": "Bath Oil",
+    "gujarati": "નાહવાનું તેલ"
+  },
+  {
+    "english": "Moisturizer",
+    "gujarati": "મોઇશ્ચરાઇઝર"
+  },
+  {
+    "english": "Body Lotion",
+    "gujarati": "બોડી લોશન"
+  },
+  {
+    "english": "Face Cream",
+    "gujarati": "ચહેરાની ક્રીમ"
+  },
+  {
+    "english": "Hand Cream",
+    "gujarati": "હાથની ક્રીમ"
+  },
+  {
+    "english": "Foot Cream",
+    "gujarati": "પગની ક્રીમ"
+  },
+  {
+    "english": "Perfume",
+    "gujarati": "અત્તર"
+  },
+  {
+    "english": "Deodorant",
+    "gujarati": "ડિઓડરન્ટ"
+  },
+  {
+    "english": "Room Freshener",
+    "gujarati": "રૂમ ફ્રેશનર"
+  },
+  {
+    "english": "Cleaning Brush",
+    "gujarati": "સફાઈનો બ્રશ"
+  },
+  {
+    "english": "Cleaning Gloves",
+    "gujarati": "સફાઈના હાથમોજાં"
+  },
+  {
+    "english": "Cleaning Cloth",
+    "gujarati": "સફાઈનું કપડું"
+  },
+  {
+    "english": "Bathroom Cabinet",
+    "gujarati": "બાથરૂમ કેબિનેટ"
   }
 ]
