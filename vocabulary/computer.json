@@ -1,22 +1,302 @@
 [
   {
-    "english": "Computer",
-    "gujarati": "કમ્પ્યુટર"
+    "english": "Virus",
+    "gujarati": "કમ્પ્યુટર વાયરસ"
   },
   {
-    "english": "Keyboard",
-    "gujarati": "કીબોર્ડ"
+    "english": "Antivirus",
+    "gujarati": "વાયરસથી સુરક્ષા આપતો કાર્યક્રમ"
   },
   {
-    "english": "Mouse",
-    "gujarati": "માઉસ"
+    "english": "Firewall",
+    "gujarati": "નેટવર્ક સુરક્ષા પ્રણાલી"
   },
   {
-    "english": "Monitor",
-    "gujarati": "મોનિટર"
+    "english": "Backup",
+    "gujarati": "માહિતિની સુરક્ષિત નકલ"
   },
   {
-    "english": "Printer",
-    "gujarati": "પ્રિન્ટર"
+    "english": "Restore",
+    "gujarati": "પહેલાની સ્થિતિમાં પાછું લાવવું"
+  },
+  {
+    "english": "Encryption",
+    "gujarati": "માહિતિને ગુપ્ત સ્વરૂપમાં ફેરવવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Decryption",
+    "gujarati": "ગુપ્ત માહિતીને મૂળ સ્વરૂપમાં લાવવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Cyber Security",
+    "gujarati": "સાયબર સુરક્ષા"
+  },
+  {
+    "english": "Hacker",
+    "gujarati": "કમ્પ્યુટર સિસ્ટમમાં ગેરકાયદેસર પ્રવેશ કરનાર"
+  },
+  {
+    "english": "Bug",
+    "gujarati": "પ્રોગ્રામની ભૂલ"
+  },
+  {
+    "english": "Error",
+    "gujarati": "ભૂલ"
+  },
+  {
+    "english": "Coding",
+    "gujarati": "પ્રોગ્રામ લખવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Programming",
+    "gujarati": "પ્રોગ્રામિંગ"
+  },
+  {
+    "english": "Source Code",
+    "gujarati": "મૂળ પ્રોગ્રામ કોડ"
+  },
+  {
+    "english": "Compiler",
+    "gujarati": "કોડનું ભાષાંતર કરનાર કાર્યક્રમ"
+  },
+  {
+    "english": "Debugging",
+    "gujarati": "પ્રોગ્રામની ભૂલો દૂર કરવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Artificial Intelligence",
+    "gujarati": "કૃત્રિમ બુદ્ધિમત્તા"
+  },
+  {
+    "english": "Machine Learning",
+    "gujarati": "યંત્ર અધ્યયન"
+  },
+  {
+    "english": "Data",
+    "gujarati": "માહિતી"
+  },
+  {
+    "english": "Information",
+    "gujarati": "જાણકારી"
+  },
+  {
+    "english": "Digital",
+    "gujarati": "ડિજિટલ"
+  },
+  {
+    "english": "Technology",
+    "gujarati": "ટેકનોલોજી"
+  },
+  {
+    "english": "Website Developer",
+    "gujarati": "વેબસાઇટ બનાવનાર"
+  },
+  {
+    "english": "Software Developer",
+    "gujarati": "સોફ્ટવેર બનાવનાર"
+  },
+  {
+    "english": "Computer Engineer",
+    "gujarati": "કમ્પ્યુટર ઇજનેર"
+  }
+  {
+    "english": "Operating System",
+    "gujarati": "સંચાલન પ્રણાલી"
+  },
+  {
+    "english": "Windows",
+    "gujarati": "વિન્ડોઝ સંચાલન પ્રણાલી"
+  },
+  {
+    "english": "Linux",
+    "gujarati": "લિનક્સ સંચાલન પ્રણાલી"
+  },
+  {
+    "english": "macOS",
+    "gujarati": "મેક સંચાલન પ્રણાલી"
+  },
+  {
+    "english": "Software",
+    "gujarati": "સોફ્ટવેર (કાર્યક્રમો)"
+  },
+  {
+    "english": "Hardware",
+    "gujarati": "કમ્પ્યુટરના ભૌતિક ભાગો"
+  },
+  {
+    "english": "Application",
+    "gujarati": "ઉપયોગી કાર્યક્રમ"
+  },
+  {
+    "english": "Program",
+    "gujarati": "કાર્યક્રમ"
+  },
+  {
+    "english": "File",
+    "gujarati": "દસ્તાવેજ ફાઇલ"
+  },
+  {
+    "english": "Folder",
+    "gujarati": "ફોલ્ડર (ફાઇલોનો સંગ્રહ)"
+  },
+  {
+    "english": "Document",
+    "gujarati": "દસ્તાવેજ"
+  },
+  {
+    "english": "Desktop",
+    "gujarati": "મુખ્ય સ્ક્રીન"
+  },
+  {
+    "english": "Recycle Bin",
+    "gujarati": "કાઢી નાખેલી ફાઇલોનું સ્થાન"
+  },
+  {
+    "english": "Shortcut",
+    "gujarati": "ઝડપી માર્ગ"
+  },
+  {
+    "english": "Icon",
+    "gujarati": "ચિહ્ન"
+  },
+  {
+    "english": "Taskbar",
+    "gujarati": "કાર્યપટ્ટી"
+  },
+  {
+    "english": "Start Menu",
+    "gujarati": "શરૂઆત મેનૂ"
+  },
+  {
+    "english": "Browser",
+    "gujarati": "વેબ બ્રાઉઝર"
+  },
+  {
+    "english": "Website",
+    "gujarati": "વેબસાઇટ"
+  },
+  {
+    "english": "Internet",
+    "gujarati": "અંતરજાળ"
+  },
+  {
+    "english": "Wi-Fi",
+    "gujarati": "વાયરલેસ ઇન્ટરનેટ"
+  },
+  {
+    "english": "Download",
+    "gujarati": "ડેટા પોતાના ઉપકરણમાં ઉતારવો"
+  },
+  {
+    "english": "Upload",
+    "gujarati": "ડેટા ઇન્ટરનેટ પર મોકલવો"
+  },
+  {
+    "english": "Install",
+    "gujarati": "સ્થાપિત કરવું"
+  },
+  {
+    "english": "Uninstall",
+    "gujarati": "દૂર કરવું"
+  },
+  {
+    "english": "Email",
+    "gujarati": "ઈલેક્ટ્રોનિક પત્ર"
+  },
+  {
+    "english": "Username",
+    "gujarati": "વપરાશકર્તાનું નામ"
+  },
+  {
+    "english": "Password",
+    "gujarati": "ગુપ્ત શબ્દ"
+  },
+  {
+    "english": "Login",
+    "gujarati": "પ્રવેશ કરવો"
+  },
+  {
+    "english": "Logout",
+    "gujarati": "બહાર નીકળવું"
+  },
+  {
+    "english": "Search",
+    "gujarati": "શોધવું"
+  },
+  {
+    "english": "Search Engine",
+    "gujarati": "શોધ યંત્ર"
+  },
+  {
+    "english": "Cloud Storage",
+    "gujarati": "ઓનલાઇન સંગ્રહ"
+  },
+  {
+    "english": "Database",
+    "gujarati": "માહિતી ભંડાર"
+  },
+  {
+    "english": "Server",
+    "gujarati": "સેવા આપતું કમ્પ્યુટર"
+  },
+  {
+    "english": "Network",
+    "gujarati": "કમ્પ્યુટર જાળ"
+  },
+  {
+    "english": "Router",
+    "gujarati": "નેટવર્ક જોડતું ઉપકરણ"
+  },
+  {
+    "english": "Modem",
+    "gujarati": "ઇન્ટરનેટ જોડાણ ઉપકરણ"
+  },
+  {
+    "english": "IP Address",
+    "gujarati": "ઇન્ટરનેટ સરનામું"
+  },
+  {
+    "english": "Link",
+    "gujarati": "કડી"
+  },
+  {
+    "english": "Web Page",
+    "gujarati": "વેબ પૃષ્ઠ"
+  },
+  {
+    "english": "Home Page",
+    "gujarati": "મુખ્ય પૃષ્ઠ"
+  },
+  {
+    "english": "Refresh",
+    "gujarati": "ફરીથી તાજું કરવું"
+  },
+  {
+    "english": "Copy",
+    "gujarati": "નકલ કરવી"
+  },
+  {
+    "english": "Paste",
+    "gujarati": "ચોંટાડવું"
+  },
+  {
+    "english": "Cut",
+    "gujarati": "કાપવું"
+  },
+  {
+    "english": "Delete",
+    "gujarati": "કાઢી નાખવું"
+  },
+  {
+    "english": "Save",
+    "gujarati": "સાચવવું"
+  },
+  {
+    "english": "Print",
+    "gujarati": "છાપવું"
+  },
+  {
+    "english": "Update",
+    "gujarati": "સુધારો કરવો"
   }
 ]
