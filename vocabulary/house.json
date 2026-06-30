@@ -1,5 +1,89 @@
 [
   {
+    "english": "House",
+    "gujarati": "ઘર"
+  },
+  {
+    "english": "Home",
+    "gujarati": "ઘર"
+  },
+  {
+    "english": "Building",
+    "gujarati": "ઈમારત"
+  },
+  {
+    "english": "Apartment",
+    "gujarati": "ફ્લેટ"
+  },
+  {
+    "english": "Bungalow",
+    "gujarati": "બંગલો"
+  },
+  {
+    "english": "Villa",
+    "gujarati": "વિલા"
+  },
+  {
+    "english": "Hut",
+    "gujarati": "ઝૂંપડી"
+  },
+  {
+    "english": "Room",
+    "gujarati": "ઓરડો"
+  },
+  {
+    "english": "Bedroom",
+    "gujarati": "શયનખંડ"
+  },
+  {
+    "english": "Living Room",
+    "gujarati": "બેઠકખંડ"
+  },
+  {
+    "english": "Drawing Room",
+    "gujarati": "દીવાનખંડ"
+  },
+  {
+    "english": "Dining Room",
+    "gujarati": "ભોજનખંડ"
+  },
+  {
+    "english": "Kitchen",
+    "gujarati": "રસોડું"
+  },
+  {
+    "english": "Bathroom",
+    "gujarati": "સ્નાનગૃહ"
+  },
+  {
+    "english": "Toilet",
+    "gujarati": "શૌચાલય"
+  },
+  {
+    "english": "Balcony",
+    "gujarati": "બાલ્કની"
+  },
+  {
+    "english": "Terrace",
+    "gujarati": "ધાબો"
+  },
+  {
+    "english": "Roof",
+    "gujarati": "છત"
+  },
+  {
+    "english": "Floor",
+    "gujarati": "ફર્શ"
+  },
+  {
+    "english": "Ceiling",
+    "gujarati": "છતની અંદરની સપાટી"
+  },
+  {
+    "english": "Wall",
+    "gujarati": "દીવાલ"
+  },
+  {
     "english": "Door",
     "gujarati": "દરવાજો"
   },
@@ -8,15 +92,311 @@
     "gujarati": "બારી"
   },
   {
-    "english": "Table",
-    "gujarati": "ટેબલ"
+    "english": "Stairs",
+    "gujarati": "સીડી"
+  },
+  {
+    "english": "Gate",
+    "gujarati": "દરવાજો (પ્રવેશદ્વાર)"
+  },
+  {
+    "english": "Hall",
+    "gujarati": "હોલ"
+  },
+  {
+    "english": "Guest Room",
+    "gujarati": "મહેમાનખંડ"
+  },
+  {
+    "english": "Study Room",
+    "gujarati": "અભ્યાસખંડ"
+  },
+  {
+    "english": "Store Room",
+    "gujarati": "ભંડારખંડ"
+  },
+  {
+    "english": "Laundry Room",
+    "gujarati": "ધોવાણખંડ"
+  },
+  {
+    "english": "Garage",
+    "gujarati": "ગેરેજ"
+  },
+  {
+    "english": "Basement",
+    "gujarati": "ભોંયતળિયું"
+  },
+  {
+    "english": "Attic",
+    "gujarati": "માળિયું"
+  },
+  {
+    "english": "Veranda",
+    "gujarati": "ઓટલો"
+  },
+  {
+    "english": "Porch",
+    "gujarati": "આગળનો ઓટલો"
+  },
+  {
+    "english": "Garden",
+    "gujarati": "બગીચો"
+  },
+  {
+    "english": "Backyard",
+    "gujarati": "ઘરની પાછળનો ભાગ"
+  },
+  {
+    "english": "Courtyard",
+    "gujarati": "આંગણું"
+  },
+  {
+    "english": "Fence",
+    "gujarati": "વાડ"
+  },
+  {
+    "english": "Chimney",
+    "gujarati": "ચીમની"
+  },
+  {
+    "english": "Pillar",
+    "gujarati": "થાંભલો"
+  },
+  {
+    "english": "Beam",
+    "gujarati": "આડોથાંભલો"
+  },
+  {
+    "english": "Railing",
+    "gujarati": "રેલિંગ"
+  },
+  {
+    "english": "Bell",
+    "gujarati": "ઘંટડી"
+  },
+  {
+    "english": "Doorbell",
+    "gujarati": "દરવાજાની ઘંટડી"
+  },
+  {
+    "english": "Door Handle",
+    "gujarati": "દરવાજાનો હાથો"
+  },
+  {
+    "english": "Lock",
+    "gujarati": "તાળું"
+  },
+  {
+    "english": "Key",
+    "gujarati": "ચાવી"
+  },
+  {
+    "english": "Doormat",
+    "gujarati": "દરવાજા આગળનું પાયલું"
+  },
+  {
+    "english": "Mailbox",
+    "gujarati": "ટપાલપેટી"
+  },
+  {
+    "english": "Sofa",
+    "gujarati": "સોફા"
   },
   {
     "english": "Chair",
     "gujarati": "ખુરશી"
   },
   {
+    "english": "Table",
+    "gujarati": "ટેબલ"
+  },
+  {
+    "english": "Dining Table",
+    "gujarati": "ભોજન ટેબલ"
+  },
+  {
     "english": "Bed",
     "gujarati": "પલંગ"
+  },
+  {
+    "english": "Mattress",
+    "gujarati": "ગાદલું"
+  },
+  {
+    "english": "Pillow",
+    "gujarati": "ઓશીકું"
+  },
+  {
+    "english": "Blanket",
+    "gujarati": "ધાબળું"
+  },
+  {
+    "english": "Bedsheet",
+    "gujarati": "ચાદર"
+  },
+  {
+    "english": "Curtain",
+    "gujarati": "પડદો"
+  },
+  {
+    "english": "Carpet",
+    "gujarati": "ગાલીચો"
+  },
+  {
+    "english": "Cupboard",
+    "gujarati": "કબાટ"
+  },
+  {
+    "english": "Wardrobe",
+    "gujarati": "કપડાંનું કબાટ"
+  },
+  {
+    "english": "Shelf",
+    "gujarati": "છાજલી"
+  },
+  {
+    "english": "Drawer",
+    "gujarati": "ખાનું"
+  },
+  {
+    "english": "Mirror",
+    "gujarati": "અરીસો"
+  },
+  {
+    "english": "Clock",
+    "gujarati": "ઘડિયાળ"
+  },
+  {
+    "english": "Calendar",
+    "gujarati": "કેલેન્ડર"
+  },
+  {
+    "english": "Television",
+    "gujarati": "ટેલિવિઝન"
+  },
+  {
+    "english": "Remote Control",
+    "gujarati": "રિમોટ"
+  },
+  {
+    "english": "Fan",
+    "gujarati": "પંખો"
+  },
+  {
+    "english": "Air Conditioner",
+    "gujarati": "એર કન્ડિશનર"
+  },
+  {
+    "english": "Refrigerator",
+    "gujarati": "રેફ્રિજરેટર"
+  },
+  {
+    "english": "Washing Machine",
+    "gujarati": "કપડાં ધોવાનું મશીન"
+  },
+  {
+    "english": "Vacuum Cleaner",
+    "gujarati": "વેક્યૂમ ક્લીનર"
+  },
+  {
+    "english": "Light",
+    "gujarati": "લાઇટ"
+  },
+  {
+    "english": "Light Bulb",
+    "gujarati": "બલ્બ"
+  },
+  {
+    "english": "Tube Light",
+    "gujarati": "ટ્યુબલાઇટ"
+  },
+  {
+    "english": "Switch",
+    "gujarati": "સ્વિચ"
+  },
+  {
+    "english": "Switchboard",
+    "gujarati": "સ્વિચબોર્ડ"
+  },
+  {
+    "english": "Electric Socket",
+    "gujarati": "વીજ સોકેટ"
+  },
+  {
+    "english": "Extension Board",
+    "gujarati": "એક્સ્ટેન્શન બોર્ડ"
+  },
+  {
+    "english": "Water Tap",
+    "gujarati": "પાણીનો નળ"
+  },
+  {
+    "english": "Water Tank",
+    "gujarati": "પાણીની ટાંકી"
+  },
+  {
+    "english": "Water Pipe",
+    "gujarati": "પાણીની પાઈપ"
+  },
+  {
+    "english": "Drain",
+    "gujarati": "ગટર"
+  },
+  {
+    "english": "Dustbin",
+    "gujarati": "કચરાપેટી"
+  },
+  {
+    "english": "Broom",
+    "gujarati": "સાવરણી"
+  },
+  {
+    "english": "Mop",
+    "gujarati": "પોતું"
+  },
+  {
+    "english": "Bucket",
+    "gujarati": "ડોલ"
+  },
+  {
+    "english": "Mug",
+    "gujarati": "મગ"
+  },
+  {
+    "english": "Cleaning Cloth",
+    "gujarati": "સફાઈનું કપડું"
+  },
+  {
+    "english": "Detergent",
+    "gujarati": "ધોવાનો પાઉડર"
+  },
+  {
+    "english": "House Key",
+    "gujarati": "ઘરની ચાવી"
+  },
+  {
+    "english": "Security Camera",
+    "gujarati": "સુરક્ષા કેમેરો"
+  },
+  {
+    "english": "Fire Extinguisher",
+    "gujarati": "અગ્નિશામક યંત્ર"
+  },
+  {
+    "english": "Electricity",
+    "gujarati": "વીજળી"
+  },
+  {
+    "english": "Water Supply",
+    "gujarati": "પાણી પુરવઠો"
+  },
+  {
+    "english": "Home Address",
+    "gujarati": "ઘરનું સરનામું"
+  },
+  {
+    "english": "Household",
+    "gujarati": "ઘરગથ્થું"
   }
 ]
