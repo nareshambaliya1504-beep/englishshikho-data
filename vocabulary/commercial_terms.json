@@ -1,5 +1,65 @@
 [
   {
+    "english": "Business",
+    "gujarati": "વ્યવસાય"
+  },
+  {
+    "english": "Trade",
+    "gujarati": "વેપાર"
+  },
+  {
+    "english": "Commerce",
+    "gujarati": "વાણિજ્ય"
+  },
+  {
+    "english": "Company",
+    "gujarati": "કંપની"
+  },
+  {
+    "english": "Office",
+    "gujarati": "ઓફિસ"
+  },
+  {
+    "english": "Shop",
+    "gujarati": "દુકાન"
+  },
+  {
+    "english": "Market",
+    "gujarati": "બજાર"
+  },
+  {
+    "english": "Customer",
+    "gujarati": "ગ્રાહક"
+  },
+  {
+    "english": "Seller",
+    "gujarati": "વેચનાર"
+  },
+  {
+    "english": "Buyer",
+    "gujarati": "ખરીદનાર"
+  },
+  {
+    "english": "Product",
+    "gujarati": "ઉત્પાદન"
+  },
+  {
+    "english": "Goods",
+    "gujarati": "માલ"
+  },
+  {
+    "english": "Service",
+    "gujarati": "સેવા"
+  },
+  {
+    "english": "Price",
+    "gujarati": "કિંમત"
+  },
+  {
+    "english": "Cost",
+    "gujarati": "ખર્ચ"
+  },
+  {
     "english": "Profit",
     "gujarati": "નફો"
   },
@@ -8,15 +68,335 @@
     "gujarati": "નુકસાન"
   },
   {
-    "english": "Business",
-    "gujarati": "વ્યવસાય"
+    "english": "Income",
+    "gujarati": "આવક"
   },
   {
-    "english": "Customer",
-    "gujarati": "ગ્રાહક"
+    "english": "Expense",
+    "gujarati": "ખર્ચ"
+  },
+  {
+    "english": "Investment",
+    "gujarati": "રોકાણ"
+  },
+  {
+    "english": "Capital",
+    "gujarati": "મૂડી"
+  },
+  {
+    "english": "Stock",
+    "gujarati": "જથ્થો"
+  },
+  {
+    "english": "Inventory",
+    "gujarati": "માલનો જથ્થો"
+  },
+  {
+    "english": "Warehouse",
+    "gujarati": "ગોડાઉન"
+  },
+  {
+    "english": "Supply",
+    "gujarati": "પુરવઠો"
+  },
+  {
+    "english": "Demand",
+    "gujarati": "માંગ"
+  },
+  {
+    "english": "Order",
+    "gujarati": "ઓર્ડર"
+  },
+  {
+    "english": "Purchase",
+    "gujarati": "ખરીદી"
+  },
+  {
+    "english": "Sale",
+    "gujarati": "વેચાણ"
+  },
+  {
+    "english": "Wholesale",
+    "gujarati": "જથ્થાબંધ વેપાર"
+  },
+  {
+    "english": "Retail",
+    "gujarati": "છૂટક વેપાર"
+  },
+  {
+    "english": "Retailer",
+    "gujarati": "છૂટક વેપારી"
+  },
+  {
+    "english": "Wholesaler",
+    "gujarati": "જથ્થાબંધ વેપારી"
+  },
+  {
+    "english": "Distributor",
+    "gujarati": "વિતરક"
+  },
+  {
+    "english": "Dealer",
+    "gujarati": "વેપારી"
+  },
+  {
+    "english": "Manufacturer",
+    "gujarati": "ઉત્પાદક"
+  },
+  {
+    "english": "Factory",
+    "gujarati": "કારખાનું"
+  },
+  {
+    "english": "Industry",
+    "gujarati": "ઉદ્યોગ"
+  },
+  {
+    "english": "Brand",
+    "gujarati": "બ્રાન્ડ"
+  },
+  {
+    "english": "Trademark",
+    "gujarati": "વેપારચિહ્ન"
+  },
+  {
+    "english": "Bill",
+    "gujarati": "બિલ"
   },
   {
     "english": "Invoice",
-    "gujarati": "બીલ"
+    "gujarati": "બીલ / ચલણ"
+  },
+  {
+    "english": "Receipt",
+    "gujarati": "રસીદ"
+  },
+  {
+    "english": "Quotation",
+    "gujarati": "ભાવપત્રક"
+  },
+  {
+    "english": "Discount",
+    "gujarati": "છૂટ"
+  },
+  {
+    "english": "Offer",
+    "gujarati": "ઓફર"
+  },
+  {
+    "english": "Commission",
+    "gujarati": "કમિશન"
+  },
+  {
+    "english": "Tax",
+    "gujarati": "કર"
+  },
+  {
+    "english": "GST",
+    "gujarati": "જીએસટી"
+  },
+  {
+    "english": "Currency",
+    "gujarati": "ચલણ"
+  },
+  {
+    "english": "Money",
+    "gujarati": "પૈસા"
+  },
+  {
+    "english": "Cash",
+    "gujarati": "રોકડ"
+  },
+  {
+    "english": "Credit",
+    "gujarati": "ઉધાર"
+  },
+  {
+    "english": "Debit",
+    "gujarati": "ઉધારીની ચુકવણી"
+  },
+  {
+    "english": "Payment",
+    "gujarati": "ચુકવણી"
+  },
+  {
+    "english": "Advance Payment",
+    "gujarati": "અગાઉથી ચુકવણી"
+  },
+  {
+    "english": "Balance",
+    "gujarati": "બાકી રકમ"
+  },
+  {
+    "english": "Loan",
+    "gujarati": "લોન"
+  },
+  {
+    "english": "Interest",
+    "gujarati": "વ્યાજ"
+  },
+  {
+    "english": "Bank",
+    "gujarati": "બેંક"
+  },
+  {
+    "english": "Bank Account",
+    "gujarati": "બેંક ખાતું"
+  },
+  {
+    "english": "Cheque",
+    "gujarati": "ચેક"
+  },
+  {
+    "english": "Demand Draft",
+    "gujarati": "ડિમાન્ડ ડ્રાફ્ટ"
+  },
+  {
+    "english": "ATM",
+    "gujarati": "એટીએમ"
+  },
+  {
+    "english": "Credit Card",
+    "gujarati": "ક્રેડિટ કાર્ડ"
+  },
+  {
+    "english": "Debit Card",
+    "gujarati": "ડેબિટ કાર્ડ"
+  },
+  {
+    "english": "UPI",
+    "gujarati": "યુપીઆઈ"
+  },
+  {
+    "english": "Online Payment",
+    "gujarati": "ઓનલાઈન ચુકવણી"
+  },
+  {
+    "english": "Transaction",
+    "gujarati": "વ્યવહાર"
+  },
+  {
+    "english": "Transfer",
+    "gujarati": "રકમ ટ્રાન્સફર"
+  },
+  {
+    "english": "Deposit",
+    "gujarati": "જમા"
+  },
+  {
+    "english": "Withdrawal",
+    "gujarati": "ઉપાડ"
+  },
+  {
+    "english": "Account Statement",
+    "gujarati": "ખાતાનું સ્ટેટમેન્ટ"
+  },
+  {
+    "english": "Savings",
+    "gujarati": "બચત"
+  },
+  {
+    "english": "Salary",
+    "gujarati": "પગાર"
+  },
+  {
+    "english": "Employee",
+    "gujarati": "કર્મચારી"
+  },
+  {
+    "english": "Employer",
+    "gujarati": "માલિક"
+  },
+  {
+    "english": "Manager",
+    "gujarati": "વ્યવસ્થાપક"
+  },
+  {
+    "english": "Supervisor",
+    "gujarati": "નિરીક્ષક"
+  },
+  {
+    "english": "Accountant",
+    "gujarati": "હિસાબનીશ"
+  },
+  {
+    "english": "Cashier",
+    "gujarati": "કેશિયર"
+  },
+  {
+    "english": "Salesman",
+    "gujarati": "વેચાણકર્તા"
+  },
+  {
+    "english": "Saleswoman",
+    "gujarati": "વેચાણકર્ત્રી"
+  },
+  {
+    "english": "Client",
+    "gujarati": "ગ્રાહક"
+  },
+  {
+    "english": "Consumer",
+    "gujarati": "ઉપભોક્તા"
+  },
+  {
+    "english": "Contract",
+    "gujarati": "કરાર"
+  },
+  {
+    "english": "Agreement",
+    "gujarati": "સમજૂતી"
+  },
+  {
+    "english": "Partnership",
+    "gujarati": "ભાગીદારી"
+  },
+  {
+    "english": "Shareholder",
+    "gujarati": "શેરધારક"
+  },
+  {
+    "english": "Share",
+    "gujarati": "શેર"
+  },
+  {
+    "english": "Dividend",
+    "gujarati": "ડિવિડન્ડ"
+  },
+  {
+    "english": "Export",
+    "gujarati": "નિકાસ"
+  },
+  {
+    "english": "Import",
+    "gujarati": "આયાત"
+  },
+  {
+    "english": "Delivery",
+    "gujarati": "ડિલિવરી"
+  },
+  {
+    "english": "Courier",
+    "gujarati": "કુરિયર"
+  },
+  {
+    "english": "Packaging",
+    "gujarati": "પેકિંગ"
+  },
+  {
+    "english": "Label",
+    "gujarati": "લેબલ"
+  },
+  {
+    "english": "Barcode",
+    "gujarati": "બારકોડ"
+  },
+  {
+    "english": "Warranty",
+    "gujarati": "વોરંટી"
+  },
+  {
+    "english": "Guarantee",
+    "gujarati": "ગેરંટી"
   }
 ]
