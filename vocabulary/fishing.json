@@ -1,22 +1,402 @@
 [
   {
+    "english": "Fishing",
+    "gujarati": "માછીમારી"
+  },
+  {
     "english": "Fish",
     "gujarati": "માછલી"
   },
   {
-    "english": "Net",
-    "gujarati": "જાળ"
+    "english": "Fisherman",
+    "gujarati": "માછીમાર"
+  },
+  {
+    "english": "Fisherwoman",
+    "gujarati": "માછીમાર સ્ત્રી"
+  },
+  {
+    "english": "Fishing Boat",
+    "gujarati": "માછીમારીની હોડી"
   },
   {
     "english": "Boat",
     "gujarati": "હોડી"
   },
   {
+    "english": "Net",
+    "gujarati": "જાળ"
+  },
+  {
+    "english": "Fishing Net",
+    "gujarati": "માછીમારીની જાળ"
+  },
+  {
+    "english": "Fishing Rod",
+    "gujarati": "માછલી પકડવાની લાકડી"
+  },
+  {
+    "english": "Fishing Line",
+    "gujarati": "માછીમારીની દોરી"
+  },
+  {
     "english": "Hook",
     "gujarati": "કાંટો"
   },
   {
+    "english": "Bait",
+    "gujarati": "ચારો"
+  },
+  {
+    "english": "Float",
+    "gujarati": "તરાપો"
+  },
+  {
+    "english": "Sinker",
+    "gujarati": "વજનદાર સીસું"
+  },
+  {
+    "english": "Catch",
+    "gujarati": "પકડ"
+  },
+  {
+    "english": "Sea",
+    "gujarati": "દરિયો"
+  },
+  {
+    "english": "Ocean",
+    "gujarati": "મહાસાગર"
+  },
+  {
     "english": "River",
     "gujarati": "નદી"
+  },
+  {
+    "english": "Lake",
+    "gujarati": "તળાવ"
+  },
+  {
+    "english": "Pond",
+    "gujarati": "તળાવડી"
+  },
+  {
+    "english": "Harbor",
+    "gujarati": "બંદર"
+  },
+  {
+    "english": "Port",
+    "gujarati": "બંદર"
+  },
+  {
+    "english": "Coast",
+    "gujarati": "દરિયાકિનારો"
+  },
+  {
+    "english": "Tide",
+    "gujarati": "ભરતી-ઓટ"
+  },
+  {
+    "english": "Wave",
+    "gujarati": "મોજું"
+  },
+  {
+    "english": "Fishing Trap",
+    "gujarati": "માછીમારીની જાળ"
+  },
+  {
+    "english": "Fishing Reel",
+    "gujarati": "ફિશિંગ રીલ"
+  },
+  {
+    "english": "Fishing Hook",
+    "gujarati": "માછલીનો કાંટો"
+  },
+  {
+    "english": "Fishing Float",
+    "gujarati": "ફિશિંગ તરાપો"
+  },
+  {
+    "english": "Fishing Basket",
+    "gujarati": "માછલીની ટોપલી"
+  },
+  {
+    "english": "Fish Tank",
+    "gujarati": "માછલીની ટાંકી"
+  },
+  {
+    "english": "Aquarium",
+    "gujarati": "મત્સ્યાલય"
+  },
+  {
+    "english": "Fish Farm",
+    "gujarati": "મત્સ્ય ઉછેર કેન્દ્ર"
+  },
+  {
+    "english": "Fish Market",
+    "gujarati": "માછલી બજાર"
+  },
+  {
+    "english": "Fish Seller",
+    "gujarati": "માછલી વેચનાર"
+  },
+  {
+    "english": "Fresh Fish",
+    "gujarati": "તાજી માછલી"
+  },
+  {
+    "english": "Dry Fish",
+    "gujarati": "સૂકી માછલી"
+  },
+  {
+    "english": "Saltwater Fish",
+    "gujarati": "દરિયાઈ માછલી"
+  },
+  {
+    "english": "Freshwater Fish",
+    "gujarati": "મીઠા પાણીની માછલી"
+  },
+  {
+    "english": "Fishing License",
+    "gujarati": "માછીમારીનું લાઇસન્સ"
+  },
+  {
+    "english": "Fishing Season",
+    "gujarati": "માછીમારીની મોસમ"
+  },
+  {
+    "english": "Fishing Area",
+    "gujarati": "માછીમારી વિસ્તાર"
+  },
+  {
+    "english": "Harpoon",
+    "gujarati": "ભાલા જેવું માછીમારીનું હથિયાર"
+  },
+  {
+    "english": "Anchor",
+    "gujarati": "લંગર"
+  },
+  {
+    "english": "Oar",
+    "gujarati": "હલેસું"
+  },
+  {
+    "english": "Life Jacket",
+    "gujarati": "જીવનરક્ષક જેકેટ"
+  },
+  {
+    "english": "Sail",
+    "gujarati": "પટાવાળું પડ"
+  },
+  {
+    "english": "Compass",
+    "gujarati": "હોકાયંત્ર"
+  },
+  {
+    "english": "Weather Forecast",
+    "gujarati": "હવામાનની આગાહી"
+  },
+  {
+    "english": "Storm",
+    "gujarati": "તોફાન"
+  },
+  {
+    "english": "Fishing Port",
+    "gujarati": "માછીમારી બંદર"
+  },
+  {
+    "english": "Fishing Village",
+    "gujarati": "માછીમારોનું ગામ"
+  },
+  {
+    "english": "Fish Catch",
+    "gujarati": "માછલીનો પકડ"
+  },
+  {
+    "english": "Fish Basket",
+    "gujarati": "માછલીની ટોપલી"
+  },
+  {
+    "english": "Fish Crate",
+    "gujarati": "માછલીનું ક્રેટ"
+  },
+  {
+    "english": "Ice Box",
+    "gujarati": "બરફની પેટી"
+  },
+  {
+    "english": "Cold Storage",
+    "gujarati": "શીતગૃહ"
+  },
+  {
+    "english": "Seafood",
+    "gujarati": "દરિયાઈ ખોરાક"
+  },
+  {
+    "english": "Prawn",
+    "gujarati": "ઝીંગો"
+  },
+  {
+    "english": "Shrimp",
+    "gujarati": "નાનો ઝીંગો"
+  },
+  {
+    "english": "Crab",
+    "gujarati": "કરચલો"
+  },
+  {
+    "english": "Lobster",
+    "gujarati": "લોબસ્ટર"
+  },
+  {
+    "english": "Octopus",
+    "gujarati": "ઓક્ટોપસ"
+  },
+  {
+    "english": "Squid",
+    "gujarati": "સ્ક્વિડ"
+  },
+  {
+    "english": "Shellfish",
+    "gujarati": "શેલવાળી દરિયાઈ જીવ"
+  },
+  {
+    "english": "Seaweed",
+    "gujarati": "દરિયાઈ શેવાળ"
+  },
+  {
+    "english": "Coral",
+    "gujarati": "પ્રવાલ"
+  },
+  {
+    "english": "Pearl",
+    "gujarati": "મોતી"
+  },
+  {
+    "english": "Oyster",
+    "gujarati": "છીપ"
+  },
+  {
+    "english": "Dolphin",
+    "gujarati": "ડોલ્ફિન"
+  },
+  {
+    "english": "Whale",
+    "gujarati": "વ્હેલ"
+  },
+  {
+    "english": "Shark",
+    "gujarati": "શાર્ક"
+  },
+  {
+    "english": "Sea Turtle",
+    "gujarati": "દરિયાઈ કાચબો"
+  },
+  {
+    "english": "Jellyfish",
+    "gujarati": "જેલીફિશ"
+  },
+  {
+    "english": "Starfish",
+    "gujarati": "સ્ટારફિશ"
+  },
+  {
+    "english": "Fishing Gear",
+    "gujarati": "માછીમારીના સાધનો"
+  },
+  {
+    "english": "Fishing Equipment",
+    "gujarati": "માછીમારીનું સાધનસામગ્રી"
+  },
+  {
+    "english": "Fishing Dock",
+    "gujarati": "માછીમારીનો ઘાટ"
+  },
+  {
+    "english": "Jetty",
+    "gujarati": "જેટી"
+  },
+  {
+    "english": "Boat Engine",
+    "gujarati": "હોડીનું એન્જિન"
+  },
+  {
+    "english": "Fishing Vessel",
+    "gujarati": "માછીમારીનું જહાજ"
+  },
+  {
+    "english": "Fish Cage",
+    "gujarati": "માછલીનો પાંજરો"
+  },
+  {
+    "english": "Fish Feed",
+    "gujarati": "માછલીનો ખોરાક"
+  },
+  {
+    "english": "Fish Seed",
+    "gujarati": "માછલીના બચ્ચાં"
+  },
+  {
+    "english": "Aquaculture",
+    "gujarati": "મત્સ્ય ઉછેર"
+  },
+  {
+    "english": "Fish Breeding",
+    "gujarati": "માછલીનું સંવર્ધન"
+  },
+  {
+    "english": "Fish Hatchery",
+    "gujarati": "મત્સ્ય બીજ ઉત્પાદન કેન્દ્ર"
+  },
+  {
+    "english": "Marine Life",
+    "gujarati": "દરિયાઈ જીવન"
+  },
+  {
+    "english": "Sea Creature",
+    "gujarati": "દરિયાઈ જીવ"
+  },
+  {
+    "english": "Fishing Ban",
+    "gujarati": "માછીમારી પર પ્રતિબંધ"
+  },
+  {
+    "english": "Fishing Permit",
+    "gujarati": "માછીમારીની પરવાનગી"
+  },
+  {
+    "english": "Conservation",
+    "gujarati": "સંરક્ષણ"
+  },
+  {
+    "english": "Endangered Species",
+    "gujarati": "લુપ્તપ્રાય પ્રજાતિ"
+  },
+  {
+    "english": "Pollution",
+    "gujarati": "પ્રદૂષણ"
+  },
+  {
+    "english": "Clean Water",
+    "gujarati": "સ્વચ્છ પાણી"
+  },
+  {
+    "english": "Fishing Competition",
+    "gujarati": "માછીમારી સ્પર્ધા"
+  },
+  {
+    "english": "Fish Curry",
+    "gujarati": "માછલીનું શાક"
+  },
+  {
+    "english": "Grilled Fish",
+    "gujarati": "શેકેલી માછલી"
+  },
+  {
+    "english": "Fish Fry",
+    "gujarati": "તળેલી માછલી"
+  },
+  {
+    "english": "Fish Oil",
+    "gujarati": "માછલીનું તેલ"
   }
 ]
