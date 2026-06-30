@@ -1,5 +1,37 @@
 [
   {
+    "english": "Zodiac Sign",
+    "gujarati": "રાશિ"
+  },
+  {
+    "english": "Horoscope",
+    "gujarati": "રાશિફળ"
+  },
+  {
+    "english": "Astrology",
+    "gujarati": "જ્યોતિષશાસ્ત્ર"
+  },
+  {
+    "english": "Astrologer",
+    "gujarati": "જ્યોતિષી"
+  },
+  {
+    "english": "Birth Chart",
+    "gujarati": "જન્મકુંડળી"
+  },
+  {
+    "english": "Planet",
+    "gujarati": "ગ્રહ"
+  },
+  {
+    "english": "Star",
+    "gujarati": "તારો"
+  },
+  {
+    "english": "Constellation",
+    "gujarati": "નક્ષત્રમંડળ"
+  },
+  {
     "english": "Aries",
     "gujarati": "મેષ"
   },
@@ -18,5 +50,354 @@
   {
     "english": "Leo",
     "gujarati": "સિંહ"
+  },
+  {
+    "english": "Virgo",
+    "gujarati": "કન્યા"
+  },
+  {
+    "english": "Libra",
+    "gujarati": "તુલા"
+  },
+  {
+    "english": "Scorpio",
+    "gujarati": "વૃશ્ચિક"
+  },
+  {
+    "english": "Sagittarius",
+    "gujarati": "ધન"
+  },
+  {
+    "english": "Capricorn",
+    "gujarati": "મકર"
+  },
+  {
+    "english": "Aquarius",
+    "gujarati": "કુંભ"
+  },
+  {
+    "english": "Pisces",
+    "gujarati": "મીન"
+  },
+  {
+    "english": "Sun Sign",
+    "gujarati": "સૂર્ય રાશિ"
+  },
+  {
+    "english": "Moon Sign",
+    "gujarati": "ચંદ્ર રાશિ"
+  },
+  {
+    "english": "Lucky Number",
+    "gujarati": "શુભ અંક"
+  },
+  {
+    "english": "Lucky Color",
+    "gujarati": "શુભ રંગ"
+  },
+  {
+    "english": "Lucky Day",
+    "gujarati": "શુભ દિવસ"
+  },
+  {
+    "english": "Zodiac Wheel",
+    "gujarati": "રાશિચક્ર"
+  },
+  {
+    "english": "Ascendant",
+    "gujarati": "લગ્ન"
+  },
+  {
+    "english": "Nakshatra",
+    "gujarati": "નક્ષત્ર"
+  },
+  {
+    "english": "Rashi",
+    "gujarati": "રાશિ"
+  },
+  {
+    "english": "House",
+    "gujarati": "ભાવ"
+  },
+  {
+    "english": "First House",
+    "gujarati": "પ્રથમ ભાવ"
+  },
+  {
+    "english": "Second House",
+    "gujarati": "બીજો ભાવ"
+  },
+  {
+    "english": "Third House",
+    "gujarati": "ત્રીજો ભાવ"
+  },
+  {
+    "english": "Fourth House",
+    "gujarati": "ચોથો ભાવ"
+  },
+  {
+    "english": "Fifth House",
+    "gujarati": "પાંચમો ભાવ"
+  },
+  {
+    "english": "Sixth House",
+    "gujarati": "છઠ્ઠો ભાવ"
+  },
+  {
+    "english": "Seventh House",
+    "gujarati": "સાતમો ભાવ"
+  },
+  {
+    "english": "Eighth House",
+    "gujarati": "આઠમો ભાવ"
+  },
+  {
+    "english": "Ninth House",
+    "gujarati": "નવમો ભાવ"
+  },
+  {
+    "english": "Tenth House",
+    "gujarati": "દસમો ભાવ"
+  },
+  {
+    "english": "Eleventh House",
+    "gujarati": "અગિયારમો ભાવ"
+  },
+  {
+    "english": "Twelfth House",
+    "gujarati": "બારમો ભાવ"
+  },
+  {
+    "english": "Prediction",
+    "gujarati": "ભવિષ્યવાણી"
+  },
+  {
+    "english": "Future",
+    "gujarati": "ભવિષ્ય"
+  },
+  {
+    "english": "Fortune",
+    "gujarati": "ભાગ્ય"
+  },
+  {
+    "english": "Destiny",
+    "gujarati": "નિયતિ"
+  },
+  {
+    "english": "Personality",
+    "gujarati": "વ્યક્તિત્વ"
+  },
+  {
+    "english": "Compatibility",
+    "gujarati": "સુસંગતતા"
+  },
+  {
+    "english": "Prediction Chart",
+    "gujarati": "ભવિષ્યવાણી ચાર્ટ"
+  },
+  {
+    "english": "Birth Time",
+    "gujarati": "જન્મ સમય"
+  },
+  {
+    "english": "Sun",
+    "gujarati": "સૂર્ય"
+  },
+  {
+    "english": "Moon",
+    "gujarati": "ચંદ્ર"
+  },
+  {
+    "english": "Mars",
+    "gujarati": "મંગળ"
+  },
+  {
+    "english": "Mercury",
+    "gujarati": "બુધ"
+  },
+  {
+    "english": "Jupiter",
+    "gujarati": "ગુરુ"
+  },
+  {
+    "english": "Venus",
+    "gujarati": "શુક્ર"
+  },
+  {
+    "english": "Saturn",
+    "gujarati": "શનિ"
+  },
+  {
+    "english": "Rahu",
+    "gujarati": "રાહુ"
+  },
+  {
+    "english": "Ketu",
+    "gujarati": "કેતુ"
+  },
+  {
+    "english": "Eclipse",
+    "gujarati": "ગ્રહણ"
+  },
+  {
+    "english": "Solar Eclipse",
+    "gujarati": "સૂર્યગ્રહણ"
+  },
+  {
+    "english": "Lunar Eclipse",
+    "gujarati": "ચંદ્રગ્રહણ"
+  },
+  {
+    "english": "Transit",
+    "gujarati": "ગોચર"
+  },
+  {
+    "english": "Retrograde",
+    "gujarati": "વક્રી"
+  },
+  {
+    "english": "Conjunction",
+    "gujarati": "યુતિ"
+  },
+  {
+    "english": "Aspect",
+    "gujarati": "દૃષ્ટિ"
+  },
+  {
+    "english": "Dosha",
+    "gujarati": "દોષ"
+  },
+  {
+    "english": "Manglik Dosha",
+    "gujarati": "માંગલિક દોષ"
+  },
+  {
+    "english": "Yoga",
+    "gujarati": "યોગ"
+  },
+  {
+    "english": "Raj Yoga",
+    "gujarati": "રાજયોગ"
+  },
+  {
+    "english": "Dasha",
+    "gujarati": "દશા"
+  },
+  {
+    "english": "Mahadasha",
+    "gujarati": "મહાદશા"
+  },
+  {
+    "english": "Antardasha",
+    "gujarati": "અંતર્દશા"
+  },
+  {
+    "english": "Remedy",
+    "gujarati": "ઉપાય"
+  },
+  {
+    "english": "Gem Recommendation",
+    "gujarati": "રત્નની ભલામણ"
+  },
+  {
+    "english": "Zodiac Compatibility",
+    "gujarati": "રાશિ સુસંગતતા"
+  },
+  {
+    "english": "Daily Horoscope",
+    "gujarati": "દૈનિક રાશિફળ"
+  },
+  {
+    "english": "Weekly Horoscope",
+    "gujarati": "સાપ્તાહિક રાશિફળ"
+  },
+  {
+    "english": "Monthly Horoscope",
+    "gujarati": "માસિક રાશિફળ"
+  },
+  {
+    "english": "Yearly Horoscope",
+    "gujarati": "વાર્ષિક રાશિફળ"
+  },
+  {
+    "english": "Lucky Stone",
+    "gujarati": "શુભ રત્ન"
+  },
+  {
+    "english": "Lucky Gem",
+    "gujarati": "શુભ રત્ન"
+  },
+  {
+    "english": "Lucky Direction",
+    "gujarati": "શુભ દિશા"
+  },
+  {
+    "english": "Lucky Time",
+    "gujarati": "શુભ સમય"
+  },
+  {
+    "english": "Auspicious Time",
+    "gujarati": "શુભ મુહૂર્ત"
+  },
+  {
+    "english": "Inauspicious Time",
+    "gujarati": "અશુભ સમય"
+  },
+  {
+    "english": "Muhurat",
+    "gujarati": "મુહૂર્ત"
+  },
+  {
+    "english": "Panchang",
+    "gujarati": "પંચાંગ"
+  },
+  {
+    "english": "Tithi",
+    "gujarati": "તિથિ"
+  },
+  {
+    "english": "Yoga (Panchang)",
+    "gujarati": "યોગ"
+  },
+  {
+    "english": "Karana",
+    "gujarati": "કરણ"
+  },
+  {
+    "english": "Weekday",
+    "gujarati": "વાર"
+  },
+  {
+    "english": "Birth Star",
+    "gujarati": "જન્મ નક્ષત્ર"
+  },
+  {
+    "english": "Gem Therapy",
+    "gujarati": "રત્ન ઉપચાર"
+  },
+  {
+    "english": "Astrological Remedy",
+    "gujarati": "જ્યોતિષીય ઉપાય"
+  },
+  {
+    "english": "Palmistry",
+    "gujarati": "હસ્તરેખાશાસ્ત્ર"
+  },
+  {
+    "english": "Numerology",
+    "gujarati": "અંકશાસ્ત્ર"
+  },
+  {
+    "english": "Fortune Teller",
+    "gujarati": "ભવિષ્યવક્તા"
+  },
+  {
+    "english": "Prediction",
+    "gujarati": "આગાહી"
+  },
+  {
+    "english": "Good Fortune",
+    "gujarati": "સૌભાગ્ય"
   }
 ]
+
