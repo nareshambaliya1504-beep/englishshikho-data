@@ -1,10 +1,14 @@
 [
   {
+    "english": "Dry Fruit",
+    "gujarati": "સૂકો મેવો"
+  },
+  {
     "english": "Almond",
     "gujarati": "બદામ"
   },
   {
-    "english": "Cashew",
+    "english": "Cashew Nut",
     "gujarati": "કાજુ"
   },
   {
@@ -18,5 +22,381 @@
   {
     "english": "Raisin",
     "gujarati": "કિસમિસ"
+  },
+  {
+    "english": "Black Raisin",
+    "gujarati": "કાળી કિસમિસ"
+  },
+  {
+    "english": "Sultana",
+    "gujarati": "સોનેરી કિસમિસ"
+  },
+  {
+    "english": "Date",
+    "gujarati": "ખજૂર"
+  },
+  {
+    "english": "Dry Date",
+    "gujarati": "ખારેક"
+  },
+  {
+    "english": "Fig",
+    "gujarati": "અંજીર"
+  },
+  {
+    "english": "Apricot",
+    "gujarati": "જરદાળુ"
+  },
+  {
+    "english": "Prune",
+    "gujarati": "સૂકું આલુ"
+  },
+  {
+    "english": "Pine Nut",
+    "gujarati": "ચીલગોઝા"
+  },
+  {
+    "english": "Macadamia Nut",
+    "gujarati": "મેકાડેમિયા નટ"
+  },
+  {
+    "english": "Hazelnut",
+    "gujarati": "હેઝલનટ"
+  },
+  {
+    "english": "Pecan",
+    "gujarati": "પિકાન"
+  },
+  {
+    "english": "Brazil Nut",
+    "gujarati": "બ્રાઝિલ નટ"
+  },
+  {
+    "english": "Chestnut",
+    "gujarati": "ચેસ્ટનટ"
+  },
+  {
+    "english": "Peanut",
+    "gujarati": "મગફળી"
+  },
+  {
+    "english": "Coconut",
+    "gujarati": "નાળિયેર"
+  },
+  {
+    "english": "Dry Coconut",
+    "gujarati": "કોપરું"
+  },
+  {
+    "english": "Betel Nut",
+    "gujarati": "સોપારી"
+  },
+  {
+    "english": "Charoli",
+    "gujarati": "ચારોળી"
+  },
+  {
+    "english": "Lotus Seed",
+    "gujarati": "મખાણા"
+  },
+  {
+    "english": "Mixed Dry Fruits",
+    "gujarati": "મિશ્ર સૂકો મેવો"
+  },
+  {
+    "english": "Mixed Nuts",
+    "gujarati": "મિશ્ર બદામ"
+  },
+  {
+    "english": "Nut",
+    "gujarati": "બદામ જાતિનું ફળ"
+  },
+  {
+    "english": "Seed",
+    "gujarati": "બીજ"
+  },
+  {
+    "english": "Pumpkin Seed",
+    "gujarati": "કોળાના બીજ"
+  },
+  {
+    "english": "Sunflower Seed",
+    "gujarati": "સૂર્યમુખીના બીજ"
+  },
+  {
+    "english": "Watermelon Seed",
+    "gujarati": "તરબૂચના બીજ"
+  },
+  {
+    "english": "Melon Seed",
+    "gujarati": "ખરબૂજાના બીજ"
+  },
+  {
+    "english": "Flax Seed",
+    "gujarati": "અળસીના બીજ"
+  },
+  {
+    "english": "Chia Seed",
+    "gujarati": "ચિયા બીજ"
+  },
+  {
+    "english": "Sesame Seed",
+    "gujarati": "તલ"
+  },
+  {
+    "english": "Poppy Seed",
+    "gujarati": "ખસખસ"
+  },
+  {
+    "english": "Fennel Seed",
+    "gujarati": "વરિયાળી"
+  },
+  {
+    "english": "Cumin Seed",
+    "gujarati": "જીરું"
+  },
+  {
+    "english": "Carom Seed",
+    "gujarati": "અજમો"
+  },
+  {
+    "english": "Mustard Seed",
+    "gujarati": "રાઈ"
+  },
+  {
+    "english": "Edible Seed",
+    "gujarati": "ખાદ્ય બીજ"
+  },
+  {
+    "english": "Roasted Almond",
+    "gujarati": "શેકેલી બદામ"
+  },
+  {
+    "english": "Roasted Cashew",
+    "gujarati": "શેકેલું કાજુ"
+  },
+  {
+    "english": "Salted Pistachio",
+    "gujarati": "મીઠું ચડાવેલા પિસ્તા"
+  },
+  {
+    "english": "Raw Almond",
+    "gujarati": "કાચી બદામ"
+  },
+  {
+    "english": "Raw Cashew",
+    "gujarati": "કાચું કાજુ"
+  },
+  {
+    "english": "Dried Berry",
+    "gujarati": "સૂકવેલ બેરી"
+  },
+  {
+    "english": "Cranberry",
+    "gujarati": "ક્રેનબેરી"
+  },
+  {
+    "english": "Blueberry",
+    "gujarati": "બ્લૂબેરી"
+  },
+  {
+    "english": "Goji Berry",
+    "gujarati": "ગોજી બેરી"
+  },
+  {
+    "english": "Mulberry",
+    "gujarati": "શેતૂર"
+  },
+  {
+    "english": "Dried Cherry",
+    "gujarati": "સૂકવેલી ચેરી"
+  },
+  {
+    "english": "Dried Mango",
+    "gujarati": "સૂકવેલી કેરી"
+  },
+  {
+    "english": "Dried Apple",
+    "gujarati": "સૂકવેલું સફરજન"
+  },
+  {
+    "english": "Dried Banana",
+    "gujarati": "સૂકવેલું કેળું"
+  },
+  {
+    "english": "Dried Pineapple",
+    "gujarati": "સૂકવેલું અનાનસ"
+  },
+  {
+    "english": "Dried Coconut",
+    "gujarati": "સૂકવેલું કોપરું"
+  },
+  {
+    "english": "Dry Grapes",
+    "gujarati": "સૂકી દ્રાક્ષ"
+  },
+  {
+    "english": "Mixed Seeds",
+    "gujarati": "મિશ્ર બીજ"
+  },
+  {
+    "english": "Kernel",
+    "gujarati": "બીજની અંદરનો ભાગ"
+  },
+  {
+    "english": "Shell",
+    "gujarati": "કઠણ છાલ"
+  },
+  {
+    "english": "Nutcracker",
+    "gujarati": "બદામ તોડવાનું સાધન"
+  },
+  {
+    "english": "Snack",
+    "gujarati": "નાસ્તો"
+  },
+  {
+    "english": "Healthy Snack",
+    "gujarati": "આરોગ્યપ્રદ નાસ્તો"
+  },
+  {
+    "english": "Nutrition",
+    "gujarati": "પોષણ"
+  },
+  {
+    "english": "Protein",
+    "gujarati": "પ્રોટીન"
+  },
+  {
+    "english": "Fiber",
+    "gujarati": "રેસા"
+  },
+  {
+    "english": "Vitamin",
+    "gujarati": "વિટામિન"
+  },
+  {
+    "english": "Mineral",
+    "gujarati": "ખનિજ"
+  },
+  {
+    "english": "Calcium",
+    "gujarati": "કેલ્શિયમ"
+  },
+  {
+    "english": "Iron",
+    "gujarati": "લોહતત્ત્વ"
+  },
+  {
+    "english": "Magnesium",
+    "gujarati": "મેગ્નેશિયમ"
+  },
+  {
+    "english": "Potassium",
+    "gujarati": "પોટેશિયમ"
+  },
+  {
+    "english": "Antioxidant",
+    "gujarati": "પ્રતિઑક્સિડન્ટ"
+  },
+  {
+    "english": "Energy",
+    "gujarati": "ઊર્જા"
+  },
+  {
+    "english": "Healthy Diet",
+    "gujarati": "આરોગ્યપ્રદ આહાર"
+  },
+  {
+    "english": "Balanced Diet",
+    "gujarati": "સંતુલિત આહાર"
+  },
+  {
+    "english": "Nut Mix",
+    "gujarati": "મિશ્ર સૂકો મેવો"
+  },
+  {
+    "english": "Dry Fruit Powder",
+    "gujarati": "સૂકા મેવાનો પાઉડર"
+  },
+  {
+    "english": "Dry Fruit Milkshake",
+    "gujarati": "સૂકા મેવાનો મિલ્કશેક"
+  },
+  {
+    "english": "Dry Fruit Laddu",
+    "gujarati": "સૂકા મેવાનો લાડુ"
+  },
+  {
+    "english": "Dry Fruit Halwa",
+    "gujarati": "સૂકા મેવાનો હલવો"
+  },
+  {
+    "english": "Dry Fruit Barfi",
+    "gujarati": "સૂકા મેવાની બરફી"
+  },
+  {
+    "english": "Dry Fruit Chikki",
+    "gujarati": "સૂકા મેવાની ચીક્કી"
+  },
+  {
+    "english": "Roasted Nuts",
+    "gujarati": "શેકેલા સૂકા મેવા"
+  },
+  {
+    "english": "Salted Nuts",
+    "gujarati": "મીઠા સૂકા મેવા"
+  },
+  {
+    "english": "Unsalted Nuts",
+    "gujarati": "મીઠા વગરના સૂકા મેવા"
+  },
+  {
+    "english": "Organic Dry Fruits",
+    "gujarati": "જૈવિક સૂકો મેવો"
+  },
+  {
+    "english": "Premium Dry Fruits",
+    "gujarati": "ઉત્તમ ગુણવત્તાનો સૂકો મેવો"
+  },
+  {
+    "english": "Dry Fruit Box",
+    "gujarati": "સૂકા મેવાનો બોક્સ"
+  },
+  {
+    "english": "Gift Pack",
+    "gujarati": "ભેટ પેક"
+  },
+  {
+    "english": "Vacuum Pack",
+    "gujarati": "વેક્યૂમ પેક"
+  },
+  {
+    "english": "Airtight Container",
+    "gujarati": "હવાચુસ્ત ડબ્બો"
+  },
+  {
+    "english": "Shelf Life",
+    "gujarati": "સંગ્રહ સમય"
+  },
+  {
+    "english": "Freshness",
+    "gujarati": "તાજગી"
+  },
+  {
+    "english": "Quality",
+    "gujarati": "ગુણવત્તા"
+  },
+  {
+    "english": "Natural",
+    "gujarati": "કુદરતી"
+  },
+  {
+    "english": "Nutritious",
+    "gujarati": "પૌષ્ટિક"
+  },
+  {
+    "english": "Health Benefits",
+    "gujarati": "આરોગ્ય લાભ"
   }
 ]
