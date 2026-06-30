@@ -1,11 +1,15 @@
 [
   {
-    "english": "Sun",
-    "gujarati": "સૂર્ય"
+    "english": "Universe",
+    "gujarati": "બ્રહ્માંડ"
   },
   {
-    "english": "Moon",
-    "gujarati": "ચંદ્ર"
+    "english": "Galaxy",
+    "gujarati": "આકાશગંગા"
+  },
+  {
+    "english": "Solar System",
+    "gujarati": "સૂર્યમંડળ"
   },
   {
     "english": "Star",
@@ -16,7 +20,383 @@
     "gujarati": "ગ્રહ"
   },
   {
-    "english": "Galaxy",
+    "english": "Earth",
+    "gujarati": "પૃથ્વી"
+  },
+  {
+    "english": "Moon",
+    "gujarati": "ચંદ્ર"
+  },
+  {
+    "english": "Sun",
+    "gujarati": "સૂર્ય"
+  },
+  {
+    "english": "Mercury",
+    "gujarati": "બુધ ગ્રહ"
+  },
+  {
+    "english": "Venus",
+    "gujarati": "શુક્ર ગ્રહ"
+  },
+  {
+    "english": "Mars",
+    "gujarati": "મંગળ ગ્રહ"
+  },
+  {
+    "english": "Jupiter",
+    "gujarati": "ગુરુ ગ્રહ"
+  },
+  {
+    "english": "Saturn",
+    "gujarati": "શનિ ગ્રહ"
+  },
+  {
+    "english": "Uranus",
+    "gujarati": "યુરેનસ ગ્રહ"
+  },
+  {
+    "english": "Neptune",
+    "gujarati": "નેપ્ચ્યુન ગ્રહ"
+  },
+  {
+    "english": "Pluto",
+    "gujarati": "પ્લુટો"
+  },
+  {
+    "english": "Asteroid",
+    "gujarati": "લઘુગ્રહ"
+  },
+  {
+    "english": "Comet",
+    "gujarati": "ધૂમકેતુ"
+  },
+  {
+    "english": "Meteor",
+    "gujarati": "ઉલ્કા"
+  },
+  {
+    "english": "Meteorite",
+    "gujarati": "ઉલ્કાખંડ"
+  },
+  {
+    "english": "Orbit",
+    "gujarati": "કક્ષા"
+  },
+  {
+    "english": "Constellation",
+    "gujarati": "નક્ષત્ર સમૂહ"
+  },
+  {
+    "english": "Nebula",
+    "gujarati": "નિહારિકા"
+  },
+  {
+    "english": "Black Hole",
+    "gujarati": "કાળું છિદ્ર"
+  },
+  {
+    "english": "Satellite",
+    "gujarati": "ઉપગ્રહ"
+  },
+  {
+    "english": "Astronaut",
+    "gujarati": "અવકાશયાત્રી"
+  },
+  {
+    "english": "Space",
+    "gujarati": "અવકાશ"
+  },
+  {
+    "english": "Spacecraft",
+    "gujarati": "અવકાશયાન"
+  },
+  {
+    "english": "Rocket",
+    "gujarati": "રોકેટ"
+  },
+  {
+    "english": "Spaceship",
+    "gujarati": "અવકાશ જહાજ"
+  },
+  {
+    "english": "Space Station",
+    "gujarati": "અવકાશ મથક"
+  },
+  {
+    "english": "Launch",
+    "gujarati": "પ્રક્ષેપણ"
+  },
+  {
+    "english": "Landing",
+    "gujarati": "ઉતરાણ"
+  },
+  {
+    "english": "Gravity",
+    "gujarati": "ગુરુત્વાકર્ષણ"
+  },
+  {
+    "english": "Zero Gravity",
+    "gujarati": "શૂન્ય ગુરુત્વાકર્ષણ"
+  },
+  {
+    "english": "Vacuum",
+    "gujarati": "નિર્વાત"
+  },
+  {
+    "english": "Light Year",
+    "gujarati": "પ્રકાશ વર્ષ"
+  },
+  {
+    "english": "Astronomy",
+    "gujarati": "ખગોળશાસ્ત્ર"
+  },
+  {
+    "english": "Astronomer",
+    "gujarati": "ખગોળશાસ્ત્રી"
+  },
+  {
+    "english": "Telescope",
+    "gujarati": "દૂરબીન"
+  },
+  {
+    "english": "Observatory",
+    "gujarati": "વેધશાળા"
+  },
+  {
+    "english": "Eclipse",
+    "gujarati": "ગ્રહણ"
+  },
+  {
+    "english": "Solar Eclipse",
+    "gujarati": "સૂર્યગ્રહણ"
+  },
+  {
+    "english": "Lunar Eclipse",
+    "gujarati": "ચંદ્રગ્રહણ"
+  },
+  {
+    "english": "Milky Way",
     "gujarati": "આકાશગંગા"
+  },
+  {
+    "english": "Cosmos",
+    "gujarati": "વિશ્વ"
+  },
+  {
+    "english": "Cosmic Ray",
+    "gujarati": "બ્રહ્માંડ કિરણ"
+  },
+  {
+    "english": "Dark Matter",
+    "gujarati": "અદૃશ્ય દ્રવ્ય"
+  },
+  {
+    "english": "Dark Energy",
+    "gujarati": "અદૃશ્ય ઊર્જા"
+  },
+  {
+    "english": "Exoplanet",
+    "gujarati": "બાહ્ય ગ્રહ"
+  },
+  {
+    "english": "Dwarf Planet",
+    "gujarati": "વામન ગ્રહ"
+  },
+  {
+    "english": "Celestial Body",
+    "gujarati": "આકાશી પિંડ"
+  },
+  {
+    "english": "Interstellar",
+    "gujarati": "તારાઓ વચ્ચેનું"
+  },
+  {
+    "english": "Intergalactic",
+    "gujarati": "આકાશગંગાઓ વચ્ચેનું"
+  },
+  {
+    "english": "Supernova",
+    "gujarati": "મહાવિસ્ફોટક તારો"
+  },
+  {
+    "english": "Red Giant",
+    "gujarati": "લાલ વિશાળ તારો"
+  },
+  {
+    "english": "White Dwarf",
+    "gujarati": "શ્વેત વામન તારો"
+  },
+  {
+    "english": "Neutron Star",
+    "gujarati": "ન્યુટ્રોન તારો"
+  },
+  {
+    "english": "Pulsar",
+    "gujarati": "ધબકતો ન્યુટ્રોન તારો"
+  },
+  {
+    "english": "Quasar",
+    "gujarati": "ક્વેસાર"
+  },
+  {
+    "english": "Cluster",
+    "gujarati": "સમૂહ"
+  },
+  {
+    "english": "Star Cluster",
+    "gujarati": "તારાઓનો સમૂહ"
+  },
+  {
+    "english": "Moonlight",
+    "gujarati": "ચાંદની"
+  },
+  {
+    "english": "Sunlight",
+    "gujarati": "સૂર્યપ્રકાશ"
+  },
+  {
+    "english": "Sunrise",
+    "gujarati": "સૂર્યોદય"
+  },
+  {
+    "english": "Sunset",
+    "gujarati": "સૂર્યાસ્ત"
+  },
+  {
+    "english": "Moonrise",
+    "gujarati": "ચંદ્રોદય"
+  },
+  {
+    "english": "Moonset",
+    "gujarati": "ચંદ્રાસ્ત"
+  },
+  {
+    "english": "Starlight",
+    "gujarati": "તારાપ્રકાશ"
+  },
+  {
+    "english": "North Star",
+    "gujarati": "ધ્રુવ તારો"
+  },
+  {
+    "english": "Equator",
+    "gujarati": "વિષુવવૃત્ત"
+  },
+  {
+    "english": "Hemisphere",
+    "gujarati": "ગોળાર્ધ"
+  },
+  {
+    "english": "Axis",
+    "gujarati": "ધરી"
+  },
+  {
+    "english": "Rotation",
+    "gujarati": "પરિભ્રમણ"
+  },
+  {
+    "english": "Revolution",
+    "gujarati": "પરિક્રમા"
+  },
+  {
+    "english": "Atmosphere",
+    "gujarati": "વાતાવરણ"
+  },
+  {
+    "english": "Magnetosphere",
+    "gujarati": "ચુંબકીય ક્ષેત્ર"
+  },
+  {
+    "english": "Aurora",
+    "gujarati": "ધ્રુવીય પ્રકાશ"
+  },
+  {
+    "english": "Aurora Borealis",
+    "gujarati": "ઉત્તરીય ધ્રુવીય પ્રકાશ"
+  },
+  {
+    "english": "Aurora Australis",
+    "gujarati": "દક્ષિણીય ધ્રુવીય પ્રકાશ"
+  },
+  {
+    "english": "Crater",
+    "gujarati": "ખાડો"
+  },
+  {
+    "english": "Surface",
+    "gujarati": "સપાટી"
+  },
+  {
+    "english": "Core",
+    "gujarati": "કેન્દ્રભાગ"
+  },
+  {
+    "english": "Mantle",
+    "gujarati": "મધ્યસ્તર"
+  },
+  {
+    "english": "Crust",
+    "gujarati": "પૃથ્વીનું બહારનું પડ"
+  },
+  {
+    "english": "Astrobiology",
+    "gujarati": "ખગોળજીવવિજ્ઞાન"
+  },
+  {
+    "english": "Alien",
+    "gujarati": "પરગ્રહવાસી"
+  },
+  {
+    "english": "Extraterrestrial",
+    "gujarati": "પૃથ્વી બહારનું"
+  },
+  {
+    "english": "Mission",
+    "gujarati": "અભિયાન"
+  },
+  {
+    "english": "Probe",
+    "gujarati": "અવકાશ તપાસયાન"
+  },
+  {
+    "english": "Rover",
+    "gujarati": "ગ્રહ સંશોધન વાહન"
+  },
+  {
+    "english": "Capsule",
+    "gujarati": "અવકાશ કેપ્સ્યુલ"
+  },
+  {
+    "english": "Docking",
+    "gujarati": "જોડાણ પ્રક્રિયા"
+  },
+  {
+    "english": "Launch Pad",
+    "gujarati": "પ્રક્ષેપણ મંચ"
+  },
+  {
+    "english": "Countdown",
+    "gujarati": "ઉલટી ગણતરી"
+  },
+  {
+    "english": "Spacewalk",
+    "gujarati": "અવકાશમાં ચાલવું"
+  },
+  {
+    "english": "Cosmonaut",
+    "gujarati": "કોસ્મોનોટ"
+  },
+  {
+    "english": "Satellite Dish",
+    "gujarati": "ઉપગ્રહ ડિશ"
+  },
+  {
+    "english": "Space Suit",
+    "gujarati": "અવકાશ પોશાક"
+  },
+  {
+    "english": "Big Bang",
+    "gujarati": "મહાવિસ્ફોટ"
   }
 ]
