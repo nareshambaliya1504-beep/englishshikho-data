@@ -1,22 +1,402 @@
 [
   {
-    "english": "Temple",
-    "gujarati": "મંદિર"
+    "english": "Religion",
+    "gujarati": "ધર્મ"
   },
   {
-    "english": "Prayer",
-    "gujarati": "પ્રાર્થના"
+    "english": "Faith",
+    "gujarati": "આસ્થા"
+  },
+  {
+    "english": "Belief",
+    "gujarati": "માન્યતા"
   },
   {
     "english": "God",
     "gujarati": "ભગવાન"
   },
   {
-    "english": "Festival",
-    "gujarati": "તહેવાર"
+    "english": "Goddess",
+    "gujarati": "દેવી"
+  },
+  {
+    "english": "Temple",
+    "gujarati": "મંદિર"
+  },
+  {
+    "english": "Mosque",
+    "gujarati": "મસ્જિદ"
+  },
+  {
+    "english": "Church",
+    "gujarati": "ચર્ચ"
+  },
+  {
+    "english": "Gurudwara",
+    "gujarati": "ગુરુદ્વારા"
+  },
+  {
+    "english": "Monastery",
+    "gujarati": "મઠ"
+  },
+  {
+    "english": "Prayer",
+    "gujarati": "પ્રાર્થના"
+  },
+  {
+    "english": "Worship",
+    "gujarati": "પૂજા"
   },
   {
     "english": "Devotion",
     "gujarati": "ભક્તિ"
+  },
+  {
+    "english": "Meditation",
+    "gujarati": "ધ્યાન"
+  },
+  {
+    "english": "Pilgrimage",
+    "gujarati": "તીર્થયાત્રા"
+  },
+  {
+    "english": "Pilgrim",
+    "gujarati": "તીર્થયાત્રી"
+  },
+  {
+    "english": "Holy Place",
+    "gujarati": "પવિત્ર સ્થળ"
+  },
+  {
+    "english": "Holy Book",
+    "gujarati": "ધર્મગ્રંથ"
+  },
+  {
+    "english": "Scripture",
+    "gujarati": "શાસ્ત્ર"
+  },
+  {
+    "english": "Saint",
+    "gujarati": "સંત"
+  },
+  {
+    "english": "Sage",
+    "gujarati": "ઋષિ"
+  },
+  {
+    "english": "Priest",
+    "gujarati": "પૂજારી"
+  },
+  {
+    "english": "Monk",
+    "gujarati": "સાધુ"
+  },
+  {
+    "english": "Nun",
+    "gujarati": "સાધ્વી"
+  },
+  {
+    "english": "Spirituality",
+    "gujarati": "આધ્યાત્મિકતા"
+  },
+  {
+    "english": "Prayer Hall",
+    "gujarati": "પ્રાર્થના હોલ"
+  },
+  {
+    "english": "Altar",
+    "gujarati": "વેદી"
+  },
+  {
+    "english": "Shrine",
+    "gujarati": "ધાર્મિક સ્થાન"
+  },
+  {
+    "english": "Idol",
+    "gujarati": "મૂર્તિ"
+  },
+  {
+    "english": "Statue",
+    "gujarati": "પ્રતિમા"
+  },
+  {
+    "english": "Offering",
+    "gujarati": "અર્પણ"
+  },
+  {
+    "english": "Incense",
+    "gujarati": "અગરબત્તી"
+  },
+  {
+    "english": "Lamp",
+    "gujarati": "દીવો"
+  },
+  {
+    "english": "Holy Water",
+    "gujarati": "પવિત્ર જળ"
+  },
+  {
+    "english": "Sacred Fire",
+    "gujarati": "પવિત્ર અગ્નિ"
+  },
+  {
+    "english": "Blessing",
+    "gujarati": "આશીર્વાદ"
+  },
+  {
+    "english": "Curse",
+    "gujarati": "શાપ"
+  },
+  {
+    "english": "Ritual",
+    "gujarati": "વિધિ"
+  },
+  {
+    "english": "Ceremony",
+    "gujarati": "સમારોહ"
+  },
+  {
+    "english": "Festival",
+    "gujarati": "તહેવાર"
+  },
+  {
+    "english": "Fast",
+    "gujarati": "ઉપવાસ"
+  },
+  {
+    "english": "Fasting",
+    "gujarati": "ઉપવાસ કરવો"
+  },
+  {
+    "english": "Charity",
+    "gujarati": "દાન"
+  },
+  {
+    "english": "Donation",
+    "gujarati": "દાન"
+  },
+  {
+    "english": "Forgiveness",
+    "gujarati": "ક્ષમા"
+  },
+  {
+    "english": "Compassion",
+    "gujarati": "કરુણા"
+  },
+  {
+    "english": "Mercy",
+    "gujarati": "દયા"
+  },
+  {
+    "english": "Peace",
+    "gujarati": "શાંતિ"
+  },
+  {
+    "english": "Truth",
+    "gujarati": "સત્ય"
+  },
+  {
+    "english": "Virtue",
+    "gujarati": "સદ્ગુણ"
+  },
+  {
+    "english": "Sin",
+    "gujarati": "પાપ"
+  },
+  {
+    "english": "Good Deed",
+    "gujarati": "સત્કર્મ"
+  },
+  {
+    "english": "Karma",
+    "gujarati": "કર્મ"
+  },
+  {
+    "english": "Soul",
+    "gujarati": "આત્મા"
+  },
+  {
+    "english": "Spirit",
+    "gujarati": "આત્મા"
+  },
+  {
+    "english": "Heaven",
+    "gujarati": "સ્વર્ગ"
+  },
+  {
+    "english": "Hell",
+    "gujarati": "નરક"
+  },
+  {
+    "english": "Salvation",
+    "gujarati": "મોક્ષ"
+  },
+  {
+    "english": "Liberation",
+    "gujarati": "મુક્તિ"
+  },
+  {
+    "english": "Rebirth",
+    "gujarati": "પુનર્જન્મ"
+  },
+  {
+    "english": "Destiny",
+    "gujarati": "ભાગ્ય"
+  },
+  {
+    "english": "Sacrifice",
+    "gujarati": "બલિદાન"
+  },
+  {
+    "english": "Holy",
+    "gujarati": "પવિત્ર"
+  },
+  {
+    "english": "Sacred",
+    "gujarati": "પવિત્ર"
+  },
+  {
+    "english": "Divine",
+    "gujarati": "દિવ્ય"
+  },
+  {
+    "english": "Miracle",
+    "gujarati": "ચમત્કાર"
+  },
+  {
+    "english": "Prophet",
+    "gujarati": "પયગંબર"
+  },
+  {
+    "english": "Disciple",
+    "gujarati": "શિષ્ય"
+  },
+  {
+    "english": "Follower",
+    "gujarati": "અનુયાયી"
+  },
+  {
+    "english": "Sermon",
+    "gujarati": "ધાર્મિક ઉપદેશ"
+  },
+  {
+    "english": "Preaching",
+    "gujarati": "પ્રવચન"
+  },
+  {
+    "english": "Chant",
+    "gujarati": "જાપ"
+  },
+  {
+    "english": "Mantra",
+    "gujarati": "મંત્ર"
+  },
+  {
+    "english": "Hymn",
+    "gujarati": "ભજન"
+  },
+  {
+    "english": "Devotee",
+    "gujarati": "ભક્ત"
+  },
+  {
+    "english": "Sacrifice",
+    "gujarati": "ત્યાગ"
+  },
+  {
+    "english": "Faithful",
+    "gujarati": "શ્રદ્ધાળુ"
+  },
+  {
+    "english": "Prayer Beads",
+    "gujarati": "માળા"
+  },
+  {
+    "english": "Temple Bell",
+    "gujarati": "મંદિરની ઘંટ"
+  },
+  {
+    "english": "Holy Ash",
+    "gujarati": "વિભૂતિ"
+  },
+  {
+    "english": "Tilak",
+    "gujarati": "તિલક"
+  },
+  {
+    "english": "Incense Stick",
+    "gujarati": "અગરબત્તી"
+  },
+  {
+    "english": "Camphor",
+    "gujarati": "કપૂર"
+  },
+  {
+    "english": "Coconut Offering",
+    "gujarati": "શ્રીફળ અર્પણ"
+  },
+  {
+    "english": "Garland",
+    "gujarati": "હાર"
+  },
+  {
+    "english": "Holy Temple",
+    "gujarati": "પવિત્ર મંદિર"
+  },
+  {
+    "english": "Ashram",
+    "gujarati": "આશ્રમ"
+  },
+  {
+    "english": "Hermitage",
+    "gujarati": "ઋષિ આશ્રમ"
+  },
+  {
+    "english": "Meditation Hall",
+    "gujarati": "ધ્યાન કક્ષ"
+  },
+  {
+    "english": "Devotional Song",
+    "gujarati": "ભક્તિ ગીત"
+  },
+  {
+    "english": "Scripture Reading",
+    "gujarati": "ધર્મગ્રંથનું પઠન"
+  },
+  {
+    "english": "Pilgrimage Site",
+    "gujarati": "તીર્થસ્થળ"
+  },
+  {
+    "english": "Religious Leader",
+    "gujarati": "ધાર્મિક આગેવાન"
+  },
+  {
+    "english": "Sacred River",
+    "gujarati": "પવિત્ર નદી"
+  },
+  {
+    "english": "Holy Mountain",
+    "gujarati": "પવિત્ર પર્વત"
+  },
+  {
+    "english": "Religious Ceremony",
+    "gujarati": "ધાર્મિક વિધિ"
+  },
+  {
+    "english": "Spiritual Teacher",
+    "gujarati": "આધ્યાત્મિક ગુરુ"
+  },
+  {
+    "english": "Grace",
+    "gujarati": "કૃપા"
+  },
+  {
+    "english": "Eternal Life",
+    "gujarati": "શાશ્વત જીવન"
+  },
+  {
+    "english": "Religious Harmony",
+    "gujarati": "ધાર્મિક સૌહાર્દ"
   }
 ]
