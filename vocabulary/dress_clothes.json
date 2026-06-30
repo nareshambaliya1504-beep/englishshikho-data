@@ -1,22 +1,402 @@
 [
   {
+    "english": "Dress",
+    "gujarati": "પોશાક"
+  },
+  {
+    "english": "Clothes",
+    "gujarati": "કપડાં"
+  },
+  {
     "english": "Shirt",
     "gujarati": "શર્ટ"
   },
   {
-    "english": "Pant",
+    "english": "T-Shirt",
+    "gujarati": "ટી-શર્ટ"
+  },
+  {
+    "english": "Pants",
     "gujarati": "પેન્ટ"
   },
   {
-    "english": "T-shirt",
-    "gujarati": "ટી-શર્ટ"
+    "english": "Jeans",
+    "gujarati": "જીન્સ"
+  },
+  {
+    "english": "Trousers",
+    "gujarati": "ટ્રાઉઝર"
+  },
+  {
+    "english": "Shorts",
+    "gujarati": "ચડી"
+  },
+  {
+    "english": "Kurta",
+    "gujarati": "કુર્તો"
+  },
+  {
+    "english": "Kurti",
+    "gujarati": "કુર્તી"
   },
   {
     "english": "Saree",
     "gujarati": "સાડી"
   },
   {
+    "english": "Blouse",
+    "gujarati": "બ્લાઉઝ"
+  },
+  {
+    "english": "Salwar",
+    "gujarati": "સલવાર"
+  },
+  {
+    "english": "Dupatta",
+    "gujarati": "દુપટ્ટો"
+  },
+  {
+    "english": "Lehenga",
+    "gujarati": "ચણિયો"
+  },
+  {
+    "english": "Ghagra",
+    "gujarati": "ઘાઘરો"
+  },
+  {
+    "english": "Choli",
+    "gujarati": "ચોળી"
+  },
+  {
+    "english": "Sherwani",
+    "gujarati": "શેરવાની"
+  },
+  {
+    "english": "Suit",
+    "gujarati": "સૂટ"
+  },
+  {
+    "english": "Coat",
+    "gujarati": "કોટ"
+  },
+  {
+    "english": "Blazer",
+    "gujarati": "બ્લેઝર"
+  },
+  {
+    "english": "Jacket",
+    "gujarati": "જેકેટ"
+  },
+  {
+    "english": "Sweater",
+    "gujarati": "સ્વેટર"
+  },
+  {
+    "english": "Hoodie",
+    "gujarati": "હૂડી"
+  },
+  {
+    "english": "Raincoat",
+    "gujarati": "રેઇનકોટ"
+  },
+  {
+    "english": "Scarf",
+    "gujarati": "સ્કાર્ફ"
+  },
+  {
+    "english": "Shawl",
+    "gujarati": "શાલ"
+  },
+  {
+    "english": "Stole",
+    "gujarati": "સ્ટોલ"
+  },
+  {
+    "english": "Muffler",
+    "gujarati": "મફલર"
+  },
+  {
+    "english": "Cap",
+    "gujarati": "ટોપી"
+  },
+  {
+    "english": "Hat",
+    "gujarati": "હેટ"
+  },
+  {
+    "english": "Turban",
+    "gujarati": "પાઘડી"
+  },
+  {
+    "english": "Tie",
+    "gujarati": "ટાઈ"
+  },
+  {
+    "english": "Bow Tie",
+    "gujarati": "બો ટાઈ"
+  },
+  {
+    "english": "Belt",
+    "gujarati": "પટ્ટો"
+  },
+  {
+    "english": "Socks",
+    "gujarati": "મોજાં"
+  },
+  {
     "english": "Shoes",
-    "gujarati": "જૂતા"
+    "gujarati": "જૂતાં"
+  },
+  {
+    "english": "Slippers",
+    "gujarati": "ચપ્પલ"
+  },
+  {
+    "english": "Sandals",
+    "gujarati": "સેન્ડલ"
+  },
+  {
+    "english": "Boots",
+    "gujarati": "બૂટ"
+  },
+  {
+    "english": "Sneakers",
+    "gujarati": "સ્પોર્ટ્સ શૂઝ"
+  },
+  {
+    "english": "High Heels",
+    "gujarati": "ઊંચી એડીના સેન્ડલ"
+  },
+  {
+    "english": "Gloves",
+    "gujarati": "હાથમોજાં"
+  },
+  {
+    "english": "Handkerchief",
+    "gujarati": "રૂમાલ"
+  },
+  {
+    "english": "Pocket",
+    "gujarati": "ખિસ્સો"
+  },
+  {
+    "english": "Zipper",
+    "gujarati": "ચેઇન"
+  },
+  {
+    "english": "Button",
+    "gujarati": "બટન"
+  },
+  {
+    "english": "Collar",
+    "gujarati": "કોલર"
+  },
+  {
+    "english": "Sleeve",
+    "gujarati": "બાંય"
+  },
+  {
+    "english": "Cuff",
+    "gujarati": "બાંયનો છેડો"
+  },
+  {
+    "english": "Pocket",
+    "gujarati": "ખિસ્સો"
+  },
+  {
+    "english": "Pocket Square",
+    "gujarati": "કોટના ખિસ્સાનો રૂમાલ"
+  },
+  {
+    "english": "Waistcoat",
+    "gujarati": "વેસ્ટકોટ"
+  },
+  {
+    "english": "Vest",
+    "gujarati": "બનિયાન"
+  },
+  {
+    "english": "Undershirt",
+    "gujarati": "અંદર પહેરવાનું બનિયાન"
+  },
+  {
+    "english": "Underwear",
+    "gujarati": "અંતર્વસ્ત્ર"
+  },
+  {
+    "english": "Bra",
+    "gujarati": "બ્રા"
+  },
+  {
+    "english": "Petticoat",
+    "gujarati": "ચણિયો (અંદર પહેરવાનો)"
+  },
+  {
+    "english": "Nightdress",
+    "gujarati": "રાત્રિના કપડાં"
+  },
+  {
+    "english": "Nightgown",
+    "gujarati": "નાઇટગાઉન"
+  },
+  {
+    "english": "Pajamas",
+    "gujarati": "પાયજામા"
+  },
+  {
+    "english": "Tracksuit",
+    "gujarati": "ટ્રેકસૂટ"
+  },
+  {
+    "english": "Sportswear",
+    "gujarati": "રમતગમતના કપડાં"
+  },
+  {
+    "english": "Uniform",
+    "gujarati": "ગણવેશ"
+  },
+  {
+    "english": "School Uniform",
+    "gujarati": "શાળાનો ગણવેશ"
+  },
+  {
+    "english": "Police Uniform",
+    "gujarati": "પોલીસનો ગણવેશ"
+  },
+  {
+    "english": "Doctor's Coat",
+    "gujarati": "ડૉક્ટરનો કોટ"
+  },
+  {
+    "english": "Apron",
+    "gujarati": "એપ્રન"
+  },
+  {
+    "english": "Bathrobe",
+    "gujarati": "નાહવાનો ઝભ્ભો"
+  },
+  {
+    "english": "Towel",
+    "gujarati": "ટુવાલ"
+  },
+  {
+    "english": "Fabric",
+    "gujarati": "કાપડ"
+  },
+  {
+    "english": "Cotton",
+    "gujarati": "સુતરાઉ કાપડ"
+  },
+  {
+    "english": "Silk",
+    "gujarati": "રેશમ"
+  },
+  {
+    "english": "Wool",
+    "gujarati": "ઊન"
+  },
+  {
+    "english": "Denim",
+    "gujarati": "ડેનિમ કાપડ"
+  },
+  {
+    "english": "Leather",
+    "gujarati": "ચામડું"
+  },
+  {
+    "english": "Linen",
+    "gujarati": "લિનન"
+  },
+  {
+    "english": "Polyester",
+    "gujarati": "પોલિએસ્ટર"
+  },
+  {
+    "english": "Nylon",
+    "gujarati": "નાયલોન"
+  },
+  {
+    "english": "Velvet",
+    "gujarati": "મખમલ"
+  },
+  {
+    "english": "Embroidery",
+    "gujarati": "ભરતકામ"
+  },
+  {
+    "english": "Pattern",
+    "gujarati": "ડિઝાઇન"
+  },
+  {
+    "english": "Stripe",
+    "gujarati": "ધારી"
+  },
+  {
+    "english": "Checkered",
+    "gujarati": "ચેકવાળું"
+  },
+  {
+    "english": "Plain",
+    "gujarati": "સાદું"
+  },
+  {
+    "english": "Traditional Dress",
+    "gujarati": "પરંપરાગત પોશાક"
+  },
+  {
+    "english": "Western Dress",
+    "gujarati": "પશ્ચિમી પોશાક"
+  },
+  {
+    "english": "Formal Wear",
+    "gujarati": "ઔપચારિક વસ્ત્રો"
+  },
+  {
+    "english": "Casual Wear",
+    "gujarati": "રોજિંદા કપડાં"
+  },
+  {
+    "english": "Winter Clothes",
+    "gujarati": "શિયાળાના કપડાં"
+  },
+  {
+    "english": "Summer Clothes",
+    "gujarati": "ઉનાળાના કપડાં"
+  },
+  {
+    "english": "Laundry",
+    "gujarati": "ધોવાણ"
+  },
+  {
+    "english": "Washing Machine",
+    "gujarati": "કપડાં ધોવાનું મશીન"
+  },
+  {
+    "english": "Iron",
+    "gujarati": "ઇસ્ત્રી"
+  },
+  {
+    "english": "Ironing",
+    "gujarati": "ઇસ્ત્રી કરવી"
+  },
+  {
+    "english": "Tailor",
+    "gujarati": "દરજી"
+  },
+  {
+    "english": "Measurement",
+    "gujarati": "માપ"
+  },
+  {
+    "english": "Size",
+    "gujarati": "માપ"
+  },
+  {
+    "english": "Fashion",
+    "gujarati": "ફેશન"
+  },
+  {
+    "english": "Clothing Store",
+    "gujarati": "કપડાંની દુકાન"
   }
 ]
