@@ -1,128 +1,5 @@
 [
-  {
-    "english": "Virus",
-    "gujarati": "કમ્પ્યુટર વાયરસ"
-  },
-  {
-    "english": "Antivirus",
-    "gujarati": "વાયરસથી સુરક્ષા આપતો કાર્યક્રમ"
-  },
-  {
-    "english": "Firewall",
-    "gujarati": "નેટવર્ક સુરક્ષા પ્રણાલી"
-  },
-  {
-    "english": "Backup",
-    "gujarati": "માહિતિની સુરક્ષિત નકલ"
-  },
-  {
-    "english": "Restore",
-    "gujarati": "પહેલાની સ્થિતિમાં પાછું લાવવું"
-  },
-  {
-    "english": "Encryption",
-    "gujarati": "માહિતિને ગુપ્ત સ્વરૂપમાં ફેરવવાની પ્રક્રિયા"
-  },
-  {
-    "english": "Decryption",
-    "gujarati": "ગુપ્ત માહિતીને મૂળ સ્વરૂપમાં લાવવાની પ્રક્રિયા"
-  },
-  {
-    "english": "Cyber Security",
-    "gujarati": "સાયબર સુરક્ષા"
-  },
-  {
-    "english": "Hacker",
-    "gujarati": "કમ્પ્યુટર સિસ્ટમમાં ગેરકાયદેસર પ્રવેશ કરનાર"
-  },
-  {
-    "english": "Bug",
-    "gujarati": "પ્રોગ્રામની ભૂલ"
-  },
-  {
-    "english": "Error",
-    "gujarati": "ભૂલ"
-  },
-  {
-    "english": "Coding",
-    "gujarati": "પ્રોગ્રામ લખવાની પ્રક્રિયા"
-  },
-  {
-    "english": "Programming",
-    "gujarati": "પ્રોગ્રામિંગ"
-  },
-  {
-    "english": "Source Code",
-    "gujarati": "મૂળ પ્રોગ્રામ કોડ"
-  },
-  {
-    "english": "Compiler",
-    "gujarati": "કોડનું ભાષાંતર કરનાર કાર્યક્રમ"
-  },
-  {
-    "english": "Debugging",
-    "gujarati": "પ્રોગ્રામની ભૂલો દૂર કરવાની પ્રક્રિયા"
-  },
-  {
-    "english": "Artificial Intelligence",
-    "gujarati": "કૃત્રિમ બુદ્ધિમત્તા"
-  },
-  {
-    "english": "Machine Learning",
-    "gujarati": "યંત્ર અધ્યયન"
-  },
-  {
-    "english": "Data",
-    "gujarati": "માહિતી"
-  },
-  {
-    "english": "Information",
-    "gujarati": "જાણકારી"
-  },
-  {
-    "english": "Digital",
-    "gujarati": "ડિજિટલ"
-  },
-  {
-    "english": "Technology",
-    "gujarati": "ટેકનોલોજી"
-  },
-  {
-    "english": "Website Developer",
-    "gujarati": "વેબસાઇટ બનાવનાર"
-  },
-  {
-    "english": "Software Developer",
-    "gujarati": "સોફ્ટવેર બનાવનાર"
-  },
-  {
-    "english": "Computer Engineer",
-    "gujarati": "કમ્પ્યુટર ઇજનેર"
-  }
-  {
-    "english": "Operating System",
-    "gujarati": "સંચાલન પ્રણાલી"
-  },
-  {
-    "english": "Windows",
-    "gujarati": "વિન્ડોઝ સંચાલન પ્રણાલી"
-  },
-  {
-    "english": "Linux",
-    "gujarati": "લિનક્સ સંચાલન પ્રણાલી"
-  },
-  {
-    "english": "macOS",
-    "gujarati": "મેક સંચાલન પ્રણાલી"
-  },
-  {
-    "english": "Software",
-    "gujarati": "સોફ્ટવેર (કાર્યક્રમો)"
-  },
-  {
-    "english": "Hardware",
-    "gujarati": "કમ્પ્યુટરના ભૌતિક ભાગો"
-  },
+
   {
     "english": "Application",
     "gujarati": "ઉપયોગી કાર્યક્રમ"
@@ -260,6 +137,131 @@
     "gujarati": "કડી"
   },
   {
+    "english": "Virus",
+    "gujarati": "કમ્પ્યુટર વાયરસ"
+  },
+  {
+    "english": "Antivirus",
+    "gujarati": "વાયરસથી સુરક્ષા આપતો કાર્યક્રમ"
+  },
+  {
+    "english": "Firewall",
+    "gujarati": "નેટવર્ક સુરક્ષા પ્રણાલી"
+  },
+  {
+    "english": "Backup",
+    "gujarati": "માહિતિની સુરક્ષિત નકલ"
+  },
+  {
+    "english": "Restore",
+    "gujarati": "પહેલાની સ્થિતિમાં પાછું લાવવું"
+  },
+  {
+    "english": "Encryption",
+    "gujarati": "માહિતિને ગુપ્ત સ્વરૂપમાં ફેરવવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Decryption",
+    "gujarati": "ગુપ્ત માહિતીને મૂળ સ્વરૂપમાં લાવવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Cyber Security",
+    "gujarati": "સાયબર સુરક્ષા"
+  },
+  {
+    "english": "Hacker",
+    "gujarati": "કમ્પ્યુટર સિસ્ટમમાં ગેરકાયદેસર પ્રવેશ કરનાર"
+  },
+  {
+    "english": "Bug",
+    "gujarati": "પ્રોગ્રામની ભૂલ"
+  },
+  {
+    "english": "Error",
+    "gujarati": "ભૂલ"
+  },
+  {
+    "english": "Coding",
+    "gujarati": "પ્રોગ્રામ લખવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Programming",
+    "gujarati": "પ્રોગ્રામિંગ"
+  },
+  {
+    "english": "Source Code",
+    "gujarati": "મૂળ પ્રોગ્રામ કોડ"
+  },
+  {
+    "english": "Compiler",
+    "gujarati": "કોડનું ભાષાંતર કરનાર કાર્યક્રમ"
+  },
+  {
+    "english": "Debugging",
+    "gujarati": "પ્રોગ્રામની ભૂલો દૂર કરવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Artificial Intelligence",
+    "gujarati": "કૃત્રિમ બુદ્ધિમત્તા"
+  },
+  {
+    "english": "Machine Learning",
+    "gujarati": "યંત્ર અધ્યયન"
+  },
+  {
+    "english": "Data",
+    "gujarati": "માહિતી"
+  },
+  {
+    "english": "Information",
+    "gujarati": "જાણકારી"
+  },
+  {
+    "english": "Digital",
+    "gujarati": "ડિજિટલ"
+  },
+  {
+    "english": "Technology",
+    "gujarati": "ટેકનોલોજી"
+  },
+  {
+    "english": "Website Developer",
+    "gujarati": "વેબસાઇટ બનાવનાર"
+  },
+  {
+    "english": "Software Developer",
+    "gujarati": "સોફ્ટવેર બનાવનાર"
+  },
+  {
+    "english": "Computer Engineer",
+    "gujarati": "કમ્પ્યુટર ઇજનેર"
+  }
+  {
+    "english": "Operating System",
+    "gujarati": "સંચાલન પ્રણાલી"
+  },
+  {
+    "english": "Windows",
+    "gujarati": "વિન્ડોઝ સંચાલન પ્રણાલી"
+  },
+  {
+    "english": "Linux",
+    "gujarati": "લિનક્સ સંચાલન પ્રણાલી"
+  },
+  {
+    "english": "macOS",
+    "gujarati": "મેક સંચાલન પ્રણાલી"
+  },
+  {
+    "english": "Software",
+    "gujarati": "સોફ્ટવેર (કાર્યક્રમો)"
+  },
+  {
+    "english": "Hardware",
+    "gujarati": "કમ્પ્યુટરના ભૌતિક ભાગો"
+  },
+  
+  {
     "english": "Web Page",
     "gujarati": "વેબ પૃષ્ઠ"
   },
@@ -298,5 +300,105 @@
   {
     "english": "Update",
     "gujarati": "સુધારો કરવો"
+  },
+  {
+    "english": "Computer",
+    "gujarati": "માહિતીની ગણતરી અને પ્રક્રિયા કરતું ઇલેક્ટ્રોનિક યંત્ર"
+  },
+  {
+    "english": "Laptop",
+    "gujarati": "ખોળામાં રાખીને વાપરી શકાય તેવું કમ્પ્યુટર"
+  },
+  {
+    "english": "Desktop Computer",
+    "gujarati": "ટેબલ પર રાખીને વપરાતું કમ્પ્યુટર"
+  },
+  {
+    "english": "Monitor",
+    "gujarati": "માહિતી દર્શાવતી સ્ક્રીન"
+  },
+  {
+    "english": "Screen",
+    "gujarati": "દર્શક પડદો"
+  },
+  {
+    "english": "Keyboard",
+    "gujarati": "લખાણ ટાઇપ કરવાનું સાધન"
+  },
+  {
+    "english": "Mouse",
+    "gujarati": "કર્સર ચલાવવાનું સાધન"
+  },
+  {
+    "english": "Touchpad",
+    "gujarati": "આંગળીથી નિયંત્રિત થતું સ્પર્શ પેડ"
+  },
+  {
+    "english": "CPU",
+    "gujarati": "મુખ્ય પ્રક્રિયા એકમ"
+  },
+  {
+    "english": "Processor",
+    "gujarati": "સૂચનાઓ પર પ્રક્રિયા કરતો ભાગ"
+  },
+  {
+    "english": "Motherboard",
+    "gujarati": "તમામ ભાગોને જોડતું મુખ્ય પરિપથ"
+  },
+  {
+    "english": "RAM",
+    "gujarati": "અસ્થાયી કાર્યકારી સ્મૃતિ"
+  },
+  {
+    "english": "Hard Disk",
+    "gujarati": "માહિતી સંગ્રહવાનું ઉપકરણ"
+  },
+  {
+    "english": "SSD",
+    "gujarati": "ઝડપી સંગ્રહ ઉપકરણ"
+  },
+  {
+    "english": "Graphics Card",
+    "gujarati": "ચિત્રો અને વિડિયો દર્શાવતો ભાગ"
+  },
+  {
+    "english": "Power Supply",
+    "gujarati": "વીજ પુરવઠો આપતું સાધન"
+  },
+  {
+    "english": "Cabinet",
+    "gujarati": "કમ્પ્યુટરના ભાગો રાખવાનું આવરણ"
+  },
+  {
+    "english": "Speaker",
+    "gujarati": "અવાજ સંભળાવતું સાધન"
+  },
+  {
+    "english": "Headphones",
+    "gujarati": "કાન પર પહેરીને સાંભળવાનું સાધન"
+  },
+  {
+    "english": "Microphone",
+    "gujarati": "અવાજ દાખલ કરવાનું સાધન"
+  },
+  {
+    "english": "Webcam",
+    "gujarati": "વિડિયો દર્શાવતો કેમેરો"
+  },
+  {
+    "english": "Printer",
+    "gujarati": "દસ્તાવેજ છાપવાનું યંત્ર"
+  },
+  {
+    "english": "Scanner",
+    "gujarati": "દસ્તાવેજને કમ્પ્યુટરમાં ઉતારવાનું યંત્ર"
+  },
+  {
+    "english": "USB Drive",
+    "gujarati": "માહિતી સંગ્રહવાની પોર્ટેબલ ડ્રાઇવ"
+  },
+  {
+    "english": "Memory Card",
+    "gujarati": "નાનું માહિતી સંગ્રહ ઉપકરણ"
   }
 ]
