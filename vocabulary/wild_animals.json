@@ -1,5 +1,9 @@
 [
   {
+    "english": "Wild Animal",
+    "gujarati": "જંગલી પ્રાણી"
+  },
+  {
     "english": "Lion",
     "gujarati": "સિંહ"
   },
@@ -8,15 +12,391 @@
     "gujarati": "વાઘ"
   },
   {
-    "english": "Elephant",
-    "gujarati": "હાથી"
-  },
-  {
     "english": "Leopard",
     "gujarati": "દીપડો"
   },
   {
+    "english": "Cheetah",
+    "gujarati": "ચિત્તો"
+  },
+  {
+    "english": "Jaguar",
+    "gujarati": "જેગુઆર"
+  },
+  {
+    "english": "Panther",
+    "gujarati": "કાળો દીપડો"
+  },
+  {
+    "english": "Elephant",
+    "gujarati": "હાથી"
+  },
+  {
+    "english": "Rhinoceros",
+    "gujarati": "ગેંડો"
+  },
+  {
+    "english": "Hippopotamus",
+    "gujarati": "દરિયાઈ ઘોડો"
+  },
+  {
+    "english": "Giraffe",
+    "gujarati": "જિરાફ"
+  },
+  {
+    "english": "Zebra",
+    "gujarati": "ઝેબ્રા"
+  },
+  {
+    "english": "Deer",
+    "gujarati": "હરણ"
+  },
+  {
+    "english": "Antelope",
+    "gujarati": "કાળિયાર"
+  },
+  {
+    "english": "Bison",
+    "gujarati": "જંગલી ભેંસ"
+  },
+  {
+    "english": "Buffalo",
+    "gujarati": "ભેંસ"
+  },
+  {
+    "english": "Wild Boar",
+    "gujarati": "જંગલી ડુક્કર"
+  },
+  {
+    "english": "Bear",
+    "gujarati": "રીંછ"
+  },
+  {
+    "english": "Wolf",
+    "gujarati": "વરુ"
+  },
+  {
     "english": "Fox",
     "gujarati": "શિયાળ"
+  },
+  {
+    "english": "Jackal",
+    "gujarati": "ગીધડ"
+  },
+  {
+    "english": "Hyena",
+    "gujarati": "જરખ"
+  },
+  {
+    "english": "Monkey",
+    "gujarati": "વાંદરો"
+  },
+  {
+    "english": "Baboon",
+    "gujarati": "બબૂન"
+  },
+  {
+    "english": "Chimpanzee",
+    "gujarati": "ચિમ્પાન્ઝી"
+  },
+  {
+    "english": "Gorilla",
+    "gujarati": "ગોરિલા"
+  },
+  {
+    "english": "Orangutan",
+    "gujarati": "ઓરાંગઉટાન"
+  },
+  {
+    "english": "Koala",
+    "gujarati": "કોઆલા"
+  },
+  {
+    "english": "Panda",
+    "gujarati": "પાંડા"
+  },
+  {
+    "english": "Red Panda",
+    "gujarati": "લાલ પાંડા"
+  },
+  {
+    "english": "Sloth",
+    "gujarati": "સ્લોથ"
+  },
+  {
+    "english": "Kangaroo",
+    "gujarati": "કાંગારુ"
+  },
+  {
+    "english": "Camel",
+    "gujarati": "ઊંટ"
+  },
+  {
+    "english": "Llama",
+    "gujarati": "લામા"
+  },
+  {
+    "english": "Alpaca",
+    "gujarati": "અલ્પાકા"
+  },
+  {
+    "english": "Otter",
+    "gujarati": "જળબિલાડી"
+  },
+  {
+    "english": "Beaver",
+    "gujarati": "બીવર"
+  },
+  {
+    "english": "Porcupine",
+    "gujarati": "શાહુડી"
+  },
+  {
+    "english": "Hedgehog",
+    "gujarati": "કાંટાળો ઉંદર"
+  },
+  {
+    "english": "Armadillo",
+    "gujarati": "આર્માડિલો"
+  },
+  {
+    "english": "Raccoon",
+    "gujarati": "રેકૂન"
+  },
+  {
+    "english": "Skunk",
+    "gujarati": "સ્કંક"
+  },
+  {
+    "english": "Badger",
+    "gujarati": "બેજર"
+  },
+  {
+    "english": "Mongoose",
+    "gujarati": "નોળિયો"
+  },
+  {
+    "english": "Squirrel",
+    "gujarati": "ખિસકોલી"
+  },
+  {
+    "english": "Hare",
+    "gujarati": "જંગલી સસલું"
+  },
+  {
+    "english": "Rabbit",
+    "gujarati": "સસલું"
+  },
+  {
+    "english": "Bat",
+    "gujarati": "ચામાચીડિયું"
+  },
+  {
+    "english": "Mole",
+    "gujarati": "છછૂંદર"
+  },
+  {
+    "english": "Wild Cat",
+    "gujarati": "જંગલી બિલાડી"
+  },
+  {
+    "english": "Crocodile",
+    "gujarati": "મગર"
+  },
+  {
+    "english": "Alligator",
+    "gujarati": "એલિગેટર"
+  },
+  {
+    "english": "Python",
+    "gujarati": "અજગર"
+  },
+  {
+    "english": "Cobra",
+    "gujarati": "નાગ"
+  },
+  {
+    "english": "Viper",
+    "gujarati": "વાઇપર સાપ"
+  },
+  {
+    "english": "Anaconda",
+    "gujarati": "એનાકોન્ડા"
+  },
+  {
+    "english": "Lizard",
+    "gujarati": "ગરોળી"
+  },
+  {
+    "english": "Chameleon",
+    "gujarati": "કાચંડો"
+  },
+  {
+    "english": "Iguana",
+    "gujarati": "ઇગુઆના"
+  },
+  {
+    "english": "Tortoise",
+    "gujarati": "કાચબો"
+  },
+  {
+    "english": "Turtle",
+    "gujarati": "દરિયાઈ કાચબો"
+  },
+  {
+    "english": "Frog",
+    "gujarati": "દેડકો"
+  },
+  {
+    "english": "Toad",
+    "gujarati": "ભેક"
+  },
+  {
+    "english": "Salamander",
+    "gujarati": "સેલામેન્ડર"
+  },
+  {
+    "english": "Newt",
+    "gujarati": "ન્યૂટ"
+  },
+  {
+    "english": "Eel",
+    "gujarati": "ઈલ માછલી"
+  },
+  {
+    "english": "Shark",
+    "gujarati": "શાર્ક"
+  },
+  {
+    "english": "Whale",
+    "gujarati": "વ્હેલ"
+  },
+  {
+    "english": "Dolphin",
+    "gujarati": "ડોલ્ફિન"
+  },
+  {
+    "english": "Seal",
+    "gujarati": "સીલ"
+  },
+  {
+    "english": "Walrus",
+    "gujarati": "વૉલરસ"
+  },
+  {
+    "english": "Octopus",
+    "gujarati": "ઓક્ટોપસ"
+  },
+  {
+    "english": "Jellyfish",
+    "gujarati": "જેલીફિશ"
+  },
+  {
+    "english": "Starfish",
+    "gujarati": "તારામાછલી"
+  },
+  {
+    "english": "Crab",
+    "gujarati": "કરચલો"
+  },
+  {
+    "english": "Scorpion",
+    "gujarati": "વીંછી"
+  },
+  {
+    "english": "Spider",
+    "gujarati": "કરોળિયો"
+  },
+  {
+    "english": "Tarantula",
+    "gujarati": "ટેરેન્ટ્યુલા"
+  },
+  {
+    "english": "Centipede",
+    "gujarati": "કાનખજૂરો"
+  },
+  {
+    "english": "Millipede",
+    "gujarati": "હજારપગિયો"
+  },
+  {
+    "english": "Wild Dog",
+    "gujarati": "જંગલી કૂતરો"
+  },
+  {
+    "english": "Dingo",
+    "gujarati": "ડિંગો"
+  },
+  {
+    "english": "Coyote",
+    "gujarati": "કોયોટ"
+  },
+  {
+    "english": "Lynx",
+    "gujarati": "લિંક્સ"
+  },
+  {
+    "english": "Bobcat",
+    "gujarati": "બોબકેટ"
+  },
+  {
+    "english": "Snow Leopard",
+    "gujarati": "હિમ દીપડો"
+  },
+  {
+    "english": "Polar Bear",
+    "gujarati": "ધ્રુવીય રીંછ"
+  },
+  {
+    "english": "Grizzly Bear",
+    "gujarati": "ગ્રિઝલી રીંછ"
+  },
+  {
+    "english": "Wild Yak",
+    "gujarati": "જંગલી યાક"
+  },
+  {
+    "english": "Gazelle",
+    "gujarati": "ગઝેલ"
+  },
+  {
+    "english": "Moose",
+    "gujarati": "મૂસ"
+  },
+  {
+    "english": "Elk",
+    "gujarati": "એલ્ક"
+  },
+  {
+    "english": "Reindeer",
+    "gujarati": "રેન્ડિયર"
+  },
+  {
+    "english": "Wildebeest",
+    "gujarati": "વાઇલ્ડબીસ્ટ"
+  },
+  {
+    "english": "Tapir",
+    "gujarati": "ટેપિર"
+  },
+  {
+    "english": "Okapi",
+    "gujarati": "ઓકાપી"
+  },
+  {
+    "english": "Ape",
+    "gujarati": "માનવ વાનર"
+  },
+  {
+    "english": "Predator",
+    "gujarati": "શિકારી પ્રાણી"
+  },
+  {
+    "english": "Prey",
+    "gujarati": "શિકાર બનતું પ્રાણી"
+  },
+  {
+    "english": "Habitat",
+    "gujarati": "પ્રાકૃતિક રહેઠાણ"
   }
 ]
