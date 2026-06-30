@@ -1,5 +1,9 @@
 [
   {
+    "english": "Insect",
+    "gujarati": "જંતુ"
+  },
+  {
     "english": "Ant",
     "gujarati": "કીડી"
   },
@@ -8,15 +12,391 @@
     "gujarati": "મધમાખી"
   },
   {
-    "english": "Mosquito",
-    "gujarati": "મચ્છર"
+    "english": "Honeybee",
+    "gujarati": "મધમાખી"
+  },
+  {
+    "english": "Wasp",
+    "gujarati": "ભમરી"
   },
   {
     "english": "Butterfly",
     "gujarati": "પતંગિયું"
   },
   {
-    "english": "Spider",
-    "gujarati": "કરોળિયો"
+    "english": "Moth",
+    "gujarati": "રાત્રી પતંગિયું"
+  },
+  {
+    "english": "Mosquito",
+    "gujarati": "મચ્છર"
+  },
+  {
+    "english": "Housefly",
+    "gujarati": "માખી"
+  },
+  {
+    "english": "Dragonfly",
+    "gujarati": "વ્યાધપતંગ"
+  },
+  {
+    "english": "Damselfly",
+    "gujarati": "નાની વ્યાધપતંગ"
+  },
+  {
+    "english": "Grasshopper",
+    "gujarati": "તીડ"
+  },
+  {
+    "english": "Cricket",
+    "gujarati": "ઝીંગુર"
+  },
+  {
+    "english": "Locust",
+    "gujarati": "ટીડિયો"
+  },
+  {
+    "english": "Beetle",
+    "gujarati": "ભમરો"
+  },
+  {
+    "english": "Ladybug",
+    "gujarati": "લેડીબગ"
+  },
+  {
+    "english": "Firefly",
+    "gujarati": "અગ્નિજીવ"
+  },
+  {
+    "english": "Cockroach",
+    "gujarati": "વંદો"
+  },
+  {
+    "english": "Termite",
+    "gujarati": "ઉધઈ"
+  },
+  {
+    "english": "Bedbug",
+    "gujarati": "માંકડ"
+  },
+  {
+    "english": "Flea",
+    "gujarati": "ચાંચડ"
+  },
+  {
+    "english": "Louse",
+    "gujarati": "જૂ"
+  },
+  {
+    "english": "Tick",
+    "gujarati": "બગાઈ"
+  },
+  {
+    "english": "Caterpillar",
+    "gujarati": "ઇયળ"
+  },
+  {
+    "english": "Silkworm",
+    "gujarati": "રેશમનો કીડો"
+  },
+  {
+    "english": "Praying Mantis",
+    "gujarati": "પ્રાર્થના કરતી માંટીસ"
+  },
+  {
+    "english": "Stick Insect",
+    "gujarati": "લાકડી જેવો જંતુ"
+  },
+  {
+    "english": "Leaf Insect",
+    "gujarati": "પાંદડા જેવો જંતુ"
+  },
+  {
+    "english": "Cicada",
+    "gujarati": "સિકાડા"
+  },
+  {
+    "english": "Aphid",
+    "gujarati": "મોલો"
+  },
+  {
+    "english": "Weevil",
+    "gujarati": "ધાનનો કીડો"
+  },
+  {
+    "english": "Stag Beetle",
+    "gujarati": "શિંગડાવાળો ભમરો"
+  },
+  {
+    "english": "Dung Beetle",
+    "gujarati": "ગોબર ભમરો"
+  },
+  {
+    "english": "June Bug",
+    "gujarati": "જૂન ભમરો"
+  },
+  {
+    "english": "Water Strider",
+    "gujarati": "પાણી પર ચાલતો જંતુ"
+  },
+  {
+    "english": "Water Bug",
+    "gujarati": "જળ જંતુ"
+  },
+  {
+    "english": "Fruit Fly",
+    "gujarati": "ફળની માખી"
+  },
+  {
+    "english": "Horsefly",
+    "gujarati": "ઘોડા પર બેસતી માખી"
+  },
+  {
+    "english": "Black Fly",
+    "gujarati": "કાળી માખી"
+  },
+  {
+    "english": "Gnat",
+    "gujarati": "નાનો ઉડતો જંતુ"
+  },
+  {
+    "english": "Mayfly",
+    "gujarati": "એક દિવસ જીવતો જંતુ"
+  },
+  {
+    "english": "Earwig",
+    "gujarati": "કાનખજૂરા જેવો જંતુ"
+  },
+  {
+    "english": "Silverfish",
+    "gujarati": "સિલ્વરફિશ જંતુ"
+  },
+  {
+    "english": "Booklouse",
+    "gujarati": "પુસ્તકનો કીડો"
+  },
+  {
+    "english": "Bark Beetle",
+    "gujarati": "ઝાડની છાલનો ભમરો"
+  },
+  {
+    "english": "Leafhopper",
+    "gujarati": "પાંદડાં પર કૂદતો જંતુ"
+  },
+  {
+    "english": "Planthopper",
+    "gujarati": "છોડ પર કૂદતો જંતુ"
+  },
+  {
+    "english": "Treehopper",
+    "gujarati": "ઝાડ પર કૂદતો જંતુ"
+  },
+  {
+    "english": "Whitefly",
+    "gujarati": "સફેદ માખી"
+  },
+  {
+    "english": "Greenfly",
+    "gujarati": "લીલી માખી"
+  },
+  {
+    "english": "Sawfly",
+    "gujarati": "સોફ્લાય"
+  },
+  {
+    "english": "Stonefly",
+    "gujarati": "સ્ટોનફ્લાય"
+  },
+  {
+    "english": "Dobsonfly",
+    "gujarati": "ડોબ્સનફ્લાય"
+  },
+  {
+    "english": "Lacewing",
+    "gujarati": "લેસવિંગ"
+  },
+  {
+    "english": "Antlion",
+    "gujarati": "કીડીનો શિકારી જંતુ"
+  },
+  {
+    "english": "Glowworm",
+    "gujarati": "ચમકતો કીડો"
+  },
+  {
+    "english": "Walking Stick",
+    "gujarati": "લાકડી જેવો જંતુ"
+  },
+  {
+    "english": "Spittlebug",
+    "gujarati": "ફીણ બનાવતો જંતુ"
+  },
+  {
+    "english": "Thrips",
+    "gujarati": "થ્રિપ્સ"
+  },
+  {
+    "english": "Leaf Miner",
+    "gujarati": "પાંદડાંનો કીડો"
+  },
+  {
+    "english": "Scale Insect",
+    "gujarati": "સ્કેલ જંતુ"
+  },
+  {
+    "english": "Mealybug",
+    "gujarati": "મીલીબગ"
+  },
+  {
+    "english": "Borer",
+    "gujarati": "લાકડામાં કાણું પાડતો કીડો"
+  },
+  {
+    "english": "Rice Weevil",
+    "gujarati": "ચોખાનો કીડો"
+  },
+  {
+    "english": "Grain Beetle",
+    "gujarati": "અનાજનો ભમરો"
+  },
+  {
+    "english": "Flour Beetle",
+    "gujarati": "લોટનો ભમરો"
+  },
+  {
+    "english": "Cotton Bollworm",
+    "gujarati": "કપાસનો ઈયળ"
+  },
+  {
+    "english": "Armyworm",
+    "gujarati": "લશ્કરી ઈયળ"
+  },
+  {
+    "english": "Corn Borer",
+    "gujarati": "મકાઈનો કીડો"
+  },
+  {
+    "english": "Fruit Worm",
+    "gujarati": "ફળનો કીડો"
+  },
+  {
+    "english": "Mosquito Larva",
+    "gujarati": "મચ્છરનું લાર્વા"
+  },
+  {
+    "english": "Pupa",
+    "gujarati": "કોશ અવસ્થા"
+  },
+  {
+    "english": "Larva",
+    "gujarati": "લાર્વા"
+  },
+  {
+    "english": "Egg",
+    "gujarati": "ઈંડું"
+  },
+  {
+    "english": "Adult Insect",
+    "gujarati": "પૂર્ણ વિકસિત જંતુ"
+  },
+  {
+    "english": "Insect Egg",
+    "gujarati": "જંતુનું ઈંડું"
+  },
+  {
+    "english": "Cocoon",
+    "gujarati": "કોશ"
+  },
+  {
+    "english": "Hive",
+    "gujarati": "મધપૂડો"
+  },
+  {
+    "english": "Anthill",
+    "gujarati": "કીડીનું દર"
+  },
+  {
+    "english": "Web",
+    "gujarati": "જાળું"
+  },
+  {
+    "english": "Sting",
+    "gujarati": "ડંખ"
+  },
+  {
+    "english": "Bite",
+    "gujarati": "કરડવું"
+  },
+  {
+    "english": "Antenna",
+    "gujarati": "શૂંગિકા"
+  },
+  {
+    "english": "Wing",
+    "gujarati": "પાંખ"
+  },
+  {
+    "english": "Leg",
+    "gujarati": "પગ"
+  },
+  {
+    "english": "Compound Eye",
+    "gujarati": "સંયુક્ત આંખ"
+  },
+  {
+    "english": "Thorax",
+    "gujarati": "વક્ષભાગ"
+  },
+  {
+    "english": "Abdomen",
+    "gujarati": "ઉદરભાગ"
+  },
+  {
+    "english": "Exoskeleton",
+    "gujarati": "બાહ્ય કંકાલ"
+  },
+  {
+    "english": "Pest",
+    "gujarati": "જીવાત"
+  },
+  {
+    "english": "Pollinator",
+    "gujarati": "પરાગસંચય કરનાર જંતુ"
+  },
+  {
+    "english": "Colony",
+    "gujarati": "વસાહત"
+  },
+  {
+    "english": "Queen Bee",
+    "gujarati": "રાણી મધમાખી"
+  },
+  {
+    "english": "Worker Bee",
+    "gujarati": "કામદાર મધમાખી"
+  },
+  {
+    "english": "Drone Bee",
+    "gujarati": "નર મધમાખી"
+  },
+  {
+    "english": "Metamorphosis",
+    "gujarati": "રૂપાંતર"
+  },
+  {
+    "english": "Insecticide",
+    "gujarati": "જંતુનાશક"
+  },
+  {
+    "english": "Repellent",
+    "gujarati": "જંતુ ભગાડનાર દવા"
+  },
+  {
+    "english": "Bug Spray",
+    "gujarati": "જંતુનાશક સ્પ્રે"
+  },
+  {
+    "english": "Insect Trap",
+    "gujarati": "જંતુ પકડવાની જાળ"
   }
 ]
