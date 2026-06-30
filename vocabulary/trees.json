@@ -1,22 +1,402 @@
 [
   {
-    "english": "Neem",
-    "gujarati": "લીમડો"
+    "english": "Tree",
+    "gujarati": "વૃક્ષ"
+  },
+  {
+    "english": "Plant",
+    "gujarati": "છોડ"
+  },
+  {
+    "english": "Sapling",
+    "gujarati": "રોપો"
+  },
+  {
+    "english": "Seed",
+    "gujarati": "બીજ"
+  },
+  {
+    "english": "Root",
+    "gujarati": "મૂળ"
+  },
+  {
+    "english": "Trunk",
+    "gujarati": "થડ"
+  },
+  {
+    "english": "Branch",
+    "gujarati": "ડાળી"
+  },
+  {
+    "english": "Twig",
+    "gujarati": "નાની ડાળી"
+  },
+  {
+    "english": "Leaf",
+    "gujarati": "પાંદડું"
+  },
+  {
+    "english": "Bark",
+    "gujarati": "ઝાડની છાલ"
+  },
+  {
+    "english": "Flower",
+    "gujarati": "ફૂલ"
+  },
+  {
+    "english": "Fruit",
+    "gujarati": "ફળ"
+  },
+  {
+    "english": "Shade",
+    "gujarati": "છાંયો"
+  },
+  {
+    "english": "Forest",
+    "gujarati": "જંગલ"
   },
   {
     "english": "Mango Tree",
-    "gujarati": "કેરીનું ઝાડ"
+    "gujarati": "આંબાનું ઝાડ"
   },
   {
-    "english": "Banyan",
-    "gujarati": "વડ"
+    "english": "Neem Tree",
+    "gujarati": "લીમડાનું ઝાડ"
   },
   {
-    "english": "Peepal",
-    "gujarati": "પીપળો"
+    "english": "Banyan Tree",
+    "gujarati": "વડનું ઝાડ"
+  },
+  {
+    "english": "Peepal Tree",
+    "gujarati": "પીપળાનું ઝાડ"
   },
   {
     "english": "Coconut Tree",
-    "gujarati": "નાળિયેરનું ઝાડ"
+    "gujarati": "નાળિયેરીનું ઝાડ"
+  },
+  {
+    "english": "Palm Tree",
+    "gujarati": "તાડનું ઝાડ"
+  },
+  {
+    "english": "Teak Tree",
+    "gujarati": "સાગનું ઝાડ"
+  },
+  {
+    "english": "Sandalwood Tree",
+    "gujarati": "ચંદનનું ઝાડ"
+  },
+  {
+    "english": "Eucalyptus Tree",
+    "gujarati": "નીલગિરીનું ઝાડ"
+  },
+  {
+    "english": "Ashoka Tree",
+    "gujarati": "અશોકનું ઝાડ"
+  },
+  {
+    "english": "Acacia Tree",
+    "gujarati": "બાવળનું ઝાડ"
+  },
+  {
+    "english": "Oak Tree",
+    "gujarati": "ઓકનું ઝાડ"
+  },
+  {
+    "english": "Pine Tree",
+    "gujarati": "ચીડનું ઝાડ"
+  },
+  {
+    "english": "Cedar Tree",
+    "gujarati": "દેવદારનું ઝાડ"
+  },
+  {
+    "english": "Fir Tree",
+    "gujarati": "ફિરનું ઝાડ"
+  },
+  {
+    "english": "Spruce Tree",
+    "gujarati": "સ્પ્રુસનું ઝાડ"
+  },
+  {
+    "english": "Maple Tree",
+    "gujarati": "મેપલનું ઝાડ"
+  },
+  {
+    "english": "Birch Tree",
+    "gujarati": "બર્ચનું ઝાડ"
+  },
+  {
+    "english": "Willow Tree",
+    "gujarati": "વીલોનું ઝાડ"
+  },
+  {
+    "english": "Cherry Tree",
+    "gujarati": "ચેરીનું ઝાડ"
+  },
+  {
+    "english": "Apple Tree",
+    "gujarati": "સફરજનનું ઝાડ"
+  },
+  {
+    "english": "Orange Tree",
+    "gujarati": "નારંગીનું ઝાડ"
+  },
+  {
+    "english": "Lemon Tree",
+    "gujarati": "લીંબુનું ઝાડ"
+  },
+  {
+    "english": "Guava Tree",
+    "gujarati": "જામફળનું ઝાડ"
+  },
+  {
+    "english": "Jamun Tree",
+    "gujarati": "જાંબુનું ઝાડ"
+  },
+  {
+    "english": "Tamarind Tree",
+    "gujarati": "આંબલીનું ઝાડ"
+  },
+  {
+    "english": "Date Palm",
+    "gujarati": "ખજૂરીનું ઝાડ"
+  },
+  {
+    "english": "Rubber Tree",
+    "gujarati": "રબરનું ઝાડ"
+  },
+  {
+    "english": "Mahogany Tree",
+    "gujarati": "મહોગનીનું ઝાડ"
+  },
+  {
+    "english": "Poplar Tree",
+    "gujarati": "પોપલરનું ઝાડ"
+  },
+  {
+    "english": "Baobab Tree",
+    "gujarati": "બાઓબાબનું ઝાડ"
+  },
+  {
+    "english": "Elm Tree",
+    "gujarati": "એલ્મનું ઝાડ"
+  },
+  {
+    "english": "Walnut Tree",
+    "gujarati": "અખરોટનું ઝાડ"
+  },
+  {
+    "english": "Chestnut Tree",
+    "gujarati": "ચેસ્ટનટનું ઝાડ"
+  },
+  {
+    "english": "Cashew Tree",
+    "gujarati": "કાજુનું ઝાડ"
+  },
+  {
+    "english": "Fig Tree",
+    "gujarati": "અંજીરનું ઝાડ"
+  },
+  {
+    "english": "Tree Top",
+    "gujarati": "ઝાડની ટોચ"
+  },
+  {
+    "english": "Tree Crown",
+    "gujarati": "ઝાડનો શિરોભાગ"
+  },
+  {
+    "english": "Tree Ring",
+    "gujarati": "વૃક્ષની વાર્ષિક વલયરેખા"
+  },
+  {
+    "english": "Tree Stump",
+    "gujarati": "ઝાડનું ઠૂંઠું"
+  },
+  {
+    "english": "Log",
+    "gujarati": "લાકડાનો થડ"
+  },
+  {
+    "english": "Timber",
+    "gujarati": "ઈમારતી લાકડું"
+  },
+  {
+    "english": "Firewood",
+    "gujarati": "બળતણનું લાકડું"
+  },
+  {
+    "english": "Wood",
+    "gujarati": "લાકડું"
+  },
+  {
+    "english": "Tree Bark",
+    "gujarati": "વૃક્ષની છાલ"
+  },
+  {
+    "english": "Tree Root",
+    "gujarati": "વૃક્ષનું મૂળ"
+  },
+  {
+    "english": "Tree Branch",
+    "gujarati": "વૃક્ષની ડાળી"
+  },
+  {
+    "english": "Tree Leaf",
+    "gujarati": "વૃક્ષનું પાંદડું"
+  },
+  {
+    "english": "Tree Seed",
+    "gujarati": "વૃક્ષનું બીજ"
+  },
+  {
+    "english": "Tree Fruit",
+    "gujarati": "વૃક્ષનું ફળ"
+  },
+  {
+    "english": "Tree Flower",
+    "gujarati": "વૃક્ષનું ફૂલ"
+  },
+  {
+    "english": "Evergreen Tree",
+    "gujarati": "સદાબહાર વૃક્ષ"
+  },
+  {
+    "english": "Deciduous Tree",
+    "gujarati": "પાનખર વૃક્ષ"
+  },
+  {
+    "english": "Fruit Tree",
+    "gujarati": "ફળનું ઝાડ"
+  },
+  {
+    "english": "Shade Tree",
+    "gujarati": "છાંયો આપતું વૃક્ષ"
+  },
+  {
+    "english": "Medicinal Tree",
+    "gujarati": "ઔષધીય વૃક્ષ"
+  },
+  {
+    "english": "Orchard",
+    "gujarati": "ફળોની વાડી"
+  },
+  {
+    "english": "Plantation",
+    "gujarati": "વાવેતર વિસ્તાર"
+  },
+  {
+    "english": "Tree Plantation",
+    "gujarati": "વૃક્ષારોપણ"
+  },
+  {
+    "english": "Deforestation",
+    "gujarati": "વનવિનાશ"
+  },
+  {
+    "english": "Afforestation",
+    "gujarati": "વનસર્જન"
+  },
+  {
+    "english": "Tree Nursery",
+    "gujarati": "રોપાવાડી"
+  },
+  {
+    "english": "Tree Plantation Drive",
+    "gujarati": "વૃક્ષારોપણ અભિયાન"
+  },
+  {
+    "english": "Forest Area",
+    "gujarati": "વન વિસ્તાર"
+  },
+  {
+    "english": "Rainforest",
+    "gujarati": "વર્ષાવન"
+  },
+  {
+    "english": "Jungle",
+    "gujarati": "જંગલ"
+  },
+  {
+    "english": "Woodland",
+    "gujarati": "વનપ્રદેશ"
+  },
+  {
+    "english": "Grove",
+    "gujarati": "વૃક્ષોનો સમૂહ"
+  },
+  {
+    "english": "Canopy",
+    "gujarati": "વૃક્ષોની ટોચનું આવરણ"
+  },
+  {
+    "english": "Foliage",
+    "gujarati": "પર્ણસમૂહ"
+  },
+  {
+    "english": "Greenery",
+    "gujarati": "હરિયાળી"
+  },
+  {
+    "english": "Fallen Leaf",
+    "gujarati": "ખરેલું પાંદડું"
+  },
+  {
+    "english": "Dry Leaf",
+    "gujarati": "સૂકું પાંદડું"
+  },
+  {
+    "english": "New Leaf",
+    "gujarati": "નવું પાંદડું"
+  },
+  {
+    "english": "Bud",
+    "gujarati": "કળી"
+  },
+  {
+    "english": "Blossom",
+    "gujarati": "ખીલેલું ફૂલ"
+  },
+  {
+    "english": "Tree Sap",
+    "gujarati": "વૃક્ષનો રસ"
+  },
+  {
+    "english": "Resin",
+    "gujarati": "રાળ"
+  },
+  {
+    "english": "Tree Hollow",
+    "gujarati": "વૃક્ષનું બખોલ"
+  },
+  {
+    "english": "Vine",
+    "gujarati": "વેલ"
+  },
+  {
+    "english": "Climber",
+    "gujarati": "ચઢનાર વેલ"
+  },
+  {
+    "english": "Creeper",
+    "gujarati": "જમીન પર ફેલાતી વેલ"
+  },
+  {
+    "english": "Tree Cutter",
+    "gujarati": "વૃક્ષ કાપનાર"
+  },
+  {
+    "english": "Lumberjack",
+    "gujarati": "લાકડું કાપનાર"
+  },
+  {
+    "english": "Tree Conservation",
+    "gujarati": "વૃક્ષ સંરક્ષણ"
+  },
+  {
+    "english": "Environment",
+    "gujarati": "પર્યાવરણ"
   }
 ]
