@@ -1,22 +1,402 @@
 [
   {
-    "english": "Summer",
-    "gujarati": "ઉનાળો"
+    "english": "Season",
+    "gujarati": "ઋતુ"
   },
   {
-    "english": "Winter",
-    "gujarati": "શિયાળો"
+    "english": "Spring",
+    "gujarati": "વસંત ઋતુ"
+  },
+  {
+    "english": "Summer",
+    "gujarati": "ઉનાળો"
   },
   {
     "english": "Monsoon",
     "gujarati": "ચોમાસું"
   },
   {
-    "english": "Spring",
-    "gujarati": "વસંત"
+    "english": "Autumn",
+    "gujarati": "પાનખર ઋતુ"
   },
   {
-    "english": "Autumn",
-    "gujarati": "શરદ"
+    "english": "Winter",
+    "gujarati": "શિયાળો"
+  },
+  {
+    "english": "Rain",
+    "gujarati": "વરસાદ"
+  },
+  {
+    "english": "Rainfall",
+    "gujarati": "વરસાદનું પ્રમાણ"
+  },
+  {
+    "english": "Drizzle",
+    "gujarati": "ઝરમર વરસાદ"
+  },
+  {
+    "english": "Shower",
+    "gujarati": "વરસાદી ઝાપટું"
+  },
+  {
+    "english": "Thunder",
+    "gujarati": "ગર્જના"
+  },
+  {
+    "english": "Lightning",
+    "gujarati": "વીજળી"
+  },
+  {
+    "english": "Storm",
+    "gujarati": "તોફાન"
+  },
+  {
+    "english": "Cyclone",
+    "gujarati": "ચક્રવાત"
+  },
+  {
+    "english": "Wind",
+    "gujarati": "પવન"
+  },
+  {
+    "english": "Breeze",
+    "gujarati": "મંદ પવન"
+  },
+  {
+    "english": "Cloud",
+    "gujarati": "વાદળ"
+  },
+  {
+    "english": "Cloudy",
+    "gujarati": "વાદળછાયું"
+  },
+  {
+    "english": "Sunny",
+    "gujarati": "તડકાવાળું"
+  },
+  {
+    "english": "Sunshine",
+    "gujarati": "સૂર્યપ્રકાશ"
+  },
+  {
+    "english": "Fog",
+    "gujarati": "ધુમ્મસ"
+  },
+  {
+    "english": "Mist",
+    "gujarati": "ઝાકળ"
+  },
+  {
+    "english": "Dew",
+    "gujarati": "ઝાકળના ટીપાં"
+  },
+  {
+    "english": "Humidity",
+    "gujarati": "ભેજ"
+  },
+  {
+    "english": "Temperature",
+    "gujarati": "તાપમાન"
+  },
+  {
+    "english": "Climate",
+    "gujarati": "આબોહવા"
+  },
+  {
+    "english": "Weather",
+    "gujarati": "હવામાન"
+  },
+  {
+    "english": "Forecast",
+    "gujarati": "હવામાન આગાહી"
+  },
+  {
+    "english": "Heat",
+    "gujarati": "ગરમી"
+  },
+  {
+    "english": "Hot",
+    "gujarati": "ગરમ"
+  },
+  {
+    "english": "Cold",
+    "gujarati": "ઠંડું"
+  },
+  {
+    "english": "Cool",
+    "gujarati": "ઠંડકભર્યું"
+  },
+  {
+    "english": "Warm",
+    "gujarati": "હૂંફાળું"
+  },
+  {
+    "english": "Dry",
+    "gujarati": "શુષ્ક"
+  },
+  {
+    "english": "Wet",
+    "gujarati": "ભીનું"
+  },
+  {
+    "english": "Freeze",
+    "gujarati": "થીજી જવું"
+  },
+  {
+    "english": "Frost",
+    "gujarati": "હિમપાતનો પાતળો પડ"
+  },
+  {
+    "english": "Snow",
+    "gujarati": "બરફ"
+  },
+  {
+    "english": "Snowfall",
+    "gujarati": "હિમવર્ષા"
+  },
+  {
+    "english": "Hail",
+    "gujarati": "કરા"
+  },
+  {
+    "english": "Hailstorm",
+    "gujarati": "કરાવર્ષા"
+  },
+  {
+    "english": "Rainbow",
+    "gujarati": "મેઘધનુષ્ય"
+  },
+  {
+    "english": "Sunrise",
+    "gujarati": "સૂર્યોદય"
+  },
+  {
+    "english": "Sunset",
+    "gujarati": "સૂર્યાસ્ત"
+  },
+  {
+    "english": "Daylight",
+    "gujarati": "દિવસનો પ્રકાશ"
+  },
+  {
+    "english": "Night",
+    "gujarati": "રાત"
+  },
+  {
+    "english": "Morning",
+    "gujarati": "સવાર"
+  },
+  {
+    "english": "Evening",
+    "gujarati": "સાંજ"
+  },
+  {
+    "english": "Noon",
+    "gujarati": "બપોર"
+  },
+  {
+    "english": "Midnight",
+    "gujarati": "મધ્યરાત્રિ"
+  },
+  {
+    "english": "Springtime",
+    "gujarati": "વસંત ઋતુનો સમય"
+  },
+  {
+    "english": "Summertime",
+    "gujarati": "ઉનાળાનો સમય"
+  },
+  {
+    "english": "Wintertime",
+    "gujarati": "શિયાળાનો સમય"
+  },
+  {
+    "english": "Monsoon Season",
+    "gujarati": "ચોમાસાની ઋતુ"
+  },
+  {
+    "english": "Autumn Season",
+    "gujarati": "પાનખરની ઋતુ"
+  },
+  {
+    "english": "Leaf",
+    "gujarati": "પાંદડું"
+  },
+  {
+    "english": "Falling Leaves",
+    "gujarati": "ખરતાં પાંદડાં"
+  },
+  {
+    "english": "Bloom",
+    "gujarati": "ખીલવું"
+  },
+  {
+    "english": "Blossom",
+    "gujarati": "ફૂલનો ખીલેલો ભાગ"
+  },
+  {
+    "english": "Flowering",
+    "gujarati": "ફૂલ આવવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Harvest",
+    "gujarati": "પાકની લણણી"
+  },
+  {
+    "english": "Crop",
+    "gujarati": "પાક"
+  },
+  {
+    "english": "Farmer",
+    "gujarati": "ખેડૂત"
+  },
+  {
+    "english": "Field",
+    "gujarati": "ખેતર"
+  },
+  {
+    "english": "Drought",
+    "gujarati": "દુષ્કાળ"
+  },
+  {
+    "english": "Flood",
+    "gujarati": "પૂર"
+  },
+  {
+    "english": "Dust Storm",
+    "gujarati": "ધૂળનું તોફાન"
+  },
+  {
+    "english": "Thunderstorm",
+    "gujarati": "ગાજવીજ સાથેનું તોફાન"
+  },
+  {
+    "english": "Strong Wind",
+    "gujarati": "જોરદાર પવન"
+  },
+  {
+    "english": "Gentle Breeze",
+    "gujarati": "હળવો પવન"
+  },
+  {
+    "english": "Scorching Heat",
+    "gujarati": "આકરો તાપ"
+  },
+  {
+    "english": "Chilly",
+    "gujarati": "ઠંડકભર્યું"
+  },
+  {
+    "english": "Freezing",
+    "gujarati": "અતિશય ઠંડું"
+  },
+  {
+    "english": "Pleasant Weather",
+    "gujarati": "સુહાવણું હવામાન"
+  },
+  {
+    "english": "Changing Season",
+    "gujarati": "બદલાતી ઋતુ"
+  },
+  {
+    "english": "Raincoat",
+    "gujarati": "વરસાદી કોટ"
+  },
+  {
+    "english": "Umbrella",
+    "gujarati": "છત્રી"
+  },
+  {
+    "english": "Rain Boots",
+    "gujarati": "વરસાદી બૂટ"
+  },
+  {
+    "english": "Sweater",
+    "gujarati": "સ્વેટર"
+  },
+  {
+    "english": "Jacket",
+    "gujarati": "જેકેટ"
+  },
+  {
+    "english": "Wool",
+    "gujarati": "ઊન"
+  },
+  {
+    "english": "Woolen Clothes",
+    "gujarati": "ઊનના કપડાં"
+  },
+  {
+    "english": "Blanket",
+    "gujarati": "ધાબળો"
+  },
+  {
+    "english": "Quilt",
+    "gujarati": "રજાઈ"
+  },
+  {
+    "english": "Sun Hat",
+    "gujarati": "સૂર્યથી બચવાની ટોપી"
+  },
+  {
+    "english": "Sunglasses",
+    "gujarati": "કાળા ચશ્માં"
+  },
+  {
+    "english": "Shade",
+    "gujarati": "છાંયો"
+  },
+  {
+    "english": "Sunburn",
+    "gujarati": "તડકાથી ત્વચા દાઝવી"
+  },
+  {
+    "english": "Heatwave",
+    "gujarati": "ગરમીની લહેર"
+  },
+  {
+    "english": "Cold Wave",
+    "gujarati": "ઠંડીની લહેર"
+  },
+  {
+    "english": "Humidity Level",
+    "gujarati": "ભેજનું પ્રમાણ"
+  },
+  {
+    "english": "Air Pressure",
+    "gujarati": "હવાનું દબાણ"
+  },
+  {
+    "english": "Wind Speed",
+    "gujarati": "પવનની ગતિ"
+  },
+  {
+    "english": "Thundercloud",
+    "gujarati": "ગાજવીજવાળું વાદળ"
+  },
+  {
+    "english": "Raindrop",
+    "gujarati": "વરસાદનું ટીપું"
+  },
+  {
+    "english": "Snowflake",
+    "gujarati": "બરફનો ફૂલ જેવો કણ"
+  },
+  {
+    "english": "Ice",
+    "gujarati": "બરફ"
+  },
+  {
+    "english": "Iceberg",
+    "gujarati": "હિમશિલા"
+  },
+  {
+    "english": "Climate Change",
+    "gujarati": "આબોહવા પરિવર્તન"
+  },
+  {
+    "english": "Global Warming",
+    "gujarati": "વૈશ્વિક ઉષ્ણતા"
   }
 ]
