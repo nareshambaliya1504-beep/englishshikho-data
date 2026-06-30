@@ -1,11 +1,15 @@
 [
   {
-    "english": "Apple",
-    "gujarati": "સફરજન"
+    "english": "Fruit",
+    "gujarati": "ફળ"
   },
   {
     "english": "Mango",
     "gujarati": "કેરી"
+  },
+  {
+    "english": "Apple",
+    "gujarati": "સફરજન"
   },
   {
     "english": "Banana",
@@ -18,5 +22,381 @@
   {
     "english": "Grapes",
     "gujarati": "દ્રાક્ષ"
+  },
+  {
+    "english": "Pineapple",
+    "gujarati": "અનાનસ"
+  },
+  {
+    "english": "Papaya",
+    "gujarati": "પપૈયું"
+  },
+  {
+    "english": "Guava",
+    "gujarati": "જામફળ"
+  },
+  {
+    "english": "Pomegranate",
+    "gujarati": "દાડમ"
+  },
+  {
+    "english": "Watermelon",
+    "gujarati": "તરબૂચ"
+  },
+  {
+    "english": "Muskmelon",
+    "gujarati": "શક્કરટેટી"
+  },
+  {
+    "english": "Coconut",
+    "gujarati": "નાળિયેર"
+  },
+  {
+    "english": "Custard Apple",
+    "gujarati": "સીતાફળ"
+  },
+  {
+    "english": "Sapodilla",
+    "gujarati": "ચીકુ"
+  },
+  {
+    "english": "Sweet Lime",
+    "gujarati": "મોસંબી"
+  },
+  {
+    "english": "Lemon",
+    "gujarati": "લીંબુ"
+  },
+  {
+    "english": "Strawberry",
+    "gujarati": "સ્ટ્રોબેરી"
+  },
+  {
+    "english": "Blueberry",
+    "gujarati": "બ્લૂબેરી"
+  },
+  {
+    "english": "Blackberry",
+    "gujarati": "બ્લેકબેરી"
+  },
+  {
+    "english": "Raspberry",
+    "gujarati": "રાસ્પબેરી"
+  },
+  {
+    "english": "Cherry",
+    "gujarati": "ચેરી"
+  },
+  {
+    "english": "Kiwi",
+    "gujarati": "કીવી"
+  },
+  {
+    "english": "Dragon Fruit",
+    "gujarati": "ડ્રેગન ફળ"
+  },
+  {
+    "english": "Pear",
+    "gujarati": "નાશપતી"
+  },
+  {
+    "english": "Peach",
+    "gujarati": "આડુ"
+  },
+  {
+    "english": "Plum",
+    "gujarati": "આલુબુખારો"
+  },
+  {
+    "english": "Apricot",
+    "gujarati": "જરદાળુ"
+  },
+  {
+    "english": "Lychee",
+    "gujarati": "લીચી"
+  },
+  {
+    "english": "Jackfruit",
+    "gujarati": "ફણસ"
+  },
+  {
+    "english": "Fig",
+    "gujarati": "અંજીર"
+  },
+  {
+    "english": "Date",
+    "gujarati": "ખજૂર"
+  },
+  {
+    "english": "Indian Gooseberry",
+    "gujarati": "આમળા"
+  },
+  {
+    "english": "Tamarind",
+    "gujarati": "આંબલી"
+  },
+  {
+    "english": "Star Fruit",
+    "gujarati": "કમરખ"
+  },
+  {
+    "english": "Wood Apple",
+    "gujarati": "કોઠું"
+  },
+  {
+    "english": "Jamun",
+    "gujarati": "જાંબુ"
+  },
+  {
+    "english": "Mulberry",
+    "gujarati": "શેતૂર"
+  },
+  {
+    "english": "Avocado",
+    "gujarati": "એવોકાડો"
+  },
+  {
+    "english": "Passion Fruit",
+    "gujarati": "પેશન ફ્રૂટ"
+  },
+  {
+    "english": "Persimmon",
+    "gujarati": "પર્સિમન"
+  },
+  {
+    "english": "Cranberry",
+    "gujarati": "ક્રેનબેરી"
+  },
+  {
+    "english": "Gooseberry",
+    "gujarati": "ગૂસબેરી"
+  },
+  {
+    "english": "Olive",
+    "gujarati": "ઓલિવ"
+  },
+  {
+    "english": "Pomelo",
+    "gujarati": "ચકોતરું"
+  },
+  {
+    "english": "Mandarin",
+    "gujarati": "મેન્ડેરિન નારંગી"
+  },
+  {
+    "english": "Clementine",
+    "gujarati": "ક્લેમેન્ટાઇન"
+  },
+  {
+    "english": "Longan",
+    "gujarati": "લોંગન"
+  },
+  {
+    "english": "Rambutan",
+    "gujarati": "રેમ્બુટાન"
+  },
+  {
+    "english": "Mangosteen",
+    "gujarati": "મેંગોસ્ટીન"
+  },
+  {
+    "english": "Fruit Juice",
+    "gujarati": "ફળનો રસ"
+  },
+  {
+    "english": "Fresh Fruit",
+    "gujarati": "તાજું ફળ"
+  },
+  {
+    "english": "Ripe Fruit",
+    "gujarati": "પાકેલું ફળ"
+  },
+  {
+    "english": "Raw Fruit",
+    "gujarati": "કાચું ફળ"
+  },
+  {
+    "english": "Sweet Fruit",
+    "gujarati": "મીઠું ફળ"
+  },
+  {
+    "english": "Sour Fruit",
+    "gujarati": "ખાટું ફળ"
+  },
+  {
+    "english": "Juicy Fruit",
+    "gujarati": "રસદાર ફળ"
+  },
+  {
+    "english": "Dry Fruit",
+    "gujarati": "સૂકું ફળ"
+  },
+  {
+    "english": "Fruit Salad",
+    "gujarati": "ફળનો સલાડ"
+  },
+  {
+    "english": "Fruit Basket",
+    "gujarati": "ફળની ટોપલી"
+  },
+  {
+    "english": "Fruit Market",
+    "gujarati": "ફળ બજાર"
+  },
+  {
+    "english": "Fruit Seller",
+    "gujarati": "ફળ વેચનાર"
+  },
+  {
+    "english": "Fruit Tree",
+    "gujarati": "ફળનું ઝાડ"
+  },
+  {
+    "english": "Fruit Seed",
+    "gujarati": "ફળનું બીજ"
+  },
+  {
+    "english": "Fruit Peel",
+    "gujarati": "ફળની છાલ"
+  },
+  {
+    "english": "Fruit Pulp",
+    "gujarati": "ફળનો ગર્ભ"
+  },
+  {
+    "english": "Fruit Slice",
+    "gujarati": "ફળનો ટુકડો"
+  },
+  {
+    "english": "Fruit Jam",
+    "gujarati": "ફળનો જામ"
+  },
+  {
+    "english": "Fruit Jelly",
+    "gujarati": "ફળની જેલી"
+  },
+  {
+    "english": "Fruit Syrup",
+    "gujarati": "ફળનો શરબત"
+  },
+  {
+    "english": "Fruit Candy",
+    "gujarati": "ફળની કેન્ડી"
+  },
+  {
+    "english": "Fruit Farm",
+    "gujarati": "ફળનો બગીચો"
+  },
+  {
+    "english": "Orchard",
+    "gujarati": "ફળવાડી"
+  },
+  {
+    "english": "Seasonal Fruit",
+    "gujarati": "મોસમી ફળ"
+  },
+  {
+    "english": "Organic Fruit",
+    "gujarati": "જૈવિક ફળ"
+  },
+  {
+    "english": "Fruit Vendor",
+    "gujarati": "ફળ વેચનાર"
+  },
+  {
+    "english": "Fruit Shop",
+    "gujarati": "ફળની દુકાન"
+  },
+  {
+    "english": "Fruit Stall",
+    "gujarati": "ફળનો સ્ટોલ"
+  },
+  {
+    "english": "Fruit Garden",
+    "gujarati": "ફળનો બગીચો"
+  },
+  {
+    "english": "Fruit Harvest",
+    "gujarati": "ફળની લણણી"
+  },
+  {
+    "english": "Fruit Picking",
+    "gujarati": "ફળ તોડવું"
+  },
+  {
+    "english": "Fruit Cultivation",
+    "gujarati": "ફળની ખેતી"
+  },
+  {
+    "english": "Fruit Plantation",
+    "gujarati": "ફળનો વાવેતર"
+  },
+  {
+    "english": "Fruit Crop",
+    "gujarati": "ફળનો પાક"
+  },
+  {
+    "english": "Fruit Production",
+    "gujarati": "ફળનું ઉત્પાદન"
+  },
+  {
+    "english": "Fruit Export",
+    "gujarati": "ફળની નિકાસ"
+  },
+  {
+    "english": "Fruit Import",
+    "gujarati": "ફળની આયાત"
+  },
+  {
+    "english": "Fruit Packing",
+    "gujarati": "ફળનું પેકિંગ"
+  },
+  {
+    "english": "Fruit Box",
+    "gujarati": "ફળની પેટી"
+  },
+  {
+    "english": "Mixed Fruits",
+    "gujarati": "મિશ્ર ફળ"
+  },
+  {
+    "english": "Exotic Fruits",
+    "gujarati": "વિદેશી ફળ"
+  },
+  {
+    "english": "Citrus Fruits",
+    "gujarati": "ખાટાં ફળ"
+  },
+  {
+    "english": "Tropical Fruits",
+    "gujarati": "ઉષ્ણકટિબંધીય ફળ"
+  },
+  {
+    "english": "Fruit Nutrition",
+    "gujarati": "ફળનું પોષણ"
+  },
+  {
+    "english": "Vitamin C",
+    "gujarati": "વિટામિન સી"
+  },
+  {
+    "english": "Fiber",
+    "gujarati": "રેસા"
+  },
+  {
+    "english": "Antioxidants",
+    "gujarati": "પ્રતિઑક્સિડન્ટ્સ"
+  },
+  {
+    "english": "Healthy Fruit",
+    "gujarati": "આરોગ્યપ્રદ ફળ"
+  },
+  {
+    "english": "Fruit Smoothie",
+    "gujarati": "ફળનું સ્મૂધી પીણું"
+  },
+  {
+    "english": "Fruit Shake",
+    "gujarati": "ફળનો શેક"
   }
 ]
