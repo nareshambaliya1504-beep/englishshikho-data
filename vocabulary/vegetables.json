@@ -1,5 +1,9 @@
 [
   {
+    "english": "Vegetable",
+    "gujarati": "શાકભાજી"
+  },
+  {
     "english": "Potato",
     "gujarati": "બટાકા"
   },
@@ -12,11 +16,387 @@
     "gujarati": "ડુંગળી"
   },
   {
-    "english": "Brinjal",
-    "gujarati": "રીંગણ"
+    "english": "Garlic",
+    "gujarati": "લસણ"
+  },
+  {
+    "english": "Ginger",
+    "gujarati": "આદુ"
   },
   {
     "english": "Carrot",
     "gujarati": "ગાજર"
+  },
+  {
+    "english": "Radish",
+    "gujarati": "મૂળા"
+  },
+  {
+    "english": "Beetroot",
+    "gujarati": "બીટ"
+  },
+  {
+    "english": "Turnip",
+    "gujarati": "સલગમ"
+  },
+  {
+    "english": "Sweet Potato",
+    "gujarati": "શક્કરિયા"
+  },
+  {
+    "english": "Brinjal",
+    "gujarati": "રીંગણ"
+  },
+  {
+    "english": "Okra",
+    "gujarati": "ભીંડા"
+  },
+  {
+    "english": "Bottle Gourd",
+    "gujarati": "દૂધી"
+  },
+  {
+    "english": "Ridge Gourd",
+    "gujarati": "તુરીયા"
+  },
+  {
+    "english": "Sponge Gourd",
+    "gujarati": "ગલકા"
+  },
+  {
+    "english": "Bitter Gourd",
+    "gujarati": "કારેલા"
+  },
+  {
+    "english": "Snake Gourd",
+    "gujarati": "ચીભડું"
+  },
+  {
+    "english": "Ash Gourd",
+    "gujarati": "પેઠું"
+  },
+  {
+    "english": "Pumpkin",
+    "gujarati": "કોળું"
+  },
+  {
+    "english": "Cucumber",
+    "gujarati": "કાકડી"
+  },
+  {
+    "english": "Pointed Gourd",
+    "gujarati": "પરવળ"
+  },
+  {
+    "english": "Ivy Gourd",
+    "gujarati": "ટીંડોરા"
+  },
+  {
+    "english": "Capsicum",
+    "gujarati": "શિમલા મરચાં"
+  },
+  {
+    "english": "Green Chili",
+    "gujarati": "લીલા મરચાં"
+  },
+  {
+    "english": "Red Chili",
+    "gujarati": "લાલ મરચું"
+  },
+  {
+    "english": "Cauliflower",
+    "gujarati": "ફૂલકોબી"
+  },
+  {
+    "english": "Cabbage",
+    "gujarati": "કોબી"
+  },
+  {
+    "english": "Broccoli",
+    "gujarati": "બ્રોકોલી"
+  },
+  {
+    "english": "Spinach",
+    "gujarati": "પાલક"
+  },
+  {
+    "english": "Fenugreek Leaves",
+    "gujarati": "મેથી"
+  },
+  {
+    "english": "Mustard Greens",
+    "gujarati": "રાઈની ભાજી"
+  },
+  {
+    "english": "Amaranth Leaves",
+    "gujarati": "તાંદળજાની ભાજી"
+  },
+  {
+    "english": "Drumstick",
+    "gujarati": "સરગવો"
+  },
+  {
+    "english": "Drumstick Leaves",
+    "gujarati": "સરગવાના પાન"
+  },
+  {
+    "english": "Cluster Beans",
+    "gujarati": "ગુવાર"
+  },
+  {
+    "english": "French Beans",
+    "gujarati": "ફણસી"
+  },
+  {
+    "english": "Broad Beans",
+    "gujarati": "વાલોળ"
+  },
+  {
+    "english": "Field Beans",
+    "gujarati": "વાલ"
+  },
+  {
+    "english": "Green Peas",
+    "gujarati": "લીલા વટાણા"
+  },
+  {
+    "english": "Corn",
+    "gujarati": "મકાઈ"
+  },
+  {
+    "english": "Baby Corn",
+    "gujarati": "બેબી કોર્ન"
+  },
+  {
+    "english": "Mushroom",
+    "gujarati": "મશરૂમ"
+  },
+  {
+    "english": "Raw Banana",
+    "gujarati": "કાચું કેળું"
+  },
+  {
+    "english": "Elephant Foot Yam",
+    "gujarati": "સુરણ"
+  },
+  {
+    "english": "Colocasia",
+    "gujarati": "અરબી"
+  },
+  {
+    "english": "Taro Leaves",
+    "gujarati": "અળવીના પાન"
+  },
+  {
+    "english": "Lotus Stem",
+    "gujarati": "કમળની દાંડી"
+  },
+  {
+    "english": "Spring Onion",
+    "gujarati": "લીલી ડુંગળી"
+  },
+  {
+    "english": "Celery",
+    "gujarati": "સેલરી"
+  },
+  {
+    "english": "Lettuce",
+    "gujarati": "લેટિસ"
+  },
+  {
+    "english": "Parsley",
+    "gujarati": "પાર્સ્લી"
+  },
+  {
+    "english": "Coriander Leaves",
+    "gujarati": "કોથમીર"
+  },
+  {
+    "english": "Mint Leaves",
+    "gujarati": "ફુદીનો"
+  },
+  {
+    "english": "Curry Leaves",
+    "gujarati": "મીઠો લીમડો"
+  },
+  {
+    "english": "Dill Leaves",
+    "gujarati": "સુવા ભાજી"
+  },
+  {
+    "english": "Leek",
+    "gujarati": "લીક"
+  },
+  {
+    "english": "Asparagus",
+    "gujarati": "એસ્પેરાગસ"
+  },
+  {
+    "english": "Artichoke",
+    "gujarati": "આર્ટીચોક"
+  },
+  {
+    "english": "Zucchini",
+    "gujarati": "ઝુકિની"
+  },
+  {
+    "english": "Bell Pepper",
+    "gujarati": "શિમલા મરચું"
+  },
+  {
+    "english": "Red Bell Pepper",
+    "gujarati": "લાલ શિમલા મરચું"
+  },
+  {
+    "english": "Yellow Bell Pepper",
+    "gujarati": "પીળું શિમલા મરચું"
+  },
+  {
+    "english": "Purple Cabbage",
+    "gujarati": "જાંબલી કોબી"
+  },
+  {
+    "english": "Chinese Cabbage",
+    "gujarati": "ચાઈનીઝ કોબી"
+  },
+  {
+    "english": "Bok Choy",
+    "gujarati": "બોક ચોય"
+  },
+  {
+    "english": "Water Spinach",
+    "gujarati": "જળ પાલક"
+  },
+  {
+    "english": "Green Garlic",
+    "gujarati": "લીલું લસણ"
+  },
+  {
+    "english": "Fennel",
+    "gujarati": "વરિયાળીનો છોડ"
+  },
+  {
+    "english": "Horseradish",
+    "gujarati": "હોર્સરેડિશ"
+  },
+  {
+    "english": "Kohlrabi",
+    "gujarati": "ગાંઠ કોબી"
+  },
+  {
+    "english": "Chayote",
+    "gujarati": "ચાયોટે"
+  },
+  {
+    "english": "Green Papaya",
+    "gujarati": "કાચું પપૈયું"
+  },
+  {
+    "english": "Jackfruit",
+    "gujarati": "ફણસ"
+  },
+  {
+    "english": "Raw Jackfruit",
+    "gujarati": "કાચું ફણસ"
+  },
+  {
+    "english": "Vegetable",
+    "gujarati": "શાકભાજી"
+  },
+  {
+    "english": "Leafy Vegetable",
+    "gujarati": "લીલા પાંદડાવાળું શાક"
+  },
+  {
+    "english": "Root Vegetable",
+    "gujarati": "મૂળવાળું શાક"
+  },
+  {
+    "english": "Stem Vegetable",
+    "gujarati": "દાંડીવાળું શાક"
+  },
+  {
+    "english": "Bulb Vegetable",
+    "gujarati": "ગાંઠવાળું શાક"
+  },
+  {
+    "english": "Seasonal Vegetable",
+    "gujarati": "મોસમી શાકભાજી"
+  },
+  {
+    "english": "Fresh Vegetable",
+    "gujarati": "તાજું શાકભાજી"
+  },
+  {
+    "english": "Organic Vegetable",
+    "gujarati": "જૈવિક શાકભાજી"
+  },
+  {
+    "english": "Frozen Vegetable",
+    "gujarati": "સ્થિર કરેલું શાકભાજી"
+  },
+  {
+    "english": "Vegetable Market",
+    "gujarati": "શાકભાજી બજાર"
+  },
+  {
+    "english": "Vegetable Vendor",
+    "gujarati": "શાકભાજી વેચનાર"
+  },
+  {
+    "english": "Vegetable Basket",
+    "gujarati": "શાકભાજીની ટોપલી"
+  },
+  {
+    "english": "Vegetable Garden",
+    "gujarati": "શાકભાજીનો બગીચો"
+  },
+  {
+    "english": "Kitchen Garden",
+    "gujarati": "રસોડાનો બગીચો"
+  },
+  {
+    "english": "Vegetable Farm",
+    "gujarati": "શાકભાજીનું ખેતર"
+  },
+  {
+    "english": "Harvest",
+    "gujarati": "લણણી"
+  },
+  {
+    "english": "Cultivation",
+    "gujarati": "ખેતી"
+  },
+  {
+    "english": "Seedling",
+    "gujarati": "નાનો રોપો"
+  },
+  {
+    "english": "Compost",
+    "gujarati": "ખાતર"
+  },
+  {
+    "english": "Irrigation",
+    "gujarati": "સિંચાઈ"
+  },
+  {
+    "english": "Peeling",
+    "gujarati": "છાલ ઉતારવી"
+  },
+  {
+    "english": "Chopping",
+    "gujarati": "સમારવું"
+  },
+  {
+    "english": "Cooking",
+    "gujarati": "રસોઈ કરવી"
+  },
+  {
+    "english": "Salad",
+    "gujarati": "સલાડ"
+  },
+  {
+    "english": "Soup",
+    "gujarati": "સૂપ"
   }
 ]
