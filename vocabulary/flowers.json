@@ -1,5 +1,9 @@
 [
   {
+    "english": "Flower",
+    "gujarati": "ફૂલ"
+  },
+  {
     "english": "Rose",
     "gujarati": "ગુલાબ"
   },
@@ -16,7 +20,383 @@
     "gujarati": "ચમેલી"
   },
   {
+    "english": "Marigold",
+    "gujarati": "ગાલગોટો"
+  },
+  {
+    "english": "Hibiscus",
+    "gujarati": "જાસૂદ"
+  },
+  {
     "english": "Lily",
     "gujarati": "લીલી"
+  },
+  {
+    "english": "Orchid",
+    "gujarati": "ઓર્કિડ"
+  },
+  {
+    "english": "Tulip",
+    "gujarati": "ટ્યૂલિપ"
+  },
+  {
+    "english": "Daisy",
+    "gujarati": "ડેઝી"
+  },
+  {
+    "english": "Daffodil",
+    "gujarati": "ડેફોડિલ"
+  },
+  {
+    "english": "Lavender",
+    "gujarati": "લેવેન્ડર"
+  },
+  {
+    "english": "Magnolia",
+    "gujarati": "મેગ્નોલિયા"
+  },
+  {
+    "english": "Carnation",
+    "gujarati": "કાર્નેશન"
+  },
+  {
+    "english": "Chrysanthemum",
+    "gujarati": "ગુલદાઉદી"
+  },
+  {
+    "english": "Peony",
+    "gujarati": "પિયોની"
+  },
+  {
+    "english": "Poppy",
+    "gujarati": "ખસખસનું ફૂલ"
+  },
+  {
+    "english": "Bluebell",
+    "gujarati": "બ્લૂબેલ"
+  },
+  {
+    "english": "Iris",
+    "gujarati": "આઇરિસ"
+  },
+  {
+    "english": "Jasmine Bud",
+    "gujarati": "ચમેલીની કળી"
+  },
+  {
+    "english": "Water Lily",
+    "gujarati": "જળકમળ"
+  },
+  {
+    "english": "Bougainvillea",
+    "gujarati": "બોગનવેલ"
+  },
+  {
+    "english": "Periwinkle",
+    "gujarati": "સદાબહાર"
+  },
+  {
+    "english": "Night Blooming Jasmine",
+    "gujarati": "પારિજાત"
+  },
+  {
+    "english": "Aster",
+    "gujarati": "એસ્ટર"
+  },
+  {
+    "english": "Begonia",
+    "gujarati": "બેગોનિયા"
+  },
+  {
+    "english": "Camellia",
+    "gujarati": "કેમેલિયા"
+  },
+  {
+    "english": "Cosmos",
+    "gujarati": "કોસ્મોસ"
+  },
+  {
+    "english": "Geranium",
+    "gujarati": "જરેનિયમ"
+  },
+  {
+    "english": "Gerbera",
+    "gujarati": "જરબેરા"
+  },
+  {
+    "english": "Gladiolus",
+    "gujarati": "ગ્લેડિયોલસ"
+  },
+  {
+    "english": "Hydrangea",
+    "gujarati": "હાઇડ્રેન્જિયા"
+  },
+  {
+    "english": "Hyacinth",
+    "gujarati": "હાયસિન્થ"
+  },
+  {
+    "english": "Lilac",
+    "gujarati": "લિલાક"
+  },
+  {
+    "english": "Morning Glory",
+    "gujarati": "મોર્નિંગ ગ્લોરી"
+  },
+  {
+    "english": "Narcissus",
+    "gujarati": "નાર્સિસસ"
+  },
+  {
+    "english": "Oleander",
+    "gujarati": "કનેર"
+  },
+  {
+    "english": "Petunia",
+    "gujarati": "પેટુનિયા"
+  },
+  {
+    "english": "Primrose",
+    "gujarati": "પ્રિમરોઝ"
+  },
+  {
+    "english": "Rhododendron",
+    "gujarati": "રોડોડેન્ડ્રોન"
+  },
+  {
+    "english": "Snapdragon",
+    "gujarati": "સ્નેપડ્રેગન"
+  },
+  {
+    "english": "Sweet Pea",
+    "gujarati": "સ્વીટ પી"
+  },
+  {
+    "english": "Verbena",
+    "gujarati": "વરબેના"
+  },
+  {
+    "english": "Zinnia",
+    "gujarati": "ઝીનિયા"
+  },
+  {
+    "english": "Anemone",
+    "gujarati": "એનેમોન"
+  },
+  {
+    "english": "Buttercup",
+    "gujarati": "બટરકપ"
+  },
+  {
+    "english": "Crocus",
+    "gujarati": "ક્રોકસ"
+  },
+  {
+    "english": "Foxglove",
+    "gujarati": "ફોક્સગ્લોવ"
+  },
+  {
+    "english": "Gardenia",
+    "gujarati": "ગાર્ડેનિયા"
+  },
+  {
+    "english": "Azalea",
+    "gujarati": "અઝેલિયા"
+  },
+  {
+    "english": "Bellflower",
+    "gujarati": "ઘંટાકાર ફૂલ"
+  },
+  {
+    "english": "Bird of Paradise",
+    "gujarati": "બર્ડ ઑફ પેરેડાઇઝ ફૂલ"
+  },
+  {
+    "english": "Bleeding Heart",
+    "gujarati": "બ્લીડિંગ હાર્ટ ફૂલ"
+  },
+  {
+    "english": "Blue Lotus",
+    "gujarati": "નીલ કમળ"
+  },
+  {
+    "english": "Butterfly Pea",
+    "gujarati": "અપરાજિતા"
+  },
+  {
+    "english": "Calendula",
+    "gujarati": "કેલેન્ડુલા"
+  },
+  {
+    "english": "Camphor Flower",
+    "gujarati": "કપૂરનું ફૂલ"
+  },
+  {
+    "english": "Cape Jasmine",
+    "gujarati": "કેપ જાસ્મીન"
+  },
+  {
+    "english": "Coneflower",
+    "gujarati": "કોનફ્લાવર"
+  },
+  {
+    "english": "Coreopsis",
+    "gujarati": "કોરિઓપ્સિસ"
+  },
+  {
+    "english": "Dandelion",
+    "gujarati": "ડેન્ડેલિયન"
+  },
+  {
+    "english": "Delphinium",
+    "gujarati": "ડેલ્ફિનિયમ"
+  },
+  {
+    "english": "Frangipani",
+    "gujarati": "ચંપો"
+  },
+  {
+    "english": "Golden Shower",
+    "gujarati": "ગરમાળો"
+  },
+  {
+    "english": "Heliconia",
+    "gujarati": "હેલિકોનિયા"
+  },
+  {
+    "english": "Honeysuckle",
+    "gujarati": "હનીસકલ"
+  },
+  {
+    "english": "Indian Cork Tree Flower",
+    "gujarati": "ઇન્ડિયન કોર્ક ટ્રીનું ફૂલ"
+  },
+  {
+    "english": "Ixora",
+    "gujarati": "રુકમિણી"
+  },
+  {
+    "english": "Lotus Bud",
+    "gujarati": "કમળની કળી"
+  },
+  {
+    "english": "Passion Flower",
+    "gujarati": "કૃષ્ણકમળ"
+  },
+  {
+    "english": "Queen's Crape Myrtle",
+    "gujarati": "જરુલ"
+  },
+  {
+    "english": "Tuberose",
+    "gujarati": "રજનીગંધા"
+  },
+  {
+    "english": "White Lily",
+    "gujarati": "સફેદ લીલી"
+  },
+  {
+    "english": "Yellow Rose",
+    "gujarati": "પીળો ગુલાબ"
+  },
+  {
+    "english": "Flower",
+    "gujarati": "પુષ્પ"
+  },
+  {
+    "english": "Petal",
+    "gujarati": "પાંખડી"
+  },
+  {
+    "english": "Sepal",
+    "gujarati": "દલપત્ર"
+  },
+  {
+    "english": "Bud",
+    "gujarati": "કળી"
+  },
+  {
+    "english": "Bloom",
+    "gujarati": "ખીલવું"
+  },
+  {
+    "english": "Blossom",
+    "gujarati": "ખીલેલું ફૂલ"
+  },
+  {
+    "english": "Fragrance",
+    "gujarati": "સુગંધ"
+  },
+  {
+    "english": "Scent",
+    "gujarati": "મહેક"
+  },
+  {
+    "english": "Pollen",
+    "gujarati": "પરાગરજ"
+  },
+  {
+    "english": "Nectar",
+    "gujarati": "મધરસ"
+  },
+  {
+    "english": "Stamen",
+    "gujarati": "પુંકેસર"
+  },
+  {
+    "english": "Pistil",
+    "gujarati": "સ્ત્રીકેસર"
+  },
+  {
+    "english": "Stem",
+    "gujarati": "દાંડી"
+  },
+  {
+    "english": "Leaf",
+    "gujarati": "પાંદડું"
+  },
+  {
+    "english": "Bouquet",
+    "gujarati": "ફૂલોનો ગુચ્છ"
+  },
+  {
+    "english": "Garland",
+    "gujarati": "હાર"
+  },
+  {
+    "english": "Flower Pot",
+    "gujarati": "ફૂલનો કૂંડો"
+  },
+  {
+    "english": "Flower Vase",
+    "gujarati": "ફૂલદાની"
+  },
+  {
+    "english": "Flower Bed",
+    "gujarati": "ફૂલની ક્યારી"
+  },
+  {
+    "english": "Florist",
+    "gujarati": "ફૂલ વેચનાર"
+  },
+  {
+    "english": "Flower Shop",
+    "gujarati": "ફૂલની દુકાન"
+  },
+  {
+    "english": "Flower Garden",
+    "gujarati": "ફૂલોનો બગીચો"
+  },
+  {
+    "english": "Wild Flower",
+    "gujarati": "જંગલી ફૂલ"
+  },
+  {
+    "english": "Artificial Flower",
+    "gujarati": "કૃત્રિમ ફૂલ"
+  },
+  {
+    "english": "Fresh Flower",
+    "gujarati": "તાજું ફૂલ"
   }
 ]
