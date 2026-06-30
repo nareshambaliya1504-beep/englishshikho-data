@@ -1,11 +1,103 @@
 [
   {
+    "english": "Food",
+    "gujarati": "ખોરાક"
+  },
+  {
+    "english": "Drink",
+    "gujarati": "પીણું"
+  },
+  {
+    "english": "Meal",
+    "gujarati": "ભોજન"
+  },
+  {
+    "english": "Breakfast",
+    "gujarati": "નાસ્તો"
+  },
+  {
+    "english": "Lunch",
+    "gujarati": "બપોરનું ભોજન"
+  },
+  {
+    "english": "Dinner",
+    "gujarati": "રાત્રિભોજન"
+  },
+  {
+    "english": "Snack",
+    "gujarati": "નાસ્તો"
+  },
+  {
     "english": "Rice",
-    "gujarati": "ચોખા"
+    "gujarati": "ભાત"
+  },
+  {
+    "english": "Wheat",
+    "gujarati": "ઘઉં"
+  },
+  {
+    "english": "Flour",
+    "gujarati": "લોટ"
   },
   {
     "english": "Bread",
+    "gujarati": "બ્રેડ"
+  },
+  {
+    "english": "Chapati",
     "gujarati": "રોટલી"
+  },
+  {
+    "english": "Paratha",
+    "gujarati": "પરોઠા"
+  },
+  {
+    "english": "Puri",
+    "gujarati": "પૂરી"
+  },
+  {
+    "english": "Khichdi",
+    "gujarati": "ખીચડી"
+  },
+  {
+    "english": "Dal",
+    "gujarati": "દાળ"
+  },
+  {
+    "english": "Curry",
+    "gujarati": "શાક"
+  },
+  {
+    "english": "Soup",
+    "gujarati": "સૂપ"
+  },
+  {
+    "english": "Salad",
+    "gujarati": "સલાડ"
+  },
+  {
+    "english": "Pickle",
+    "gujarati": "અથાણું"
+  },
+  {
+    "english": "Papad",
+    "gujarati": "પાપડ"
+  },
+  {
+    "english": "Curd",
+    "gujarati": "દહીં"
+  },
+  {
+    "english": "Butter",
+    "gujarati": "માખણ"
+  },
+  {
+    "english": "Ghee",
+    "gujarati": "ઘી"
+  },
+  {
+    "english": "Cheese",
+    "gujarati": "ચીઝ"
   },
   {
     "english": "Milk",
@@ -16,7 +108,295 @@
     "gujarati": "ચા"
   },
   {
+    "english": "Coffee",
+    "gujarati": "કોફી"
+  },
+  {
     "english": "Water",
     "gujarati": "પાણી"
+  },
+  {
+    "english": "Mineral Water",
+    "gujarati": "મિનરલ વોટર"
+  },
+  {
+    "english": "Juice",
+    "gujarati": "રસ"
+  },
+  {
+    "english": "Lemon Juice",
+    "gujarati": "લીંબુનો રસ"
+  },
+  {
+    "english": "Sugarcane Juice",
+    "gujarati": "શેરડીનો રસ"
+  },
+  {
+    "english": "Coconut Water",
+    "gujarati": "નાળિયેરનું પાણી"
+  },
+  {
+    "english": "Buttermilk",
+    "gujarati": "છાશ"
+  },
+  {
+    "english": "Lassi",
+    "gujarati": "લસ્સી"
+  },
+  {
+    "english": "Soft Drink",
+    "gujarati": "ઠંડું પીણું"
+  },
+  {
+    "english": "Milkshake",
+    "gujarati": "મિલ્કશેક"
+  },
+  {
+    "english": "Hot Chocolate",
+    "gujarati": "ગરમ ચોકલેટ"
+  },
+  {
+    "english": "Green Tea",
+    "gujarati": "ગ્રીન ટી"
+  },
+  {
+    "english": "Black Tea",
+    "gujarati": "કાળી ચા"
+  },
+  {
+    "english": "Herbal Tea",
+    "gujarati": "હર્બલ ચા"
+  },
+  {
+    "english": "Smoothie",
+    "gujarati": "સ્મૂધી"
+  },
+  {
+    "english": "Energy Drink",
+    "gujarati": "ઊર્જાવર્ધક પીણું"
+  },
+  {
+    "english": "Soup",
+    "gujarati": "સૂપ"
+  },
+  {
+    "english": "Ice Cream",
+    "gujarati": "આઈસ્ક્રીમ"
+  },
+  {
+    "english": "Chocolate",
+    "gujarati": "ચોકલેટ"
+  },
+  {
+    "english": "Candy",
+    "gujarati": "મીઠાઈની ગોળી"
+  },
+  {
+    "english": "Biscuit",
+    "gujarati": "બિસ્કિટ"
+  },
+  {
+    "english": "Cake",
+    "gujarati": "કેક"
+  },
+  {
+    "english": "Pizza",
+    "gujarati": "પિઝ્ઝા"
+  },
+  {
+    "english": "Burger",
+    "gujarati": "બર્ગર"
+  },
+  {
+    "english": "Sandwich",
+    "gujarati": "સેન્ડવિચ"
+  },
+  {
+    "english": "Noodles",
+    "gujarati": "નૂડલ્સ"
+  },
+  {
+    "english": "Pasta",
+    "gujarati": "પાસ્તા"
+  },
+  {
+    "english": "French Fries",
+    "gujarati": "ફ્રેન્ચ ફ્રાઈઝ"
+  },
+  {
+    "english": "Samosa",
+    "gujarati": "સમોસા"
+  },
+  {
+    "english": "Kachori",
+    "gujarati": "કચોરી"
+  },
+  {
+    "english": "Dhokla",
+    "gujarati": "ઢોકળા"
+  },
+  {
+    "english": "Khaman",
+    "gujarati": "ખમણ"
+  },
+  {
+    "english": "Fafda",
+    "gujarati": "ફાફડા"
+  },
+  {
+    "english": "Jalebi",
+    "gujarati": "જલેબી"
+  },
+  {
+    "english": "Thepla",
+    "gujarati": "થેપલા"
+  },
+  {
+    "english": "Handvo",
+    "gujarati": "હાંડવો"
+  },
+  {
+    "english": "Khakhra",
+    "gujarati": "ખાખરા"
+  },
+  {
+    "english": "Idli",
+    "gujarati": "ઇડલી"
+  },
+  {
+    "english": "Dosa",
+    "gujarati": "ઢોસા"
+  },
+  {
+    "english": "Vada",
+    "gujarati": "વડા"
+  },
+  {
+    "english": "Upma",
+    "gujarati": "ઉપમા"
+  },
+  {
+    "english": "Poha",
+    "gujarati": "પૌંઆ"
+  },
+  {
+    "english": "Biryani",
+    "gujarati": "બિરયાની"
+  },
+  {
+    "english": "Pulao",
+    "gujarati": "પુલાવ"
+  },
+  {
+    "english": "Paneer",
+    "gujarati": "પનીર"
+  },
+  {
+    "english": "Tofu",
+    "gujarati": "ટોફુ"
+  },
+  {
+    "english": "Omelette",
+    "gujarati": "ઓમલેટ"
+  },
+  {
+    "english": "Salt",
+    "gujarati": "મીઠું"
+  },
+  {
+    "english": "Sugar",
+    "gujarati": "ખાંડ"
+  },
+  {
+    "english": "Jaggery",
+    "gujarati": "ગોળ"
+  },
+  {
+    "english": "Honey",
+    "gujarati": "મધ"
+  },
+  {
+    "english": "Cooking Oil",
+    "gujarati": "રસોઈનું તેલ"
+  },
+  {
+    "english": "Spice",
+    "gujarati": "મસાલો"
+  },
+  {
+    "english": "Turmeric",
+    "gujarati": "હળદર"
+  },
+  {
+    "english": "Red Chili Powder",
+    "gujarati": "લાલ મરચું પાઉડર"
+  },
+  {
+    "english": "Coriander Powder",
+    "gujarati": "ધાણા પાઉડર"
+  },
+  {
+    "english": "Cumin",
+    "gujarati": "જીરું"
+  },
+  {
+    "english": "Black Pepper",
+    "gujarati": "કાળા મરી"
+  },
+  {
+    "english": "Cardamom",
+    "gujarati": "ઈલાયચી"
+  },
+  {
+    "english": "Clove",
+    "gujarati": "લવિંગ"
+  },
+  {
+    "english": "Cinnamon",
+    "gujarati": "તજ"
+  },
+  {
+    "english": "Bay Leaf",
+    "gujarati": "તમાલપત્ર"
+  },
+  {
+    "english": "Mustard Seeds",
+    "gujarati": "રાઈ"
+  },
+  {
+    "english": "Sesame",
+    "gujarati": "તલ"
+  },
+  {
+    "english": "Vinegar",
+    "gujarati": "સરકો"
+  },
+  {
+    "english": "Sauce",
+    "gujarati": "ચટણી / સોસ"
+  },
+  {
+    "english": "Ketchup",
+    "gujarati": "ટમેટાની સોસ"
+  },
+  {
+    "english": "Mayonnaise",
+    "gujarati": "મેયોનેઝ"
+  },
+  {
+    "english": "Jam",
+    "gujarati": "જામ"
+  },
+  {
+    "english": "Ice Cube",
+    "gujarati": "બરફનો ટુકડો"
+  },
+  {
+    "english": "Dessert",
+    "gujarati": "મીઠાઈ"
+  },
+  {
+    "english": "Healthy Food",
+    "gujarati": "આરોગ્યપ્રદ ખોરાક"
   }
 ]
