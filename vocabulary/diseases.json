@@ -1,5 +1,17 @@
 [
   {
+    "english": "Disease",
+    "gujarati": "રોગ"
+  },
+  {
+    "english": "Illness",
+    "gujarati": "માંદગી"
+  },
+  {
+    "english": "Infection",
+    "gujarati": "ચેપ"
+  },
+  {
     "english": "Fever",
     "gujarati": "તાવ"
   },
@@ -12,11 +24,379 @@
     "gujarati": "ઉધરસ"
   },
   {
-    "english": "Diabetes",
-    "gujarati": "ડાયાબિટીસ"
+    "english": "Flu",
+    "gujarati": "ઈન્ફ્લુએન્ઝા"
   },
   {
     "english": "Headache",
     "gujarati": "માથાનો દુખાવો"
+  },
+  {
+    "english": "Migraine",
+    "gujarati": "આધાશીશી"
+  },
+  {
+    "english": "Toothache",
+    "gujarati": "દાંતનો દુખાવો"
+  },
+  {
+    "english": "Earache",
+    "gujarati": "કાનનો દુખાવો"
+  },
+  {
+    "english": "Sore Throat",
+    "gujarati": "ગળામાં દુખાવો"
+  },
+  {
+    "english": "Stomachache",
+    "gujarati": "પેટનો દુખાવો"
+  },
+  {
+    "english": "Back Pain",
+    "gujarati": "પીઠનો દુખાવો"
+  },
+  {
+    "english": "Chest Pain",
+    "gujarati": "છાતીમાં દુખાવો"
+  },
+  {
+    "english": "Body Pain",
+    "gujarati": "શરીરમાં દુખાવો"
+  },
+  {
+    "english": "Vomiting",
+    "gujarati": "ઉલટી"
+  },
+  {
+    "english": "Nausea",
+    "gujarati": "ઉબકા"
+  },
+  {
+    "english": "Diarrhea",
+    "gujarati": "ઝાડા"
+  },
+  {
+    "english": "Constipation",
+    "gujarati": "કબજિયાત"
+  },
+  {
+    "english": "Indigestion",
+    "gujarati": "અપચો"
+  },
+  {
+    "english": "Acidity",
+    "gujarati": "એસિડિટી"
+  },
+  {
+    "english": "Allergy",
+    "gujarati": "એલર્જી"
+  },
+  {
+    "english": "Asthma",
+    "gujarati": "દમ"
+  },
+  {
+    "english": "Dehydration",
+    "gujarati": "શરીરમાં પાણીની ઉણપ"
+  },
+  {
+    "english": "Diabetes",
+    "gujarati": "મધુમેહ"
+  },
+  {
+    "english": "High Blood Pressure",
+    "gujarati": "ઉચ્ચ રક્તચાપ"
+  },
+  {
+    "english": "Low Blood Pressure",
+    "gujarati": "નીચું રક્તચાપ"
+  },
+  {
+    "english": "Heart Disease",
+    "gujarati": "હૃદયરોગ"
+  },
+  {
+    "english": "Heart Attack",
+    "gujarati": "હૃદયાઘાત"
+  },
+  {
+    "english": "Stroke",
+    "gujarati": "મગજનો હુમલો"
+  },
+  {
+    "english": "Cancer",
+    "gujarati": "કેન્સર"
+  },
+  {
+    "english": "Tuberculosis",
+    "gujarati": "ક્ષયરોગ"
+  },
+  {
+    "english": "Pneumonia",
+    "gujarati": "ન્યુમોનિયા"
+  },
+  {
+    "english": "COVID-19",
+    "gujarati": "કોવિડ-19"
+  },
+  {
+    "english": "Dengue",
+    "gujarati": "ડેન્ગ્યુ"
+  },
+  {
+    "english": "Malaria",
+    "gujarati": "મેલેરિયા"
+  },
+  {
+    "english": "Typhoid",
+    "gujarati": "ટાઈફોઈડ"
+  },
+  {
+    "english": "Cholera",
+    "gujarati": "કૉલેરા"
+  },
+  {
+    "english": "Jaundice",
+    "gujarati": "કમળો"
+  },
+  {
+    "english": "Chickenpox",
+    "gujarati": "અછબડા"
+  },
+  {
+    "english": "Measles",
+    "gujarati": "ઓરી"
+  },
+  {
+    "english": "Mumps",
+    "gujarati": "ગાલપચોળિયાં"
+  },
+  {
+    "english": "Polio",
+    "gujarati": "પોલિયો"
+  },
+  {
+    "english": "Rabies",
+    "gujarati": "હડકવા"
+  },
+  {
+    "english": "Hepatitis",
+    "gujarati": "યકૃતનો સોજો"
+  },
+  {
+    "english": "Anemia",
+    "gujarati": "લોહીની ઉણપ"
+  },
+  {
+    "english": "Arthritis",
+    "gujarati": "સાંધાનો રોગ"
+  },
+  {
+    "english": "Osteoporosis",
+    "gujarati": "હાડકાં નબળાં પડવાનો રોગ"
+  },
+  {
+    "english": "Thyroid Disease",
+    "gujarati": "થાયરોઇડનો રોગ"
+  },
+  {
+    "english": "Obesity",
+    "gujarati": "સ્થૂળતા"
+  },
+  {
+    "english": "Malnutrition",
+    "gujarati": "કુપોષણ"
+  },
+  {
+    "english": "Depression",
+    "gujarati": "અવસાદ"
+  },
+  {
+    "english": "Anxiety",
+    "gujarati": "ચિંતા વિકાર"
+  },
+  {
+    "english": "Insomnia",
+    "gujarati": "અનિદ્રા"
+  },
+  {
+    "english": "Epilepsy",
+    "gujarati": "વાઈનો રોગ"
+  },
+  {
+    "english": "Paralysis",
+    "gujarati": "લકવો"
+  },
+  {
+    "english": "Kidney Stone",
+    "gujarati": "મૂત્રપિંડની પથરી"
+  },
+  {
+    "english": "Kidney Failure",
+    "gujarati": "મૂત્રપિંડ નિષ્ફળતા"
+  },
+  {
+    "english": "Liver Disease",
+    "gujarati": "યકૃતનો રોગ"
+  },
+  {
+    "english": "Fatty Liver",
+    "gujarati": "ફેટી લિવર"
+  },
+  {
+    "english": "Ulcer",
+    "gujarati": "ચાંદું"
+  },
+  {
+    "english": "Appendicitis",
+    "gujarati": "એપેન્ડિક્સનો સોજો"
+  },
+  {
+    "english": "Food Poisoning",
+    "gujarati": "ખોરાકથી ઝેર ચડવું"
+  },
+  {
+    "english": "Skin Infection",
+    "gujarati": "ચામડીનો ચેપ"
+  },
+  {
+    "english": "Eczema",
+    "gujarati": "ખરજવું"
+  },
+  {
+    "english": "Psoriasis",
+    "gujarati": "સોરાયસિસ"
+  },
+  {
+    "english": "Fungal Infection",
+    "gujarati": "ફૂગનો ચેપ"
+  },
+  {
+    "english": "Ringworm",
+    "gujarati": "દાદ"
+  },
+  {
+    "english": "Scabies",
+    "gujarati": "ખંજવાળનો ચેપ"
+  },
+  {
+    "english": "Conjunctivitis",
+    "gujarati": "આંખ આવવી"
+  },
+  {
+    "english": "Cataract",
+    "gujarati": "મોતિયો"
+  },
+  {
+    "english": "Glaucoma",
+    "gujarati": "ઝામર"
+  },
+  {
+    "english": "Sinusitis",
+    "gujarati": "સાયનસનો સોજો"
+  },
+  {
+    "english": "Tonsillitis",
+    "gujarati": "કાકડાનો સોજો"
+  },
+  {
+    "english": "Wound",
+    "gujarati": "ઘા"
+  },
+  {
+    "english": "Injury",
+    "gujarati": "ઈજા"
+  },
+  {
+    "english": "Burn",
+    "gujarati": "દાઝવું"
+  },
+  {
+    "english": "Fracture",
+    "gujarati": "હાડકું તૂટવું"
+  },
+  {
+    "english": "Sprain",
+    "gujarati": "મોચ"
+  },
+  {
+    "english": "Dislocation",
+    "gujarati": "સાંધો ખસી જવો"
+  },
+  {
+    "english": "Bleeding",
+    "gujarati": "રક્તસ્ત્રાવ"
+  },
+  {
+    "english": "Swelling",
+    "gujarati": "સોજો"
+  },
+  {
+    "english": "Rash",
+    "gujarati": "ચામડી પર ચકામા"
+  },
+  {
+    "english": "Itching",
+    "gujarati": "ખંજવાળ"
+  },
+  {
+    "english": "Blister",
+    "gujarati": "ફોલ્લો"
+  },
+  {
+    "english": "Pus",
+    "gujarati": "પરુ"
+  },
+  {
+    "english": "Pain",
+    "gujarati": "દુખાવો"
+  },
+  {
+    "english": "Weakness",
+    "gujarati": "નબળાઈ"
+  },
+  {
+    "english": "Fatigue",
+    "gujarati": "થાક"
+  },
+  {
+    "english": "Dizziness",
+    "gujarati": "ચક્કર આવવા"
+  },
+  {
+    "english": "Fainting",
+    "gujarati": "બેહોશી"
+  },
+  {
+    "english": "Chills",
+    "gujarati": "ટાઢ ચડવી"
+  },
+  {
+    "english": "Shivering",
+    "gujarati": "ધ્રુજારી"
+  },
+  {
+    "english": "Runny Nose",
+    "gujarati": "નાક વહેવું"
+  },
+  {
+    "english": "Sneezing",
+    "gujarati": "છીંક આવવી"
+  },
+  {
+    "english": "Shortness of Breath",
+    "gujarati": "શ્વાસ લેવામાં તકલીફ"
+  },
+  {
+    "english": "Loss of Appetite",
+    "gujarati": "ભૂખ ન લાગવી"
+  },
+  {
+    "english": "Recovery",
+    "gujarati": "સાજા થવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Treatment",
+    "gujarati": "સારવાર"
   }
 ]
