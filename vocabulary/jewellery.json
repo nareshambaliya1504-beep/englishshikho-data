@@ -1,22 +1,402 @@
 [
   {
+    "english": "Jewellery",
+    "gujarati": "દાગીના"
+  },
+  {
+    "english": "Jeweler",
+    "gujarati": "ઝવેરી"
+  },
+  {
+    "english": "Ornament",
+    "gujarati": "આભૂષણ"
+  },
+  {
+    "english": "Gold Jewellery",
+    "gujarati": "સોનાના દાગીના"
+  },
+  {
+    "english": "Silver Jewellery",
+    "gujarati": "ચાંદીના દાગીના"
+  },
+  {
+    "english": "Diamond Jewellery",
+    "gujarati": "હીરાના દાગીના"
+  },
+  {
     "english": "Ring",
-    "gujarati": "અંગૂઠી"
+    "gujarati": "વીંટી"
+  },
+  {
+    "english": "Wedding Ring",
+    "gujarati": "લગ્નની વીંટી"
   },
   {
     "english": "Necklace",
     "gujarati": "હાર"
   },
   {
+    "english": "Chain",
+    "gujarati": "ચેઇન"
+  },
+  {
+    "english": "Pendant",
+    "gujarati": "પેન્ડન્ટ"
+  },
+  {
+    "english": "Earring",
+    "gujarati": "બુટી"
+  },
+  {
+    "english": "Ear Stud",
+    "gujarati": "કાનની બુટી"
+  },
+  {
+    "english": "Bangle",
+    "gujarati": "બંગડી"
+  },
+  {
     "english": "Bracelet",
     "gujarati": "કંકણ"
   },
   {
-    "english": "Earrings",
-    "gujarati": "કાનના ટોપ્સ"
+    "english": "Anklet",
+    "gujarati": "ઝાંઝર"
   },
   {
-    "english": "Chain",
-    "gujarati": "ચેન"
+    "english": "Toe Ring",
+    "gujarati": "બિછિયા"
+  },
+  {
+    "english": "Nose Ring",
+    "gujarati": "નથણી"
+  },
+  {
+    "english": "Nose Pin",
+    "gujarati": "નોઝ પિન"
+  },
+  {
+    "english": "Crown",
+    "gujarati": "મુગટ"
+  },
+  {
+    "english": "Tiara",
+    "gujarati": "તાજ"
+  },
+  {
+    "english": "Brooch",
+    "gujarati": "બ્રોચ"
+  },
+  {
+    "english": "Locket",
+    "gujarati": "લોકેટ"
+  },
+  {
+    "english": "Waist Belt",
+    "gujarati": "કંદોરો"
+  },
+  {
+    "english": "Armlet",
+    "gujarati": "બાજુબંધ"
+  },
+  {
+    "english": "Cufflinks",
+    "gujarati": "કફલિંક્સ"
+  },
+  {
+    "english": "Hair Pin",
+    "gujarati": "હેર પિન"
+  },
+  {
+    "english": "Hair Clip",
+    "gujarati": "હેર ક્લિપ"
+  },
+  {
+    "english": "Hair Band",
+    "gujarati": "હેર બેન્ડ"
+  },
+  {
+    "english": "Maang Tikka",
+    "gujarati": "માંગટીકો"
+  },
+  {
+    "english": "Mangalsutra",
+    "gujarati": "મંગળસૂત્ર"
+  },
+  {
+    "english": "Bajuband",
+    "gujarati": "બાજુબંધ"
+  },
+  {
+    "english": "Kamarband",
+    "gujarati": "કંદોરો"
+  },
+  {
+    "english": "Payal",
+    "gujarati": "પાયલ"
+  },
+  {
+    "english": "Jewellery Box",
+    "gujarati": "દાગીનાની પેટી"
+  },
+  {
+    "english": "Gemstone",
+    "gujarati": "રત્ન"
+  },
+  {
+    "english": "Diamond",
+    "gujarati": "હીરો"
+  },
+  {
+    "english": "Ruby",
+    "gujarati": "માણેક"
+  },
+  {
+    "english": "Emerald",
+    "gujarati": "પન્ના"
+  },
+  {
+    "english": "Sapphire",
+    "gujarati": "નીલમ"
+  },
+  {
+    "english": "Pearl",
+    "gujarati": "મોતી"
+  },
+  {
+    "english": "Coral",
+    "gujarati": "પ્રવાલ"
+  },
+  {
+    "english": "Topaz",
+    "gujarati": "પોખરાજ"
+  },
+  {
+    "english": "Opal",
+    "gujarati": "ઓપલ"
+  },
+  {
+    "english": "Turquoise",
+    "gujarati": "ફિરોઝા"
+  },
+  {
+    "english": "Amethyst",
+    "gujarati": "જાંબુડિયો રત્ન"
+  },
+  {
+    "english": "Jade",
+    "gujarati": "જેડ"
+  },
+  {
+    "english": "Agate",
+    "gujarati": "અકીક"
+  },
+  {
+    "english": "Stone",
+    "gujarati": "પથ્થર"
+  },
+  {
+    "english": "Precious Stone",
+    "gujarati": "કિંમતી રત્ન"
+  },
+  {
+    "english": "Gold",
+    "gujarati": "સોનું"
+  },
+  {
+    "english": "Silver",
+    "gujarati": "ચાંદી"
+  },
+  {
+    "english": "Platinum",
+    "gujarati": "પ્લેટિનમ"
+  },
+  {
+    "english": "Rose Gold",
+    "gujarati": "રોઝ ગોલ્ડ"
+  },
+  {
+    "english": "White Gold",
+    "gujarati": "વ્હાઇટ ગોલ્ડ"
+  },
+  {
+    "english": "Hallmark",
+    "gujarati": "હોલમાર્ક"
+  },
+  {
+    "english": "Purity",
+    "gujarati": "શુદ્ધતા"
+  },
+  {
+    "english": "Carat",
+    "gujarati": "કેરેટ"
+  },
+  {
+    "english": "Goldsmith",
+    "gujarati": "સોની"
+  },
+  {
+    "english": "Jewellery Designer",
+    "gujarati": "દાગીના ડિઝાઇનર"
+  },
+  {
+    "english": "Diamond Cutter",
+    "gujarati": "હીરા કટર"
+  },
+  {
+    "english": "Diamond Polisher",
+    "gujarati": "હીરા ઘસનાર"
+  },
+  {
+    "english": "Jewellery Shop",
+    "gujarati": "ઝવેરીની દુકાન"
+  },
+  {
+    "english": "Jewellery Showroom",
+    "gujarati": "દાગીનાનું શોરૂમ"
+  },
+  {
+    "english": "Jewellery Collection",
+    "gujarati": "દાગીનાનો સંગ્રહ"
+  },
+  {
+    "english": "Custom Jewellery",
+    "gujarati": "ઓર્ડર મુજબના દાગીના"
+  },
+  {
+    "english": "Handmade Jewellery",
+    "gujarati": "હાથથી બનાવેલા દાગીના"
+  },
+  {
+    "english": "Artificial Jewellery",
+    "gujarati": "કૃત્રિમ દાગીના"
+  },
+  {
+    "english": "Imitation Jewellery",
+    "gujarati": "નકલી દાગીના"
+  },
+  {
+    "english": "Traditional Jewellery",
+    "gujarati": "પરંપરાગત દાગીના"
+  },
+  {
+    "english": "Modern Jewellery",
+    "gujarati": "આધુનિક દાગીના"
+  },
+  {
+    "english": "Antique Jewellery",
+    "gujarati": "પ્રાચીન દાગીના"
+  },
+  {
+    "english": "Bridal Jewellery",
+    "gujarati": "વધૂના દાગીના"
+  },
+  {
+    "english": "Jewellery Set",
+    "gujarati": "દાગીનાનો સેટ"
+  },
+  {
+    "english": "Engagement Ring",
+    "gujarati": "સગાઈની વીંટી"
+  },
+  {
+    "english": "Jewellery Repair",
+    "gujarati": "દાગીનાનું સમારકામ"
+  },
+  {
+    "english": "Jewellery Cleaning",
+    "gujarati": "દાગીનાની સફાઈ"
+  },
+  {
+    "english": "Jewellery Polishing",
+    "gujarati": "દાગીનાની ચમકાવવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Jewellery Appraisal",
+    "gujarati": "દાગીનાનું મૂલ્યાંકન"
+  },
+  {
+    "english": "Jewellery Certificate",
+    "gujarati": "દાગીનાનું પ્રમાણપત્ર"
+  },
+  {
+    "english": "Diamond Certificate",
+    "gujarati": "હીરાનું પ્રમાણપત્ર"
+  },
+  {
+    "english": "Hallmark Certificate",
+    "gujarati": "હોલમાર્ક પ્રમાણપત્ર"
+  },
+  {
+    "english": "Jewellery Insurance",
+    "gujarati": "દાગીનાનો વીમો"
+  },
+  {
+    "english": "Safe Locker",
+    "gujarati": "સેફ લોકર"
+  },
+  {
+    "english": "Vault",
+    "gujarati": "તિજોરી"
+  },
+  {
+    "english": "Chain Lock",
+    "gujarati": "ચેઇનનું તાળું"
+  },
+  {
+    "english": "Clasp",
+    "gujarati": "બંધ કરવાની ક્લિપ"
+  },
+  {
+    "english": "Jewellery Box",
+    "gujarati": "દાગીનાની પેટી"
+  },
+  {
+    "english": "Gift Box",
+    "gujarati": "ભેટની પેટી"
+  },
+  {
+    "english": "Velvet Box",
+    "gujarati": "મખમલી પેટી"
+  },
+  {
+    "english": "Display Tray",
+    "gujarati": "પ્રદર્શન ટ્રે"
+  },
+  {
+    "english": "Showcase",
+    "gujarati": "પ્રદર્શન કેબિનેટ"
+  },
+  {
+    "english": "Pendant Chain",
+    "gujarati": "પેન્ડન્ટની ચેઇન"
+  },
+  {
+    "english": "Charm",
+    "gujarati": "ચાર્મ લટકણ"
+  },
+  {
+    "english": "Bead",
+    "gujarati": "મણકો"
+  },
+  {
+    "english": "Pearl Necklace",
+    "gujarati": "મોતીનો હાર"
+  },
+  {
+    "english": "Diamond Ring",
+    "gujarati": "હીરાની વીંટી"
+  },
+  {
+    "english": "Gold Chain",
+    "gujarati": "સોનાની ચેઇન"
+  },
+  {
+    "english": "Silver Anklet",
+    "gujarati": "ચાંદીની ઝાંઝર"
+  },
+  {
+    "english": "Jewellery Making",
+    "gujarati": "દાગીના બનાવવાની કળા"
   }
 ]
