@@ -1,22 +1,402 @@
 [
   {
-    "english": "Peacock",
-    "gujarati": "મોર"
+    "english": "Bird",
+    "gujarati": "પક્ષી"
   },
   {
-    "english": "Parrot",
-    "gujarati": "પોપટ"
-  },
-  {
-    "english": "Crow",
-    "gujarati": "કાગડો"
+    "english": "Sparrow",
+    "gujarati": "ચકલી"
   },
   {
     "english": "Pigeon",
     "gujarati": "કબૂતર"
   },
   {
-    "english": "Sparrow",
-    "gujarati": "ચકલી"
+    "english": "Crow",
+    "gujarati": "કાગડો"
+  },
+  {
+    "english": "Parrot",
+    "gujarati": "પોપટ"
+  },
+  {
+    "english": "Peacock",
+    "gujarati": "મોર"
+  },
+  {
+    "english": "Peahen",
+    "gujarati": "ઢેલ"
+  },
+  {
+    "english": "Hen",
+    "gujarati": "મરઘી"
+  },
+  {
+    "english": "Rooster",
+    "gujarati": "કૂકડો"
+  },
+  {
+    "english": "Chick",
+    "gujarati": "બચ્ચું"
+  },
+  {
+    "english": "Duck",
+    "gujarati": "બતક"
+  },
+  {
+    "english": "Goose",
+    "gujarati": "હંસ"
+  },
+  {
+    "english": "Swan",
+    "gujarati": "રાજહંસ"
+  },
+  {
+    "english": "Eagle",
+    "gujarati": "ગરુડ"
+  },
+  {
+    "english": "Hawk",
+    "gujarati": "બાજ"
+  },
+  {
+    "english": "Falcon",
+    "gujarati": "શાહીન"
+  },
+  {
+    "english": "Owl",
+    "gujarati": "ઘુવડ"
+  },
+  {
+    "english": "Vulture",
+    "gujarati": "ગીધ"
+  },
+  {
+    "english": "Kingfisher",
+    "gujarati": "કલકલિયો"
+  },
+  {
+    "english": "Woodpecker",
+    "gujarati": "કઠફોડિયો"
+  },
+  {
+    "english": "Cuckoo",
+    "gujarati": "કોયલ"
+  },
+  {
+    "english": "Nightingale",
+    "gujarati": "બુલબુલ"
+  },
+  {
+    "english": "Crane",
+    "gujarati": "સારસ"
+  },
+  {
+    "english": "Heron",
+    "gujarati": "બગલો"
+  },
+  {
+    "english": "Flamingo",
+    "gujarati": "સુરખાબ"
+  },
+  {
+    "english": "Pelican",
+    "gujarati": "પેલિકન"
+  },
+  {
+    "english": "Penguin",
+    "gujarati": "પેંગ્વિન"
+  },
+  {
+    "english": "Ostrich",
+    "gujarati": "શાહમૃગ"
+  },
+  {
+    "english": "Emu",
+    "gujarati": "ઇમુ"
+  },
+  {
+    "english": "Turkey",
+    "gujarati": "ટર્કી"
+  },
+  {
+    "english": "Quail",
+    "gujarati": "બટેર"
+  },
+  {
+    "english": "Partridge",
+    "gujarati": "તીતર"
+  },
+  {
+    "english": "Pheasant",
+    "gujarati": "જંગલી કૂકડો"
+  },
+  {
+    "english": "Canary",
+    "gujarati": "કેનરી પક્ષી"
+  },
+  {
+    "english": "Lovebird",
+    "gujarati": "લવબર્ડ"
+  },
+  {
+    "english": "Mynah",
+    "gujarati": "મેના"
+  },
+  {
+    "english": "Robin",
+    "gujarati": "રોબિન પક્ષી"
+  },
+  {
+    "english": "Blue Jay",
+    "gujarati": "બ્લૂ જે"
+  },
+  {
+    "english": "Magpie",
+    "gujarati": "મેગપાઈ"
+  },
+  {
+    "english": "Raven",
+    "gujarati": "મોટો કાગડો"
+  },
+  {
+    "english": "Seagull",
+    "gujarati": "દરિયાઈ ચીલ"
+  },
+  {
+    "english": "Albatross",
+    "gujarati": "એલ્બેટ્રોસ"
+  },
+  {
+    "english": "Hornbill",
+    "gujarati": "ધનેશ"
+  },
+  {
+    "english": "Hoopoe",
+    "gujarati": "હુપો"
+  },
+  {
+    "english": "Kite",
+    "gujarati": "ચીલ"
+  },
+  {
+    "english": "Macaw",
+    "gujarati": "મેકૉ પોપટ"
+  },
+  {
+    "english": "Toucan",
+    "gujarati": "ટૂકન"
+  },
+  {
+    "english": "Hummingbird",
+    "gujarati": "મધુપંખી"
+  },
+  {
+    "english": "Wagtail",
+    "gujarati": "ખંજન"
+  },
+  {
+    "english": "Swift",
+    "gujarati": "સ્વિફ્ટ પક્ષી"
+  },
+  {
+    "english": "Finch",
+    "gujarati": "ફિન્ચ પક્ષી"
+  },
+  {
+    "english": "Lark",
+    "gujarati": "લાર્ક પક્ષી"
+  },
+  {
+    "english": "Oriole",
+    "gujarati": "પીળક"
+  },
+  {
+    "english": "Starling",
+    "gujarati": "સ્ટારલિંગ"
+  },
+  {
+    "english": "Sunbird",
+    "gujarati": "સૂર્યપંખી"
+  },
+  {
+    "english": "Bee-eater",
+    "gujarati": "મધમાખીભક્ષી પક્ષી"
+  },
+  {
+    "english": "Drongo",
+    "gujarati": "ભુજંગો"
+  },
+  {
+    "english": "Cormorant",
+    "gujarati": "પનકૌવો"
+  },
+  {
+    "english": "Ibis",
+    "gujarati": "ઇબિસ"
+  },
+  {
+    "english": "Stork",
+    "gujarati": "સ્ટોર્ક"
+  },
+  {
+    "english": "Bittern",
+    "gujarati": "બિટર્ન"
+  },
+  {
+    "english": "Egret",
+    "gujarati": "સફેદ બગલો"
+  },
+  {
+    "english": "Lapwing",
+    "gujarati": "ટિટોડી"
+  },
+  {
+    "english": "Sandpiper",
+    "gujarati": "સેન્ડપાઇપર"
+  },
+  {
+    "english": "Curlew",
+    "gujarati": "કર્લ્યૂ"
+  },
+  {
+    "english": "Avocet",
+    "gujarati": "એવોસેટ"
+  },
+  {
+    "english": "Bustard",
+    "gujarati": "સોહન ચીડિયો"
+  },
+  {
+    "english": "Cassowary",
+    "gujarati": "કેસોવેરી"
+  },
+  {
+    "english": "Kiwi",
+    "gujarati": "કીવી પક્ષી"
+  },
+  {
+    "english": "Condor",
+    "gujarati": "કોન્ડોર"
+  },
+  {
+    "english": "Osprey",
+    "gujarati": "માછીમાર બાજ"
+  },
+  {
+    "english": "Harrier",
+    "gujarati": "હેરિયર બાજ"
+  },
+  {
+    "english": "Kestrel",
+    "gujarati": "કેસ્ટ્રેલ"
+  },
+  {
+    "english": "Shrike",
+    "gujarati": "લટોરો"
+  },
+  {
+    "english": "Puffin",
+    "gujarati": "પફિન"
+  },
+  {
+    "english": "Nest",
+    "gujarati": "માળો"
+  },
+  {
+    "english": "Egg",
+    "gujarati": "ઈંડું"
+  },
+  {
+    "english": "Feather",
+    "gujarati": "પીંછું"
+  },
+  {
+    "english": "Beak",
+    "gujarati": "ચાંચ"
+  },
+  {
+    "english": "Wing",
+    "gujarati": "પાંખ"
+  },
+  {
+    "english": "Claw",
+    "gujarati": "પંજો"
+  },
+  {
+    "english": "Talon",
+    "gujarati": "તીક્ષ્ણ નખ"
+  },
+  {
+    "english": "Tail Feather",
+    "gujarati": "પૂંછડીનું પીંછું"
+  },
+  {
+    "english": "Flock",
+    "gujarati": "પક્ષીઓનું ટોળું"
+  },
+  {
+    "english": "Flight",
+    "gujarati": "ઉડાન"
+  },
+  {
+    "english": "Flying",
+    "gujarati": "ઉડવું"
+  },
+  {
+    "english": "Perch",
+    "gujarati": "બેસવાનો ડાળો"
+  },
+  {
+    "english": "Branch",
+    "gujarati": "ડાળી"
+  },
+  {
+    "english": "Tree Hollow",
+    "gujarati": "ઝાડનું બખોલ"
+  },
+  {
+    "english": "Migration",
+    "gujarati": "સ્થળાંતર"
+  },
+  {
+    "english": "Migratory Bird",
+    "gujarati": "સ્થળાંતર કરતું પક્ષી"
+  },
+  {
+    "english": "Songbird",
+    "gujarati": "મધુર અવાજવાળું પક્ષી"
+  },
+  {
+    "english": "Water Bird",
+    "gujarati": "જળચર પક્ષી"
+  },
+  {
+    "english": "Bird Sanctuary",
+    "gujarati": "પક્ષી અભયારણ્ય"
+  },
+  {
+    "english": "Bird Cage",
+    "gujarati": "પક્ષીનું પીંજરું"
+  },
+  {
+    "english": "Bird Watcher",
+    "gujarati": "પક્ષી નિરીક્ષક"
+  },
+  {
+    "english": "Bird Watching",
+    "gujarati": "પક્ષી નિરીક્ષણ"
+  },
+  {
+    "english": "Bird Call",
+    "gujarati": "પક્ષીનો અવાજ"
+  },
+  {
+    "english": "Bird Food",
+    "gujarati": "પક્ષીઓનો ખોરાક"
+  },
+  {
+    "english": "Birdhouse",
+    "gujarati": "પક્ષીનું ઘર"
   }
 ]
