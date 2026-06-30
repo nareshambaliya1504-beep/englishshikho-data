@@ -1,22 +1,402 @@
 [
   {
-    "english": "Second",
-    "gujarati": "સેકન્ડ"
+    "english": "Time",
+    "gujarati": "સમય"
   },
   {
-    "english": "Minute",
-    "gujarati": "મિનિટ"
+    "english": "Clock",
+    "gujarati": "ઘડિયાળ"
+  },
+  {
+    "english": "Watch",
+    "gujarati": "કાંડા ઘડિયાળ"
   },
   {
     "english": "Hour",
     "gujarati": "કલાક"
   },
   {
+    "english": "Minute",
+    "gujarati": "મિનિટ"
+  },
+  {
+    "english": "Second",
+    "gujarati": "સેકન્ડ"
+  },
+  {
+    "english": "Millisecond",
+    "gujarati": "મિલિસેકન્ડ"
+  },
+  {
+    "english": "Morning",
+    "gujarati": "સવાર"
+  },
+  {
+    "english": "Noon",
+    "gujarati": "બપોર"
+  },
+  {
+    "english": "Afternoon",
+    "gujarati": "બપોર પછીનો સમય"
+  },
+  {
+    "english": "Evening",
+    "gujarati": "સાંજ"
+  },
+  {
+    "english": "Night",
+    "gujarati": "રાત"
+  },
+  {
+    "english": "Midnight",
+    "gujarati": "મધ્યરાત્રિ"
+  },
+  {
+    "english": "Dawn",
+    "gujarati": "પરોઢ"
+  },
+  {
+    "english": "Sunrise",
+    "gujarati": "સૂર્યોદય"
+  },
+  {
+    "english": "Sunset",
+    "gujarati": "સૂર્યાસ્ત"
+  },
+  {
+    "english": "Today",
+    "gujarati": "આજે"
+  },
+  {
+    "english": "Yesterday",
+    "gujarati": "ગઈકાલે"
+  },
+  {
+    "english": "Tomorrow",
+    "gujarati": "આવતીકાલે"
+  },
+  {
+    "english": "Now",
+    "gujarati": "હમણાં"
+  },
+  {
+    "english": "Later",
+    "gujarati": "પછી"
+  },
+  {
+    "english": "Early",
+    "gujarati": "વહેલું"
+  },
+  {
+    "english": "Late",
+    "gujarati": "મોડું"
+  },
+  {
+    "english": "Moment",
+    "gujarati": "ક્ષણ"
+  },
+  {
+    "english": "Period",
+    "gujarati": "સમયગાળો"
+  },
+  {
     "english": "Day",
     "gujarati": "દિવસ"
   },
   {
+    "english": "Week",
+    "gujarati": "અઠવાડિયું"
+  },
+  {
+    "english": "Month",
+    "gujarati": "મહિનો"
+  },
+  {
     "english": "Year",
     "gujarati": "વર્ષ"
+  },
+  {
+    "english": "Decade",
+    "gujarati": "દાયકું"
+  },
+  {
+    "english": "Century",
+    "gujarati": "સદી"
+  },
+  {
+    "english": "Millennium",
+    "gujarati": "સહસ્ત્રાબ્દી"
+  },
+  {
+    "english": "Age",
+    "gujarati": "યુગ"
+  },
+  {
+    "english": "Calendar",
+    "gujarati": "પંચાંગ"
+  },
+  {
+    "english": "Date",
+    "gujarati": "તારીખ"
+  },
+  {
+    "english": "Schedule",
+    "gujarati": "સમયપત્રક"
+  },
+  {
+    "english": "Timetable",
+    "gujarati": "સમયપત્રક"
+  },
+  {
+    "english": "Deadline",
+    "gujarati": "નિર્ધારિત અંતિમ સમય"
+  },
+  {
+    "english": "Appointment",
+    "gujarati": "મુલાકાતનો સમય"
+  },
+  {
+    "english": "Meeting",
+    "gujarati": "સભા"
+  },
+  {
+    "english": "Duration",
+    "gujarati": "સમયગાળો"
+  },
+  {
+    "english": "Interval",
+    "gujarati": "અંતરાલ"
+  },
+  {
+    "english": "Beginning",
+    "gujarati": "શરૂઆત"
+  },
+  {
+    "english": "Ending",
+    "gujarati": "અંત"
+  },
+  {
+    "english": "Past",
+    "gujarati": "ભૂતકાળ"
+  },
+  {
+    "english": "Present",
+    "gujarati": "વર્તમાન"
+  },
+  {
+    "english": "Future",
+    "gujarati": "ભવિષ્ય"
+  },
+  {
+    "english": "Lifetime",
+    "gujarati": "જીવનકાળ"
+  },
+  {
+    "english": "Anniversary",
+    "gujarati": "વર્ષગાંઠ"
+  },
+  {
+    "english": "Birthday",
+    "gujarati": "જન્મદિવસ"
+  },
+  {
+    "english": "AM",
+    "gujarati": "બપોર પહેલાંનો સમય"
+  },
+  {
+    "english": "PM",
+    "gujarati": "બપોર પછીનો સમય"
+  },
+  {
+    "english": "Hour Hand",
+    "gujarati": "કલાકનો કાંટો"
+  },
+  {
+    "english": "Minute Hand",
+    "gujarati": "મિનિટનો કાંટો"
+  },
+  {
+    "english": "Second Hand",
+    "gujarati": "સેકન્ડનો કાંટો"
+  },
+  {
+    "english": "Alarm",
+    "gujarati": "એલાર્મ"
+  },
+  {
+    "english": "Alarm Clock",
+    "gujarati": "એલાર્મ ઘડિયાળ"
+  },
+  {
+    "english": "Stopwatch",
+    "gujarati": "સમય માપવાનું ઘડિયાળ"
+  },
+  {
+    "english": "Timer",
+    "gujarati": "સમયમાપક"
+  },
+  {
+    "english": "Digital Clock",
+    "gujarati": "ડિજિટલ ઘડિયાળ"
+  },
+  {
+    "english": "Wall Clock",
+    "gujarati": "દીવાલ ઘડિયાળ"
+  },
+  {
+    "english": "Pocket Watch",
+    "gujarati": "ખિસ્સાની ઘડિયાળ"
+  },
+  {
+    "english": "Time Zone",
+    "gujarati": "સમય ક્ષેત્ર"
+  },
+  {
+    "english": "Indian Standard Time",
+    "gujarati": "ભારતીય માનક સમય"
+  },
+  {
+    "english": "Punctual",
+    "gujarati": "સમયના પાબંદ"
+  },
+  {
+    "english": "Delay",
+    "gujarati": "વિલંબ"
+  },
+  {
+    "english": "Postpone",
+    "gujarati": "મુલતવી રાખવું"
+  },
+  {
+    "english": "Advance",
+    "gujarati": "આગળ ધપાવવું"
+  },
+  {
+    "english": "Countdown",
+    "gujarati": "ઉલટી ગણતરી"
+  },
+  {
+    "english": "Deadline Day",
+    "gujarati": "અંતિમ તારીખ"
+  },
+  {
+    "english": "Working Hours",
+    "gujarati": "કામના કલાકો"
+  },
+  {
+    "english": "Office Hours",
+    "gujarati": "કાર્યાલય સમય"
+  },
+  {
+    "english": "Break Time",
+    "gujarati": "વિરામનો સમય"
+  },
+  {
+    "english": "Bedtime",
+    "gujarati": "સૂવાનો સમય"
+  },
+  {
+    "english": "Wake-up Time",
+    "gujarati": "જાગવાનો સમય"
+  },
+  {
+    "english": "Clock Tower",
+    "gujarati": "ઘડિયાળ મિનાર"
+  },
+  {
+    "english": "Clock Face",
+    "gujarati": "ઘડિયાળનું ડાયલ"
+  },
+  {
+    "english": "Time Limit",
+    "gujarati": "સમય મર્યાદા"
+  },
+  {
+    "english": "Time Management",
+    "gujarati": "સમય વ્યવસ્થાપન"
+  },
+  {
+    "english": "Timely",
+    "gujarati": "સમયસર"
+  },
+  {
+    "english": "On Time",
+    "gujarati": "સમયસર"
+  },
+  {
+    "english": "In Time",
+    "gujarati": "યોગ્ય સમયે"
+  },
+  {
+    "english": "Anytime",
+    "gujarati": "ગમે ત્યારે"
+  },
+  {
+    "english": "Sometimes",
+    "gujarati": "ક્યારેક"
+  },
+  {
+    "english": "Always",
+    "gujarati": "હંમેશા"
+  },
+  {
+    "english": "Never",
+    "gujarati": "ક્યારેય નહીં"
+  },
+  {
+    "english": "Often",
+    "gujarati": "વારંવાર"
+  },
+  {
+    "english": "Usually",
+    "gujarati": "સામાન્ય રીતે"
+  },
+  {
+    "english": "Normally",
+    "gujarati": "સામાન્ય રીતે"
+  },
+  {
+    "english": "Frequently",
+    "gujarati": "વારંવાર"
+  },
+  {
+    "english": "Rarely",
+    "gujarati": "ભાગ્યે જ"
+  },
+  {
+    "english": "Occasionally",
+    "gujarati": "પ્રસંગોપાત"
+  },
+  {
+    "english": "Recently",
+    "gujarati": "તાજેતરમાં"
+  },
+  {
+    "english": "Soon",
+    "gujarati": "ટૂંક સમયમાં"
+  },
+  {
+    "english": "Immediately",
+    "gujarati": "તુરંત"
+  },
+  {
+    "english": "Meanwhile",
+    "gujarati": "દરમિયાન"
+  },
+  {
+    "english": "Nowadays",
+    "gujarati": "આજકાલ"
+  },
+  {
+    "english": "Nowadays",
+    "gujarati": "હાલના સમયમાં"
+  },
+  {
+    "english": "Forever",
+    "gujarati": "હંમેશ માટે"
+  },
+  {
+    "english": "Lifetime",
+    "gujarati": "આજીવન"
   }
 ]
