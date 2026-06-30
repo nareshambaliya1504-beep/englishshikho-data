@@ -1,22 +1,402 @@
 [
   {
+    "english": "Travel",
+    "gujarati": "પ્રવાસ"
+  },
+  {
+    "english": "Journey",
+    "gujarati": "મુસાફરી"
+  },
+  {
+    "english": "Trip",
+    "gujarati": "સફર"
+  },
+  {
+    "english": "Tour",
+    "gujarati": "પ્રવાસ"
+  },
+  {
+    "english": "Tourist",
+    "gujarati": "પ્રવાસી"
+  },
+  {
+    "english": "Traveler",
+    "gujarati": "મુસાફર"
+  },
+  {
+    "english": "Destination",
+    "gujarati": "ગંતવ્ય સ્થળ"
+  },
+  {
+    "english": "Route",
+    "gujarati": "માર્ગ"
+  },
+  {
+    "english": "Map",
+    "gujarati": "નકશો"
+  },
+  {
+    "english": "Road",
+    "gujarati": "રસ્તો"
+  },
+  {
+    "english": "Highway",
+    "gujarati": "રાષ્ટ્રીય ધોરીમાર્ગ"
+  },
+  {
+    "english": "Street",
+    "gujarati": "શેરી"
+  },
+  {
+    "english": "Bridge",
+    "gujarati": "પુલ"
+  },
+  {
+    "english": "Tunnel",
+    "gujarati": "સુરંગ"
+  },
+  {
     "english": "Bus",
     "gujarati": "બસ"
+  },
+  {
+    "english": "Bus Stop",
+    "gujarati": "બસ સ્ટોપ"
   },
   {
     "english": "Train",
     "gujarati": "ટ્રેન"
   },
   {
+    "english": "Railway Station",
+    "gujarati": "રેલવે સ્ટેશન"
+  },
+  {
+    "english": "Platform",
+    "gujarati": "પ્લેટફોર્મ"
+  },
+  {
+    "english": "Taxi",
+    "gujarati": "ટેક્સી"
+  },
+  {
+    "english": "Auto Rickshaw",
+    "gujarati": "ઓટો રિક્ષા"
+  },
+  {
+    "english": "Bicycle",
+    "gujarati": "સાયકલ"
+  },
+  {
+    "english": "Motorcycle",
+    "gujarati": "મોટરસાયકલ"
+  },
+  {
+    "english": "Car",
+    "gujarati": "કાર"
+  },
+  {
+    "english": "Driver",
+    "gujarati": "ડ્રાઈવર"
+  },
+  {
+    "english": "Airport",
+    "gujarati": "વિમાનમથક"
+  },
+  {
+    "english": "Airplane",
+    "gujarati": "વિમાન"
+  },
+  {
+    "english": "Helicopter",
+    "gujarati": "હેલિકોપ્ટર"
+  },
+  {
+    "english": "Boarding Pass",
+    "gujarati": "બોર્ડિંગ પાસ"
+  },
+  {
+    "english": "Passport",
+    "gujarati": "પાસપોર્ટ"
+  },
+  {
+    "english": "Visa",
+    "gujarati": "વીઝા"
+  },
+  {
     "english": "Ticket",
     "gujarati": "ટિકિટ"
   },
   {
-    "english": "Station",
-    "gujarati": "સ્ટેશન"
+    "english": "Reservation",
+    "gujarati": "આરક્ષણ"
   },
   {
-    "english": "Airport",
-    "gujarati": "એરપોર્ટ"
+    "english": "Luggage",
+    "gujarati": "સામાન"
+  },
+  {
+    "english": "Suitcase",
+    "gujarati": "સૂટકેસ"
+  },
+  {
+    "english": "Backpack",
+    "gujarati": "પીઠ્ઠુ બેગ"
+  },
+  {
+    "english": "Handbag",
+    "gujarati": "હેન્ડબેગ"
+  },
+  {
+    "english": "Travel Bag",
+    "gujarati": "મુસાફરીની બેગ"
+  },
+  {
+    "english": "Hotel",
+    "gujarati": "હોટેલ"
+  },
+  {
+    "english": "Room",
+    "gujarati": "રૂમ"
+  },
+  {
+    "english": "Reception",
+    "gujarati": "સ્વાગત કક્ષ"
+  },
+  {
+    "english": "Check-in",
+    "gujarati": "પ્રવેશ નોંધણી"
+  },
+  {
+    "english": "Check-out",
+    "gujarati": "નિવાસ પૂર્ણ કરવો"
+  },
+  {
+    "english": "Booking",
+    "gujarati": "બુકિંગ"
+  },
+  {
+    "english": "Guide",
+    "gujarati": "માર્ગદર્શક"
+  },
+  {
+    "english": "Tour Guide",
+    "gujarati": "પ્રવાસ માર્ગદર્શક"
+  },
+  {
+    "english": "Travel Agency",
+    "gujarati": "પ્રવાસ એજન્સી"
+  },
+  {
+    "english": "Travel Insurance",
+    "gujarati": "પ્રવાસ વીમો"
+  },
+  {
+    "english": "Customs",
+    "gujarati": "કસ્ટમ વિભાગ"
+  },
+  {
+    "english": "Immigration",
+    "gujarati": "ઇમિગ્રેશન"
+  },
+  {
+    "english": "Cruise Ship",
+    "gujarati": "ક્રૂઝ જહાજ"
+  },
+  {
+    "english": "Ship",
+    "gujarati": "જહાજ"
+  },
+  {
+    "english": "Boat",
+    "gujarati": "હોડી"
+  },
+  {
+    "english": "Ferry",
+    "gujarati": "ફેરી બોટ"
+  },
+  {
+    "english": "Harbor",
+    "gujarati": "બંદર"
+  },
+  {
+    "english": "Port",
+    "gujarati": "બંદર"
+  },
+  {
+    "english": "Border",
+    "gujarati": "સરહદ"
+  },
+  {
+    "english": "Checkpoint",
+    "gujarati": "ચેકપોસ્ટ"
+  },
+  {
+    "english": "Traffic",
+    "gujarati": "ટ્રાફિક"
+  },
+  {
+    "english": "Traffic Signal",
+    "gujarati": "ટ્રાફિક સિગ્નલ"
+  },
+  {
+    "english": "Traffic Jam",
+    "gujarati": "ટ્રાફિક જામ"
+  },
+  {
+    "english": "Parking",
+    "gujarati": "પાર્કિંગ"
+  },
+  {
+    "english": "Parking Ticket",
+    "gujarati": "પાર્કિંગ ટિકિટ"
+  },
+  {
+    "english": "Fuel",
+    "gujarati": "ઇંધણ"
+  },
+  {
+    "english": "Petrol",
+    "gujarati": "પેટ્રોલ"
+  },
+  {
+    "english": "Diesel",
+    "gujarati": "ડીઝલ"
+  },
+  {
+    "english": "Petrol Pump",
+    "gujarati": "પેટ્રોલ પંપ"
+  },
+  {
+    "english": "Toll Plaza",
+    "gujarati": "ટોલ પ્લાઝા"
+  },
+  {
+    "english": "Speed Limit",
+    "gujarati": "ઝડપ મર્યાદા"
+  },
+  {
+    "english": "Seat Belt",
+    "gujarati": "સીટ બેલ્ટ"
+  },
+  {
+    "english": "Helmet",
+    "gujarati": "હેલ્મેટ"
+  },
+  {
+    "english": "License",
+    "gujarati": "ડ્રાઇવિંગ લાઇસન્સ"
+  },
+  {
+    "english": "Navigation",
+    "gujarati": "માર્ગદર્શન"
+  },
+  {
+    "english": "GPS",
+    "gujarati": "જીપીએસ"
+  },
+  {
+    "english": "Compass",
+    "gujarati": "હોકાયંત્ર"
+  },
+  {
+    "english": "Vacation",
+    "gujarati": "રજાઓ"
+  },
+  {
+    "english": "Holiday",
+    "gujarati": "રજા"
+  },
+  {
+    "english": "Picnic",
+    "gujarati": "વનભોજન"
+  },
+  {
+    "english": "Camping",
+    "gujarati": "શિબિર"
+  },
+  {
+    "english": "Camp",
+    "gujarati": "પડાવ"
+  },
+  {
+    "english": "Tent",
+    "gujarati": "તંબુ"
+  },
+  {
+    "english": "Adventure",
+    "gujarati": "સાહસ"
+  },
+  {
+    "english": "Sightseeing",
+    "gujarati": "સ્થળદર્શન"
+  },
+  {
+    "english": "Beach",
+    "gujarati": "દરિયાકિનારો"
+  },
+  {
+    "english": "Mountain",
+    "gujarati": "પર્વત"
+  },
+  {
+    "english": "Hill Station",
+    "gujarati": "પહાડી પ્રવાસ સ્થળ"
+  },
+  {
+    "english": "Waterfall",
+    "gujarati": "ધોધ"
+  },
+  {
+    "english": "Forest",
+    "gujarati": "જંગલ"
+  },
+  {
+    "english": "National Park",
+    "gujarati": "રાષ્ટ્રીય ઉદ્યાન"
+  },
+  {
+    "english": "Museum",
+    "gujarati": "સંગ્રહાલય"
+  },
+  {
+    "english": "Monument",
+    "gujarati": "સ્મારક"
+  },
+  {
+    "english": "Temple",
+    "gujarati": "મંદિર"
+  },
+  {
+    "english": "Map App",
+    "gujarati": "નકશાની એપ"
+  },
+  {
+    "english": "Travel Plan",
+    "gujarati": "પ્રવાસ યોજના"
+  },
+  {
+    "english": "Travel Expense",
+    "gujarati": "પ્રવાસ ખર્ચ"
+  },
+  {
+    "english": "Emergency Contact",
+    "gujarati": "આકસ્મિક સંપર્ક"
+  },
+  {
+    "english": "First Aid Kit",
+    "gujarati": "પ્રાથમિક સારવાર કીટ"
+  },
+  {
+    "english": "Travel Diary",
+    "gujarati": "પ્રવાસ ડાયરી"
+  },
+  {
+    "english": "Souvenir",
+    "gujarati": "સ્મૃતિચિહ્ન"
+  },
+  {
+    "english": "Return Ticket",
+    "gujarati": "પરત આવવાની ટિકિટ"
   }
 ]
