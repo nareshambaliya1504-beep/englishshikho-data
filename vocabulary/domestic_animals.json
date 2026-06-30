@@ -1,5 +1,13 @@
 [
   {
+    "english": "Domestic Animal",
+    "gujarati": "પાળતુ પ્રાણી"
+  },
+  {
+    "english": "Pet",
+    "gujarati": "પાળતુ પ્રાણી"
+  },
+  {
     "english": "Cow",
     "gujarati": "ગાય"
   },
@@ -8,15 +16,387 @@
     "gujarati": "ભેંસ"
   },
   {
+    "english": "Bull",
+    "gujarati": "બળદ"
+  },
+  {
+    "english": "Ox",
+    "gujarati": "બળદ"
+  },
+  {
+    "english": "Calf",
+    "gujarati": "વાછરડું"
+  },
+  {
+    "english": "Goat",
+    "gujarati": "બકરી"
+  },
+  {
+    "english": "Kid",
+    "gujarati": "બકરીનું બચ્ચું"
+  },
+  {
+    "english": "Sheep",
+    "gujarati": "ઘેટું"
+  },
+  {
+    "english": "Lamb",
+    "gujarati": "ઘેટાનું બચ્ચું"
+  },
+  {
+    "english": "Ram",
+    "gujarati": "નર ઘેટું"
+  },
+  {
+    "english": "Horse",
+    "gujarati": "ઘોડો"
+  },
+  {
+    "english": "Mare",
+    "gujarati": "ઘોડી"
+  },
+  {
+    "english": "Foal",
+    "gujarati": "ઘોડાનું બચ્ચું"
+  },
+  {
+    "english": "Donkey",
+    "gujarati": "ગધેડો"
+  },
+  {
+    "english": "Mule",
+    "gujarati": "ખચ્ચર"
+  },
+  {
+    "english": "Camel",
+    "gujarati": "ઊંટ"
+  },
+  {
     "english": "Dog",
     "gujarati": "કૂતરો"
+  },
+  {
+    "english": "Puppy",
+    "gujarati": "કૂતરાનું બચ્ચું"
   },
   {
     "english": "Cat",
     "gujarati": "બિલાડી"
   },
   {
-    "english": "Goat",
-    "gujarati": "બકરી"
+    "english": "Kitten",
+    "gujarati": "બિલાડીનું બચ્ચું"
+  },
+  {
+    "english": "Rabbit",
+    "gujarati": "સસલું"
+  },
+  {
+    "english": "Hamster",
+    "gujarati": "હેમ્સ્ટર"
+  },
+  {
+    "english": "Guinea Pig",
+    "gujarati": "ગિની પિગ"
+  },
+  {
+    "english": "Hen",
+    "gujarati": "મરઘી"
+  },
+  {
+    "english": "Rooster",
+    "gujarati": "કૂકડો"
+  },
+  {
+    "english": "Chick",
+    "gujarati": "બચ્ચું"
+  },
+  {
+    "english": "Duck",
+    "gujarati": "બતક"
+  },
+  {
+    "english": "Duckling",
+    "gujarati": "બતકનું બચ્ચું"
+  },
+  {
+    "english": "Goose",
+    "gujarati": "હંસ"
+  },
+  {
+    "english": "Gosling",
+    "gujarati": "હંસનું બચ્ચું"
+  },
+  {
+    "english": "Turkey",
+    "gujarati": "ટર્કી"
+  },
+  {
+    "english": "Pigeon",
+    "gujarati": "કબૂતર"
+  },
+  {
+    "english": "Parrot",
+    "gujarati": "પોપટ"
+  },
+  {
+    "english": "Canary",
+    "gujarati": "કેનરી પક્ષી"
+  },
+  {
+    "english": "Lovebird",
+    "gujarati": "લવબર્ડ"
+  },
+  {
+    "english": "Goldfish",
+    "gujarati": "સોનેરી માછલી"
+  },
+  {
+    "english": "Aquarium Fish",
+    "gujarati": "મત્સ્યાલયની માછલી"
+  },
+  {
+    "english": "Fish",
+    "gujarati": "માછલી"
+  },
+  {
+    "english": "Bee",
+    "gujarati": "મધમાખી"
+  },
+  {
+    "english": "Honeybee",
+    "gujarati": "મધમાખી"
+  },
+  {
+    "english": "Silkworm",
+    "gujarati": "રેશમનો કીડો"
+  },
+  {
+    "english": "Farm Animal",
+    "gujarati": "ખેતરનું પ્રાણી"
+  },
+  {
+    "english": "Livestock",
+    "gujarati": "પશુધન"
+  },
+  {
+    "english": "Cattle",
+    "gujarati": "ઢોર"
+  },
+  {
+    "english": "Herd",
+    "gujarati": "પશુઓનું ટોળું"
+  },
+  {
+    "english": "Stable",
+    "gujarati": "ઘોડાર"
+  },
+  {
+    "english": "Kennel",
+    "gujarati": "કૂતરાનું ઘર"
+  },
+  {
+    "english": "Cage",
+    "gujarati": "પીંજરું"
+  },
+  {
+    "english": "Barn",
+    "gujarati": "પશુશાળા"
+  },
+  {
+    "english": "Animal Shed",
+    "gujarati": "પશુઓનો શેડ"
+  },
+  {
+    "english": "Coop",
+    "gujarati": "મરઘાંનું ઘર"
+  },
+  {
+    "english": "Nest",
+    "gujarati": "માળો"
+  },
+  {
+    "english": "Pet Food",
+    "gujarati": "પાળતુ પ્રાણીનો ખોરાક"
+  },
+  {
+    "english": "Animal Feed",
+    "gujarati": "પશુચારો"
+  },
+  {
+    "english": "Fodder",
+    "gujarati": "ઘાસચારો"
+  },
+  {
+    "english": "Hay",
+    "gujarati": "સૂકું ઘાસ"
+  },
+  {
+    "english": "Grass",
+    "gujarati": "ઘાસ"
+  },
+  {
+    "english": "Water Trough",
+    "gujarati": "પશુઓનું પાણીનું કુંડ"
+  },
+  {
+    "english": "Milk",
+    "gujarati": "દૂધ"
+  },
+  {
+    "english": "Dairy",
+    "gujarati": "ડેરી"
+  },
+  {
+    "english": "Milking",
+    "gujarati": "દૂધ દોહવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Farmer",
+    "gujarati": "ખેડૂત"
+  },
+  {
+    "english": "Shepherd",
+    "gujarati": "ઘેટાં ચરાવનાર"
+  },
+  {
+    "english": "Cowherd",
+    "gujarati": "ગોવાળ"
+  },
+  {
+    "english": "Veterinarian",
+    "gujarati": "પશુચિકિત્સક"
+  },
+  {
+    "english": "Vaccination",
+    "gujarati": "રસીકરણ"
+  },
+  {
+    "english": "Pet Owner",
+    "gujarati": "પાળતુ પ્રાણીનો માલિક"
+  },
+  {
+    "english": "Collar",
+    "gujarati": "ગળાપટ્ટો"
+  },
+  {
+    "english": "Leash",
+    "gujarati": "દોરી"
+  },
+  {
+    "english": "Pet Bowl",
+    "gujarati": "પાળતુ પ્રાણીનું વાસણ"
+  },
+  {
+    "english": "Pet Bed",
+    "gujarati": "પાળતુ પ્રાણીનો બિછાનો"
+  },
+  {
+    "english": "Pet House",
+    "gujarati": "પાળતુ પ્રાણીનું ઘર"
+  },
+  {
+    "english": "Animal Farm",
+    "gujarati": "પશુપાલન ફાર્મ"
+  },
+  {
+    "english": "Pig",
+    "gujarati": "ડુક્કર"
+  },
+  {
+    "english": "Piglet",
+    "gujarati": "ડુક્કરનું બચ્ચું"
+  },
+  {
+    "english": "Boar",
+    "gujarati": "નર ડુક્કર"
+  },
+  {
+    "english": "Sow",
+    "gujarati": "માદા ડુક્કર"
+  },
+  {
+    "english": "Drake",
+    "gujarati": "નર બતક"
+  },
+  {
+    "english": "Ewe",
+    "gujarati": "માદા ઘેટી"
+  },
+  {
+    "english": "Billy Goat",
+    "gujarati": "નર બકરો"
+  },
+  {
+    "english": "Nanny Goat",
+    "gujarati": "માદા બકરી"
+  },
+  {
+    "english": "Pet Care",
+    "gujarati": "પાળતુ પ્રાણીની સંભાળ"
+  },
+  {
+    "english": "Animal Care",
+    "gujarati": "પશુ સંભાળ"
+  },
+  {
+    "english": "Pet Shop",
+    "gujarati": "પાળતુ પ્રાણીઓની દુકાન"
+  },
+  {
+    "english": "Pet Grooming",
+    "gujarati": "પાળતુ પ્રાણીની સફાઈ અને સંભાળ"
+  },
+  {
+    "english": "Animal Shelter",
+    "gujarati": "પશુ આશ્રયસ્થાન"
+  },
+  {
+    "english": "Pet Adoption",
+    "gujarati": "પાળતુ પ્રાણી દત્તક લેવું"
+  },
+  {
+    "english": "Pet Training",
+    "gujarati": "પાળતુ પ્રાણીને તાલીમ આપવી"
+  },
+  {
+    "english": "Obedient",
+    "gujarati": "આજ્ઞાકારી"
+  },
+  {
+    "english": "Friendly",
+    "gujarati": "મૈત્રીપૂર્ણ"
+  },
+  {
+    "english": "Loyal",
+    "gujarati": "વફાદાર"
+  },
+  {
+    "english": "Domestic Bird",
+    "gujarati": "પાળતુ પક્ષી"
+  },
+  {
+    "english": "Domestic Fish",
+    "gujarati": "પાળતુ માછલી"
+  },
+  {
+    "english": "Animal Husbandry",
+    "gujarati": "પશુપાલન"
+  },
+  {
+    "english": "Poultry Farm",
+    "gujarati": "મરઘાં ઉછેર ફાર્મ"
+  },
+  {
+    "english": "Dairy Farm",
+    "gujarati": "ડેરી ફાર્મ"
+  },
+  {
+    "english": "Goat Farm",
+    "gujarati": "બકરી ઉછેર ફાર્મ"
+  },
+  {
+    "english": "Horse Stable",
+    "gujarati": "ઘોડાર"
   }
 ]
