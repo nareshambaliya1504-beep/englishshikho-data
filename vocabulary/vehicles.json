@@ -1,11 +1,15 @@
 [
   {
-    "english": "Car",
-    "gujarati": "કાર"
+    "english": "Vehicle",
+    "gujarati": "વાહન"
   },
   {
-    "english": "Bike",
-    "gujarati": "બાઈક"
+    "english": "Transport",
+    "gujarati": "પરિવહન"
+  },
+  {
+    "english": "Car",
+    "gujarati": "કાર"
   },
   {
     "english": "Bus",
@@ -16,7 +20,383 @@
     "gujarati": "ટ્રક"
   },
   {
+    "english": "Lorry",
+    "gujarati": "લૉરી"
+  },
+  {
+    "english": "Van",
+    "gujarati": "વાન"
+  },
+  {
+    "english": "Jeep",
+    "gujarati": "જીપ"
+  },
+  {
+    "english": "Taxi",
+    "gujarati": "ટેક્સી"
+  },
+  {
+    "english": "Auto Rickshaw",
+    "gujarati": "ઓટો રિક્ષા"
+  },
+  {
+    "english": "Motorcycle",
+    "gujarati": "મોટરસાયકલ"
+  },
+  {
+    "english": "Scooter",
+    "gujarati": "સ્કૂટર"
+  },
+  {
     "english": "Bicycle",
     "gujarati": "સાયકલ"
+  },
+  {
+    "english": "Electric Vehicle",
+    "gujarati": "ઇલેક્ટ્રિક વાહન"
+  },
+  {
+    "english": "Ambulance",
+    "gujarati": "એમ્બ્યુલન્સ"
+  },
+  {
+    "english": "Fire Engine",
+    "gujarati": "અગ્નિશામક વાહન"
+  },
+  {
+    "english": "Police Vehicle",
+    "gujarati": "પોલીસ વાહન"
+  },
+  {
+    "english": "School Bus",
+    "gujarati": "શાળાની બસ"
+  },
+  {
+    "english": "Train",
+    "gujarati": "ટ્રેન"
+  },
+  {
+    "english": "Metro",
+    "gujarati": "મેટ્રો"
+  },
+  {
+    "english": "Tram",
+    "gujarati": "ટ્રામ"
+  },
+  {
+    "english": "Airplane",
+    "gujarati": "વિમાન"
+  },
+  {
+    "english": "Helicopter",
+    "gujarati": "હેલિકોપ્ટર"
+  },
+  {
+    "english": "Ship",
+    "gujarati": "જહાજ"
+  },
+  {
+    "english": "Boat",
+    "gujarati": "હોડી"
+  },
+  {
+    "english": "Ferry",
+    "gujarati": "ફેરી બોટ"
+  },
+  {
+    "english": "Cruise Ship",
+    "gujarati": "ક્રૂઝ જહાજ"
+  },
+  {
+    "english": "Yacht",
+    "gujarati": "યાટ"
+  },
+  {
+    "english": "Submarine",
+    "gujarati": "પાણીની અંદર ચાલતું જહાજ"
+  },
+  {
+    "english": "Rocket",
+    "gujarati": "રોકેટ"
+  },
+  {
+    "english": "Spacecraft",
+    "gujarati": "અવકાશયાન"
+  },
+  {
+    "english": "Driver",
+    "gujarati": "ચાલક"
+  },
+  {
+    "english": "Passenger",
+    "gujarati": "મુસાફર"
+  },
+  {
+    "english": "Conductor",
+    "gujarati": "કંડક્ટર"
+  },
+  {
+    "english": "Pilot",
+    "gujarati": "પાયલટ"
+  },
+  {
+    "english": "Captain",
+    "gujarati": "કેપ્ટન"
+  },
+  {
+    "english": "Engine",
+    "gujarati": "એન્જિન"
+  },
+  {
+    "english": "Steering Wheel",
+    "gujarati": "સ્ટિયરિંગ વ્હીલ"
+  },
+  {
+    "english": "Brake",
+    "gujarati": "બ્રેક"
+  },
+  {
+    "english": "Accelerator",
+    "gujarati": "એક્સિલેટર"
+  },
+  {
+    "english": "Clutch",
+    "gujarati": "ક્લચ"
+  },
+  {
+    "english": "Gear",
+    "gujarati": "ગિયર"
+  },
+  {
+    "english": "Gearbox",
+    "gujarati": "ગિયરબોક્સ"
+  },
+  {
+    "english": "Tyre",
+    "gujarati": "ટાયર"
+  },
+  {
+    "english": "Wheel",
+    "gujarati": "પૈડું"
+  },
+  {
+    "english": "Seat",
+    "gujarati": "સીટ"
+  },
+  {
+    "english": "Seat Belt",
+    "gujarati": "સીટ બેલ્ટ"
+  },
+  {
+    "english": "Mirror",
+    "gujarati": "અરીસો"
+  },
+  {
+    "english": "Headlight",
+    "gujarati": "આગળની લાઇટ"
+  },
+  {
+    "english": "Tail Light",
+    "gujarati": "પાછળની લાઇટ"
+  },
+  {
+    "english": "Horn",
+    "gujarati": "હોર્ન"
+  },
+  {
+    "english": "Windshield",
+    "gujarati": "આગળનો કાચ"
+  },
+  {
+    "english": "Windshield Wiper",
+    "gujarati": "વાઇપર"
+  },
+  {
+    "english": "Dashboard",
+    "gujarati": "ડેશબોર્ડ"
+  },
+  {
+    "english": "Speedometer",
+    "gujarati": "સ્પીડોમીટર"
+  },
+  {
+    "english": "Fuel Gauge",
+    "gujarati": "ઇંધણ માપક"
+  },
+  {
+    "english": "Odometer",
+    "gujarati": "ઓડોમીટર"
+  },
+  {
+    "english": "Battery",
+    "gujarati": "બેટરી"
+  },
+  {
+    "english": "Fuel Tank",
+    "gujarati": "ઇંધણની ટાંકી"
+  },
+  {
+    "english": "Petrol",
+    "gujarati": "પેટ્રોલ"
+  },
+  {
+    "english": "Diesel",
+    "gujarati": "ડીઝલ"
+  },
+  {
+    "english": "CNG",
+    "gujarati": "સીએનજી"
+  },
+  {
+    "english": "Charging Station",
+    "gujarati": "ચાર્જિંગ સ્ટેશન"
+  },
+  {
+    "english": "Petrol Pump",
+    "gujarati": "પેટ્રોલ પંપ"
+  },
+  {
+    "english": "Garage",
+    "gujarati": "ગેરેજ"
+  },
+  {
+    "english": "Mechanic",
+    "gujarati": "મિકેનિક"
+  },
+  {
+    "english": "Repair",
+    "gujarati": "સમારકામ"
+  },
+  {
+    "english": "Service",
+    "gujarati": "સર્વિસ"
+  },
+  {
+    "english": "Spare Parts",
+    "gujarati": "સ્પેર પાર્ટ્સ"
+  },
+  {
+    "english": "Number Plate",
+    "gujarati": "નંબર પ્લેટ"
+  },
+  {
+    "english": "Driving License",
+    "gujarati": "ડ્રાઇવિંગ લાઇસન્સ"
+  },
+  {
+    "english": "Registration Certificate",
+    "gujarati": "નોંધણી પ્રમાણપત્ર"
+  },
+  {
+    "english": "Insurance",
+    "gujarati": "વીમો"
+  },
+  {
+    "english": "Pollution Certificate",
+    "gujarati": "પ્રદૂષણ પ્રમાણપત્ર"
+  },
+  {
+    "english": "Vehicle Owner",
+    "gujarati": "વાહન માલિક"
+  },
+  {
+    "english": "Traffic",
+    "gujarati": "ટ્રાફિક"
+  },
+  {
+    "english": "Traffic Signal",
+    "gujarati": "ટ્રાફિક સિગ્નલ"
+  },
+  {
+    "english": "Traffic Police",
+    "gujarati": "ટ્રાફિક પોલીસ"
+  },
+  {
+    "english": "Road Sign",
+    "gujarati": "માર્ગચિહ્ન"
+  },
+  {
+    "english": "Speed Limit",
+    "gujarati": "ઝડપ મર્યાદા"
+  },
+  {
+    "english": "Parking",
+    "gujarati": "પાર્કિંગ"
+  },
+  {
+    "english": "Parking Area",
+    "gujarati": "પાર્કિંગ વિસ્તાર"
+  },
+  {
+    "english": "Parking Ticket",
+    "gujarati": "પાર્કિંગ ટિકિટ"
+  },
+  {
+    "english": "Toll Plaza",
+    "gujarati": "ટોલ પ્લાઝા"
+  },
+  {
+    "english": "Highway",
+    "gujarati": "રાષ્ટ્રીય ધોરીમાર્ગ"
+  },
+  {
+    "english": "Expressway",
+    "gujarati": "એક્સપ્રેસવે"
+  },
+  {
+    "english": "Bridge",
+    "gujarati": "પુલ"
+  },
+  {
+    "english": "Tunnel",
+    "gujarati": "સુરંગ"
+  },
+  {
+    "english": "Roundabout",
+    "gujarati": "ગોળ ચોક"
+  },
+  {
+    "english": "U-Turn",
+    "gujarati": "યુ-ટર્ન"
+  },
+  {
+    "english": "Overtake",
+    "gujarati": "આગળ નીકળી જવું"
+  },
+  {
+    "english": "Accident",
+    "gujarati": "અકસ્માત"
+  },
+  {
+    "english": "Breakdown",
+    "gujarati": "વાહન બગડી જવું"
+  },
+  {
+    "english": "Tow Truck",
+    "gujarati": "ટો ટ્રક"
+  },
+  {
+    "english": "Emergency Vehicle",
+    "gujarati": "આપાતકાલીન વાહન"
+  },
+  {
+    "english": "Public Transport",
+    "gujarati": "જાહેર પરિવહન"
+  },
+  {
+    "english": "Private Vehicle",
+    "gujarati": "ખાનગી વાહન"
+  },
+  {
+    "english": "Rental Car",
+    "gujarati": "ભાડાની કાર"
+  },
+  {
+    "english": "Car Wash",
+    "gujarati": "કાર ધોવાનું કેન્દ્ર"
+  },
+  {
+    "english": "Vehicle Inspection",
+    "gujarati": "વાહનની તપાસ"
   }
 ]
