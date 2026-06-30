@@ -1,22 +1,402 @@
 [
   {
+    "english": "Body",
+    "gujarati": "શરીર"
+  },
+  {
     "english": "Head",
     "gujarati": "માથું"
+  },
+  {
+    "english": "Hair",
+    "gujarati": "વાળ"
+  },
+  {
+    "english": "Forehead",
+    "gujarati": "કપાળ"
+  },
+  {
+    "english": "Face",
+    "gujarati": "ચહેરો"
   },
   {
     "english": "Eye",
     "gujarati": "આંખ"
   },
   {
+    "english": "Eyebrow",
+    "gujarati": "ભમર"
+  },
+  {
+    "english": "Eyelash",
+    "gujarati": "પાંપણના વાળ"
+  },
+  {
+    "english": "Eyelid",
+    "gujarati": "પાંપણ"
+  },
+  {
+    "english": "Ear",
+    "gujarati": "કાન"
+  },
+  {
+    "english": "Nose",
+    "gujarati": "નાક"
+  },
+  {
+    "english": "Cheek",
+    "gujarati": "ગાલ"
+  },
+  {
+    "english": "Mouth",
+    "gujarati": "મોઢું"
+  },
+  {
+    "english": "Lip",
+    "gujarati": "હોઠ"
+  },
+  {
+    "english": "Tongue",
+    "gujarati": "જીભ"
+  },
+  {
+    "english": "Tooth",
+    "gujarati": "દાંત"
+  },
+  {
+    "english": "Teeth",
+    "gujarati": "દાંત"
+  },
+  {
+    "english": "Gum",
+    "gujarati": "પેઢા"
+  },
+  {
+    "english": "Jaw",
+    "gujarati": "જડબું"
+  },
+  {
+    "english": "Chin",
+    "gujarati": "ઠોડી"
+  },
+  {
+    "english": "Neck",
+    "gujarati": "ગરદન"
+  },
+  {
+    "english": "Shoulder",
+    "gujarati": "ખભો"
+  },
+  {
+    "english": "Chest",
+    "gujarati": "છાતી"
+  },
+  {
+    "english": "Back",
+    "gujarati": "પીઠ"
+  },
+  {
+    "english": "Waist",
+    "gujarati": "કમર"
+  },
+  {
+    "english": "Arm",
+    "gujarati": "બાહુ"
+  },
+  {
+    "english": "Upper Arm",
+    "gujarati": "ઉપરનો હાથ"
+  },
+  {
+    "english": "Elbow",
+    "gujarati": "કોણી"
+  },
+  {
+    "english": "Forearm",
+    "gujarati": "કોણીથી કાંડા સુધીનો ભાગ"
+  },
+  {
+    "english": "Wrist",
+    "gujarati": "કાંડું"
+  },
+  {
     "english": "Hand",
     "gujarati": "હાથ"
+  },
+  {
+    "english": "Palm",
+    "gujarati": "હથેળી"
+  },
+  {
+    "english": "Finger",
+    "gujarati": "આંગળી"
+  },
+  {
+    "english": "Thumb",
+    "gujarati": "અંગૂઠો"
+  },
+  {
+    "english": "Index Finger",
+    "gujarati": "તર્જની"
+  },
+  {
+    "english": "Middle Finger",
+    "gujarati": "વચલી આંગળી"
+  },
+  {
+    "english": "Ring Finger",
+    "gujarati": "અનામિકા"
+  },
+  {
+    "english": "Little Finger",
+    "gujarati": "ટચલી આંગળી"
+  },
+  {
+    "english": "Fingernail",
+    "gujarati": "હાથનું નખ"
   },
   {
     "english": "Leg",
     "gujarati": "પગ"
   },
   {
+    "english": "Thigh",
+    "gujarati": "જાંઘ"
+  },
+  {
+    "english": "Knee",
+    "gujarati": "ઘૂંટણ"
+  },
+  {
+    "english": "Calf",
+    "gujarati": "પિંડી"
+  },
+  {
+    "english": "Ankle",
+    "gujarati": "ગોઢું"
+  },
+  {
+    "english": "Heel",
+    "gujarati": "એડી"
+  },
+  {
+    "english": "Foot",
+    "gujarati": "પગનું તળિયું"
+  },
+  {
+    "english": "Toe",
+    "gujarati": "પગની આંગળી"
+  },
+  {
+    "english": "Toenail",
+    "gujarati": "પગનું નખ"
+  },
+  {
+    "english": "Sole",
+    "gujarati": "પગનું તળિયું"
+  },
+  {
+    "english": "Toe Tip",
+    "gujarati": "પગની આંગળીનો ટેરવો"
+  },
+  {
+    "english": "Brain",
+    "gujarati": "મગજ"
+  },
+  {
     "english": "Heart",
     "gujarati": "હૃદય"
+  },
+  {
+    "english": "Lungs",
+    "gujarati": "ફેફસાં"
+  },
+  {
+    "english": "Liver",
+    "gujarati": "યકૃત"
+  },
+  {
+    "english": "Kidney",
+    "gujarati": "મૂત્રપિંડ"
+  },
+  {
+    "english": "Stomach",
+    "gujarati": "જઠર"
+  },
+  {
+    "english": "Intestine",
+    "gujarati": "આંતરડું"
+  },
+  {
+    "english": "Small Intestine",
+    "gujarati": "નાનું આંતરડું"
+  },
+  {
+    "english": "Large Intestine",
+    "gujarati": "મોટું આંતરડું"
+  },
+  {
+    "english": "Esophagus",
+    "gujarati": "અન્નનળી"
+  },
+  {
+    "english": "Throat",
+    "gujarati": "ગળું"
+  },
+  {
+    "english": "Voice Box",
+    "gujarati": "સ્વરપેટી"
+  },
+  {
+    "english": "Windpipe",
+    "gujarati": "શ્વાસનળી"
+  },
+  {
+    "english": "Blood",
+    "gujarati": "લોહી"
+  },
+  {
+    "english": "Blood Vessel",
+    "gujarati": "રક્તવાહિની"
+  },
+  {
+    "english": "Vein",
+    "gujarati": "શિરા"
+  },
+  {
+    "english": "Artery",
+    "gujarati": "ધમની"
+  },
+  {
+    "english": "Bone",
+    "gujarati": "હાડકું"
+  },
+  {
+    "english": "Joint",
+    "gujarati": "સાંધો"
+  },
+  {
+    "english": "Muscle",
+    "gujarati": "સ્નાયુ"
+  },
+  {
+    "english": "Skin",
+    "gujarati": "ત્વચા"
+  },
+  {
+    "english": "Nerve",
+    "gujarati": "ચેતા"
+  },
+  {
+    "english": "Spine",
+    "gujarati": "કરોડરજ્જુ"
+  },
+  {
+    "english": "Rib",
+    "gujarati": "પાંસળી"
+  },
+  {
+    "english": "Skull",
+    "gujarati": "ખોપરી"
+  },
+  {
+    "english": "Body Part",
+    "gujarati": "શરીરનો ભાગ"
+  },
+  {
+    "english": "Skeleton",
+    "gujarati": "હાડપિંજર"
+  },
+  {
+    "english": "Pulse",
+    "gujarati": "નાડી"
+  },
+  {
+    "english": "Heartbeat",
+    "gujarati": "હૃદયના ધબકારા"
+  },
+  {
+    "english": "Breath",
+    "gujarati": "શ્વાસ"
+  },
+  {
+    "english": "Breathing",
+    "gujarati": "શ્વાસ લેવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Sweat",
+    "gujarati": "પરસેવો"
+  },
+  {
+    "english": "Tear",
+    "gujarati": "આંસુ"
+  },
+  {
+    "english": "Saliva",
+    "gujarati": "લાળ"
+  },
+  {
+    "english": "Nostril",
+    "gujarati": "નસકોરું"
+  },
+  {
+    "english": "Beard",
+    "gujarati": "દાઢી"
+  },
+  {
+    "english": "Mustache",
+    "gujarati": "મૂછ"
+  },
+  {
+    "english": "Mole",
+    "gujarati": "તલ"
+  },
+  {
+    "english": "Freckle",
+    "gujarati": "ચામડીના નાનાં ડાઘ"
+  },
+  {
+    "english": "Wrinkle",
+    "gujarati": "કરચલી"
+  },
+  {
+    "english": "Navel",
+    "gujarati": "નાભિ"
+  },
+  {
+    "english": "Armpit",
+    "gujarati": "બગલ"
+  },
+  {
+    "english": "Fist",
+    "gujarati": "મૂઠી"
+  },
+  {
+    "english": "Knuckle",
+    "gujarati": "આંગળીનો સાંધો"
+  },
+  {
+    "english": "Heel Bone",
+    "gujarati": "એડીનું હાડકું"
+  },
+  {
+    "english": "Body Temperature",
+    "gujarati": "શરીરનું તાપમાન"
+  },
+  {
+    "english": "Height",
+    "gujarati": "ઊંચાઈ"
+  },
+  {
+    "english": "Weight",
+    "gujarati": "વજન"
+  },
+  {
+    "english": "Posture",
+    "gujarati": "શરીરની મુદ્રા"
+  },
+  {
+    "english": "Fingerprint",
+    "gujarati": "આંગળીની છાપ"
   }
 ]
