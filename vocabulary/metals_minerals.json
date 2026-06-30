@@ -1,5 +1,13 @@
 [
   {
+    "english": "Metal",
+    "gujarati": "ધાતુ"
+  },
+  {
+    "english": "Mineral",
+    "gujarati": "ખનિજ"
+  },
+  {
     "english": "Gold",
     "gujarati": "સોનું"
   },
@@ -12,11 +20,383 @@
     "gujarati": "લોખંડ"
   },
   {
+    "english": "Steel",
+    "gujarati": "સ્ટીલ"
+  },
+  {
     "english": "Copper",
-    "gujarati": "તાંબુ"
+    "gujarati": "તાંબું"
+  },
+  {
+    "english": "Brass",
+    "gujarati": "પિત્તળ"
+  },
+  {
+    "english": "Bronze",
+    "gujarati": "કાંસું"
+  },
+  {
+    "english": "Aluminium",
+    "gujarati": "એલ્યુમિનિયમ"
+  },
+  {
+    "english": "Zinc",
+    "gujarati": "જસત"
+  },
+  {
+    "english": "Lead",
+    "gujarati": "સીસું"
+  },
+  {
+    "english": "Tin",
+    "gujarati": "કલાઈ"
+  },
+  {
+    "english": "Nickel",
+    "gujarati": "નિકેલ"
+  },
+  {
+    "english": "Chromium",
+    "gujarati": "ક્રોમિયમ"
+  },
+  {
+    "english": "Mercury",
+    "gujarati": "પારો"
+  },
+  {
+    "english": "Platinum",
+    "gujarati": "પ્લેટિનમ"
+  },
+  {
+    "english": "Titanium",
+    "gujarati": "ટાઇટેનિયમ"
+  },
+  {
+    "english": "Magnesium",
+    "gujarati": "મેગ્નેશિયમ"
+  },
+  {
+    "english": "Calcium",
+    "gujarati": "કેલ્શિયમ"
+  },
+  {
+    "english": "Coal",
+    "gujarati": "કોલસો"
   },
   {
     "english": "Diamond",
     "gujarati": "હીરો"
+  },
+  {
+    "english": "Graphite",
+    "gujarati": "ગ્રેફાઇટ"
+  },
+  {
+    "english": "Quartz",
+    "gujarati": "ક્વાર્ટ્ઝ"
+  },
+  {
+    "english": "Limestone",
+    "gujarati": "ચૂનાનો પથ્થર"
+  },
+  {
+    "english": "Granite",
+    "gujarati": "ગ્રેનાઇટ"
+  },
+  {
+    "english": "Marble",
+    "gujarati": "આરસપહાણ"
+  },
+  {
+    "english": "Sandstone",
+    "gujarati": "રેતીનો પથ્થર"
+  },
+  {
+    "english": "Slate",
+    "gujarati": "સ્લેટ પથ્થર"
+  },
+  {
+    "english": "Mica",
+    "gujarati": "અભ્રક"
+  },
+  {
+    "english": "Gypsum",
+    "gujarati": "જીપ્સમ"
+  },
+  {
+    "english": "Bauxite",
+    "gujarati": "બોક્સાઇટ"
+  },
+  {
+    "english": "Iron Ore",
+    "gujarati": "લોખંડની ધાતુ"
+  },
+  {
+    "english": "Copper Ore",
+    "gujarati": "તાંબાની ધાતુ"
+  },
+  {
+    "english": "Gold Ore",
+    "gujarati": "સોનાની ધાતુ"
+  },
+  {
+    "english": "Silver Ore",
+    "gujarati": "ચાંદીની ધાતુ"
+  },
+  {
+    "english": "Mineral Water",
+    "gujarati": "ખનિજ જળ"
+  },
+  {
+    "english": "Ore",
+    "gujarati": "ધાતુખનિજ"
+  },
+  {
+    "english": "Mine",
+    "gujarati": "ખાણ"
+  },
+  {
+    "english": "Mining",
+    "gujarati": "ખનન"
+  },
+  {
+    "english": "Miner",
+    "gujarati": "ખાણકામ કરનાર"
+  },
+  {
+    "english": "Excavation",
+    "gujarati": "ખોદકામ"
+  },
+  {
+    "english": "Drilling",
+    "gujarati": "ડ્રિલિંગ"
+  },
+  {
+    "english": "Refining",
+    "gujarati": "શુદ્ધીકરણ"
+  },
+  {
+    "english": "Smelting",
+    "gujarati": "ધાતુ ગાળવાની પ્રક્રિયા"
+  },
+  {
+    "english": "Alloy",
+    "gujarati": "મિશ્રધાતુ"
+  },
+  {
+    "english": "Rust",
+    "gujarati": "કાટ"
+  },
+  {
+    "english": "Corrosion",
+    "gujarati": "ધાતુનો કાટ"
+  },
+  {
+    "english": "Molten Metal",
+    "gujarati": "પીગળેલી ધાતુ"
+  },
+  {
+    "english": "Ingot",
+    "gujarati": "ધાતુનો ઢાળો"
+  },
+  {
+    "english": "Precious Metal",
+    "gujarati": "કિંમતી ધાતુ"
+  },
+  {
+    "english": "Base Metal",
+    "gujarati": "સામાન્ય ધાતુ"
+  },
+  {
+    "english": "Ferrous Metal",
+    "gujarati": "લોખંડયુક્ત ધાતુ"
+  },
+  {
+    "english": "Non-Ferrous Metal",
+    "gujarati": "લોખંડ વગરની ધાતુ"
+  },
+  {
+    "english": "Hardness",
+    "gujarati": "કઠિનતા"
+  },
+  {
+    "english": "Strength",
+    "gujarati": "મજબૂતાઈ"
+  },
+  {
+    "english": "Durability",
+    "gujarati": "ટકાઉપણું"
+  },
+  {
+    "english": "Conductivity",
+    "gujarati": "વાહકતા"
+  },
+  {
+    "english": "Magnet",
+    "gujarati": "ચુંબક"
+  },
+  {
+    "english": "Magnetic",
+    "gujarati": "ચુંબકીય"
+  },
+  {
+    "english": "Non-Magnetic",
+    "gujarati": "અચુંબકીય"
+  },
+  {
+    "english": "Crystal",
+    "gujarati": "સ્ફટિક"
+  },
+  {
+    "english": "Gemstone",
+    "gujarati": "રત્ન"
+  },
+  {
+    "english": "Emerald",
+    "gujarati": "પન્ના"
+  },
+  {
+    "english": "Ruby",
+    "gujarati": "માણેક"
+  },
+  {
+    "english": "Sapphire",
+    "gujarati": "નીલમ"
+  },
+  {
+    "english": "Topaz",
+    "gujarati": "પોખરાજ"
+  },
+  {
+    "english": "Opal",
+    "gujarati": "ઓપલ"
+  },
+  {
+    "english": "Turquoise",
+    "gujarati": "ફિરોઝા"
+  },
+  {
+    "english": "Amethyst",
+    "gujarati": "જાંબુડિયો રત્ન"
+  },
+  {
+    "english": "Jade",
+    "gujarati": "જેડ"
+  },
+  {
+    "english": "Agate",
+    "gujarati": "અકીક"
+  },
+  {
+    "english": "Pearl",
+    "gujarati": "મોતી"
+  },
+  {
+    "english": "Coral",
+    "gujarati": "પ્રવાલ"
+  },
+  {
+    "english": "Jeweler",
+    "gujarati": "ઝવેરી"
+  },
+  {
+    "english": "Mining Industry",
+    "gujarati": "ખનન ઉદ્યોગ"
+  },
+  {
+    "english": "Mineral Deposit",
+    "gujarati": "ખનિજ ભંડાર"
+  },
+  {
+    "english": "Open Pit Mine",
+    "gujarati": "ખુલ્લી ખાણ"
+  },
+  {
+    "english": "Underground Mine",
+    "gujarati": "ભૂગર્ભ ખાણ"
+  },
+  {
+    "english": "Blast",
+    "gujarati": "વિસ્ફોટ"
+  },
+  {
+    "english": "Drill Machine",
+    "gujarati": "ડ્રિલ મશીન"
+  },
+  {
+    "english": "Crusher",
+    "gujarati": "પથ્થર તોડવાનું મશીન"
+  },
+  {
+    "english": "Refinery",
+    "gujarati": "શુદ્ધીકરણ કારખાનું"
+  },
+  {
+    "english": "Metal Sheet",
+    "gujarati": "ધાતુની ચાદર"
+  },
+  {
+    "english": "Metal Pipe",
+    "gujarati": "ધાતુની પાઇપ"
+  },
+  {
+    "english": "Metal Wire",
+    "gujarati": "ધાતુનો તાર"
+  },
+  {
+    "english": "Metal Rod",
+    "gujarati": "ધાતુનો સળિયો"
+  },
+  {
+    "english": "Steel Bar",
+    "gujarati": "સ્ટીલનો સળિયો"
+  },
+  {
+    "english": "Iron Rod",
+    "gujarati": "લોખંડનો સળિયો"
+  },
+  {
+    "english": "Scrap Metal",
+    "gujarati": "ભંગાર ધાતુ"
+  },
+  {
+    "english": "Recycling",
+    "gujarati": "પુનઃચક્રિયકરણ"
+  },
+  {
+    "english": "Melting",
+    "gujarati": "પીગળાવવું"
+  },
+  {
+    "english": "Casting",
+    "gujarati": "ઢાળકામ"
+  },
+  {
+    "english": "Polishing",
+    "gujarati": "ઘસાઈ"
+  },
+  {
+    "english": "Diamond Cutting",
+    "gujarati": "હીરા કટિંગ"
+  },
+  {
+    "english": "Diamond Polishing",
+    "gujarati": "હીરા ઘસાઈ"
+  },
+  {
+    "english": "Jewellery",
+    "gujarati": "દાગીના"
+  },
+  {
+    "english": "Ornament",
+    "gujarati": "આભૂષણ"
+  },
+  {
+    "english": "Bullion",
+    "gujarati": "સોના-ચાંદીના લગડા"
+  },
+  {
+    "english": "Precious Stone",
+    "gujarati": "કિંમતી પથ્થર"
   }
 ]
