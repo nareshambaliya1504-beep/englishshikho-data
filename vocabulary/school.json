@@ -1,7 +1,59 @@
 [
   {
+    "english": "School",
+    "gujarati": "શાળા"
+  },
+  {
+    "english": "Class",
+    "gujarati": "વર્ગ"
+  },
+  {
+    "english": "Classroom",
+    "gujarati": "વર્ગખંડ"
+  },
+  {
+    "english": "Student",
+    "gujarati": "વિદ્યાર્થી"
+  },
+  {
+    "english": "Teacher",
+    "gujarati": "શિક્ષક"
+  },
+  {
+    "english": "Principal",
+    "gujarati": "આચાર્ય"
+  },
+  {
+    "english": "Headmaster",
+    "gujarati": "મુખ્ય શિક્ષક"
+  },
+  {
+    "english": "Headmistress",
+    "gujarati": "મુખ્ય શિક્ષિકા"
+  },
+  {
+    "english": "School Bag",
+    "gujarati": "શાળાની બેગ"
+  },
+  {
     "english": "Book",
     "gujarati": "પુસ્તક"
+  },
+  {
+    "english": "Notebook",
+    "gujarati": "નોંધપોથી"
+  },
+  {
+    "english": "Textbook",
+    "gujarati": "પાઠ્યપુસ્તક"
+  },
+  {
+    "english": "Workbook",
+    "gujarati": "અભ્યાસપોથી"
+  },
+  {
+    "english": "Dictionary",
+    "gujarati": "શબ્દકોશ"
   },
   {
     "english": "Pen",
@@ -12,11 +64,339 @@
     "gujarati": "પેન્સિલ"
   },
   {
-    "english": "Teacher",
-    "gujarati": "શિક્ષક"
+    "english": "Eraser",
+    "gujarati": "રબર"
   },
   {
-    "english": "Student",
-    "gujarati": "વિદ્યાર્થી"
+    "english": "Sharpener",
+    "gujarati": "પેન્સિલ કટર"
+  },
+  {
+    "english": "Ruler",
+    "gujarati": "ફૂટપટ્ટી"
+  },
+  {
+    "english": "Compass",
+    "gujarati": "કંપાસ"
+  },
+  {
+    "english": "Geometry Box",
+    "gujarati": "જ્યોમેટ્રી બોક્સ"
+  },
+  {
+    "english": "School Uniform",
+    "gujarati": "શાળાનો ગણવેશ"
+  },
+  {
+    "english": "School Shoes",
+    "gujarati": "શાળાના જૂતાં"
+  },
+  {
+    "english": "Identity Card",
+    "gujarati": "ઓળખપત્ર"
+  },
+  {
+    "english": "Attendance",
+    "gujarati": "હાજરી"
+  },
+  {
+    "english": "Blackboard",
+    "gujarati": "કાળું પાટિયું"
+  },
+  {
+    "english": "Whiteboard",
+    "gujarati": "સફેદ પાટિયું"
+  },
+  {
+    "english": "Marker",
+    "gujarati": "માર્કર"
+  },
+  {
+    "english": "Chalk",
+    "gujarati": "ચોક"
+  },
+  {
+    "english": "Duster",
+    "gujarati": "ડસ્ટર"
+  },
+  {
+    "english": "Desk",
+    "gujarati": "ડેસ્ક"
+  },
+  {
+    "english": "Bench",
+    "gujarati": "બેંચ"
+  },
+  {
+    "english": "Chair",
+    "gujarati": "ખુરશી"
+  },
+  {
+    "english": "Table",
+    "gujarati": "ટેબલ"
+  },
+  {
+    "english": "Notice Board",
+    "gujarati": "સૂચના પાટિયું"
+  },
+  {
+    "english": "School Bell",
+    "gujarati": "શાળાની ઘંટ"
+  },
+  {
+    "english": "Library",
+    "gujarati": "પુસ્તકાલય"
+  },
+  {
+    "english": "Laboratory",
+    "gujarati": "પ્રયોગશાળા"
+  },
+  {
+    "english": "Computer Lab",
+    "gujarati": "કમ્પ્યુટર લેબ"
+  },
+  {
+    "english": "Science Lab",
+    "gujarati": "વિજ્ઞાન પ્રયોગશાળા"
+  },
+  {
+    "english": "Playground",
+    "gujarati": "રમતનું મેદાન"
+  },
+  {
+    "english": "Assembly",
+    "gujarati": "પ્રાર્થના સભા"
+  },
+  {
+    "english": "Prayer",
+    "gujarati": "પ્રાર્થના"
+  },
+  {
+    "english": "Homework",
+    "gujarati": "ગૃહકાર્ય"
+  },
+  {
+    "english": "Assignment",
+    "gujarati": "સોંપણી"
+  },
+  {
+    "english": "Project",
+    "gujarati": "પ્રોજેક્ટ"
+  },
+  {
+    "english": "Exam",
+    "gujarati": "પરીક્ષા"
+  },
+  {
+    "english": "Test",
+    "gujarati": "કસોટી"
+  },
+  {
+    "english": "Result",
+    "gujarati": "પરિણામ"
+  },
+  {
+    "english": "Report Card",
+    "gujarati": "પ્રગતિપત્રક"
+  },
+  {
+    "english": "Subject",
+    "gujarati": "વિષય"
+  },
+  {
+    "english": "Mathematics",
+    "gujarati": "ગણિત"
+  },
+  {
+    "english": "Science",
+    "gujarati": "વિજ્ઞાન"
+  },
+  {
+    "english": "Social Science",
+    "gujarati": "સામાજિક વિજ્ઞાન"
+  },
+  {
+    "english": "English",
+    "gujarati": "અંગ્રેજી"
+  },
+  {
+    "english": "Gujarati",
+    "gujarati": "ગુજરાતી"
+  },
+  {
+    "english": "Hindi",
+    "gujarati": "હિન્દી"
+  },
+  {
+    "english": "Computer",
+    "gujarati": "કમ્પ્યુટર"
+  },
+  {
+    "english": "Physical Education",
+    "gujarati": "શારીરિક શિક્ષણ"
+  },
+  {
+    "english": "Art",
+    "gujarati": "ચિત્રકલા"
+  },
+  {
+    "english": "Music",
+    "gujarati": "સંગીત"
+  },
+  {
+    "english": "Reading",
+    "gujarati": "વાંચન"
+  },
+  {
+    "english": "Writing",
+    "gujarati": "લેખન"
+  },
+  {
+    "english": "Speaking",
+    "gujarati": "બોલવું"
+  },
+  {
+    "english": "Listening",
+    "gujarati": "સાંભળવું"
+  },
+  {
+    "english": "Learning",
+    "gujarati": "શીખવું"
+  },
+  {
+    "english": "Teaching",
+    "gujarati": "શીખવવું"
+  },
+  {
+    "english": "Question",
+    "gujarati": "પ્રશ્ન"
+  },
+  {
+    "english": "Answer",
+    "gujarati": "જવાબ"
+  },
+  {
+    "english": "Chapter",
+    "gujarati": "પ્રકરણ"
+  },
+  {
+    "english": "Lesson",
+    "gujarati": "પાઠ"
+  },
+  {
+    "english": "Paragraph",
+    "gujarati": "ફકરો"
+  },
+  {
+    "english": "Sentence",
+    "gujarati": "વાક્ય"
+  },
+  {
+    "english": "Word",
+    "gujarati": "શબ્દ"
+  },
+  {
+    "english": "Alphabet",
+    "gujarati": "વર્ણમાળા"
+  },
+  {
+    "english": "Mark",
+    "gujarati": "ગુણ"
+  },
+  {
+    "english": "Grade",
+    "gujarati": "ગ્રેડ"
+  },
+  {
+    "english": "Percentage",
+    "gujarati": "ટકાવારી"
+  },
+  {
+    "english": "Pass",
+    "gujarati": "પાસ"
+  },
+  {
+    "english": "Fail",
+    "gujarati": "નાપાસ"
+  },
+  {
+    "english": "Scholarship",
+    "gujarati": "શિષ્યવૃત્તિ"
+  },
+  {
+    "english": "Certificate",
+    "gujarati": "પ્રમાણપત્ર"
+  },
+  {
+    "english": "Prize",
+    "gujarati": "ઇનામ"
+  },
+  {
+    "english": "Medal",
+    "gujarati": "ચંદ્રક"
+  },
+  {
+    "english": "Trophy",
+    "gujarati": "ટ્રોફી"
+  },
+  {
+    "english": "Competition",
+    "gujarati": "સ્પર્ધા"
+  },
+  {
+    "english": "Quiz",
+    "gujarati": "પ્રશ્નોત્તરી"
+  },
+  {
+    "english": "Debate",
+    "gujarati": "વાદ-વિવાદ"
+  },
+  {
+    "english": "Speech",
+    "gujarati": "ભાષણ"
+  },
+  {
+    "english": "Seminar",
+    "gujarati": "પરિસંવાદ"
+  },
+  {
+    "english": "Workshop",
+    "gujarati": "કાર્યશાળા"
+  },
+  {
+    "english": "School Trip",
+    "gujarati": "શાળાનો પ્રવાસ"
+  },
+  {
+    "english": "Annual Day",
+    "gujarati": "વાર્ષિકોત્સવ"
+  },
+  {
+    "english": "Sports Day",
+    "gujarati": "રમતોત્સવ"
+  },
+  {
+    "english": "Parents Meeting",
+    "gujarati": "વાલી મંડળ બેઠક"
+  },
+  {
+    "english": "Timetable",
+    "gujarati": "સમયપત્રક"
+  },
+  {
+    "english": "School Bus",
+    "gujarati": "શાળાની બસ"
+  },
+  {
+    "english": "Holiday",
+    "gujarati": "રજા"
+  },
+  {
+    "english": "Vacation",
+    "gujarati": "વેકેશન"
+  },
+  {
+    "english": "Education",
+    "gujarati": "શિક્ષણ"
   }
 ]
