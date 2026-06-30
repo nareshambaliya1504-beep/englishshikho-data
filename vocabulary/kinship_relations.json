@@ -1,11 +1,31 @@
 [
   {
+    "english": "Family",
+    "gujarati": "પરિવાર"
+  },
+  {
+    "english": "Relative",
+    "gujarati": "સંબંધી"
+  },
+  {
+    "english": "Parents",
+    "gujarati": "માતા-પિતા"
+  },
+  {
     "english": "Father",
     "gujarati": "પિતા"
   },
   {
     "english": "Mother",
     "gujarati": "માતા"
+  },
+  {
+    "english": "Son",
+    "gujarati": "પુત્ર"
+  },
+  {
+    "english": "Daughter",
+    "gujarati": "પુત્રી"
   },
   {
     "english": "Brother",
@@ -16,7 +36,367 @@
     "gujarati": "બહેન"
   },
   {
+    "english": "Elder Brother",
+    "gujarati": "મોટો ભાઈ"
+  },
+  {
+    "english": "Younger Brother",
+    "gujarati": "નાનો ભાઈ"
+  },
+  {
+    "english": "Elder Sister",
+    "gujarati": "મોટી બહેન"
+  },
+  {
+    "english": "Younger Sister",
+    "gujarati": "નાની બહેન"
+  },
+  {
+    "english": "Husband",
+    "gujarati": "પતિ"
+  },
+  {
+    "english": "Wife",
+    "gujarati": "પત્ની"
+  },
+  {
+    "english": "Child",
+    "gujarati": "બાળક"
+  },
+  {
+    "english": "Children",
+    "gujarati": "બાળકો"
+  },
+  {
+    "english": "Grandfather",
+    "gujarati": "દાદા"
+  },
+  {
+    "english": "Grandmother",
+    "gujarati": "દાદી"
+  },
+  {
+    "english": "Grandson",
+    "gujarati": "પૌત્ર"
+  },
+  {
+    "english": "Granddaughter",
+    "gujarati": "પૌત્રી"
+  },
+  {
+    "english": "Grandparents",
+    "gujarati": "દાદા-દાદી"
+  },
+  {
+    "english": "Ancestor",
+    "gujarati": "પૂર્વજ"
+  },
+  {
+    "english": "Descendant",
+    "gujarati": "વંશજ"
+  },
+  {
+    "english": "Generation",
+    "gujarati": "પેઢી"
+  },
+  {
     "english": "Uncle",
     "gujarati": "કાકા"
+  },
+  {
+    "english": "Aunt",
+    "gujarati": "કાકી"
+  },
+  {
+    "english": "Paternal Uncle",
+    "gujarati": "કાકા"
+  },
+  {
+    "english": "Paternal Aunt",
+    "gujarati": "ફોઈ"
+  },
+  {
+    "english": "Maternal Uncle",
+    "gujarati": "મામા"
+  },
+  {
+    "english": "Maternal Aunt",
+    "gujarati": "માસી"
+  },
+  {
+    "english": "Uncle's Wife",
+    "gujarati": "કાકી"
+  },
+  {
+    "english": "Maternal Uncle's Wife",
+    "gujarati": "મામી"
+  },
+  {
+    "english": "Maternal Aunt's Husband",
+    "gujarati": "માસા"
+  },
+  {
+    "english": "Paternal Aunt's Husband",
+    "gujarati": "ફુઆ"
+  },
+  {
+    "english": "Cousin",
+    "gujarati": "પિતરાઈ ભાઈ અથવા બહેન"
+  },
+  {
+    "english": "Male Cousin",
+    "gujarati": "પિતરાઈ ભાઈ"
+  },
+  {
+    "english": "Female Cousin",
+    "gujarati": "પિતરાઈ બહેન"
+  },
+  {
+    "english": "Nephew",
+    "gujarati": "ભત્રીજો"
+  },
+  {
+    "english": "Niece",
+    "gujarati": "ભત્રીજી"
+  },
+  {
+    "english": "Twin Brother",
+    "gujarati": "જોડિયા ભાઈ"
+  },
+  {
+    "english": "Twin Sister",
+    "gujarati": "જોડિયા બહેન"
+  },
+  {
+    "english": "Brother-in-law",
+    "gujarati": "બનેવી"
+  },
+  {
+    "english": "Sister-in-law",
+    "gujarati": "ભાભી"
+  },
+  {
+    "english": "Father-in-law",
+    "gujarati": "સસરા"
+  },
+  {
+    "english": "Mother-in-law",
+    "gujarati": "સાસુ"
+  },
+  {
+    "english": "Son-in-law",
+    "gujarati": "જમાઈ"
+  },
+  {
+    "english": "Daughter-in-law",
+    "gujarati": "વહુ"
+  },
+  {
+    "english": "Fiancé",
+    "gujarati": "મંગેતર"
+  },
+  {
+    "english": "Fiancée",
+    "gujarati": "મંગેતર"
+  },
+  {
+    "english": "Elder Brother-in-law",
+    "gujarati": "જેઠ"
+  },
+  {
+    "english": "Elder Brother-in-law's Wife",
+    "gujarati": "જેઠાણી"
+  },
+  {
+    "english": "Younger Brother-in-law",
+    "gujarati": "દિયર"
+  },
+  {
+    "english": "Younger Brother-in-law's Wife",
+    "gujarati": "દેરાણી"
+  },
+  {
+    "english": "Elder Sister-in-law",
+    "gujarati": "નણંદ"
+  },
+  {
+    "english": "Sister-in-law's Husband",
+    "gujarati": "નણદોઈ"
+  },
+  {
+    "english": "Wife's Brother",
+    "gujarati": "સાળો"
+  },
+  {
+    "english": "Wife's Brother's Wife",
+    "gujarati": "સાળી"
+  },
+  {
+    "english": "Husband's Sister",
+    "gujarati": "નણંદ"
+  },
+  {
+    "english": "Husband's Sister's Husband",
+    "gujarati": "નણદોઈ"
+  },
+  {
+    "english": "Stepfather",
+    "gujarati": "સાવકા પિતા"
+  },
+  {
+    "english": "Stepmother",
+    "gujarati": "સાવકી માતા"
+  },
+  {
+    "english": "Stepson",
+    "gujarati": "સાવકો પુત્ર"
+  },
+  {
+    "english": "Stepdaughter",
+    "gujarati": "સાવકી પુત્રી"
+  },
+  {
+    "english": "Stepbrother",
+    "gujarati": "સાવકો ભાઈ"
+  },
+  {
+    "english": "Stepsister",
+    "gujarati": "સાવકી બહેન"
+  },
+  {
+    "english": "Godfather",
+    "gujarati": "ધર્મપિતા"
+  },
+  {
+    "english": "Godmother",
+    "gujarati": "ધર્મમાતા"
+  },
+  {
+    "english": "Guardian",
+    "gujarati": "વાલી"
+  },
+  {
+    "english": "Foster Father",
+    "gujarati": "પાલક પિતા"
+  },
+  {
+    "english": "Foster Mother",
+    "gujarati": "પાલક માતા"
+  },
+  {
+    "english": "Adopted Son",
+    "gujarati": "દત્તક પુત્ર"
+  },
+  {
+    "english": "Adopted Daughter",
+    "gujarati": "દત્તક પુત્રી"
+  },
+  {
+    "english": "Orphan",
+    "gujarati": "અનાથ"
+  },
+  {
+    "english": "Widow",
+    "gujarati": "વિધવા"
+  },
+  {
+    "english": "Widower",
+    "gujarati": "વિધુર"
+  },
+  {
+    "english": "Bride",
+    "gujarati": "વધૂ"
+  },
+  {
+    "english": "Groom",
+    "gujarati": "વર"
+  },
+  {
+    "english": "Marriage",
+    "gujarati": "લગ્ન"
+  },
+  {
+    "english": "Wedding",
+    "gujarati": "લગ્ન સમારોહ"
+  },
+  {
+    "english": "Couple",
+    "gujarati": "દંપતી"
+  },
+  {
+    "english": "Family Tree",
+    "gujarati": "વંશવૃક્ષ"
+  },
+  {
+    "english": "Blood Relation",
+    "gujarati": "રક્ત સંબંધ"
+  },
+  {
+    "english": "Close Relative",
+    "gujarati": "નજીકનો સંબંધી"
+  },
+  {
+    "english": "Distant Relative",
+    "gujarati": "દૂરનો સંબંધી"
+  },
+  {
+    "english": "Household",
+    "gujarati": "ઘરનું કુટુંબ"
+  },
+  {
+    "english": "Head of Family",
+    "gujarati": "પરિવારના વડા"
+  },
+  {
+    "english": "Family Member",
+    "gujarati": "પરિવારનો સભ્ય"
+  },
+  {
+    "english": "Only Child",
+    "gujarati": "એકમાત્ર સંતાન"
+  },
+  {
+    "english": "Firstborn",
+    "gujarati": "પ્રથમ સંતાન"
+  },
+  {
+    "english": "Youngest Child",
+    "gujarati": "સૌથી નાનું સંતાન"
+  },
+  {
+    "english": "Eldest Child",
+    "gujarati": "સૌથી મોટું સંતાન"
+  },
+  {
+    "english": "Sibling",
+    "gujarati": "ભાઈ કે બહેન"
+  },
+  {
+    "english": "Relative by Marriage",
+    "gujarati": "લગ્ન દ્વારા થયેલો સંબંધી"
+  },
+  {
+    "english": "Next of Kin",
+    "gujarati": "નજીકનો કાનૂની સંબંધી"
+  },
+  {
+    "english": "Lineage",
+    "gujarati": "વંશપરંપરા"
+  },
+  {
+    "english": "Clan",
+    "gujarati": "કુળ"
+  },
+  {
+    "english": "Surname",
+    "gujarati": "અટક"
+  },
+  {
+    "english": "Family Name",
+    "gujarati": "કુટુંબનું નામ"
+  },
+  {
+    "english": "Relationship",
+    "gujarati": "સંબંધ"
   }
 ]
