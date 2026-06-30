@@ -1,22 +1,402 @@
 [
   {
-    "english": "Agreement",
-    "gujarati": "કરાર"
-  },
-  {
     "english": "Law",
     "gujarati": "કાયદો"
   },
   {
-    "english": "Judge",
-    "gujarati": "ન્યાયાધીશ"
+    "english": "Legal",
+    "gujarati": "કાનૂની"
   },
   {
     "english": "Court",
     "gujarati": "અદાલત"
   },
   {
+    "english": "Judge",
+    "gujarati": "ન્યાયાધીશ"
+  },
+  {
+    "english": "Lawyer",
+    "gujarati": "વકીલ"
+  },
+  {
+    "english": "Advocate",
+    "gujarati": "અધિવક્તા"
+  },
+  {
+    "english": "Police",
+    "gujarati": "પોલીસ"
+  },
+  {
+    "english": "Police Station",
+    "gujarati": "પોલીસ સ્ટેશન"
+  },
+  {
+    "english": "Complaint",
+    "gujarati": "ફરિયાદ"
+  },
+  {
+    "english": "Case",
+    "gujarati": "કેસ"
+  },
+  {
+    "english": "Evidence",
+    "gujarati": "પુરાવો"
+  },
+  {
+    "english": "Witness",
+    "gujarati": "સાક્ષી"
+  },
+  {
+    "english": "Crime",
+    "gujarati": "ગુનો"
+  },
+  {
+    "english": "Criminal",
+    "gujarati": "ગુનેગાર"
+  },
+  {
+    "english": "Victim",
+    "gujarati": "પીડિત"
+  },
+  {
+    "english": "Arrest",
+    "gujarati": "ધરપકડ"
+  },
+  {
+    "english": "Jail",
+    "gujarati": "જેલ"
+  },
+  {
+    "english": "Prison",
+    "gujarati": "કારાગૃહ"
+  },
+  {
+    "english": "Punishment",
+    "gujarati": "સજા"
+  },
+  {
+    "english": "Fine",
+    "gujarati": "દંડ"
+  },
+  {
+    "english": "Bail",
+    "gujarati": "જામીન"
+  },
+  {
+    "english": "Justice",
+    "gujarati": "ન્યાય"
+  },
+  {
+    "english": "Judgment",
+    "gujarati": "ચુકાદો"
+  },
+  {
+    "english": "Verdict",
+    "gujarati": "ચુકાદો"
+  },
+  {
+    "english": "Constitution",
+    "gujarati": "બંધારણ"
+  },
+  {
+    "english": "Act",
+    "gujarati": "અધિનિયમ"
+  },
+  {
+    "english": "Rule",
+    "gujarati": "નિયમ"
+  },
+  {
+    "english": "Regulation",
+    "gujarati": "વિનિયમ"
+  },
+  {
+    "english": "Right",
+    "gujarati": "અધિકાર"
+  },
+  {
+    "english": "Duty",
+    "gujarati": "ફરજ"
+  },
+  {
+    "english": "Responsibility",
+    "gujarati": "જવાબદારી"
+  },
+  {
+    "english": "Permission",
+    "gujarati": "પરવાનગી"
+  },
+  {
     "english": "License",
-    "gujarati": "લાયસન્સ"
+    "gujarati": "લાઇસન્સ"
+  },
+  {
+    "english": "Certificate",
+    "gujarati": "પ્રમાણપત્ર"
+  },
+  {
+    "english": "Document",
+    "gujarati": "દસ્તાવેજ"
+  },
+  {
+    "english": "Signature",
+    "gujarati": "સહી"
+  },
+  {
+    "english": "Stamp",
+    "gujarati": "મહોર"
+  },
+  {
+    "english": "Agreement",
+    "gujarati": "કરાર"
+  },
+  {
+    "english": "Contract",
+    "gujarati": "કરારનામું"
+  },
+  {
+    "english": "Property",
+    "gujarati": "મિલકત"
+  },
+  {
+    "english": "Ownership",
+    "gujarati": "માલિકી"
+  },
+  {
+    "english": "Inheritance",
+    "gujarati": "વારસો"
+  },
+  {
+    "english": "Will",
+    "gujarati": "વસિયતનામું"
+  },
+  {
+    "english": "Registration",
+    "gujarati": "નોંધણી"
+  },
+  {
+    "english": "Identity Proof",
+    "gujarati": "ઓળખનો પુરાવો"
+  },
+  {
+    "english": "Address Proof",
+    "gujarati": "સરનામાનો પુરાવો"
+  },
+  {
+    "english": "Passport",
+    "gujarati": "પાસપોર્ટ"
+  },
+  {
+    "english": "Visa",
+    "gujarati": "વીઝા"
+  },
+  {
+    "english": "Citizenship",
+    "gujarati": "નાગરિકતા"
+  },
+  {
+    "english": "Nationality",
+    "gujarati": "રાષ્ટ્રીયતા"
+  },
+  {
+    "english": "Trademark",
+    "gujarati": "ટ્રેડમાર્ક"
+  },
+  {
+    "english": "Patent",
+    "gujarati": "પેટન્ટ"
+  },
+  {
+    "english": "Copyright",
+    "gujarati": "કૉપિરાઇટ"
+  },
+  {
+    "english": "Intellectual Property",
+    "gujarati": "બૌદ્ધિક સંપત્તિ"
+  },
+  {
+    "english": "Tender",
+    "gujarati": "ટેન્ડર"
+  },
+  {
+    "english": "Auction",
+    "gujarati": "હરાજી"
+  },
+  {
+    "english": "Bid",
+    "gujarati": "બોલી"
+  },
+  {
+    "english": "Broker",
+    "gujarati": "દલાલ"
+  },
+  {
+    "english": "Agent",
+    "gujarati": "એજન્ટ"
+  },
+  {
+    "english": "Commission",
+    "gujarati": "કમિશન"
+  },
+  {
+    "english": "Import",
+    "gujarati": "આયાત"
+  },
+  {
+    "english": "Export",
+    "gujarati": "નિકાસ"
+  },
+  {
+    "english": "Customs Duty",
+    "gujarati": "કસ્ટમ ડ્યુટી"
+  },
+  {
+    "english": "Invoice",
+    "gujarati": "ચલણ"
+  },
+  {
+    "english": "Receipt",
+    "gujarati": "રસીદ"
+  },
+  {
+    "english": "Tax",
+    "gujarati": "કર"
+  },
+  {
+    "english": "GST",
+    "gujarati": "જીએસટી"
+  },
+  {
+    "english": "Income Tax",
+    "gujarati": "આવકવેરો"
+  },
+  {
+    "english": "Sales Tax",
+    "gujarati": "વેચાણવેરો"
+  },
+  {
+    "english": "Penalty",
+    "gujarati": "દંડ"
+  },
+  {
+    "english": "Fraud",
+    "gujarati": "છેતરપિંડી"
+  },
+  {
+    "english": "Forgery",
+    "gujarati": "બનાવટી દસ્તાવેજ બનાવવાનો ગુનો"
+  },
+  {
+    "english": "Corruption",
+    "gujarati": "ભ્રષ્ટાચાર"
+  },
+  {
+    "english": "Bribery",
+    "gujarati": "લાંચ"
+  },
+  {
+    "english": "Money Laundering",
+    "gujarati": "ગેરકાયદેસર નાણાં ધોળાં કરવાની પ્રવૃત્તિ"
+  },
+  {
+    "english": "Public Notice",
+    "gujarati": "જાહેર સૂચના"
+  },
+  {
+    "english": "Legal Notice",
+    "gujarati": "કાનૂની નોટિસ"
+  },
+  {
+    "english": "Summons",
+    "gujarati": "સમન્સ"
+  },
+  {
+    "english": "Warrant",
+    "gujarati": "વોરંટ"
+  },
+  {
+    "english": "Appeal",
+    "gujarati": "અપીલ"
+  },
+  {
+    "english": "Petition",
+    "gujarati": "અરજી"
+  },
+  {
+    "english": "Affidavit",
+    "gujarati": "સોગંદનામું"
+  },
+  {
+    "english": "Evidence Act",
+    "gujarati": "પુરાવા અધિનિયમ"
+  },
+  {
+    "english": "Legal Advisor",
+    "gujarati": "કાનૂની સલાહકાર"
+  },
+  {
+    "english": "Public Prosecutor",
+    "gujarati": "સરકારી વકીલ"
+  },
+  {
+    "english": "Defendant",
+    "gujarati": "પ્રતિવાદી"
+  },
+  {
+    "english": "Plaintiff",
+    "gujarati": "વાદી"
+  },
+  {
+    "english": "Accused",
+    "gujarati": "આરોપી"
+  },
+  {
+    "english": "Suspect",
+    "gujarati": "શંકાસ્પદ વ્યક્તિ"
+  },
+  {
+    "english": "Investigation",
+    "gujarati": "તપાસ"
+  },
+  {
+    "english": "Inquiry",
+    "gujarati": "પૂછપરછ"
+  },
+  {
+    "english": "Search Warrant",
+    "gujarati": "તલાશી વોરંટ"
+  },
+  {
+    "english": "Search",
+    "gujarati": "તલાશી"
+  },
+  {
+    "english": "Seizure",
+    "gujarati": "જપ્તી"
+  },
+  {
+    "english": "Custody",
+    "gujarati": "કસ્ટડી"
+  },
+  {
+    "english": "Acquittal",
+    "gujarati": "નિર્દોષ મુક્તિ"
+  },
+  {
+    "english": "Conviction",
+    "gujarati": "દોષિત ઠરાવ"
+  },
+  {
+    "english": "Legal Rights",
+    "gujarati": "કાનૂની અધિકારો"
+  },
+  {
+    "english": "Human Rights",
+    "gujarati": "માનવ અધિકાર"
+  },
+  {
+    "english": "Justice System",
+    "gujarati": "ન્યાય વ્યવસ્થા"
   }
 ]
