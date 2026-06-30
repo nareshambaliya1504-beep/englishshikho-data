@@ -1,5 +1,25 @@
 [
   {
+    "english": "Day",
+    "gujarati": "દિવસ"
+  },
+  {
+    "english": "Week",
+    "gujarati": "અઠવાડિયું"
+  },
+  {
+    "english": "Weekday",
+    "gujarati": "કાર્યદિવસ"
+  },
+  {
+    "english": "Weekend",
+    "gujarati": "સપ્તાહનો અંત"
+  },
+  {
+    "english": "Sunday",
+    "gujarati": "રવિવાર"
+  },
+  {
     "english": "Monday",
     "gujarati": "સોમવાર"
   },
@@ -18,5 +38,365 @@
   {
     "english": "Friday",
     "gujarati": "શુક્રવાર"
+  },
+  {
+    "english": "Saturday",
+    "gujarati": "શનિવાર"
+  },
+  {
+    "english": "Working Day",
+    "gujarati": "કાર્યદિવસ"
+  },
+  {
+    "english": "Holiday",
+    "gujarati": "રજા"
+  },
+  {
+    "english": "Public Holiday",
+    "gujarati": "જાહેર રજા"
+  },
+  {
+    "english": "School Day",
+    "gujarati": "શાળાનો દિવસ"
+  },
+  {
+    "english": "Office Day",
+    "gujarati": "ઓફિસનો દિવસ"
+  },
+  {
+    "english": "Business Day",
+    "gujarati": "કારોબારી દિવસ"
+  },
+  {
+    "english": "Daily",
+    "gujarati": "દરરોજ"
+  },
+  {
+    "english": "Weekly",
+    "gujarati": "સાપ્તાહિક"
+  },
+  {
+    "english": "Every Day",
+    "gujarati": "દરરોજ"
+  },
+  {
+    "english": "Next Week",
+    "gujarati": "આવતા અઠવાડિયે"
+  },
+  {
+    "english": "Last Week",
+    "gujarati": "ગયા અઠવાડિયે"
+  },
+  {
+    "english": "This Week",
+    "gujarati": "આ અઠવાડિયે"
+  },
+  {
+    "english": "First Day",
+    "gujarati": "પ્રથમ દિવસ"
+  },
+  {
+    "english": "Last Day",
+    "gujarati": "છેલ્લો દિવસ"
+  },
+  {
+    "english": "Morning",
+    "gujarati": "સવાર"
+  },
+  {
+    "english": "Afternoon",
+    "gujarati": "બપોર પછીનો સમય"
+  },
+  {
+    "english": "Evening",
+    "gujarati": "સાંજ"
+  },
+  {
+    "english": "Night",
+    "gujarati": "રાત"
+  },
+  {
+    "english": "Work",
+    "gujarati": "કામ"
+  },
+  {
+    "english": "Office",
+    "gujarati": "કાર્યાલય"
+  },
+  {
+    "english": "School",
+    "gujarati": "શાળા"
+  },
+  {
+    "english": "College",
+    "gujarati": "કોલેજ"
+  },
+  {
+    "english": "Class",
+    "gujarati": "વર્ગ"
+  },
+  {
+    "english": "Lecture",
+    "gujarati": "વ્યાખ્યાન"
+  },
+  {
+    "english": "Attendance",
+    "gujarati": "હાજરી"
+  },
+  {
+    "english": "Meeting",
+    "gujarati": "સભા"
+  },
+  {
+    "english": "Schedule",
+    "gujarati": "સમયપત્રક"
+  },
+  {
+    "english": "Routine",
+    "gujarati": "દિનચર્યા"
+  },
+  {
+    "english": "Timetable",
+    "gujarati": "સમયપત્રક"
+  },
+  {
+    "english": "Appointment",
+    "gujarati": "મુલાકાતનો સમય"
+  },
+  {
+    "english": "Vacation",
+    "gujarati": "રજાઓ"
+  },
+  {
+    "english": "Leave",
+    "gujarati": "રજા"
+  },
+  {
+    "english": "Festival",
+    "gujarati": "તહેવાર"
+  },
+  {
+    "english": "Celebration",
+    "gujarati": "ઉજવણી"
+  },
+  {
+    "english": "Rest",
+    "gujarati": "આરામ"
+  },
+  {
+    "english": "Exercise",
+    "gujarati": "વ્યાયામ"
+  },
+  {
+    "english": "Homework",
+    "gujarati": "ગૃહકાર્ય"
+  },
+  {
+    "english": "Assignment",
+    "gujarati": "સોંપણી"
+  },
+  {
+    "english": "Examination",
+    "gujarati": "પરીક્ષા"
+  },
+  {
+    "english": "Weekend Trip",
+    "gujarati": "સપ્તાહાંતની મુસાફરી"
+  },
+  {
+    "english": "Week Off",
+    "gujarati": "સાપ્તાહિક રજા"
+  },
+  {
+    "english": "Half Day",
+    "gujarati": "અડધો દિવસ"
+  },
+  {
+    "english": "Full Day",
+    "gujarati": "આખો દિવસ"
+  },
+  {
+    "english": "Holiday Notice",
+    "gujarati": "રજાની સૂચના"
+  },
+  {
+    "english": "Working Hours",
+    "gujarati": "કામના કલાકો"
+  },
+  {
+    "english": "Office Hours",
+    "gujarati": "ઓફિસનો સમય"
+  },
+  {
+    "english": "School Hours",
+    "gujarati": "શાળાનો સમય"
+  },
+  {
+    "english": "Morning Shift",
+    "gujarati": "સવારની પાળી"
+  },
+  {
+    "english": "Evening Shift",
+    "gujarati": "સાંજની પાળી"
+  },
+  {
+    "english": "Night Shift",
+    "gujarati": "રાત્રિ પાળી"
+  },
+  {
+    "english": "Weekly Meeting",
+    "gujarati": "સાપ્તાહિક બેઠક"
+  },
+  {
+    "english": "Weekly Report",
+    "gujarati": "સાપ્તાહિક અહેવાલ"
+  },
+  {
+    "english": "Weekly Test",
+    "gujarati": "સાપ્તાહિક પરીક્ષા"
+  },
+  {
+    "english": "Weekly Holiday",
+    "gujarati": "સાપ્તાહિક રજા"
+  },
+  {
+    "english": "Payday",
+    "gujarati": "પગારનો દિવસ"
+  },
+  {
+    "english": "Market Day",
+    "gujarati": "બજારનો દિવસ"
+  },
+  {
+    "english": "Sports Day",
+    "gujarati": "રમતગમત દિવસ"
+  },
+  {
+    "english": "Annual Day",
+    "gujarati": "વાર્ષિકોત્સવ"
+  },
+  {
+    "english": "Birthday Party",
+    "gujarati": "જન્મદિવસની ઉજવણી"
+  },
+  {
+    "english": "Family Day",
+    "gujarati": "પરિવાર દિવસ"
+  },
+  {
+    "english": "Special Day",
+    "gujarati": "વિશેષ દિવસ"
+  },
+  {
+    "english": "Busy Day",
+    "gujarati": "વ્યસ્ત દિવસ"
+  },
+  {
+    "english": "Free Day",
+    "gujarati": "ફુરસદનો દિવસ"
+  },
+  {
+    "english": "Memorable Day",
+    "gujarati": "યાદગાર દિવસ"
+  },
+  {
+    "english": "Weekend Holiday",
+    "gujarati": "સપ્તાહાંતની રજા"
+  },
+  {
+    "english": "Weekend Plan",
+    "gujarati": "સપ્તાહાંતની યોજના"
+  },
+  {
+    "english": "Week Start",
+    "gujarati": "અઠવાડિયાની શરૂઆત"
+  },
+  {
+    "english": "Week End",
+    "gujarati": "અઠવાડિયાનો અંત"
+  },
+  {
+    "english": "Monthly Holiday",
+    "gujarati": "માસિક રજા"
+  },
+  {
+    "english": "Monthly Meeting",
+    "gujarati": "માસિક બેઠક"
+  },
+  {
+    "english": "Monthly Report",
+    "gujarati": "માસિક અહેવાલ"
+  },
+  {
+    "english": "Monthly Salary",
+    "gujarati": "માસિક પગાર"
+  },
+  {
+    "english": "Yearly Holiday",
+    "gujarati": "વાર્ષિક રજા"
+  },
+  {
+    "english": "Yearly Event",
+    "gujarati": "વાર્ષિક કાર્યક્રમ"
+  },
+  {
+    "english": "Yearly Function",
+    "gujarati": "વાર્ષિક સમારંભ"
+  },
+  {
+    "english": "Working Week",
+    "gujarati": "કાર્યકારી અઠવાડિયું"
+  },
+  {
+    "english": "School Week",
+    "gujarati": "શાળાનું અઠવાડિયું"
+  },
+  {
+    "english": "Office Week",
+    "gujarati": "ઓફિસનું અઠવાડિયું"
+  },
+  {
+    "english": "Busy Week",
+    "gujarati": "વ્યસ્ત અઠવાડિયું"
+  },
+  {
+    "english": "Free Weekend",
+    "gujarati": "ફુરસદનો સપ્તાહાંત"
+  },
+  {
+    "english": "Long Weekend",
+    "gujarati": "લાંબો સપ્તાહાંત"
+  },
+  {
+    "english": "Next Monday",
+    "gujarati": "આવતો સોમવાર"
+  },
+  {
+    "english": "Next Friday",
+    "gujarati": "આવતો શુક્રવાર"
+  },
+  {
+    "english": "This Sunday",
+    "gujarati": "આ રવિવાર"
+  },
+  {
+    "english": "Last Saturday",
+    "gujarati": "ગયો શનિવાર"
+  },
+  {
+    "english": "Daily Routine",
+    "gujarati": "દૈનિક દિનચર્યા"
+  },
+  {
+    "english": "Weekly Routine",
+    "gujarati": "સાપ્તાહિક દિનચર્યા"
+  },
+  {
+    "english": "Week Planner",
+    "gujarati": "સાપ્તાહિક આયોજન"
+  },
+  {
+    "english": "Weekly Schedule",
+    "gujarati": "સાપ્તાહિક સમયપત્રક"
   }
 ]
