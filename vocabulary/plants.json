@@ -1,22 +1,402 @@
 [
   {
-    "english": "Rose Plant",
-    "gujarati": "ગુલાબનો છોડ"
+    "english": "Plant",
+    "gujarati": "છોડ"
+  },
+  {
+    "english": "Herb",
+    "gujarati": "ઔષધીય છોડ"
+  },
+  {
+    "english": "Shrub",
+    "gujarati": "ઝાડી"
+  },
+  {
+    "english": "Bush",
+    "gujarati": "ઝાડવું"
+  },
+  {
+    "english": "Creeper",
+    "gujarati": "વેલ"
+  },
+  {
+    "english": "Climber",
+    "gujarati": "ચઢનાર વેલ"
+  },
+  {
+    "english": "Grass",
+    "gujarati": "ઘાસ"
+  },
+  {
+    "english": "Moss",
+    "gujarati": "શેવાળ"
+  },
+  {
+    "english": "Fern",
+    "gujarati": "ફર્ન છોડ"
+  },
+  {
+    "english": "Cactus",
+    "gujarati": "થોર"
+  },
+  {
+    "english": "Bamboo",
+    "gujarati": "વાંસ"
   },
   {
     "english": "Tulsi",
     "gujarati": "તુલસી"
   },
   {
-    "english": "Mint",
-    "gujarati": "ફુદીનો"
-  },
-  {
     "english": "Aloe Vera",
     "gujarati": "કુંવારપાઠું"
   },
   {
-    "english": "Grass",
-    "gujarati": "ઘાસ"
+    "english": "Mint",
+    "gujarati": "ફુદીનો"
+  },
+  {
+    "english": "Coriander",
+    "gujarati": "ધાણા"
+  },
+  {
+    "english": "Curry Leaves",
+    "gujarati": "મીઠો લીમડો"
+  },
+  {
+    "english": "Spinach",
+    "gujarati": "પાલક"
+  },
+  {
+    "english": "Fenugreek",
+    "gujarati": "મેથી"
+  },
+  {
+    "english": "Mustard Plant",
+    "gujarati": "રાઈનો છોડ"
+  },
+  {
+    "english": "Cotton Plant",
+    "gujarati": "કપાસનો છોડ"
+  },
+  {
+    "english": "Sugarcane",
+    "gujarati": "શેરડી"
+  },
+  {
+    "english": "Tea Plant",
+    "gujarati": "ચાનો છોડ"
+  },
+  {
+    "english": "Coffee Plant",
+    "gujarati": "કોફીનો છોડ"
+  },
+  {
+    "english": "Banana Plant",
+    "gujarati": "કેળનો છોડ"
+  },
+  {
+    "english": "Lotus Plant",
+    "gujarati": "કમળનો છોડ"
+  },
+  {
+    "english": "Rice Plant",
+    "gujarati": "ડાંગરનો છોડ"
+  },
+  {
+    "english": "Wheat Plant",
+    "gujarati": "ઘઉંનો છોડ"
+  },
+  {
+    "english": "Maize Plant",
+    "gujarati": "મકાઈનો છોડ"
+  },
+  {
+    "english": "Barley Plant",
+    "gujarati": "જવનો છોડ"
+  },
+  {
+    "english": "Millet Plant",
+    "gujarati": "બાજરીનો છોડ"
+  },
+  {
+    "english": "Sorghum Plant",
+    "gujarati": "જુવારનો છોડ"
+  },
+  {
+    "english": "Groundnut Plant",
+    "gujarati": "મગફળીનો છોડ"
+  },
+  {
+    "english": "Sunflower Plant",
+    "gujarati": "સૂર્યમુખીનો છોડ"
+  },
+  {
+    "english": "Rose Plant",
+    "gujarati": "ગુલાબનો છોડ"
+  },
+  {
+    "english": "Jasmine Plant",
+    "gujarati": "ચમેલીનો છોડ"
+  },
+  {
+    "english": "Hibiscus Plant",
+    "gujarati": "જાસૂદનો છોડ"
+  },
+  {
+    "english": "Marigold Plant",
+    "gujarati": "ગાલગોટાનો છોડ"
+  },
+  {
+    "english": "Lily Plant",
+    "gujarati": "લીલીનો છોડ"
+  },
+  {
+    "english": "Orchid Plant",
+    "gujarati": "ઓર્કિડનો છોડ"
+  },
+  {
+    "english": "Lavender Plant",
+    "gujarati": "લેવેન્ડરનો છોડ"
+  },
+  {
+    "english": "Jute Plant",
+    "gujarati": "શણનો છોડ"
+  },
+  {
+    "english": "Rubber Plant",
+    "gujarati": "રબરનો છોડ"
+  },
+  {
+    "english": "Pepper Plant",
+    "gujarati": "મરીનો છોડ"
+  },
+  {
+    "english": "Chili Plant",
+    "gujarati": "મરચાંનો છોડ"
+  },
+  {
+    "english": "Tomato Plant",
+    "gujarati": "ટામેટાનો છોડ"
+  },
+  {
+    "english": "Brinjal Plant",
+    "gujarati": "રીંગણનો છોડ"
+  },
+  {
+    "english": "Potato Plant",
+    "gujarati": "બટાકાનો છોડ"
+  },
+  {
+    "english": "Onion Plant",
+    "gujarati": "ડુંગળીનો છોડ"
+  },
+  {
+    "english": "Garlic Plant",
+    "gujarati": "લસણનો છોડ"
+  },
+  {
+    "english": "Ginger Plant",
+    "gujarati": "આદુનો છોડ"
+  },
+  {
+    "english": "Turmeric Plant",
+    "gujarati": "હળદરનો છોડ"
+  },
+  {
+    "english": "Cardamom Plant",
+    "gujarati": "ઈલાયચીનો છોડ"
+  },
+  {
+    "english": "Clove Plant",
+    "gujarati": "લવિંગનો છોડ"
+  },
+  {
+    "english": "Cinnamon Plant",
+    "gujarati": "તજનો છોડ"
+  },
+  {
+    "english": "Saffron Plant",
+    "gujarati": "કેસરનો છોડ"
+  },
+  {
+    "english": "Plant Pot",
+    "gujarati": "કૂંડો"
+  },
+  {
+    "english": "Soil",
+    "gujarati": "માટી"
+  },
+  {
+    "english": "Compost",
+    "gujarati": "ખાતર"
+  },
+  {
+    "english": "Manure",
+    "gujarati": "છાણિયું ખાતર"
+  },
+  {
+    "english": "Fertilizer",
+    "gujarati": "રાસાયણિક ખાતર"
+  },
+  {
+    "english": "Seedling",
+    "gujarati": "નાનો રોપો"
+  },
+  {
+    "english": "Sprout",
+    "gujarati": "અંકુર"
+  },
+  {
+    "english": "Bud",
+    "gujarati": "કળી"
+  },
+  {
+    "english": "Stem",
+    "gujarati": "દાંડી"
+  },
+  {
+    "english": "Leaf",
+    "gujarati": "પાંદડું"
+  },
+  {
+    "english": "Root",
+    "gujarati": "મૂળ"
+  },
+  {
+    "english": "Root Hair",
+    "gujarati": "મૂળના સૂક્ષ્મ રેસા"
+  },
+  {
+    "english": "Flower",
+    "gujarati": "ફૂલ"
+  },
+  {
+    "english": "Fruit",
+    "gujarati": "ફળ"
+  },
+  {
+    "english": "Seed",
+    "gujarati": "બીજ"
+  },
+  {
+    "english": "Pollen",
+    "gujarati": "પરાગરજ"
+  },
+  {
+    "english": "Nectar",
+    "gujarati": "મધરસ"
+  },
+  {
+    "english": "Photosynthesis",
+    "gujarati": "પ્રકાશસંશ્લેષણ"
+  },
+  {
+    "english": "Chlorophyll",
+    "gujarati": "હરિતદ્રવ્ય"
+  },
+  {
+    "english": "Plant Cell",
+    "gujarati": "વનસ્પતિ કોષ"
+  },
+  {
+    "english": "Medicinal Plant",
+    "gujarati": "ઔષધીય છોડ"
+  },
+  {
+    "english": "Aquatic Plant",
+    "gujarati": "જળચર છોડ"
+  },
+  {
+    "english": "Indoor Plant",
+    "gujarati": "ઘરની અંદર ઉગાડાતો છોડ"
+  },
+  {
+    "english": "Outdoor Plant",
+    "gujarati": "બહાર ઉગાડાતો છોડ"
+  },
+  {
+    "english": "Ornamental Plant",
+    "gujarati": "સુશોભનનો છોડ"
+  },
+  {
+    "english": "Wild Plant",
+    "gujarati": "જંગલી છોડ"
+  },
+  {
+    "english": "Evergreen Plant",
+    "gujarati": "સદાબહાર છોડ"
+  },
+  {
+    "english": "Climbing Plant",
+    "gujarati": "ચઢનાર છોડ"
+  },
+  {
+    "english": "Flowering Plant",
+    "gujarati": "ફૂલવાળો છોડ"
+  },
+  {
+    "english": "Non-Flowering Plant",
+    "gujarati": "ફૂલ વગરનો છોડ"
+  },
+  {
+    "english": "Medicinal Herb",
+    "gujarati": "ઔષધીય જડીબુટ્ટી"
+  },
+  {
+    "english": "Weed",
+    "gujarati": "નીંદણ"
+  },
+  {
+    "english": "Vine",
+    "gujarati": "વેલ"
+  },
+  {
+    "english": "Plant Nursery",
+    "gujarati": "રોપાવાડી"
+  },
+  {
+    "english": "Gardening",
+    "gujarati": "બાગકામ"
+  },
+  {
+    "english": "Gardener",
+    "gujarati": "માળી"
+  },
+  {
+    "english": "Watering Can",
+    "gujarati": "પાણી આપવાનું ઝારણ"
+  },
+  {
+    "english": "Pruning",
+    "gujarati": "છોડની કાપણી"
+  },
+  {
+    "english": "Harvest",
+    "gujarati": "લણણી"
+  },
+  {
+    "english": "Cultivation",
+    "gujarati": "ખેતી"
+  },
+  {
+    "english": "Plant Disease",
+    "gujarati": "છોડનો રોગ"
+  },
+  {
+    "english": "Pesticide",
+    "gujarati": "જંતુનાશક દવા"
+  },
+  {
+    "english": "Organic Farming",
+    "gujarati": "જૈવિક ખેતી"
+  },
+  {
+    "english": "Greenhouse",
+    "gujarati": "ગ્રીનહાઉસ"
+  },
+  {
+    "english": "Botanical Garden",
+    "gujarati": "વનસ્પતિ ઉદ્યાન"
   }
 ]
